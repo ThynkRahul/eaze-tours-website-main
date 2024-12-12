@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://www.eazetours.com
-
-# Sitemaps
-Sitemap: https://www.eazetours.com/sitemap.xml
