@@ -1,5 +1,5 @@
 module.exports = {
-    siteUrl: process.env.SITE_URL || 'https://www.eazetours.com',
+    siteUrl: process.env.SITE_URL || '#',
     generateRobotsTxt: true, // (optional)
     // ...other options
   }
