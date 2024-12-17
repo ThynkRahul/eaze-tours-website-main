@@ -149,7 +149,7 @@ function Landing(props: ILandingProps) {
             <div className="info-container flex justify-center gap-8 my-[70px] max-w-screen-xl mx-auto flex-wrap">
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_1.png" alt="Info Icon 1" width={77} height={77} />
-                    <h2 className="info-heading text-lg font-urbanist font-light text-black text-center mt-4 mb-2">Book Festive Season Tours Now!</h2>
+                    <h2 className="info-heading text-lg font-urbanist font-normal text-black text-center mt-4 mb-2">Book Festive Season Tours Now!</h2>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
                         Find amazing deals for your travel plans on luxury holiday packages in India, select your holiday package now!
                     </p>
@@ -157,7 +157,7 @@ function Landing(props: ILandingProps) {
 
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_2.png" alt="Info Icon 2" width={77} height={77} />
-                    <h2 className="info-heading text-lg font-urbanist font-light text-black text-center mt-4 mb-2">Adventure, Your Way</h2>
+                    <h2 className="info-heading text-lg font-urbanist font-normal text-black text-center mt-4 mb-2">Adventure, Your Way</h2>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
                         We have a wide range of tour options to meet all your travel needs with our Himalayan Adventure tour package.
                     </p>
@@ -165,7 +165,7 @@ function Landing(props: ILandingProps) {
 
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_3.png" alt="Info Icon 3" width={77} height={77} />
-                    <h2 className="info-heading text-lg font-urbanist font-light text-black text-center mt-4 mb-2">Eaze Tours Spotlight</h2>
+                    <h2 className="info-heading text-lg font-urbanist font-normal text-black text-center mt-4 mb-2">Eaze Tours Spotlight</h2>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
                         Find out what's happening at Eaze Tours - from the special discounts to the latest india tours packages updates.
                     </p>
@@ -173,7 +173,7 @@ function Landing(props: ILandingProps) {
 
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_4.png" alt="Info Icon 4" width={77} height={77} />
-                    <h2 className="info-heading text-lg font-urbanist font-light text-black text-center mt-4 mb-2">Extremely Happy Travellers</h2>
+                    <h2 className="info-heading text-lg font-urbanist font-normal text-black text-center mt-4 mb-2">Extremely Happy Travellers</h2>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
                         Eaze Tours holds record of great customer satisfaction and all customers are retained with us. Happy Travelling!
                     </p>
