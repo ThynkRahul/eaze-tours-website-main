@@ -19,7 +19,6 @@ import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/next';
 import NavBar from '../components/Navbar';
 import Footer from '../components/Footer';
-import Landing from '../components/landing'; // Import the Landing component
 import logo from "../public/images/logo.png";
 
 const homePageJsonLd = {
@@ -53,39 +52,36 @@ const homePageJsonLd = {
 }
 
 export default function RootLayout({
-  children,
-}: {
-  children?: React.ReactNode; // Optional children
-}) {
-  return (
-    <html lang="en">
-      <Head>
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1, shrink-to-fit=no"
-        />
-        <meta name="description" content="Making your Indian journey easy." />
-        <meta name="keywords" content="travel, tours, India, journey, itinerary" />
-        <meta name="author" content="Eaze Tours" />
-        <meta name="google-site-verification" content="Onwjmct_4h7Zidg3dgn_ybMwxYsipyAREOHgDHawUKs" />
-        <title>Eaze Tours</title>
-      </Head>
-      <body>
-        <Script
-          id="organization-schema"
-          type="application/ld+json"
-          strategy="beforeInteractive"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(homePageJsonLd) }}
-        />
-        <NavBar />
-        <main>
-          {/* If children are not provided, render the Landing component */}
-          {children || <Landing />}
-        </main>
-        <Footer />
-        <Analytics />
-        <SpeedInsights />
-      </body>
-    </html>
-  );
-}
+    children,
+  }: {
+    children: React.ReactNode
+  }) {
+    return (
+      <html lang="en">
+        <Head>
+          <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+          />
+          <meta name="description" content="Making your Indian journey easy." />
+          <meta name="keywords" content="travel, tours, India, journey, itinerary" />
+          <meta name="author" content="Eaze Tours" />
+          <meta name="google-site-verification" content="Onwjmct_4h7Zidg3dgn_ybMwxYsipyAREOHgDHawUKs" />
+          <title>Eaze Tours</title>
+        </Head>
+        <body>
+          <Script
+              id="organization-schema"
+              type="application/ld+json"
+              strategy="beforeInteractive"
+              dangerouslySetInnerHTML={{ __html: JSON.stringify(homePageJsonLd) }}
+            />
+            <NavBar />
+            <main>{children}</main>
+            <Footer />
+            <Analytics/>
+            <SpeedInsights/>
+        </body>
+      </html>
+    )
+  }
