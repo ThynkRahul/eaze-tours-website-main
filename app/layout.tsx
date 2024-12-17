@@ -20,7 +20,6 @@ import { SpeedInsights } from '@vercel/speed-insights/next';
 import NavBar from '../components/Navbar';
 import Footer from '../components/Footer';
 import logo from "../public/images/logo.png";
-import Landing from '../components/Landing'; // Added Landing import
 
 const homePageJsonLd = {
   "@context": "https://schema.org",
@@ -78,15 +77,11 @@ export default function RootLayout({
               dangerouslySetInnerHTML={{ __html: JSON.stringify(homePageJsonLd) }}
             />
             <NavBar />
-            <main>
-              {children}
-              {/* Render Landing component here */}
-              <Landing />
-            </main>
+            <main>{children}</main>
             <Footer />
             <Analytics/>
             <SpeedInsights/>
         </body>
       </html>
     )
-}
+  }
