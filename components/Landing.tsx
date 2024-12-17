@@ -25,7 +25,7 @@ function Landing(props: ILandingProps) {
     const boxWidth = useRef<number>(0);
 
     const totalBoxes = 5; // Number of info boxes
-    const visibleBoxes = Math.floor(window.innerWidth / boxWidth.current);
+    const [visibleBoxes, setVisibleBoxes] = useState(1);
 
     const handleTabClick = (tab: string) => () => {
         setTabName(tab);
@@ -63,11 +63,26 @@ function Landing(props: ILandingProps) {
                     boxWidth.current = box.offsetWidth + 20; // Added margin width
                 }
             }
+            const currentWidth = window.innerWidth;
+            if (currentWidth <= 640) {
+                setVisibleBoxes(1);
+            } else if (currentWidth <= 1024) {
+                setVisibleBoxes(2);
+            } else {
+                setVisibleBoxes(3);
+            }
         };
 
-        window.addEventListener('resize', updateBoxWidth);
-        updateBoxWidth(); // Initial width calculation
-        return () => window.removeEventListener('resize', updateBoxWidth);
+        if (typeof window !== 'undefined') {
+            window.addEventListener('resize', updateBoxWidth);
+            updateBoxWidth(); // Initial width calculation
+        }
+
+        return () => {
+            if (typeof window !== 'undefined') {
+                window.removeEventListener('resize', updateBoxWidth);
+            }
+        };
     }, []);
 
     useEffect(() => {
@@ -112,7 +127,7 @@ function Landing(props: ILandingProps) {
                                     />
                                 </div>
                                 <div className="absolute inset-0 z-20 flex flex-col justify-center items-start text-left text-white max-w-screen-lg mx-auto px-6 pt-24 md:px-12">
-                                    <h1 className="text-5xl md:text-7xl font-urbanist font-semibold text-shadow mb-6" style={{ fontSize: '56px', lineHeight: '75px' }}>
+                                    <h1 className="text-[44px] sm:text-[56px] md:text-7xl font-urbanist font-semibold text-shadow mb-6 leading-[1.2em] sm:leading-[75px]">
                                         {slide.heading}
                                     </h1>
                                     <p className="text-lg md:text-xl font-urbanist mb-12 max-w-lg">{slide.para}</p>
@@ -282,14 +297,14 @@ function Landing(props: ILandingProps) {
 
 
             {/* Heading for the next section */}
-            <div className="my-12 max-w-screen-xl mx-auto">
+            <div className="my-12 max-w-screen-xl mx-8 sm:mx-auto">
                 <h2 className="text-2xl font-semibold text-black" style={{ fontSize: '32px' }}>
                     Popular Packages
                 </h2>
             </div>
 
             {/* Add your new boxes section at the end */}
-            <div className="flex justify-center items-center max-w-screen-xl mx-auto">
+            <div className="flex justify-center items-center max-w-screen-xl mx-8 sm:mx-auto">
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 w-full">
                     <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col">
                         <div className="w-full h-48 bg-cover bg-center rounded-t-[23px]" style={{ backgroundImage: 'url("/images/box1.png")' }}></div>
@@ -518,8 +533,8 @@ function Landing(props: ILandingProps) {
                 </button>
             </div>
             {/* Heading Before the Testimonial Slider */}
-            < div className="my-12 max-w-screen-xl mx-auto" >
-                <div className="flex justify-between items-center mb-8">
+            < div className="my-12 max-w-screen-xl mx-auto mx-8 sm:mx-auto" >
+                <div className="flex items-center mb-4 flex-wrap justify-center gap-4 sm:justify-between sm:gap-0">
                     <h2 className="text-2xl font-semibold text-black" style={{ fontSize: '32px' }}>
                         What Clients Say About Us
                     </h2>
@@ -537,22 +552,21 @@ function Landing(props: ILandingProps) {
 
                 {/* Testimonial Slider */}
                 <div className="testimonial-slider-container mb-12 relative">
-                    <div className="testimonial-slider relative overflow-hidden">
+                    <div className="testimonial-slider relative overflow-hidden mx-0 sm:mx-4">
                         <div className="testimonial-slider-wrapper flex transition-transform duration-300 ease-in-out" ref={testimonialSliderRef}>
                             {[{ id: 1, name: "Julie Victor", designation: "Chicago USA", content: "Manoj and his group created wonderful stress-free experiences for us while traveling in India. He was responsive kind and helpful throughout. I recommend Eaze Tours highly. Julie V traveling with my family from Chicago.", rating: 5, img: "/images/female.svg" },
                             { id: 2, name: "Manish", designation: "USA", content: "We would like to thank you for arranging the Trip so nicely. It was really a good experience. We would specially like to appreciate Manoj for his management throughout the trip.", rating: 4, img: "/images/male.svg" },
                             { id: 3, name: "Bernadette Cognac", designation: "USA", content: "I cannot say enough good things about Eaze Tours. Wonderful, knowledgeable guides, and reliable drivers. Plus they know all the best spots for shopping and lunch!", rating: 5, img: "/images/female.svg" },
                             { id: 4, name: "Liz and Jill Dean", designation: "USA", content: "Hello, this is Liz and Jill from Anchorage, Alaska. Honestly, neither of us could think of anything that had to do with the tour management that could be improved. It all seemed seamless and smooth. The hotels, transportation, and food were all perfect. Thank you for everything, Liz and Jill Dean", rating: 4, img: "/images/male.svg" },
                             { id: 5, name: "Mariane Ewbank Rodrigues Batista", designation: "USA", content: "Very professional service. They made our trip to India unforgettable.", rating: 5, img: "/images/female.svg" },
-                            { id: 6, name: "Laura Nitsos", designation: "USA", content: "Hi Manoj, It’s taken me a few days to get an email to you, but I wanted to let you know Tracy and I made it home (along with the rest of the group) Monday night. We were tired, but so happy to have had the opportunity to visit northern India. I also want to thank you for a wonderful, exciting, fascinating experience! We loved it all, and would love to go back to India someday. When we do that, we’ll contact you! Best wishes,", rating: 5, img: "/images/female.svg" },
+                            { id: 6, name: "Laura Nitsos", designation: "USA", content: "Hi Manoj, It’s taken me a few days to get an email to you, but I wanted to let you know Tracy and I made it home (along with the rest of the group) Monday night. We were tired, but so happy to have had the opportunity to visit northern India.", rating: 5, img: "/images/female.svg" },
                             { id: 7, name: "Fran A’Hern Smith", designation: "USA", content: "I am home and yawning. I want to thank you again for your excellent ability to plan and coordinate the superb agenda. And, for your listening and leadership skills. You are one amazing person. I hope we meet again in person but I will always have a spirit connection.", rating: 5, img: "/images/female.svg" },
                             { id: 8, name: "Erika & Karim", designation: "Mexico city", content: "Dear Manoj, Great to meet you and to be in contact with you. Thank you for your timely message and your willingness to accommodate to our schedule. Really appreciated! We would like to thank you for your efficiency to make our tour so comfortable. Looking forwards to meeting you again in near future.", rating: 5, img: "/images/female.svg" },
-                            { id: 9, name: "Sandy Sheehy", designation: "USA", content: "The Classic India trip that you arranged so well for the Albuquerque International Association exceeded everyone’s expectations, Manoj. Thank you so much for all the work you and your associates invested in our having an enriching intellectual and aesthetic experience and, especially, for your personal warmth and consideration. The party on our final night was delightful. The Ganesh you gave me now has an honored place on the mantle in my living room.", rating: 5, img: "/images/female.svg" }
+                            { id: 9, name: "Sandy Sheehy", designation: "USA", content: "The Classic India trip that you arranged so well for the Albuquerque International Association exceeded everyone’s expectations, Manoj. Thank you so much for all the work you and your associates invested in our having an enriching intellectual and aesthetic experience and, especially, for your personal warmth and consideration.", rating: 5, img: "/images/female.svg" }
                             ].map((testimonial, index) => (
                                 <div
                                     key={index}
-                                    className="testimonial-box relative ml-[2px] mr-[1.7%] flex-shrink-0 w-80 my-3 bg-white rounded-[30px] shadow-[0px_0px_21.9px_0px_#00000029] overflow-visible group p-10"
-                                    style={{ width: '32%' }}
+                                    className="testimonial-box relative flex-shrink-0 w-full sm:w-[32%] ml-[2px] mr-[1.7%] my-3 bg-white rounded-[30px] shadow-[0px_0px_21.9px_0px_#00000029] overflow-visible group p-10"
                                 >
                                     {/* Customer Image */}
                                     <div className="flex justify-start gap-3 items-center mb-4">
@@ -567,7 +581,7 @@ function Landing(props: ILandingProps) {
                                     </div>
 
                                     {/* Testimonial Content */}
-                                    <p className="text-[#777777] mb-4">{testimonial.content}</p>
+                                    <p className="text-[#777777] mb-4 text-justify">{testimonial.content}</p>
 
                                     {/* Rating with Stars */}
                                     <div className="flex justify-start items-center">
@@ -593,21 +607,21 @@ function Landing(props: ILandingProps) {
                 </button>
             </div >
             {/* New Section - Subscribe Section */}
-            < div className="max-w-screen-xl mx-auto h-[500px] rounded-[23px] flex items-center justify-start p-[80px]" style={{ backgroundImage: 'url("/images/suscribe_bg.png")', backgroundPosition: 'center', backgroundSize: 'cover' }
+            < div className="max-w-screen-xl mx-8 sm:mx-auto h-[500px] rounded-[23px] flex items-center justify-start p-[20px] sm:p-[80px]" style={{ backgroundImage: 'url("/images/suscribe_bg.png")', backgroundPosition: 'center', backgroundSize: 'cover' }
             }>
                 <div className="w-[600px] bg-black p-8 rounded-[23px] text-left">
-                    <h2 className="text-white text-[40px] mb-4 font-semibold">Subscribe & Get 20% off</h2>
+                    <h2 className="text-white text-[40px] mb-4 font-semibold leading-[1.2em]">Subscribe & Get 20% off</h2>
                     <p className="text-white mb-6">Subscribe to our newsletter and get the latest updates and exclusive offers.</p>
 
                     {/* Input Field and Subscribe Button */}
-                    <div className="flex items-center justify-start gap-4">
+                    <div className="flex flex-col items-center justify-start gap-4 sm:flex-row">
                         <input
                             type="email"
                             placeholder="Enter your email"
                             className="px-4 py-3 w-full max-w-[350px] rounded-2xl text-[#000] bg-white focus:outline-none"
                         />
                         <button
-                            className="px-6 py-3 bg-[#025C7A] text-white rounded-2xl hover:bg-[#023e56] transition duration-300"
+                            className="px-6 py-3 bg-[#025C7A] text-white rounded-2xl hover:bg-[#023e56] transition duration-300 w-full sm:w-auto"
                         >
                             Sign Up
                         </button>
@@ -616,14 +630,14 @@ function Landing(props: ILandingProps) {
             </div >
             {/* Gallery Section */}
             < div className="w-full py-16 bg-white" >
-                <div className="my-12 max-w-screen-xl mx-auto">
+                <div className="my-12 max-w-screen-xl mx-8 sm:mx-auto">
                     <div className="flex justify-between items-center mb-8">
                         <h2 className="text-2xl font-semibold text-black" style={{ fontSize: '32px' }}>
                             The Unforgettable Tour Gallery
                         </h2>
                     </div></div>
 
-                <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-screen-xl mx-auto">
+                <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-screen-xl mx-8 sm:mx-auto">
                     <div className="aspect-square bg-cover bg-center rounded-[23px]" style={{ backgroundImage: 'url(/images/glry_img1.png)' }}></div>
                     <div className="aspect-square bg-cover bg-center rounded-[23px]" style={{ backgroundImage: 'url(/images/glry_img2.png)' }}></div>
                     <div className="aspect-square bg-cover bg-center rounded-[23px]" style={{ backgroundImage: 'url(/images/glry_img3.png)' }}></div>
@@ -635,16 +649,16 @@ function Landing(props: ILandingProps) {
                 </div>
             </div >
             {/* "See All Destinations" Button */}
-            < div className="flex justify-center items-center mb-8 gap-4" >
-                <button className="px-8 h-[50px] border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+            < div className="flex justify-center items-center mb-8 gap-4 mx-8 sm:mx-auto" >
+                <button className="px-3 sm:px-8 h-[50px] border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
                     View All
                 </button>
-                <button className="px-6 h-[50px] border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                <button className="px-3 sm:px-6 h-[50px] border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
                     <i className="fab fa-instagram text-lg" /> Follow On Instagram
                 </button>
             </div >
             {/* Heading Before the Testimonial Slider */}
-            < div className="my-12 max-w-screen-xl mx-auto" >
+            < div className="my-12 max-w-screen-xl mx-8 sm:mx-auto" >
                 <h2 className="text-2xl font-semibold text-black mt-12" style={{ fontSize: '32px' }}>
                     Latest Blog & Articles
                 </h2>
@@ -655,6 +669,17 @@ function Landing(props: ILandingProps) {
                     slidesPerView={3} // Show all 3 boxes in a row
                     pagination={{ clickable: true }} // Enable pagination
                     modules={[Pagination]} // Include Pagination module
+                    breakpoints={{
+                        0: {
+                            slidesPerView: 1, // 1 slide per view on small screens
+                        },
+                        640: {
+                            slidesPerView: 2, // 2 slides per view on tablets
+                        },
+                        1024: {
+                            slidesPerView: 3, // 3 slides per view on desktops
+                        },
+                    }}
                     className="mt-8"
                 >
                     {[
