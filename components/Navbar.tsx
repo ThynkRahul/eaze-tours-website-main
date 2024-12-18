@@ -8,20 +8,23 @@ const NavBar: React.FC = () => {
     const [activePage, setActivePage] = useState("");
     const [isMenuOpen, setIsMenuOpen] = useState(false); // Mobile menu state
 
+    // Set active page based on the current pathname
     useEffect(() => {
         const currentPath = window.location.pathname;
         setActivePage(currentPath);
     }, []);
 
+    // Listen to scroll events to hide/show the navbar
     function listenScrollEvent() {
         const scrolled = document.scrollingElement ? document.scrollingElement.scrollTop : 0;
-        if (scrolled >= 1) {
+        if (scrolled >= 135) {
             setIsVisible(false);
         } else {
             setIsVisible(true);
         }
     }
 
+    // Attach the scroll event listener
     useEffect(() => {
         if (typeof window !== "undefined") {
             window.addEventListener("scroll", listenScrollEvent);
@@ -128,18 +131,13 @@ const NavBar: React.FC = () => {
                     {/* Contact Us Button (Desktop) */}
                     <div className="navbar-end md:flex px-4 flex items-center" style={{ display: "flex" }}>
                         <Link href="/contact" passHref>
-                            <button className="btn flex items-center justify-center" style={{
-                                width: '173px',
-                                height: '46px',
-                                borderRadius: '41px',
-                                backgroundColor: '#025C7A',
-                                padding: '0 6px 0 10px'
-                            }}>
+                            <button className="btn flex items-center justify-center w-[173px] h-[46px] rounded-[41px] bg-[#025C7A] pr-[6px] pl-[10px] hover:bg-[#6E9753]"
+                            >
                                 <span className="mr-2 text-white" style={{
                                     textTransform: "uppercase", fontSize: "16px", fontWeight: "700", lineHeight: "19.2px", textAlign: "left"
                                 }}>Contact Us</span>
                                 <span className="relative w-8 h-8 flex items-center justify-center rounded-full bg-white">
-                                    <i className="fas fa-arrow-right text-[#025C7A] text-lg" />
+                                    <i className="fas fa-arrow-right text-[#025C7A] text-lg " />
                                 </span>
                             </button>
                         </Link>
