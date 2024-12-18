@@ -96,7 +96,7 @@ function Landing(props: ILandingProps) {
 
     return (
         <>
-            <div style={{ marginTop: "135px" }}>
+            <div className="mt-[78px] sm:mt-[135px]">
                 <Swiper
                     spaceBetween={30}
                     effect={"fade"}
@@ -143,8 +143,8 @@ function Landing(props: ILandingProps) {
                 </Swiper>
 
                 {/* Custom arrows, placed outside Swiper */}
-                <div className="swiper-button-next" style={{ color: "white", position: "absolute", top: "450px", right: "30px", transform: "translateY(-50%)", zIndex: 10 }}></div>
-                <div className="swiper-button-prev" style={{ color: "white", position: "absolute", top: "450px", left: "30px", transform: "translateY(-50%)", zIndex: 10 }}></div>
+                <div className="swiper-button-next hidden sm:block" style={{ color: "white", position: "absolute", top: "450px", right: "30px", transform: "translateY(-50%)", zIndex: 10 }}></div>
+                <div className="swiper-button-prev hidden sm:block" style={{ color: "white", position: "absolute", top: "450px", left: "30px", transform: "translateY(-50%)", zIndex: 10 }}></div>
             </div>
 
             {/* Info Boxes Section with animation */}
