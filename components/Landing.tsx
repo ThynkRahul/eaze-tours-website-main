@@ -351,7 +351,7 @@ function Landing(props: ILandingProps) {
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
-                                <p className="text-[16px] text-[#4F5E71]">(17 Reviews)</p>
+                                <p className="text-[16px] text-[#4F5E71]">(10 Reviews)</p>
                             </div>
                             <div className="flex items-start space-x-2 pb-5 pt-1">
                                 <div className="bg-[#025C7A] text-white px-3 py-1 rounded-sm">
@@ -421,7 +421,7 @@ function Landing(props: ILandingProps) {
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
-                                <p className="text-[16px] text-[#4F5E71]">(15 Reviews)</p>
+                                <p className="text-[16px] text-[#4F5E71]">(10 Reviews)</p>
                             </div>
                             <div className="flex items-start space-x-2 pb-5 pt-1">
                                 <div className="bg-[#025C7A] text-white px-3 py-1 rounded-sm">
@@ -458,7 +458,7 @@ function Landing(props: ILandingProps) {
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
-                                <p className="text-[16px] text-[#4F5E71]">(18 Reviews)</p>
+                                <p className="text-[16px] text-[#4F5E71]">(10 Reviews)</p>
                             </div>
                             <div className="flex items-start space-x-2 pb-5 pt-1">
                                 <div className="bg-[#025C7A] text-white px-3 py-1 rounded-sm">
@@ -493,7 +493,7 @@ function Landing(props: ILandingProps) {
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
-                                <p className="text-[16px] text-[#4F5E71]">(20 Reviews)</p>
+                                <p className="text-[16px] text-[#4F5E71]">(10 Reviews)</p>
                             </div>
                             <div className="flex items-start space-x-2 pb-5 pt-1">
                                 <div className="bg-[#025C7A] text-white px-3 py-1 rounded-sm">
@@ -559,7 +559,7 @@ function Landing(props: ILandingProps) {
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
-                                <p className="text-[16px] text-[#4F5E71]">(13 Reviews)</p>
+                                <p className="text-[16px] text-[#4F5E71]">(10 Reviews)</p>
                             </div>
                             <div className="flex items-start space-x-2 pb-5 pt-1">
                                 <div className="bg-[#025C7A] text-white px-3 py-1 rounded-sm">
@@ -591,7 +591,7 @@ function Landing(props: ILandingProps) {
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
-                                <p className="text-[16px] text-[#4F5E71]">(15 Reviews)</p>
+                                <p className="text-[16px] text-[#4F5E71]">(10 Reviews)</p>
                             </div>
                             <div className="flex items-start space-x-2 pb-5 pt-1">
                                 <div className="bg-[#025C7A] text-white px-3 py-1 rounded-sm">
@@ -729,7 +729,7 @@ function Landing(props: ILandingProps) {
                 </div>
             </div >
             {/* "See All Destinations" Button */}
-            < div className="flex justify-center items-center mb-8 gap-4 mx-8 sm:mx-auto" >
+            < div className="flex justify-center items-center mb-[80px] gap-4 mx-8 sm:mx-auto" >
                 <button className="px-3 sm:px-8 h-[50px] border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
                     View All
                 </button>
