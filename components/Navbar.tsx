@@ -6,7 +6,8 @@ import logo from "../public/images/logo.png";
 const NavBar: React.FC = () => {
     const [isVisible, setIsVisible] = useState(true);
     const [activePage, setActivePage] = useState("");
-    const [isMenuOpen, setIsMenuOpen] = useState(false); // Mobile menu state
+    const [isMenuOpen, setIsMenuOpen] = useState(false);
+    const [lastScrollTop, setLastScrollTop] = useState(0);
 
     // Set active page based on the current pathname
     useEffect(() => {
@@ -14,32 +15,36 @@ const NavBar: React.FC = () => {
         setActivePage(currentPath);
     }, []);
 
-    // Listen to scroll events to hide/show the navbar
-    function listenScrollEvent() {
-        const scrolled = document.scrollingElement ? document.scrollingElement.scrollTop : 0;
-        if (scrolled >= 20) {
+    // Scroll listener to toggle navbar visibility
+    const handleScroll = () => {
+        const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+
+        if (scrollTop > lastScrollTop && scrollTop > 20) {
+            // Scrolling down
             setIsVisible(false);
         } else {
+            // Scrolling up
             setIsVisible(true);
         }
-    }
 
-    // Attach the scroll event listener
+        setLastScrollTop(scrollTop <= 0 ? 0 : scrollTop); // Prevent negative scroll values
+    };
+
     useEffect(() => {
         if (typeof window !== "undefined") {
-            window.addEventListener("scroll", listenScrollEvent);
+            window.addEventListener("scroll", handleScroll);
             return () => {
-                window.removeEventListener("scroll", listenScrollEvent);
+                window.removeEventListener("scroll", handleScroll);
             };
         }
-    }, []);
+    }, [lastScrollTop]);
 
     return (
         <div className="fixed top-0 left-0 w-full z-50">
             {/* Pre-header */}
             <div
-                className={`bg-black text-white h-[57px] px-[65px] font-urbanist md:flex justify-center transition-all duration-300`}
-                style={{ display: isVisible ? "flex" : "none" }}
+                className={`bg-black text-white h-[57px] px-[65px] font-urbanist md:flex justify-center transition-all duration-300 ${isVisible ? "translate-y-0 opacity-100" : "-translate-y-full opacity-0"
+                    }`}
             >
                 <div className="flex justify-between items-center text-sm" style={{ maxWidth: "1270px", width: "100%" }}>
                     {/* Contact Details */}
@@ -81,8 +86,8 @@ const NavBar: React.FC = () => {
 
             {/* Navbar */}
             <div
-                className={`flex items-center w-full font-urbanist h-[78px] bg-white text-neutral transition-all duration-300`}
-                style={{ display: isVisible ? "flex" : "none" }}
+                className={`flex items-center w-full font-urbanist h-[78px] bg-white text-neutral transition-all duration-300 ${isVisible ? "translate-y-0 opacity-100" : "-translate-y-full opacity-0"
+                    }`}
             >
                 <div className="navbar flex items-center justify-between" style={{ maxWidth: "1270px", margin: "0 auto" }}>
                     {/* Logo */}
@@ -131,8 +136,7 @@ const NavBar: React.FC = () => {
                     {/* Contact Us Button (Desktop) */}
                     <div className="navbar-end md:flex px-4 flex items-center" style={{ display: "flex" }}>
                         <Link href="/contact" passHref>
-                            <button className="btn flex items-center justify-center w-[173px] h-[46px] rounded-[41px] bg-[#025C7A] pr-[6px] pl-[10px] hover:bg-[#6E9753]"
-                            >
+                            <button className="btn flex items-center justify-center w-[173px] h-[46px] rounded-[41px] bg-[#025C7A] pr-[6px] pl-[10px] hover:bg-[#6E9753]">
                                 <span className="mr-2 text-white" style={{
                                     textTransform: "uppercase", fontSize: "16px", fontWeight: "700", lineHeight: "19.2px", textAlign: "left"
                                 }}>Contact Us</span>
@@ -141,52 +145,6 @@ const NavBar: React.FC = () => {
                                 </span>
                             </button>
                         </Link>
-                    </div>
-
-                    {/* Hamburger Menu for Mobile */}
-                    <div className="md:hidden flex items-center pr-3 relative z-50">
-                        <button onClick={() => setIsMenuOpen(!isMenuOpen)} className="text-[#025C7A]">
-                            <i className={`fas ${isMenuOpen ? "fa-times" : "fa-bars"} text-xl`} />
-                        </button>
-                    </div>
-
-                    {/* Mobile Sidebar Menu */}
-                    <div
-                        className="md:hidden fixed top-0 right-0 w-3/4 bg-white h-screen z-40 shadow-lg transform transition-transform duration-300"
-                        style={{ transform: isMenuOpen ? "translateX(0)" : "translateX(100%)" }}
-                    >
-                        <div className="flex flex-col items-center gap-4 py-16">
-                            <Link href="/" passHref>
-                                <span
-                                    className={`btn btn-ghost btn-sm rounded-btn ${activePage === "/" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
-                                >Home</span>
-                            </Link>
-                            <Link href="/about" passHref>
-                                <span
-                                    className={`btn btn-ghost btn-sm rounded-btn ${activePage === "/about" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
-                                >About Us</span>
-                            </Link>
-                            <Link href="/testimonials" passHref>
-                                <span
-                                    className={`btn btn-ghost btn-sm rounded-btn ${activePage === "/testimonials" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
-                                >Testimonials</span>
-                            </Link>
-                            <Link href="/packages" passHref>
-                                <span
-                                    className={`btn btn-ghost btn-sm rounded-btn ${activePage === "/packages" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
-                                >Packages</span>
-                            </Link>
-                            <Link href="/gallery" passHref>
-                                <span
-                                    className={`btn btn-ghost btn-sm rounded-btn ${activePage === "/gallery" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
-                                >Gallery</span>
-                            </Link>
-                            <Link href="/contact" passHref>
-                                <span
-                                    className={`btn btn-ghost btn-sm rounded-btn ${activePage === "/contact" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
-                                >Contact Us</span>
-                            </Link>
-                        </div>
                     </div>
                 </div>
             </div>
