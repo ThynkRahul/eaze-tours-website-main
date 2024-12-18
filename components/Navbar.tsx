@@ -17,7 +17,7 @@ const NavBar: React.FC = () => {
     // Listen to scroll events to hide/show the navbar
     function listenScrollEvent() {
         const scrolled = document.scrollingElement ? document.scrollingElement.scrollTop : 0;
-        if (scrolled >= 135) {
+        if (scrolled >= 20) {
             setIsVisible(false);
         } else {
             setIsVisible(true);
