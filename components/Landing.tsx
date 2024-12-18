@@ -186,7 +186,7 @@ function Landing(props: ILandingProps) {
 
             <div className="my-12 max-w-screen-xl mx-auto pt-[30px]">
 
-                <div className="flex items-center mb-0 flex-wrap justify-center gap-4 sm:justify-between sm:gap-0">
+                <div className="flex items-center mb-0 flex-wrap mx-4 justify-center gap-4 sm:justify-between sm:gap-0">
                     <h2 className="text-2xl font-semibold text-black capitalize text-center sm:text-left" style={{ fontSize: '32px' }}>
                         Top Destination for your next vacation
                     </h2>
@@ -264,7 +264,7 @@ function Landing(props: ILandingProps) {
             {/* Heading for the next section */}
 
             <div className="my-12 max-w-screen-xl mx-auto">
-                <h2 className="text-2xl font-semibold text-black text-center sm:text-left" style={{ fontSize: '32px' }}>
+                <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2" style={{ fontSize: '32px' }}>
                     Trip  Ideas To Inspire You
                 </h2>
 
@@ -351,7 +351,7 @@ function Landing(props: ILandingProps) {
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
-                                <p className="text-[16px] text-[#4F5E71]">(10 Reviews)</p>
+                                <p className="text-[16px] text-[#4F5E71]">(17 Reviews)</p>
                             </div>
                             <div className="flex items-start space-x-2 pb-5 pt-1">
                                 <div className="bg-[#025C7A] text-white px-3 py-1 rounded-sm">
@@ -421,7 +421,7 @@ function Landing(props: ILandingProps) {
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
-                                <p className="text-[16px] text-[#4F5E71]">(10 Reviews)</p>
+                                <p className="text-[16px] text-[#4F5E71]">(15 Reviews)</p>
                             </div>
                             <div className="flex items-start space-x-2 pb-5 pt-1">
                                 <div className="bg-[#025C7A] text-white px-3 py-1 rounded-sm">
@@ -458,7 +458,7 @@ function Landing(props: ILandingProps) {
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
-                                <p className="text-[16px] text-[#4F5E71]">(10 Reviews)</p>
+                                <p className="text-[16px] text-[#4F5E71]">(18 Reviews)</p>
                             </div>
                             <div className="flex items-start space-x-2 pb-5 pt-1">
                                 <div className="bg-[#025C7A] text-white px-3 py-1 rounded-sm">
@@ -493,7 +493,7 @@ function Landing(props: ILandingProps) {
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
-                                <p className="text-[16px] text-[#4F5E71]">(10 Reviews)</p>
+                                <p className="text-[16px] text-[#4F5E71]">(20 Reviews)</p>
                             </div>
                             <div className="flex items-start space-x-2 pb-5 pt-1">
                                 <div className="bg-[#025C7A] text-white px-3 py-1 rounded-sm">
@@ -559,7 +559,7 @@ function Landing(props: ILandingProps) {
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
-                                <p className="text-[16px] text-[#4F5E71]">(10 Reviews)</p>
+                                <p className="text-[16px] text-[#4F5E71]">(13 Reviews)</p>
                             </div>
                             <div className="flex items-start space-x-2 pb-5 pt-1">
                                 <div className="bg-[#025C7A] text-white px-3 py-1 rounded-sm">
@@ -591,7 +591,7 @@ function Landing(props: ILandingProps) {
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
-                                <p className="text-[16px] text-[#4F5E71]">(10 Reviews)</p>
+                                <p className="text-[16px] text-[#4F5E71]">(15 Reviews)</p>
                             </div>
                             <div className="flex items-start space-x-2 pb-5 pt-1">
                                 <div className="bg-[#025C7A] text-white px-3 py-1 rounded-sm">
@@ -617,7 +617,7 @@ function Landing(props: ILandingProps) {
             </div >
             {/* Heading Before the Testimonial Slider */}
             < div className="my-12 max-w-screen-xl mx-auto mx-8 sm:mx-auto" >
-                <div className="flex items-center mb-4 flex-wrap justify-center gap-4 sm:justify-between sm:gap-0">
+                <div className="flex items-center mb-4 flex-wrap justify-center gap-4 mx-4 sm:justify-between sm:gap-0">
                     <h2 className="text-2xl font-semibold text-black" style={{ fontSize: '32px' }}>
                         What Clients Say About Us
                     </h2>
@@ -689,7 +689,7 @@ function Landing(props: ILandingProps) {
             {/* New Section - Subscribe Section */}
             < div className="max-w-screen-xl mx-8 sm:mx-auto h-[500px] rounded-[23px] flex items-center justify-start p-[20px] sm:p-[80px]" style={{ backgroundImage: 'url("/images/suscribe_bg.png")', backgroundPosition: 'center', backgroundSize: 'cover' }
             }>
-                <div className="w-[600px] bg-black p-8 rounded-[23px] text-left">
+                <div className="w-[600px] bg-black p-8 pb-12 rounded-[23px] text-left">
                     <h2 className="text-white text-[40px] mb-4 font-semibold leading-[1.2em]">Subscribe & Get 20% off</h2>
                     <p className="text-white mb-6">Subscribe to our newsletter and get the latest updates and exclusive offers.</p>
 
