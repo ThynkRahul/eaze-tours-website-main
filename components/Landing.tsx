@@ -24,7 +24,7 @@ function Landing(props: ILandingProps) {
     const testimonialSliderRef = useRef<HTMLDivElement>(null);
     const boxWidth = useRef<number>(0);
 
-    const totalBoxes = 5; // Number of info boxes
+    const totalBoxes = 4; // Number of info boxes
     const [visibleBoxes, setVisibleBoxes] = useState(1);
 
     const handleTabClick = (tab: string) => () => {
@@ -115,7 +115,7 @@ function Landing(props: ILandingProps) {
                     { src: backgroundImage4, heading: "Curated Just for You", para: "Unforgettable journeys, curated just for you. Explore breathtaking destinations, exclusive deals, and seamless travel experiences." },
                     ].map((slide, index) => (
                         <SwiperSlide key={index}>
-                            <div className="relative h-screen w-full">
+                            <div className="relative h-[750px] w-full">
                                 <div className="absolute inset-0 bg-black opacity-30 z-10"></div>
                                 <div className="absolute inset-0 z-0">
                                     <Image
@@ -126,7 +126,7 @@ function Landing(props: ILandingProps) {
                                         priority
                                     />
                                 </div>
-                                <div className="absolute inset-0 z-20 flex flex-col justify-center items-start text-left text-white max-w-screen-lg mx-auto px-6 pt-24 md:px-12">
+                                <div className="absolute inset-0 z-20 flex flex-col justify-center items-start text-left text-white max-w-screen-lg mx-auto px-6 pt-24 md:px-0">
                                     <h1 className="text-[44px] sm:text-[56px] md:text-7xl font-urbanist font-semibold text-shadow mb-6 leading-[1.2em] sm:leading-[75px]">
                                         {slide.heading}
                                     </h1>
@@ -146,7 +146,7 @@ function Landing(props: ILandingProps) {
             </div>
 
             {/* Info Boxes Section */}
-            <div className="info-container flex justify-center gap-8 my-[70px] max-w-screen-xl mx-auto flex-wrap">
+            <div className="info-container flex justify-center gap-12 my-[70px] max-w-screen-xl mx-auto flex-wrap sm:flex-nowrap">
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_1.png" alt="Info Icon 1" width={77} height={77} />
                     <h2 className="info-heading text-lg font-urbanist font-normal text-black text-center mt-4 mb-2">Book Festive Season Tours Now!</h2>
@@ -157,7 +157,7 @@ function Landing(props: ILandingProps) {
 
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_2.png" alt="Info Icon 2" width={77} height={77} />
-                    <h2 className="info-heading text-lg font-urbanist font-normal text-black text-center mt-4 mb-2">Adventure, Your Way</h2>
+                    <h2 className="info-heading text-lg font-urbanist font-light text-black text-center mt-4 mb-2">Adventure, Your Way</h2>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
                         We have a wide range of tour options to meet all your travel needs with our Himalayan Adventure tour package.
                     </p>
@@ -165,7 +165,7 @@ function Landing(props: ILandingProps) {
 
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_3.png" alt="Info Icon 3" width={77} height={77} />
-                    <h2 className="info-heading text-lg font-urbanist font-normal text-black text-center mt-4 mb-2">Eaze Tours Spotlight</h2>
+                    <h2 className="info-heading text-lg font-urbanist font-light text-black text-center mt-4 mb-2">Eaze Tours Spotlight</h2>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
                         Find out what's happening at Eaze Tours - from the special discounts to the latest india tours packages updates.
                     </p>
@@ -173,7 +173,7 @@ function Landing(props: ILandingProps) {
 
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_4.png" alt="Info Icon 4" width={77} height={77} />
-                    <h2 className="info-heading text-lg font-urbanist font-normal text-black text-center mt-4 mb-2">Extremely Happy Travellers</h2>
+                    <h2 className="info-heading text-lg font-urbanist font-light text-black text-center mt-4 mb-2">Extremely Happy Travellers</h2>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
                         Eaze Tours holds record of great customer satisfaction and all customers are retained with us. Happy Travelling!
                     </p>
@@ -307,13 +307,20 @@ function Landing(props: ILandingProps) {
             <div className="flex justify-center items-center max-w-screen-xl mx-8 sm:mx-auto">
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 w-full">
                     <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col">
-                        <div className="w-full h-48 bg-cover bg-center rounded-t-[23px]" style={{ backgroundImage: 'url("/images/box1.png")' }}></div>
+                        <div className="relative w-full h-48 overflow-hidden rounded-t-[23px]">
+                            <div
+                                className="w-full h-full bg-cover bg-center transform scale-100 transition-transform duration-300 ease-in-out hover:scale-110"
+                                style={{ backgroundImage: 'url("/images/box1.png")' }}
+                            ></div>
+                        </div>
                         <div className="w-full p-4 flex flex-col justify-center gap-2">
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-map-marker-alt text-lg text-400 text-[#4F5E71] -mt-1" />
                                 <p className="text-sm text-[#4F5E71]">India</p>
                             </div>
-                            <p className="text-black-700 font-urbanist">Delhi-Mandawa Bikaner-Jaisalmer Jodhpur-Luni-Ranakpur-Udaipur</p>
+                            <p className="text-black-700 font-urbanist">
+                                Delhi-Mandawa Bikaner-Jaisalmer Jodhpur-Luni-Ranakpur-Udaipur
+                            </p>
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                 <p className="text-[16px]">5.00</p>
@@ -334,10 +341,15 @@ function Landing(props: ILandingProps) {
                         </div>
                     </div>
 
-
                     <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col">
-                        <div className="relative w-full h-48 bg-cover bg-center rounded-t-[23px]" style={{ backgroundImage: 'url("/images/box2.png")' }}>
-                            <span className="absolute top-4 right-4 bg-red-500 text-white text-sm px-2 py-1 rounded">On Sale</span>
+                        <div className="relative w-full h-48 overflow-hidden rounded-t-[23px]">
+                            <div
+                                className="w-full h-full bg-cover bg-center transform scale-100 transition-transform duration-300 ease-in-out hover:scale-110"
+                                style={{ backgroundImage: 'url("/images/box2.png")' }}
+                            ></div>
+                            <span className="absolute top-4 right-4 bg-red-500 text-white text-sm px-2 py-1 rounded">
+                                On Sale
+                            </span>
                         </div>
                         <div className="w-full p-4 flex flex-col justify-center gap-2">
                             <div className="flex items-start space-x-2">
@@ -367,7 +379,12 @@ function Landing(props: ILandingProps) {
 
 
                     <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col">
-                        <div className="w-full h-48 bg-cover bg-center rounded-t-[23px]" style={{ backgroundImage: 'url("/images/box3.png")' }}></div>
+                        <div className="relative w-full h-48 overflow-hidden rounded-t-[23px]">
+                            <div
+                                className="w-full h-full bg-cover bg-center transform scale-100 transition-transform duration-300 ease-in-out hover:scale-110"
+                                style={{ backgroundImage: 'url("/images/box3.png")' }}
+                            ></div>
+                        </div>
                         <div className="w-full p-4 flex flex-col justify-center gap-2">
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-map-marker-alt text-lg text-400 text-[#4F5E71] -mt-1" />
@@ -396,8 +413,14 @@ function Landing(props: ILandingProps) {
 
 
                     <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col">
-                        <div className="relative w-full h-48 bg-cover bg-center rounded-t-[23px]" style={{ backgroundImage: 'url("/images/box4.png")' }}>
-                            <span className="absolute top-4 right-4 bg-red-500 text-white text-sm px-2 py-1 rounded">On Sale</span>
+                        <div className="relative w-full h-48 overflow-hidden rounded-t-[23px]">
+                            <div
+                                className="w-full h-full bg-cover bg-center transform scale-100 transition-transform duration-300 ease-in-out hover:scale-110"
+                                style={{ backgroundImage: 'url("/images/box4.png")' }}
+                            ></div>
+                            <span className="absolute top-4 right-4 bg-red-500 text-white text-sm px-2 py-1 rounded">
+                                On Sale
+                            </span>
                         </div>
                         <div className="w-full p-4 flex flex-col justify-center gap-2">
                             <div className="flex items-start space-x-2">
@@ -428,7 +451,12 @@ function Landing(props: ILandingProps) {
 
 
                     <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col">
-                        <div className="w-full h-48 bg-cover bg-center rounded-t-[23px]" style={{ backgroundImage: 'url("/images/tour_box.webp")' }}></div>
+                        <div className="relative w-full h-48 overflow-hidden rounded-t-[23px]">
+                            <div
+                                className="w-full h-full bg-cover bg-center transform scale-100 transition-transform duration-300 ease-in-out hover:scale-110"
+                                style={{ backgroundImage: 'url("/images/tour_box.webp")' }}
+                            ></div>
+                        </div>
                         <div className="w-full p-4 flex flex-col justify-center gap-2">
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-map-marker-alt text-lg text-400 text-[#4F5E71] -mt-1" />
@@ -453,7 +481,12 @@ function Landing(props: ILandingProps) {
                     </div>
 
                     <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col">
-                        <div className="w-full h-48 bg-cover bg-center rounded-t-[23px]" style={{ backgroundImage: 'url("/images/tour_box2.webp")' }}></div>
+                        <div className="relative w-full h-48 overflow-hidden rounded-t-[23px]">
+                            <div
+                                className="w-full h-full bg-cover bg-center transform scale-100 transition-transform duration-300 ease-in-out hover:scale-110"
+                                style={{ backgroundImage: 'url("/images/tour_box2.webp")' }}
+                            ></div>
+                        </div>
                         <div className="w-full p-4 flex flex-col justify-center gap-2">
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-map-marker-alt text-lg text-400 text-[#4F5E71] -mt-1" />
@@ -476,8 +509,14 @@ function Landing(props: ILandingProps) {
                             </button>
                         </div>
                     </div>
+
                     <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col">
-                        <div className="w-full h-48 bg-cover bg-center rounded-t-[23px]" style={{ backgroundImage: 'url("/images/tour_box3.webp")', backgroundPosition: 'center' }}></div>
+                        <div className="relative w-full h-48 overflow-hidden rounded-t-[23px]">
+                            <div
+                                className="w-full h-full bg-cover bg-center transform scale-100 transition-transform duration-300 ease-in-out hover:scale-110"
+                                style={{ backgroundImage: 'url("/images/tour_box3.webp")' }}
+                            ></div>
+                        </div>
                         <div className="w-full p-4 flex flex-col justify-center gap-2">
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-map-marker-alt text-lg text-400 text-[#4F5E71] -mt-1" />
@@ -501,7 +540,12 @@ function Landing(props: ILandingProps) {
                         </div>
                     </div>
                     <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col">
-                        <div className="w-full h-48 bg-cover bg-center rounded-t-[23px]" style={{ backgroundImage: 'url("/images/tour_box4.webp")' }}></div>
+                        <div className="relative w-full h-48 overflow-hidden rounded-t-[23px]">
+                            <div
+                                className="w-full h-full bg-cover bg-center transform scale-100 transition-transform duration-300 ease-in-out hover:scale-110"
+                                style={{ backgroundImage: 'url("/images/tour_box4.webp")' }}
+                            ></div>
+                        </div>
                         <div className="w-full p-4 flex flex-col justify-center gap-2">
                             <div className="flex items-start space-x-2">
                                 <i className="fa fa-map-marker-alt text-lg text-400 text-[#4F5E71] -mt-1" />
