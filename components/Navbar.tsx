@@ -86,7 +86,7 @@ const NavBar: React.FC = () => {
 
             {/* Navbar */}
             <div
-                className={`flex items-center w-full font-urbanist h-[78px] bg-white text-neutral transition-all duration-300 ${isVisible ? "translate-y-0 opacity-100" : "-translate-y-full opacity-0"
+                className={`flex items-center w-full font-urbanist h-[78px] bg-white text-neutral transition-all duration-300 border-b border-gray-300 ${isVisible ? "translate-y-0 opacity-100" : "-translate-y-full opacity-0"
                     }`}
             >
                 <div className="navbar flex items-center justify-between" style={{ maxWidth: "1270px", margin: "0 auto" }}>
