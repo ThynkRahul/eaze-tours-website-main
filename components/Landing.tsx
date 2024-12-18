@@ -308,7 +308,7 @@ function Landing(props: ILandingProps) {
 
                     {/* Content */}
                     <div className="absolute inset-0 flex flex-col items-between justify-between text-white text-left p-6">
-                        <h3 className="text-[32px] font-semibold mb-2 sm:w-[60%] w-[80%] font-urbanist">Beyond the City Limits Adventure</h3>
+                        <h3 className="text-[32px] font-semibold mb-2 sm:w-[60%] w-[80%] font-urbanist">Explore the Rich Heritage of Amritsar</h3>
                         <div>
                             <p className="mb-4 sm:w-[60%] w-[80%] font-urbanist">Explore Amritsar beyond the Golden Temple with curated tour packages that uncover hidden gems, vibrant culture, and historical treasures of this iconic city.</p>
                             <button className="px-4 py-4 font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
