@@ -35,25 +35,62 @@ const NavBar: React.FC = () => {
         }
     }, [lastScrollTop]);
 
+    const navLinks = [
+        { href: "/", label: "Home" },
+        { href: "/about", label: "About Us" },
+        { href: "/testimonials", label: "Testimonials" },
+        { href: "/packages", label: "Packages" },
+        { href: "/gallery", label: "Gallery" },
+        { href: "/contact", label: "Contact Us" }
+    ];
+
     return (
         <div className="fixed top-0 left-0 w-full z-50">
             {/* Pre-header */}
             <div
-                className={`bg-black text-white h-[57px] px-[65px] font-urbanist md:flex justify-center transition-all duration-300 hidden sm:block ${isVisible ? "translate-y-0 opacity-100" : "-translate-y-full opacity-0"
-                    }`}
+                className={`bg-black text-white h-[57px] px-[65px] font-urbanist md:flex justify-center transition-all duration-300 hidden sm:block ${isVisible ? "translate-y-0 opacity-100" : "-translate-y-full opacity-0"}`}
             >
                 <div className="flex justify-between items-center text-xs md:text-sm w-full max-w-screen-xl">
                     {/* Contact Details */}
                     <div className="flex gap-4">
                         <span className="flex items-center gap-2">
-                            <span className="relative w-6 h-6 flex items-center justify-center rounded-full bg-white text-black"> <i className="fas fa-phone fa-flip-horizontal text-xs" /> </span>
-                            <a href="tel:+919873186168" className="text-white hover:underline"> +91 987 318 6168 </a> </span>
-                        <span className="flex items-center gap-2"> <i className="fas fa-envelope text-xs" /> <span className="flex flex-wrap"> <a href="mailto:info@eazetours.com" className="text-white hover:underline"> info@eazetours.com </a> <a href="mailto:harshit@eazetours.com" className="text-white hover:underline ml-1"> , harshit@eazetours.com </a> </span> </span> </div> {/* Social Icons */} <div className="flex gap-2"> <Link href="https://www.tripadvisor.in/" passHref> <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300"> <i className="fab fa-tripadvisor text-sm leading-lg" /> </span> </Link> <Link href="https://www.instagram.com/eazetourpackages/" passHref> <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300"> <i className="fab fa-instagram text-sm leading-lg" /> </span> </Link> <Link href="https://www.facebook.com/eazetour/" passHref> <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300"> <i className="fab fa-facebook text-sm leading-lg" /> </span> </Link> </div> </div> </div>
+                            <span className="relative w-6 h-6 flex items-center justify-center rounded-full bg-white text-black">
+                                <i className="fas fa-phone fa-flip-horizontal text-xs" />
+                            </span>
+                            <a href="tel:+919873186168" className="text-white hover:underline">+91 987 318 6168</a>
+                        </span>
+                        <span className="flex items-center gap-2">
+                            <i className="fas fa-envelope text-xs" />
+                            <span className="flex flex-wrap">
+                                <a href="mailto:info@eazetours.com" className="text-white hover:underline">info@eazetours.com</a>
+                                <a href="mailto:harshit@eazetours.com" className="text-white hover:underline ml-1">, harshit@eazetours.com</a>
+                            </span>
+                        </span>
+                    </div>
+                    {/* Social Icons */}
+                    <div className="flex gap-2">
+                        <Link href="https://www.tripadvisor.in/" passHref>
+                            <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
+                                <i className="fab fa-tripadvisor text-sm leading-lg" />
+                            </span>
+                        </Link>
+                        <Link href="https://www.instagram.com/eazetourpackages/" passHref>
+                            <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
+                                <i className="fab fa-instagram text-sm leading-lg" />
+                            </span>
+                        </Link>
+                        <Link href="https://www.facebook.com/eazetour/" passHref>
+                            <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
+                                <i className="fab fa-facebook text-sm leading-lg" />
+                            </span>
+                        </Link>
+                    </div>
+                </div>
+            </div>
 
             {/* Navbar */}
             <div
-                className={`flex items-center w-full font-urbanist h-[78px] bg-white text-neutral transition-all duration-300 border-b border-gray-300 ${isVisible ? "translate-y-0 opacity-100" : "-translate-y-full opacity-0"
-                    }`}
+                className={`flex items-center w-full font-urbanist h-[78px] bg-white text-neutral transition-all duration-300 border-b border-gray-300 ${isVisible ? "translate-y-0 opacity-100" : "-translate-y-full opacity-0"}`}
             >
                 <div className="navbar flex items-center justify-between" style={{ maxWidth: "1270px", margin: "0 auto" }}>
                     {/* Logo */}
@@ -73,16 +110,15 @@ const NavBar: React.FC = () => {
                     {/* Desktop Navigation Links */}
                     <div className="navbar-center md:flex flex-grow hidden">
                         <div className="flex items-center justify-center gap-4">
-                            {/* Navigation Links */}
-                            {["Home", "About Us", "Testimonials", "Packages", "Gallery", "Contact Us"].map((page, index) => (
-                                <Link key={index} href={`/${page.replace(/\s+/g, "").toLowerCase()}`} passHref>
+                            {navLinks.map((link, index) => (
+                                <Link key={index} href={link.href} passHref>
                                     <span
-                                        className={`btn text-[16px] font-urbanist btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === `/${page.replace(/\s+/g, "").toLowerCase()}`
+                                        className={`btn text-[16px] font-urbanist btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === link.href
                                             ? "text-[#6E9753]"
                                             : "text-[#025C7A]"
                                             }`}
                                     >
-                                        {page}
+                                        {link.label}
                                     </span>
                                 </Link>
                             ))}
@@ -91,19 +127,18 @@ const NavBar: React.FC = () => {
 
                     {/* Mobile Sidebar Menu */}
                     <div
-                        className={`md:hidden fixed top-0 right-0 w-3/4 bg-white h-screen z-40 shadow-lg transform transition-transform duration-300 ${isMenuOpen ? "translate-x-0" : "translate-x-full"
-                            }`}
+                        className={`md:hidden fixed top-0 right-0 w-3/4 bg-white h-screen z-40 shadow-lg transform transition-transform duration-300 ${isMenuOpen ? "translate-x-0" : "translate-x-full"}`}
                     >
                         <div className="flex flex-col mx-auto -mt-[150px] items-center gap-4 py-16">
-                            {["Home", "About Us", "Testimonials", "Packages", "Gallery", "Contact Us"].map((page, index) => (
-                                <Link key={index} href={`/${page.replace(/\s+/g, "").toLowerCase()}`} passHref>
+                            {navLinks.map((link, index) => (
+                                <Link key={index} href={link.href} passHref>
                                     <span
-                                        className={`btn btn-ghost btn-sm rounded-btn ${activePage === `/${page.replace(/\s+/g, "").toLowerCase()}`
+                                        className={`btn btn-ghost btn-sm rounded-btn ${activePage === link.href
                                             ? "text-[#6E9753]"
                                             : "text-[#025C7A]"
                                             }`}
                                     >
-                                        {page}
+                                        {link.label}
                                     </span>
                                 </Link>
                             ))}
