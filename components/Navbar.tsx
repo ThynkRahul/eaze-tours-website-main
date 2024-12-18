@@ -38,7 +38,7 @@ const NavBar: React.FC = () => {
         <div className="fixed top-0 left-0 w-full z-50">
             {/* Pre-header */}
             <div
-                className={`bg-black text-white h-[57px] px-4 md:flex justify-center transition-all duration-300`}
+                className={`bg-black text-white h-[57px] px-[65px] font-urbanist md:flex justify-center transition-all duration-300`}
                 style={{ display: isVisible ? "flex" : "none" }}
             >
                 <div className="flex justify-between items-center text-sm" style={{ maxWidth: "1270px", width: "100%" }}>
@@ -81,7 +81,7 @@ const NavBar: React.FC = () => {
 
             {/* Navbar */}
             <div
-                className={`flex items-center w-full h-[78px] bg-white text-neutral transition-all duration-300`}
+                className={`flex items-center w-full font-urbanist h-[78px] bg-white text-neutral transition-all duration-300`}
                 style={{ display: isVisible ? "flex" : "none" }}
             >
                 <div className="navbar flex items-center justify-between" style={{ maxWidth: "1270px", margin: "0 auto" }}>
@@ -97,32 +97,32 @@ const NavBar: React.FC = () => {
                         <div className="flex items-center justify-center gap-4">
                             <Link href="/" passHref>
                                 <span
-                                    className={`btn btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === "/" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
+                                    className={`btn text-[16px] font-urbanist btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === "/" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
                                 >Home</span>
                             </Link>
                             <Link href="/about" passHref>
                                 <span
-                                    className={`btn btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === "/about" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
+                                    className={`btn text-[16px] font-urbanist btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === "/about" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
                                 >About Us</span>
                             </Link>
                             <Link href="/testimonials" passHref>
                                 <span
-                                    className={`btn btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === "/testimonials" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
+                                    className={`btn text-[16px] font-urbanist btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === "/testimonials" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
                                 >Testimonials</span>
                             </Link>
                             <Link href="/packages" passHref>
                                 <span
-                                    className={`btn btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === "/packages" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
+                                    className={`btn text-[16px] font-urbanist btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === "/packages" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
                                 >Packages</span>
                             </Link>
                             <Link href="/gallery" passHref>
                                 <span
-                                    className={`btn btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === "/gallery" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
+                                    className={`btn text-[16px] font-urbanist btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === "/gallery" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
                                 >Gallery</span>
                             </Link>
                             <Link href="/contact" passHref>
                                 <span
-                                    className={`btn btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === "/contact" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
+                                    className={`btn text-[16px] font-urbanist btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === "/contact" ? "text-[#6E9753]" : "text-[#025C7A]"}`}
                                 >Contact Us</span>
                             </Link>
                         </div>
