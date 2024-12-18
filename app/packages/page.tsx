@@ -1,7 +1,7 @@
 'use client';
 
-import PackagesList from "../../../components/Packages";
-import PackageDetail from '../../../components/PackageDetail';
+import PackagesList from "../../components/Packages";
+import PackageDetail from '../../components/PackageDetail';
 import { notFound } from 'next/navigation';
 
 
