@@ -129,7 +129,7 @@ function Landing(props: ILandingProps) {
                                 </div>
 
                                 <div className="absolute inset-0 z-20 flex flex-col justify-center items-start text-left text-white max-w-screen-lg mx-auto px-6 md:px-0">
-                                    <h1 className="text-[44px] sm:text-[56px] font-urbanist font-semibold text-shadow mb-6 leading-[1.2em] sm:leading-[65px]">
+                                    <h1 className="text-[44px] sm:text-[56px] font-urbanist font-semibold text-shadow mb-6 leading-[1.2em] sm:leading-[65px] w-full sm:w-[90%]">
                                         {slide.heading}
                                     </h1>
                                     <p className="text-lg md:text-xl font-urbanist mb-12 max-w-lg">{slide.para}</p>
@@ -159,9 +159,9 @@ function Landing(props: ILandingProps) {
 
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_2.png" alt="Info Icon 2" width={77} height={77} />
-                    <h2 className="info-heading text-lg font-urbanist font-medium text-black text-center mt-4 mb-2">Adventure, Your Way</h2>
+                    <h2 className="info-heading text-lg font-urbanist font-medium text-black text-center mt-4 mb-2">What's New at Eaze Tours</h2>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
-                        We have a wide range of tour options to meet all your travel needs with our Himalayan Adventure tour package.
+                        Find out what's happening at Eaze Tours – from special discounts to the latest updates on India tour packages. Stay tuned for exciting offers and new destinations!
                     </p>
                 </div>
 
@@ -169,7 +169,7 @@ function Landing(props: ILandingProps) {
                     <Image src="/images/info_icon_3.png" alt="Info Icon 3" width={77} height={77} />
                     <h2 className="info-heading text-lg font-urbanist font-medium text-black text-center mt-4 mb-2">Eaze Tours Spotlight</h2>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
-                        Find out what's happening at Eaze Tours - from the special discounts to the latest india tours packages updates.
+                        Discover our featured destinations, top-rated tours, and the exceptional experiences we offer. In the spotlight this month: Exclusive luxury tours across India with customized itineraries to suit your needs.
                     </p>
                 </div>
 
@@ -273,7 +273,7 @@ function Landing(props: ILandingProps) {
             {/* Two Horizontal Boxes */}
             <div className="flex flex-wrap justify-between gap-4 my-12 max-w-screen-xl mb-[120px] mx-8 sm:mx-auto sm:flex-nowrap">
                 {/* First Box */}
-                <div className="w-full sm:w-1/2 h-[500px] sm:h-[323px] relative rounded-[35px] overflow-hidden group">
+                <div className="w-full sm:w-1/2 h-[430px] sm:h-[323px] relative rounded-[35px] overflow-hidden group">
                     {/* Extra div for zoom effect */}
                     <div className="absolute top-0 left-0 w-full h-full bg-cover bg-center rounded-lg transition-transform duration-300 ease-in-out group-hover:scale-110"
                         style={{
@@ -296,7 +296,7 @@ function Landing(props: ILandingProps) {
                 </div>
 
                 {/* Second Box */}
-                <div className="w-full sm:w-1/2 h-[450px] sm:h-[323px] relative rounded-[35px] overflow-hidden group">
+                <div className="w-full sm:w-1/2 h-[430px] sm:h-[323px] relative rounded-[35px] overflow-hidden group">
                     {/* Extra div for zoom effect */}
                     <div className="absolute top-0 left-0 w-full h-full bg-cover bg-center rounded-lg transition-transform duration-300 ease-in-out group-hover:scale-110"
                         style={{
