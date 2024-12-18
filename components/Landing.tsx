@@ -324,7 +324,7 @@ function Landing(props: ILandingProps) {
             {/* Heading for the next section */}
 
             <div className="my-12 max-w-screen-xl mx-8 sm:mx-auto">
-                <h2 className="text-2xl font-semibold text-black" style={{ fontSize: '32px' }}>
+                <h2 className="text-2xl font-semibold text-black text-center sm:text-left" style={{ fontSize: '32px' }}>
                     Popular Packages
                 </h2>
             </div>
@@ -617,7 +617,7 @@ function Landing(props: ILandingProps) {
             </div >
             {/* Heading Before the Testimonial Slider */}
             < div className="my-12 max-w-screen-xl mx-auto mx-8 sm:mx-auto" >
-                <div className="flex items-center mb-4 flex-wrap justify-center gap-4 mx-4 sm:justify-between sm:gap-0">
+                <div className="flex text-center sm:text-left mb-4 flex-wrap justify-center gap-4 mx-8 sm:justify-between sm:gap-0">
                     <h2 className="text-2xl font-semibold text-black" style={{ fontSize: '32px' }}>
                         What Clients Say About Us
                     </h2>
@@ -635,7 +635,7 @@ function Landing(props: ILandingProps) {
 
                 {/* Testimonial Slider */}
                 <div className="testimonial-slider-container mb-12 relative">
-                    <div className="testimonial-slider relative overflow-hidden mx-0 sm:mx-4">
+                    <div className="testimonial-slider relative overflow-hidden mx-8 sm:mx-4">
                         <div className="testimonial-slider-wrapper flex transition-transform duration-300 ease-in-out" ref={testimonialSliderRef}>
                             {[{ id: 1, name: "Julie Victor", designation: "Chicago USA", content: "Manoj and his group created wonderful stress-free experiences for us while traveling in India. He was responsive kind and helpful throughout. I recommend Eaze Tours highly. Julie V traveling with my family from Chicago.", rating: 5, img: "/images/female.svg" },
                             { id: 2, name: "Manish", designation: "USA", content: "We would like to thank you for arranging the Trip so nicely. It was really a good experience. We would specially like to appreciate Manoj for his management throughout the trip.", rating: 5, img: "/images/male.svg" },
