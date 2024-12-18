@@ -712,7 +712,7 @@ function Landing(props: ILandingProps) {
             < div className="w-full py-16 bg-white" >
                 <div className="my-12 max-w-screen-xl mx-8 sm:mx-auto">
                     <div className="flex justify-between items-center mb-8">
-                        <h2 className="text-2xl font-semibold text-black" style={{ fontSize: '32px' }}>
+                        <h2 className="text-2xl font-semibold text-black text-center sm:text-left" style={{ fontSize: '32px' }}>
                             The Unforgettable Tour Gallery
                         </h2>
                     </div></div>
