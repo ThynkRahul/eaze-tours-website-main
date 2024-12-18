@@ -161,7 +161,7 @@ function Landing(props: ILandingProps) {
                     <Image src="/images/info_icon_2.png" alt="Info Icon 2" width={77} height={77} />
                     <h2 className="info-heading text-lg font-urbanist font-medium text-black text-center mt-4 mb-2">What's New at Eaze Tours</h2>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
-                        Find out what's happening at Eaze Tours – from special discounts to the latest updates on India tour packages. Stay tuned for exciting offers and new destinations!
+                        Find out what's happening at Eaze Tours – from special discounts to the latest updates on India tour packages.
                     </p>
                 </div>
 
@@ -169,7 +169,7 @@ function Landing(props: ILandingProps) {
                     <Image src="/images/info_icon_3.png" alt="Info Icon 3" width={77} height={77} />
                     <h2 className="info-heading text-lg font-urbanist font-medium text-black text-center mt-4 mb-2">Eaze Tours Spotlight</h2>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
-                        Discover our featured destinations, top-rated tours, and the exceptional experiences we offer. In the spotlight this month: Exclusive luxury tours across India with customized itineraries to suit your needs.
+                        Discover our featured destinations, top-rated tours, and the exceptional experiences we offer.
                     </p>
                 </div>
 
