@@ -110,7 +110,7 @@ function Landing(props: ILandingProps) {
                     setAnimateHeading(true); // Start animation for heading section
                 }
             },
-            { threshold: 0.5 }
+            { threshold: 0 }
         );
 
         if (headingSectionRef.current) {
@@ -131,7 +131,7 @@ function Landing(props: ILandingProps) {
                     setAnimateHeading1(true); // Start animation for heading section
                 }
             },
-            { threshold: 0.5 }
+            { threshold: 0 }
         );
 
         if (headingSectionRef1.current) {
@@ -152,7 +152,7 @@ function Landing(props: ILandingProps) {
                     setAnimateInfo(true); // Start animation for info section when in view
                 }
             },
-            { threshold: 0.5 }
+            { threshold: 0 }
         );
 
         if (infoSectionRef.current) {
@@ -173,7 +173,7 @@ function Landing(props: ILandingProps) {
                     setAnimateSlider(true); // Start animation for slider section
                 }
             },
-            { threshold: 0.5 }
+            { threshold: 0 }
         );
 
         if (sliderSectionRef.current) {
