@@ -479,7 +479,7 @@ function Landing(props: ILandingProps) {
                                     <p className="text-sm text-[#4F5E71]">India</p>
                                 </div>
                                 <p className="text-black-700 font-urbanist">
-                                    Delhi-Mandawa Bikaner-Jaisalmer Jodhpur-Luni-Ranakpur-Udaipur
+                                    Delhi - Mandawa Bikaner - Jaisalmer Jodhpur - Luni - Ranakpur-Udaipur
                                 </p>
                                 <div className="flex items-start space-x-2">
                                     <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
@@ -688,7 +688,7 @@ function Landing(props: ILandingProps) {
                                     <i className="fa fa-map-marker-alt text-lg text-400 text-[#4F5E71] -mt-1" />
                                     <p className="text-sm text-[#4F5E71]">India</p>
                                 </div>
-                                <p className="text-black-700 font-urbanist">Mumbai-Baroda-Bhuj-Ahmedamad-Utellia-Balaram-Patan-Little Rann of Kutch-Bhuj</p>
+                                <p className="text-black-700 font-urbanist">Mumbai - Baroda - Bhuj- Ahmedamad-Utellia-Balaram - Patan-Little Rann of Kutch - Bhuj</p>
                                 <div className="flex items-start space-x-2">
                                     <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                                     <p className="text-[16px]">5.00</p>
