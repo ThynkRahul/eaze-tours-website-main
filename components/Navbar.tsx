@@ -35,7 +35,8 @@ const NavBar: React.FC = () => {
         <div className="fixed top-0 left-0 w-full z-50">
             {/* Pre-header */}
             <div
-                className={`bg-black text-white h-[57px] px-4 hidden md:flex justify-center transition-all duration-300 ${isVisible ? "opacity-100" : "opacity-0 -translate-y-full"}`}
+                className={`bg-black text-white h-[57px] px-4 md:flex justify-center transition-all duration-300`}
+                style={{ display: isVisible ? "flex" : "none" }}
             >
                 <div className="flex justify-between items-center text-sm" style={{ maxWidth: "1270px", width: "100%" }}>
                     {/* Contact Details */}
@@ -77,7 +78,8 @@ const NavBar: React.FC = () => {
 
             {/* Navbar */}
             <div
-                className={`flex items-center w-full h-[78px] bg-white text-neutral transition-all duration-300 ${isVisible ? "opacity-100" : "opacity-0 -translate-y-full"}`}
+                className={`flex items-center w-full h-[78px] bg-white text-neutral transition-all duration-300`}
+                style={{ display: isVisible ? "flex" : "none" }}
             >
                 <div className="navbar flex items-center justify-between" style={{ maxWidth: "1270px", margin: "0 auto" }}>
                     {/* Logo */}
@@ -88,7 +90,7 @@ const NavBar: React.FC = () => {
                     </div>
 
                     {/* Desktop Navigation Links */}
-                    <div className="navbar-center hidden md:flex flex-grow">
+                    <div className="navbar-center md:flex flex-grow" style={{ display: "flex" }}>
                         <div className="flex items-center justify-center gap-4">
                             <Link href="/" passHref>
                                 <span
@@ -124,7 +126,7 @@ const NavBar: React.FC = () => {
                     </div>
 
                     {/* Contact Us Button (Desktop) */}
-                    <div className="navbar-end hidden md:flex px-4 flex items-center">
+                    <div className="navbar-end md:flex px-4 flex items-center" style={{ display: "flex" }}>
                         <Link href="/contact" passHref>
                             <button className="btn flex items-center justify-center" style={{
                                 width: '173px',
@@ -151,7 +153,10 @@ const NavBar: React.FC = () => {
                     </div>
 
                     {/* Mobile Sidebar Menu */}
-                    <div className={`md:hidden ${isMenuOpen ? "block" : "hidden"} fixed top-0 right-0 w-3/4 bg-white h-screen z-40 shadow-lg transform ${isMenuOpen ? "translate-x-0" : "translate-x-full"} transition-transform duration-300`}>
+                    <div
+                        className="md:hidden fixed top-0 right-0 w-3/4 bg-white h-screen z-40 shadow-lg transform transition-transform duration-300"
+                        style={{ transform: isMenuOpen ? "translateX(0)" : "translateX(100%)" }}
+                    >
                         <div className="flex flex-col items-center gap-4 py-16">
                             <Link href="/" passHref>
                                 <span
