@@ -60,7 +60,7 @@ const NavBar: React.FC = () => {
                             <a href="tel:+919873186168" className="text-white hover:underline">+91 987 318 6168</a>
                         </span>
                         <span className="flex items-center gap-2">
-                            <i className="fas fa-envelope text-xs" />
+                            <i className="fas fa-envelope text-xl" />
                             <span className="flex flex-wrap">
                                 <a href="mailto:info@eazetours.com" className="text-white hover:underline">info@eazetours.com</a>
                                 <a href="mailto:harshit@eazetours.com" className="text-white hover:underline ml-1">, harshit@eazetours.com</a>
@@ -129,7 +129,7 @@ const NavBar: React.FC = () => {
                     <div
                         className={`md:hidden fixed top-0 right-0 w-3/4 bg-white h-screen z-40 shadow-lg transform transition-transform duration-300 ${isMenuOpen ? "translate-x-0" : "translate-x-full"}`}
                     >
-                        <div className="flex flex-col text-left mr-auto -mt-[350px] items-start px-4 gap-4 py-16">
+                        <div className="flex flex-col text-left mr-auto -mt-[320px] items-start px-4 gap-4 py-16">
                             {navLinks.map((link, index) => (
                                 <Link key={index} href={link.href} passHref>
                                     <span
