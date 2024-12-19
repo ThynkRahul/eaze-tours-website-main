@@ -95,7 +95,7 @@ const NavBar: React.FC = () => {
                     {/* Logo */}
                     <div className="navbar-start px-4 flex items-center" style={{ marginTop: "-10px" }}>
                         <Link href="/" passHref>
-                            <Image src={logo} width={106} height={40} alt="Logo" />
+                            <Image src={logo} width={128} height={48} alt="Logo" />
                         </Link>
                     </div>
 
@@ -113,8 +113,8 @@ const NavBar: React.FC = () => {
                                 <Link key={index} href={link.href} passHref>
                                     <button
                                         className={`btn btn-ghost btn-sm rounded-btn ${activePage === link.href
-                                            ? "text-[#6E9753]"
-                                            : "text-[#025C7A]"}`
+                                            ? "text-[#6E9753] text-[16px]"
+                                            : "text-[#025C7A]  text-[16px]"}`
                                         }
                                     >
                                         {link.label}
@@ -133,8 +133,8 @@ const NavBar: React.FC = () => {
                                 <Link key={index} href={link.href} passHref>
                                     <button
                                         className={`btn btn-ghost btn-sm rounded-btn ${activePage === link.href
-                                            ? "text-[#6E9753]"
-                                            : "text-[#025C7A]"}`
+                                            ? "text-[#6E9753]  text-[16px]"
+                                            : "text-[#025C7A]  text-[16px]"}`
                                         }
                                     >
                                         {link.label}
