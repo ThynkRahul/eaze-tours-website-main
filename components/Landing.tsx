@@ -133,9 +133,9 @@ function Landing(props: ILandingProps) {
                                         {slide.heading}
                                     </h1>
                                     <p className="text-lg md:text-xl font-urbanist mb-12 max-w-lg">{slide.para}</p>
-                                    <button className="px-6 py-3 font-urbanist text-white font-semibold bg-transparent border-2 border-white rounded-full shadow-lg hover:shadow-xl hover:text-[#025C7A] hover:bg-[#fff] hover:border-[#025c7a] focus:outline-none focus:ring-4 focus:ring-blue-500 transform transition-transform hover:scale-105 duration-300 uppercase">
+                                    <a href="/contact"><button className="px-6 py-3 font-urbanist text-white font-semibold bg-transparent border-2 border-white rounded-full shadow-lg hover:shadow-xl hover:text-[#025C7A] hover:bg-[#fff] hover:border-[#025c7a] focus:outline-none focus:ring-4 focus:ring-blue-500 transform transition-transform hover:scale-105 duration-300 uppercase">
                                         Contact Us
-                                    </button>
+                                    </button></a>
                                 </div>
                             </div>
                         </SwiperSlide>
@@ -194,7 +194,7 @@ function Landing(props: ILandingProps) {
 
                     {/* Arrow buttons */}
 
-                    <div className="flex gap-4">
+                    <div className="flex gap-4 z-[100]">
                         <button onClick={handlePrevInfoBox} className="bg-[#E4F8FF] text-2xl text-[#025C7A] py-[10px] px-5 rounded-full hover:bg-gray-700 hover:text-[#fff] transition-all duration-300">
                             &#10094;
                         </button>
@@ -242,9 +242,10 @@ function Landing(props: ILandingProps) {
                                     <div className="absolute bottom-0 left-0 w-full h-full flex flex-col justify-end p-6 bg-gradient-to-t from-black via-black/70 to-transparent text-white opacity-0 transform translate-y-20 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-500 ease-in-out z-20">
                                         <h3 className="text-[32px] font-semibold mb-4 transform group-hover:translate-y-[-10px] transition-all duration-500 ease-in-out">{box.title}</h3>
                                         <p className="mb-4 transform group-hover:translate-y-[-10px] transition-all duration-500 ease-in-out">{box.content}</p>
-                                        <button className="px-4 py-2 font-bold bg-white text-[#025C7A] rounded-full hover:bg-gray-100 transition-all duration-300 w-[150px]">
-                                            See All Tours
-                                        </button>
+                                        <a href="/packages">
+                                            <button className="px-4 py-2 font-bold bg-white text-[#025C7A] rounded-full hover:bg-gray-100 transition-all duration-300 w-[150px]">
+                                                See All Tours
+                                            </button></a>
                                     </div>
 
                                 </div>
@@ -256,9 +257,11 @@ function Landing(props: ILandingProps) {
 
                 {/* "See All Destinations" Button */}
                 <div className="text-center my-12">
-                    <button className="px-8 py-4 mt-8 mb-12 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                        See All Destinations
-                    </button>
+                    <a href="/packages">
+                        <button className="px-8 py-4 mt-8 mb-12 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                            See All Destinations
+                        </button>
+                    </a>
                 </div>
             </div>
             {/* Heading for the next section */}
@@ -288,9 +291,9 @@ function Landing(props: ILandingProps) {
                         <h3 className="text-[32px] font-semibold mb-2 sm:w-[60%] w-[80%] font-urbanist">India (Delhi, Varanasi, Agra)</h3>
                         <div>
                             <p className="mb-4 sm:w-[60%] w-[80%] font-urbanist">Embark on a royal journey through India, exploring Delhi's majestic monuments, Varanasi's spiritual ghats, and Agra's iconic Taj Mahal treasures.</p>
-                            <button className="px-4 py-4 font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
+                            <a href="/packages/21"><button className="px-4 py-4 font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
                                 See All Activities
-                            </button>
+                            </button></a>
                         </div>
                     </div>
                 </div>
@@ -311,9 +314,9 @@ function Landing(props: ILandingProps) {
                         <h3 className="text-[32px] font-semibold mb-2 sm:w-[60%] w-[80%] font-urbanist">Explore the Rich Heritage of Amritsar</h3>
                         <div>
                             <p className="mb-4 sm:w-[60%] w-[80%] font-urbanist">Explore Amritsar beyond the Golden Temple with curated tour packages that uncover hidden gems, vibrant culture, and historical treasures of this iconic city.</p>
-                            <button className="px-4 py-4 font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
+                            <a href="/packages/17"><button className="px-4 py-4 font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
                                 See All Activities
-                            </button>
+                            </button></a>
                         </div>
                     </div>
                 </div>
@@ -362,9 +365,10 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                                More Details
-                            </button>
+                            <a href="/packages/1">
+                                <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                                    More Details
+                                </button></a>
                         </div>
                     </div>
 
@@ -398,9 +402,10 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                                More Details
-                            </button>
+                            <a href="/packages/7">
+                                <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                                    More Details
+                                </button></a>
                         </div>
                     </div>
 
@@ -432,9 +437,10 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                                More Details
-                            </button>
+                            <a href="/packages/9">
+                                <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                                    More Details
+                                </button></a>
                         </div>
                     </div>
 
@@ -469,9 +475,10 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                                More Details
-                            </button>
+                            <a href="/packages/16">
+                                <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                                    More Details
+                                </button></a>
                         </div>
                     </div>
 
@@ -504,9 +511,11 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                                More Details
-                            </button>
+                            <a href="/packages/2">
+                                <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                                    More Details
+                                </button>
+                            </a>
                         </div>
                     </div>
 
@@ -537,9 +546,11 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                                More Details
-                            </button>
+                            <a href="/packages/28">
+                                <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                                    More Details
+                                </button>
+                            </a>
                         </div>
                     </div>
 
@@ -570,9 +581,11 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                                More Details
-                            </button>
+                            <a href="/packages/25">
+                                <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                                    More Details
+                                </button>
+                            </a>
                         </div>
                     </div>
                     <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col">
@@ -602,18 +615,22 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                                More Details
-                            </button>
+                            <a href="/packages/29">
+                                <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                                    More Details
+                                </button>
+                            </a>
                         </div>
                     </div>
                 </div >
             </div >
             {/* "See All Destinations" Button */}
             < div className="text-center my-12" >
-                <button className="px-8 py-4 mt-8 mb-12 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                    See All Packages
-                </button>
+                <a href="/packages">
+                    <button className="px-8 py-4 mt-8 mb-12 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                        See All Packages
+                    </button>
+                </a>
             </div >
             {/* Heading Before the Testimonial Slider */}
             < div className="my-12 max-w-screen-xl mx-auto mx-8 sm:mx-auto" >
@@ -623,7 +640,7 @@ function Landing(props: ILandingProps) {
                     </h2>
 
                     {/* Arrow buttons */}
-                    <div className="flex gap-4">
+                    <div className="flex gap-4 z-[100]">
                         <button onClick={handlePrevTestimonial} className="bg-[#E4F8FF] text-2xl text-[#025C7A] py-[10px] px-5 rounded-full hover:bg-gray-700 hover:text-[#fff] transition-all duration-300">
                             &#10094;
                         </button>
@@ -682,9 +699,11 @@ function Landing(props: ILandingProps) {
 
             {/* "See All Testimonials" Button */}
             < div className="text-center my-12" >
-                <button className="px-8 py-4 mt-4 mb-12 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                    View All
-                </button>
+                <a href="/testimonials">
+                    <button className="px-8 py-4 mt-4 mb-12 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                        View All
+                    </button>
+                </a>
             </div >
             {/* New Section - Subscribe Section */}
             < div className="max-w-screen-xl mx-8 sm:mx-auto h-[500px] rounded-[23px] flex items-center justify-start p-[20px] sm:p-[80px]" style={{ backgroundImage: 'url("/images/suscribe_bg.png")', backgroundPosition: 'center', backgroundSize: 'cover' }
@@ -730,12 +749,15 @@ function Landing(props: ILandingProps) {
             </div >
             {/* "See All Destinations" Button */}
             < div className="flex justify-center items-center mb-[80px] gap-4 mx-8 sm:mx-auto" >
-                <button className="px-3 sm:px-8 h-[50px] border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                    View All
-                </button>
-                <button className="px-3 sm:px-6 h-[50px] border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
-                    <i className="fab fa-instagram text-lg" /> Follow On Instagram
-                </button>
+                <a href="/gallery">
+                    <button className="px-3 sm:px-8 h-[50px] border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                        View All
+                    </button>
+                </a><a href="https://www.instagram.com/eazetourpackages/">
+                    <button className="px-3 sm:px-6 h-[50px] border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                        <i className="fab fa-instagram text-lg" /> Follow On Instagram
+                    </button>
+                </a>
             </div >
         </>
 
