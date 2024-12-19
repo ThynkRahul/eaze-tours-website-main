@@ -84,7 +84,7 @@ const TourTimeline = () => {
                                     <div className={`text-lg font-black ${index % 2 === 0 ? 'text-right' : 'text-left'}`}>
                                         {item.title}
                                     </div>
-                                    <p className={`text-md ${index % 2 === 0 ? 'text-right' : 'text-left'}`}>
+                                    <p className={`text-md ${index % 2 === 0 ? 'text-right ml-[30px]' : 'text-left'}`}>
                                         {item.description}
                                     </p>
                                 </div>
