@@ -43,7 +43,7 @@ function Landing(props: ILandingProps) {
             const currentWidth = window.innerWidth;
             const boxWidth = currentWidth <= 640 ? 100 : 33.9; // 100% for mobile, 33.9% for larger screens
             sliderRef.current.style.transition = 'transform 0.4s ease-in-out';
-            sliderRef.current.style.transform = `translateX(-${index * 360}px)`;
+            sliderRef.current.style.transform = `translateX(-${index * 320}px)`;
         }
     };
 
@@ -216,7 +216,7 @@ function Landing(props: ILandingProps) {
                 </div>
 
                 {/* Hover Boxes Slider */}
-                <div className="slider-container my-8 w-[25%] mx-auto sm:w-full">
+                <div className="slider-container my-8 w-[317px] mx-auto sm:w-full">
                     <div className="slider relative overflow-hidden">
                         <div className="slider-wrapper flex gap-0 transition-transform duration-300 ease-in-out" ref={infoSliderRef}>
                             {[{ id: 1, title: "India", content: "Explore the cultural diversity of India.", bg: "/images/india.png" },
