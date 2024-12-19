@@ -57,13 +57,13 @@ const NavBar: React.FC = () => {
                             <span className="relative w-6 h-6 flex items-center justify-center rounded-full bg-white text-black">
                                 <i className="fas fa-phone fa-flip-horizontal text-xs" />
                             </span>
-                            <a href="tel:+919873186168" className="text-white hover:underline">+91 987 318 6168</a>
+                            <a href="tel:+919873186168" className="text-white text-[16px] hover:underline">+91 987 318 6168</a>
                         </span>
                         <span className="flex items-center gap-2">
                             <i className="fas fa-envelope text-xl" />
                             <span className="flex flex-wrap">
-                                <a href="mailto:info@eazetours.com" className="text-white hover:underline">info@eazetours.com</a>
-                                <a href="mailto:harshit@eazetours.com" className="text-white hover:underline ml-1">, harshit@eazetours.com</a>
+                                <a href="mailto:info@eazetours.com" className="text-white text-[16px] hover:underline">info@eazetours.com</a>
+                                <a href="mailto:harshit@eazetours.com" className="text-white text-[16px] hover:underline ml-1">, harshit@eazetours.com</a>
                             </span>
                         </span>
                     </div>
