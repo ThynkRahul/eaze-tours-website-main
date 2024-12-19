@@ -41,7 +41,6 @@ const NavBar: React.FC = () => {
         { href: "/testimonials", label: "Testimonials" },
         { href: "/packages", label: "Packages" },
         { href: "/gallery", label: "Gallery" },
-        { href: "/contact", label: "Contact Us" }
     ];
 
     return (
@@ -107,41 +106,50 @@ const NavBar: React.FC = () => {
                         </button>
                     </div>
 
-                    {/* Desktop Navigation Links */}
+                    {/* Desktop Navigation Links (without Contact Us) */}
                     <div className="navbar-center md:flex flex-grow hidden">
                         <div className="flex items-center justify-center gap-4">
                             {navLinks.map((link, index) => (
                                 <Link key={index} href={link.href} passHref>
-                                    <span
-                                        className={`btn text-[16px] font-urbanist btn-ghost btn-sm rounded-btn hover:bg-gray-100 ${activePage === link.href
+                                    <button
+                                        className={`btn btn-ghost btn-sm rounded-btn ${activePage === link.href
                                             ? "text-[#6E9753]"
-                                            : "text-[#025C7A]"
-                                            }`}
+                                            : "text-[#025C7A]"}`
+                                        }
                                     >
                                         {link.label}
-                                    </span>
+                                    </button>
                                 </Link>
                             ))}
                         </div>
                     </div>
 
-                    {/* Mobile Sidebar Menu */}
+                    {/* Mobile Sidebar Menu (with Contact Us) */}
                     <div
                         className={`md:hidden fixed top-0 right-0 w-3/4 bg-white h-screen z-40 shadow-lg transform transition-transform duration-300 ${isMenuOpen ? "translate-x-0" : "translate-x-full"}`}
                     >
                         <div className="flex flex-col text-left mr-auto -mt-[320px] items-start px-4 gap-4 py-16">
                             {navLinks.map((link, index) => (
                                 <Link key={index} href={link.href} passHref>
-                                    <span
+                                    <button
                                         className={`btn btn-ghost btn-sm rounded-btn ${activePage === link.href
                                             ? "text-[#6E9753]"
-                                            : "text-[#025C7A]"
-                                            }`}
+                                            : "text-[#025C7A]"}`
+                                        }
                                     >
                                         {link.label}
-                                    </span>
+                                    </button>
                                 </Link>
                             ))}
+                            {/* Add Contact Us only in Mobile Menu */}
+                            <Link href="/contact" passHref>
+                                <button
+                                    className={`btn btn-ghost btn-sm rounded-btn ${activePage === "/contact" ? "text-[#6E9753]" : "text-[#025C7A]"}`
+                                    }
+                                >
+                                    Contact Us
+                                </button>
+                            </Link>
                         </div>
                     </div>
 
