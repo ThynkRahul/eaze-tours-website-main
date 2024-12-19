@@ -83,6 +83,11 @@ const NavBar: React.FC = () => {
                                 <i className="fab fa-facebook text-sm leading-lg" />
                             </span>
                         </Link>
+                        <Link href="https://www.pinterest.com/eazetourpackages/" passHref>
+                            <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
+                                <i className="fab fa-pinterest text-sm leading-lg" />
+                            </span>
+                        </Link>
                     </div>
                 </div>
             </div>
