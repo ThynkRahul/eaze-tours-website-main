@@ -291,7 +291,7 @@ function Landing(props: ILandingProps) {
                         <h3 className="text-[32px] font-semibold mb-2 sm:w-[60%] w-[80%] font-urbanist">India (Delhi, Varanasi, Agra)</h3>
                         <div>
                             <p className="mb-4 sm:w-[60%] w-[80%] font-urbanist">Embark on a royal journey through India, exploring Delhi's majestic monuments, Varanasi's spiritual ghats, and Agra's iconic Taj Mahal treasures.</p>
-                            <a href="/packages/21"><button className="px-4 py-4 font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
+                            <a href="/packages"><button className="px-4 py-4 font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
                                 See All Activities
                             </button></a>
                         </div>
@@ -314,7 +314,7 @@ function Landing(props: ILandingProps) {
                         <h3 className="text-[32px] font-semibold mb-2 sm:w-[60%] w-[80%] font-urbanist">Explore the Rich Heritage of Amritsar</h3>
                         <div>
                             <p className="mb-4 sm:w-[60%] w-[80%] font-urbanist">Explore Amritsar beyond the Golden Temple with curated tour packages that uncover hidden gems, vibrant culture, and historical treasures of this iconic city.</p>
-                            <a href="/packages/17"><button className="px-4 py-4 font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
+                            <a href="/packages"><button className="px-4 py-4 font-bold bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
                                 See All Activities
                             </button></a>
                         </div>
@@ -365,7 +365,7 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <a href="/packages/1">
+                            <a href="/packages">
                                 <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
                                     More Details
                                 </button></a>
@@ -402,7 +402,7 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <a href="/packages/7">
+                            <a href="/packages">
                                 <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
                                     More Details
                                 </button></a>
@@ -437,7 +437,7 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <a href="/packages/9">
+                            <a href="/packages">
                                 <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
                                     More Details
                                 </button></a>
@@ -475,7 +475,7 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <a href="/packages/16">
+                            <a href="/packages">
                                 <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
                                     More Details
                                 </button></a>
@@ -511,7 +511,7 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <a href="/packages/2">
+                            <a href="/packages">
                                 <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
                                     More Details
                                 </button>
@@ -546,7 +546,7 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <a href="/packages/28">
+                            <a href="/packages">
                                 <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
                                     More Details
                                 </button>
@@ -581,7 +581,7 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <a href="/packages/25">
+                            <a href="/packages">
                                 <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
                                     More Details
                                 </button>
@@ -615,7 +615,7 @@ function Landing(props: ILandingProps) {
                                 </div>
                             </div>
                             <hr />
-                            <a href="/packages/29">
+                            <a href="/packages">
                                 <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
                                     More Details
                                 </button>
