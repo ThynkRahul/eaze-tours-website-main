@@ -13,8 +13,8 @@ interface ILandingProps { }
 
 function Landing(props: ILandingProps) {
     const [tabName, setTabName] = useState("india");
-    const packages = packageData.filter((tourPackage) => tourPackage.Id <= 9 && tourPackage.Id > 3);
-    const testimonials = testimonialData.slice(0, 5);
+    const packages = packageData.filter((tourPackage) => tourPackage.Id <= 6 && tourPackage.Id > 3);
+    const testimonials = testimonialData.slice(0, 4);
 
     // Separate state and refs for each slider
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -37,6 +37,16 @@ function Landing(props: ILandingProps) {
             sliderRef.current.style.transform = `translateX(-${boxWidth.current * index}px)`;
         }
     };
+
+    const testimonialToIndex = (sliderRef: React.RefObject<HTMLDivElement>, index: number) => {
+        if (sliderRef.current) {
+            const currentWidth = window.innerWidth;
+            const boxWidth = currentWidth <= 640 ? 100 : 33.9; // 100% for mobile, 33.9% for larger screens
+            sliderRef.current.style.transition = 'transform 0.4s ease-in-out';
+            sliderRef.current.style.transform = `translateX(-${index * 360}px)`;
+        }
+    };
+
 
     const handleNextInfoBox = () => {
         setCurrentIndex((prevIndex) => (prevIndex < totalBoxes - visibleBoxes ? prevIndex + 1 : 0));
@@ -90,7 +100,7 @@ function Landing(props: ILandingProps) {
     }, [currentIndex]);
 
     useEffect(() => {
-        slideToIndex(testimonialSliderRef, testimonialIndex); // Slide to the current index for testimonials
+        testimonialToIndex(testimonialSliderRef, testimonialIndex); // Slide to the current index for testimonials
     }, [testimonialIndex]);
 
 
@@ -206,8 +216,7 @@ function Landing(props: ILandingProps) {
                 </div>
 
                 {/* Hover Boxes Slider */}
-
-                <div className="slider-container my-8 w-[315px] mx-auto sm:w-full">
+                <div className="slider-container my-8 w-[25%] mx-auto sm:w-full">
                     <div className="slider relative overflow-hidden">
                         <div className="slider-wrapper flex gap-0 transition-transform duration-300 ease-in-out" ref={infoSliderRef}>
                             {[{ id: 1, title: "India", content: "Explore the cultural diversity of India.", bg: "/images/india.png" },
