@@ -19,14 +19,14 @@ const TourTimeline = () => {
     ];
 
     const swiperImages = [
-        '/images/16/1.jpeg',
-        '/images/16/2.jpeg',
-        '/images/16/3.jpeg',
-        '/images/16/4.jpeg',
-        '/images/16/5.jpeg',
-        '/images/16/6.jpeg',
-        '/images/16/7.jpeg',
-        '/images/16/8.jpeg',
+        '/images/16/1.jpg',
+        '/images/16/2.jpg',
+        '/images/16/3.jpg',
+        '/images/16/4.jpg',
+        '/images/16/5.jpg',
+        '/images/16/6.jpg',
+        '/images/16/7.jpg',
+        '/images/16/8.jpg',
     ];
 
     return (
