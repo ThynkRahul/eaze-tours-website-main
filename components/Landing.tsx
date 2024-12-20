@@ -43,7 +43,7 @@ function Landing(props: ILandingProps) {
             const currentWidth = window.innerWidth;
             const boxWidth = currentWidth <= 640 ? 100 : 33.9; // 100% for mobile, 33.9% for larger screens
             sliderRef.current.style.transition = 'transform 0.4s ease-in-out';
-            sliderRef.current.style.transform = `translateX(-${index * 343}px)`;
+            sliderRef.current.style.transform = `translateX(-${index * 341}px)`;
         }
     };
 
