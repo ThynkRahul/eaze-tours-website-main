@@ -21,7 +21,7 @@ const TourTimeline = () => {
     ];
 
     const swiperImages = [
-        '/images/8/1.jpg',
+        '/images/8/1.jpeg',
         '/images/8/2.jpg',
         '/images/8/3.jpg',
         '/images/8/4.jpg',
