@@ -26,7 +26,7 @@ const about_us_images = [
 export default function About() {
     return (
       <div>
-          <div className="mt-16 m-5">
+          <div className="mt-[135px] m-5">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="content-center">
                 <div className="card card-side bg-base-100 shadow-xl mt-5">
