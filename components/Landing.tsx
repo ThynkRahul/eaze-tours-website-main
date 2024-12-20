@@ -672,7 +672,7 @@ function Landing(props: ILandingProps) {
                             ].map((testimonial, index) => (
                                 <div
                                     key={index}
-                                    className="testimonial-box flex flex-col justify-between relative flex-shrink-0 w-[305px] sm:w-[32%] ml-[4px] mr-[3px] sm:ml-[12px] sm:mr-[11px] my-3 bg-white rounded-[30px] shadow-[0px_0px_21.9px_0px_#00000029] overflow-visible group p-10"
+                                    className="testimonial-box flex flex-col justify-between relative flex-shrink-0 w-[310px] sm:w-[32%] ml-[4px] mr-[3px] sm:ml-[2px] sm:mr-[21px] my-3 bg-white rounded-[30px] shadow-[0px_0px_21.9px_0px_#00000029] overflow-visible group p-10"
                                 >
                                     {/* Customer Image */}
                                     <div className="flex justify-start gap-3 items-center mb-4">
