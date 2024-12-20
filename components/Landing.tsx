@@ -223,7 +223,7 @@ function Landing(props: ILandingProps) {
                             { id: 2, title: "Maldives", content: "Relax on the pristine beaches of Maldives.", bg: "/images/maldives.png" },
                             { id: 3, title: "Nepal", content: "Discover the Himalayan beauty in Nepal.", bg: "/images/nepal.png" },
                             { id: 4, title: "Bhutan", content: "Experience the peace and serenity of Bhutan.", bg: "/images/bhutan.png" },
-                            { id: 5, title: "India", content: "Explore the cultural diversity of India.", bg: "/images/india.png" }
+                            { id: 5, title: "Sri Lanka", content: "Discover the stunning beaches and rich heritage of Sri Lanka.", bg: "/images/SRI_LANKA.webp" }
                             ].map((box, index) => (
                                 <div
                                     key={index}
