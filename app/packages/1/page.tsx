@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 
-const TourTimeline = () => {
+const TravelItineraryTimeline = () => {
     const [currentSlide, setCurrentSlide] = useState(0);
 
     const timelineData = [
@@ -53,11 +53,7 @@ const TourTimeline = () => {
                                 key={index}
                                 src={image}
                                 alt={`Slide ${index}`}
-                                className={`absolute left-1/2 transform -translate-x-1/2 -translate-y-1/2 transition-opacity duration-500 ${index === currentSlide ? 'opacity-100 z-10' : 'opacity-0 z-0'
-                                    }`}
-                                style={{
-                                    top: '50%', // Centers vertically
-                                }}
+                                className={`absolute top-0 left-0 w-full h-full object-cover transition-opacity duration-500 ${index === currentSlide ? 'opacity-100 z-10' : 'opacity-0 z-0'}`}
                             />
                         ))}
                     </div>
@@ -113,4 +109,4 @@ const TourTimeline = () => {
     );
 };
 
-export default TourTimeline;
+export default TravelItineraryTimeline;
