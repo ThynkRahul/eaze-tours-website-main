@@ -96,7 +96,7 @@ const TourTimeline = () => {
                                     <time className={`text-2xl font-mono italic ${index % 2 === 0 ? 'text-right ml-[300px]' : 'text-left'}`}>
                                         {index + 1}
                                     </time>
-                                    <div className={`text-lg font-black ${index % 2 === 0 ? 'text-right' : 'text-left'}`}>
+                                    <div className={`text-lg font-black ${index % 2 === 0 ? 'text-right  ml-[35px]' : 'text-left'}`}>
                                         {item.title}
                                     </div>
                                     <p className={`text-md ${index % 2 === 0 ? 'text-right ml-[35px]' : 'text-left'}`}>
