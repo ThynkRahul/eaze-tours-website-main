@@ -46,11 +46,11 @@ function Footer() {
         <div className="w-full md:w-1/4 mb-8 pl-1 md:pl-[80px] md:pt-[40px]">
           <h5 className="text-lg font-semibold mb-4">Top Destinations</h5>
           <ul className="space-y-4">
-            <li><Link href="/destination/delhi" className="hover:text-blue-600 transition-colors">Delhi</Link></li>
-            <li><Link href="/destination/jaipur" className="hover:text-blue-600 transition-colors">Jaipur</Link></li>
-            <li><Link href="/destination/agra" className="hover:text-blue-600 transition-colors">Agra</Link></li>
-            <li><Link href="/destination/varanasi" className="hover:text-blue-600 transition-colors">Varanasi</Link></li>
-            <li><Link href="/destination/goa" className="hover:text-blue-600 transition-colors">Goa</Link></li>
+            <li><Link href="/packages/28" className="hover:text-blue-600 transition-colors">Delhi</Link></li>
+            <li><Link href="/packages/34" className="hover:text-blue-600 transition-colors">Jaipur</Link></li>
+            <li><Link href="/packages/35" className="hover:text-blue-600 transition-colors">Agra</Link></li>
+            <li><Link href="/packages/21" className="hover:text-blue-600 transition-colors">Varanasi</Link></li>
+            <li><Link href="/packages/16" className="hover:text-blue-600 transition-colors">Goa</Link></li>
           </ul>
         </div>
 
