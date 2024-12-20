@@ -115,4 +115,4 @@ const SouthIndiaTourTimeline = () => {
     );
 };
 
-export default TourTimeline;
+export default TravelItineraryTimeline;
