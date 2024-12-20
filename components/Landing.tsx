@@ -43,7 +43,7 @@ function Landing(props: ILandingProps) {
             const currentWidth = window.innerWidth;
             const boxWidth = currentWidth <= 640 ? 100 : 33.9; // 100% for mobile, 33.9% for larger screens
             sliderRef.current.style.transition = 'transform 0.4s ease-in-out';
-            sliderRef.current.style.transform = `translateX(-${index * 340}px)`;
+            sliderRef.current.style.transform = `translateX(-${index * 312}px)`;
         }
     };
 
@@ -672,7 +672,7 @@ function Landing(props: ILandingProps) {
                             ].map((testimonial, index) => (
                                 <div
                                     key={index}
-                                    className="testimonial-box flex flex-col justify-between relative flex-shrink-0 w-full sm:w-[32%] ml-[2px] mr-[1.7%] my-3 bg-white rounded-[30px] shadow-[0px_0px_21.9px_0px_#00000029] overflow-visible group p-10"
+                                    className="testimonial-box flex flex-col justify-between relative flex-shrink-0 w-[305px] sm:w-[32%] ml-[4px] mr-[3px] sm:ml-[12px] sm:mr-[11px] my-3 bg-white rounded-[30px] shadow-[0px_0px_21.9px_0px_#00000029] overflow-visible group p-10"
                                 >
                                     {/* Customer Image */}
                                     <div className="flex justify-start gap-3 items-center mb-4">
