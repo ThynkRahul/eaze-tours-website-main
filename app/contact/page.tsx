@@ -34,7 +34,7 @@ export default function ContactUs() {
 
     return (
         <div>
-            <div className="hero mt-16 min-h-screen bg-base-200 min-h-screen">
+            <div className="hero mt-[135px] min-h-screen bg-base-200 min-h-screen">
                 <div className={showToast}>
                     <div className="toast toast-top toast-center mt-16">
                         <div className="alert alert-success">
