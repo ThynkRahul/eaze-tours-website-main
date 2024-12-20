@@ -70,7 +70,7 @@ const gallery_images = [
 export default function Gallery() {
     return (
             <>
-            <div className="columns-1 md:columns-2 lg:columns-3 mt-16 mx-5">
+            <div className="columns-1 md:columns-2 lg:columns-3 mt-[135px] mx-5">
             {gallery_images.map((gallery_image, index) =>
 
                 <div className='card w-full shadow-xl m-3' key={index}>
