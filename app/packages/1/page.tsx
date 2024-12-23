@@ -30,7 +30,7 @@ const TravelItineraryTimeline = () => {
         '/images/1/5.jpeg',
         '/images/1/6.jpeg',
         '/images/1/7.jpeg',
-        '/images/1/8.jpeg'
+        '/images/1/8.jpeg',
         '/images/1/9.jpeg'
     ];
 
@@ -43,7 +43,7 @@ const TravelItineraryTimeline = () => {
     };
 
     return (
-        <div className="md:mx-16 mt-16 sm:mt-[135px]">
+        <div className="mt-16 md:mx-16 sm:mt-[135px]">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
                 {/* Carousel Section */}
                 <div className="relative h-screen max-h-screen w-full overflow-hidden bg-base-200">
@@ -89,13 +89,13 @@ const TravelItineraryTimeline = () => {
                                     </svg>
                                 </div>
                                 <div className={`timeline-${index % 2 === 0 ? 'start' : 'end'} mb-10`}>
-                                    <time className={`text-2xl font-mono italic ${index % 2 === 0 ? 'text-right ml-[300px]' : 'text-left'}`}>
+                                    <time className={`text-2xl font-mono italic text-left sm:text-left md:text-right ${index % 2 === 0 ? 'sm:ml-0 md:ml-[300px]' : 'sm:ml-0 md:ml-0'}`}>
                                         {index + 1}
                                     </time>
-                                    <div className={`text-lg font-black ${index % 2 === 0 ? 'text-right  ml-[35px]' : 'text-left'}`}>
+                                    <div className={`text-lg font-black text-left sm:text-left md:text-right ${index % 2 === 0 ? 'sm:ml-0 md:ml-[35px]' : 'sm:ml-0 md:ml-0'}`}>
                                         {item.title}
                                     </div>
-                                    <p className={`text-md ${index % 2 === 0 ? 'text-right ml-[35px]' : 'text-left'}`}>
+                                    <p className={`text-md text-left sm:text-left md:text-right ${index % 2 === 0 ? 'sm:ml-0 md:ml-[35px]' : 'sm:ml-0 md:ml-0'}`}>
                                         {item.description}
                                     </p>
                                 </div>
