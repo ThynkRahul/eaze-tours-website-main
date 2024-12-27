@@ -21,6 +21,9 @@ function Footer() {
             <a href="https://www.tripadvisor.in/Attraction_Review-g304551-d17734269-Reviews-EAZE_TOURS-New_Delhi_National_Capital_Territory_of_Delhi.html" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-600 transition-colors">
               <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300"><i className="fab fa-tripadvisor text-lg leading-lg" /></span>
             </a>
+            <a href="https://www.pinterest.com/eazetourpackages/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-600 transition-colors">
+              <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300"><i className="fab fa-pinterest text-sm leading-lg" /></span>
+            </a>
             <a href="https://www.facebook.com/eazetour/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-600 transition-colors">
               <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300"><i className="fab fa-facebook-f text-lg leading-lg" /></span>
             </a>
