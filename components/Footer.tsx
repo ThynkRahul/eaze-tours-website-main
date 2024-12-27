@@ -31,11 +31,11 @@ function Footer() {
         <div className="w-full md:w-1/4 mb-8 pl-1 md:pl-[80px] md:pt-[40px]">
           <h5 className="text-lg font-semibold mb-4">Useful Links</h5>
           <ul className="space-y-4">
-            <li><Link href="/about" className="hover:text-[#025c7a]-600 transition-colors">About us</Link></li>
-            <li><Link href="/contact" className="hover:text-[#025c7a]-600 transition-colors">Contact us</Link></li>
-            <li><Link href="/packages" className="hover:text-[#025c7a]-600 transition-colors">Packages</Link></li>
-            <li><Link href="/gallery" className="hover:text-[#025c7a]-600 transition-colors">Gallery</Link></li>
-            <li><Link href="/testimonials" className="hover:text-[#025c7a]-600 transition-colors">Testimonials</Link></li>
+            <li><Link href="/about" className="hover:text-[#025c7a] transition-colors">About us</Link></li>
+            <li><Link href="/contact" className="hover:text-[#025c7a] transition-colors">Contact us</Link></li>
+            <li><Link href="/packages" className="hover:text-[#025c7a] transition-colors">Packages</Link></li>
+            <li><Link href="/gallery" className="hover:text-[#025c7a] transition-colors">Gallery</Link></li>
+            <li><Link href="/testimonials" className="hover:text-[#025c7a] transition-colors">Testimonials</Link></li>
           </ul>
         </div>
 
@@ -43,11 +43,11 @@ function Footer() {
         <div className="w-full md:w-1/4 mb-8 pl-1 md:pl-[80px] md:pt-[40px]">
           <h5 className="text-lg font-semibold mb-4">Top Destinations</h5>
           <ul className="space-y-4">
-            <li><Link href="/packages/28" className="hover:text-[#025c7a]-600 transition-colors">Delhi</Link></li>
-            <li><Link href="/packages/34" className="hover:text-[#025c7a]-600 transition-colors">Jaipur</Link></li>
-            <li><Link href="/packages/35" className="hover:text-[#025c7a]-600 transition-colors">Agra</Link></li>
-            <li><Link href="/packages/21" className="hover:text-[#025c7a]-600 transition-colors">Varanasi</Link></li>
-            <li><Link href="/packages/16" className="hover:text-[#025c7a]-600 transition-colors">Goa</Link></li>
+            <li><Link href="/packages/28" className="hover:text-[#025c7a] transition-colors">Delhi</Link></li>
+            <li><Link href="/packages/34" className="hover:text-[#025c7a] transition-colors">Jaipur</Link></li>
+            <li><Link href="/packages/35" className="hover:text-[#025c7a] transition-colors">Agra</Link></li>
+            <li><Link href="/packages/21" className="hover:text-[#025c7a] transition-colors">Varanasi</Link></li>
+            <li><Link href="/packages/16" className="hover:text-[#025c7a] transition-colors">Goa</Link></li>
           </ul>
         </div>
 
@@ -58,14 +58,14 @@ function Footer() {
             <div className="flex items-start space-x-2">
               <i className="fa fa-phone-alt text-lg text-white-400 -mt-1" />
               <div>
-                <p className="text-sm"><a href="tel:+919873186168" className="hover:text-blue-600">+91 98731 86168</a></p>
-                <p className="text-sm"><a href="tel:+919911684818" className="hover:text-blue-600">+91 99116 84818</a></p>
+                <p className="text-sm"><a href="tel:+919873186168" className="hover:text-[#025c7a]">+91 98731 86168</a></p>
+                <p className="text-sm"><a href="tel:+919911684818" className="hover:text-[#025c7a]">+91 99116 84818</a></p>
               </div></div>
             <div className="flex items-start space-x-2">
               <i className="far fa-envelope text-lg text-white-400 -mt-1" />
               <div>
-                <p className="text-sm"><a href="mailto:info@eazetours.com;harshit@eazetours.com" className="hover:text-blue-600">info@eazetours.com</a></p>
-                <p className="text-sm"><a href="mailto:harshit@eazetours.com" className="hover:text-blue-600">harshit@eazetours.com</a></p>
+                <p className="text-sm"><a href="mailto:info@eazetours.com;harshit@eazetours.com" className="hover:text-[#025c7a]">info@eazetours.com</a></p>
+                <p className="text-sm"><a href="mailto:harshit@eazetours.com" className="hover:text-[#025c7a]">harshit@eazetours.com</a></p>
               </div>
             </div>
             <div className="flex items-start space-x-2">
@@ -79,7 +79,7 @@ function Footer() {
 
       {/* Copyright Section */}
       <div className="w-full bg-[#0D2000] text-white py-7 text-center justify-center border-t border-white border-opacity-50">
-        <p className="text-sm">&copy; Copyright <a href="/" className="hover:text-[#025c7a]-600">Eaze Tours</a> 2024. All Rights Reserved.</p>
+        <p className="text-sm">&copy; Copyright <a href="/" className="hover:text-[#025c7a]">Eaze Tours</a> 2024. All Rights Reserved.</p>
       </div>
     </footer>
   );
