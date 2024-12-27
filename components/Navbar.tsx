@@ -56,19 +56,19 @@ const NavBar: React.FC = () => {
                             <span className="relative w-6 h-6 flex items-center justify-center rounded-full bg-white text-black">
                                 <i className="fas fa-phone fa-flip-horizontal text-xs" />
                             </span>
-                            <a href="tel:+919873186168" className="text-white text-[16px] hover:underline">+91 987 318 6168</a>
+                            <a href="tel:+919873186168" className="text-white text-[16px]">+91 987 318 6168</a>
                         </span>
                         <span className="flex items-center gap-2">
                             <i className="fas fa-envelope text-[18px]" />
                             <span className="flex flex-wrap">
-                                <a href="mailto:info@eazetours.com" className="text-white text-[16px] hover:underline">info@eazetours.com</a>
-                                <a href="mailto:harshit@eazetours.com" className="text-white text-[16px] hover:underline ml-1">, harshit@eazetours.com</a>
+                                <a href="mailto:info@eazetours.com" className="text-white text-[16px]">info@eazetours.com</a>,
+                                <a href="mailto:harshit@eazetours.com" className="text-white text-[16px] ml-1">harshit@eazetours.com</a>
                             </span>
                         </span>
                     </div>
                     {/* Social Icons */}
                     <div className="flex gap-2">
-                        <Link href="https://www.tripadvisor.in/" passHref>
+                        <Link href="https://www.tripadvisor.in/Attraction_Review-g304551-d17734269-Reviews-EAZE_TOURS-New_Delhi_National_Capital_Territory_of_Delhi.html" passHref>
                             <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
                                 <i className="fab fa-tripadvisor text-sm leading-lg" />
                             </span>
