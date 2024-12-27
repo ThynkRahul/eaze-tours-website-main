@@ -9,13 +9,13 @@ function Footer() {
       <div className="container mx-auto flex flex-col md:flex-row gap-0 justify-between p-6 md:p-10">
         {/* First Column - Logo, Content, and Social Icons */}
         <div className="w-full md:w-1/4 mb-8 text-left pl-1 md:pl-8">
-          <Image
+          <a href="/"><Image
             className="z-0 mb-4 md:mx-0"
             src={signature}
             width={200}
             height={87}
             alt="Logo"
-          />
+          /></a>
           <p className="text-sm mt-2 mb-4">Established in 2015, Eaze Tours is driven by three travel professionals, with decades of combined varied experience in the tour industry.</p>
           <div className="flex justify-start md:justify-start space-x-4 my-4">
             <a href="https://www.tripadvisor.in/Attraction_Review-g304551-d17734269-Reviews-EAZE_TOURS-New_Delhi_National_Capital_Territory_of_Delhi.html" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-600 transition-colors">
@@ -81,7 +81,7 @@ function Footer() {
 
       {/* Copyright Section */}
       <div className="w-full bg-[#0D2000] text-white py-7 text-center justify-center border-t border-white border-opacity-50">
-        <p className="text-sm">&copy; Copyright eazetours.com  2024. All right reserved.</p>
+        <p className="text-sm">&copy; Copyright <a href="/">Eaze Tours</a> 2024. All Rights Reserved.</p>
       </div>
     </footer>
   );
