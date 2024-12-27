@@ -68,7 +68,7 @@ const NavBar: React.FC = () => {
                     </div>
                     {/* Social Icons */}
                     <div className="flex gap-2">
-                        <Link href="https://www.tripadvisor.in/" passHref>
+                        <Link href="https://www.tripadvisor.in/Attraction_Review-g304551-d17734269-Reviews-EAZE_TOURS-New_Delhi_National_Capital_Territory_of_Delhi.html" passHref>
                             <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300">
                                 <i className="fab fa-tripadvisor text-sm leading-lg" />
                             </span>
