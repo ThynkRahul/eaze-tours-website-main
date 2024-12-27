@@ -56,13 +56,13 @@ const NavBar: React.FC = () => {
                             <span className="relative w-6 h-6 flex items-center justify-center rounded-full bg-white text-black">
                                 <i className="fas fa-phone fa-flip-horizontal text-xs" />
                             </span>
-                            <a href="tel:+919873186168" className="text-white text-[16px] hover:text-[#025c7a]">+91 987 318 6168</a>
+                            <a href="tel:+919873186168" className="text-white text-[16px] hover:text-[#6e9753]">+91 987 318 6168</a>
                         </span>
                         <span className="flex items-center gap-2">
                             <i className="fas fa-envelope text-[18px]" />
                             <span className="flex flex-wrap">
-                                <a href="mailto:info@eazetours.com" className="text-white text-[16px] hover:text-[#025c7a]">info@eazetours.com</a>
-                                <a href="mailto:harshit@eazetours.com" className="text-white text-[16px] hover:text-[#025c7a] ml-1">, harshit@eazetours.com</a>
+                                <a href="mailto:info@eazetours.com" className="text-white text-[16px] hover:text-[#6e9753]">info@eazetours.com</a>
+                                <a href="mailto:harshit@eazetours.com" className="text-white text-[16px] hover:text-[#6e9753] ml-1">, harshit@eazetours.com</a>
                             </span>
                         </span>
                     </div>
@@ -106,7 +106,7 @@ const NavBar: React.FC = () => {
 
                     {/* Hamburger Menu for Mobile */}
                     <div className="md:hidden flex items-center pr-3 relative z-50">
-                        <button onClick={() => setIsMenuOpen(!isMenuOpen)} className="text-[#025C7A]">
+                        <button onClick={() => setIsMenuOpen(!isMenuOpen)} className="text-[#6e9753]">
                             <i className={`fas ${isMenuOpen ? "fa-times" : "fa-bars"} text-xl`} />
                         </button>
                     </div>
@@ -119,7 +119,7 @@ const NavBar: React.FC = () => {
                                     <button
                                         className={`btn btn-ghost btn-sm rounded-btn ${activePage === link.href
                                             ? "text-[#6E9753] text-[16px]"
-                                            : "text-[#025C7A]  text-[16px]"}`
+                                            : "text-[#6e9753]  text-[16px]"}`
                                         }
                                     >
                                         {link.label}
@@ -139,7 +139,7 @@ const NavBar: React.FC = () => {
                                     <button
                                         className={`btn btn-ghost btn-sm rounded-btn ${activePage === link.href
                                             ? "text-[#6E9753]  text-[16px]"
-                                            : "text-[#025C7A]  text-[16px]"}`
+                                            : "text-[#6e9753]  text-[16px]"}`
                                         }
                                     >
                                         {link.label}
@@ -149,7 +149,7 @@ const NavBar: React.FC = () => {
                             {/* Add Contact Us only in Mobile Menu */}
                             <Link href="/contact" passHref>
                                 <button
-                                    className={`btn btn-ghost btn-sm rounded-btn ${activePage === "/contact" ? "text-[#6E9753]" : "text-[#025C7A]"}`
+                                    className={`btn btn-ghost btn-sm rounded-btn ${activePage === "/contact" ? "text-[#6E9753]" : "text-[#6e9753]"}`
                                     }
                                 >
                                     Contact Us
@@ -161,7 +161,7 @@ const NavBar: React.FC = () => {
                     {/* Contact Us Button (Desktop) */}
                     <div className="navbar-end md:flex px-4 hidden">
                         <Link href="/contact" passHref>
-                            <button className="btn flex items-center justify-center w-[173px] h-[46px] rounded-[41px] bg-[#025C7A] pr-[6px] pl-[10px] hover:bg-[#6E9753]">
+                            <button className="btn flex items-center justify-center w-[173px] h-[46px] rounded-[41px] bg-[#6e9753] pr-[6px] pl-[10px] hover:bg-[#6E9753]">
                                 <span
                                     className="mr-2 text-white"
                                     style={{
@@ -175,7 +175,7 @@ const NavBar: React.FC = () => {
                                     Contact Us
                                 </span>
                                 <span className="relative w-8 h-8 flex items-center justify-center rounded-full bg-white">
-                                    <i className="fas fa-arrow-right text-[#025C7A] text-lg " />
+                                    <i className="fas fa-arrow-right text-[#6e9753] text-lg " />
                                 </span>
                             </button>
                         </Link>
