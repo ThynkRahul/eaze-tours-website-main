@@ -81,7 +81,7 @@ function Footer() {
 
       {/* Copyright Section */}
       <div className="w-full bg-[#0D2000] text-white py-7 text-center justify-center border-t border-white border-opacity-50">
-        <p className="text-sm">&copy; Copyright <a href="/">Eaze Tours</a> 2024. All Rights Reserved.</p>
+        <p className="text-sm">&copy; Copyright <a href="/" className="hover:text-blue-600">Eaze Tours</a> 2024. All Rights Reserved.</p>
       </div>
     </footer>
   );
