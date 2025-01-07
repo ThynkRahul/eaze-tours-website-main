@@ -146,7 +146,7 @@ const NavBar: React.FC = () => {
                         className={`md:hidden fixed top-0 right-0 w-3/4 bg-white h-screen z-40 shadow-lg transform transition-transform duration-300 ${isMenuOpen ? "translate-x-0" : "translate-x-full"
                             }`}
                     >
-                        <div className="flex flex-col text-left items-start px-4 gap-4 py-16">
+                        <div className="flex flex-col absolute top-0 text-left items-start px-4 gap-4 py-16">
                             {navLinks.map((link, index) => (
                                 <Link key={index} href={link.href} passHref>
                                     <button
