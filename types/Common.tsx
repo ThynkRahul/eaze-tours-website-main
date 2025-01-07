@@ -1,14 +1,14 @@
 interface IItineraryLineDataType {
-    name: {[key:string]: string}
-    description: {[key:string]: string}
-    Id: {[key:string]: string}
-    day: {[key:string]: string}
+    name: { [key: string]: string }
+    description: { [key: string]: string }
+    Id: { [key: string]: string }
+    day: { [key: string]: string }
 
 }
 
 
 interface IItineraryDetailDataType {
-    M : IItineraryLineDataType   
+    M: IItineraryLineDataType
 }
 
 interface IPackageDetailDataType {
@@ -26,7 +26,8 @@ interface ITestimonialDataType {
     User: string;
     Content: string;
     Location: string;
+    Img: string;
 }
 
 
-export type { IPackageDetailDataType, IItineraryDetailDataType,  IItineraryLineDataType, ITestimonialDataType }
+export type { IPackageDetailDataType, IItineraryDetailDataType, IItineraryLineDataType, ITestimonialDataType }
