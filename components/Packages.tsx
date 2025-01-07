@@ -67,7 +67,7 @@ function PackagesList() {
                     </ul>
                 </details>
             </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 container mx-auto">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 mx-8 my-8">
                 {packagesList.map(tourPackage => (
                     <div key={tourPackage.Id}>
                         <PackageSummaryCard tourPackage={tourPackage}></PackageSummaryCard>
