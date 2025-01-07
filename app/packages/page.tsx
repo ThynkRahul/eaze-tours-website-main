@@ -1,27 +1,27 @@
 'use client';
 
-import PackagesList from "../../components/Packages";
-import PackageDetail from '../../components/PackageDetail';
+import PackagesList from "../../../components/Packages";
+import PackageDetail from '../../../components/PackageDetail';
 import { notFound } from 'next/navigation';
 
 
-export default function Packages ({params}: {params: { slug? :string[]}}) {
-  const { slug  } = params;
-  if(!slug) {
+export default function Packages({ params }: { params: { slug?: string[] } }) {
+  const { slug } = params;
+  if (!slug) {
     return (
       <div>
-          <div className="mt-16">
-            <PackagesList />
-          </div>
+        <div className="mt-[78px] sm:mt-[135px]">
+          <PackagesList />
+        </div>
       </div>
     )
   }
-  else if(slug.length == 1) {
+  else if (slug.length == 1) {
     const packageId = parseInt(slug[0])
-    if(packageId < 36 && packageId > 0 && !isNaN(packageId)) {
+    if (packageId < 36 && packageId > 0 && !isNaN(packageId)) {
       return (
         <div>
-          <div className="mt-16">
+          <div className="mt-[78px] sm:mt-[135px]">
             <PackageDetail packageId={packageId} />
           </div>
         </div>
