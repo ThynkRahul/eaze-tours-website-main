@@ -40,7 +40,7 @@ function PackagesList() {
     }
     return (
         <>
-            <div role="tablist" className="hidden lg:tabs lg:tabs-boxed justify-center mt-[135px]">
+            <div role="tablist" className="hidden lg:tabs lg:tabs-boxed justify-center">
                 <button role="tab" className={"tab " + (tabName == "all" ? "tab-active" : "")} onClick={e => handleTabClick("all")}>All Packages</button>
                 <button role="tab" className={"tab " + (tabName == "adventure" ? "tab-active" : "")} onClick={e => handleTabClick("adventure")}>Adventure Tours</button>
                 <button role="tab" className={"tab " + (tabName == "ayurveda" ? "tab-active" : "")} onClick={e => handleTabClick("ayurveda")}>Ayurveda</button>
@@ -67,7 +67,7 @@ function PackagesList() {
                     </ul>
                 </details>
             </div>
-            <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-2 m-1 place-items-center">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 container mx-auto">
                 {packagesList.map(tourPackage => (
                     <div key={tourPackage.Id}>
                         <PackageSummaryCard tourPackage={tourPackage}></PackageSummaryCard>
