@@ -48,6 +48,10 @@ const NavBar: React.FC = () => {
         if (isMenuOpen) setIsMenuOpen(false); // Close the menu in mobile view when a link is clicked
     };
 
+    const handleContactClick = () => {
+        setActivePage(""); // Reset activePage to remove highlight from all links
+    };
+
     return (
         <div className="fixed top-0 left-0 w-full z-50">
             {/* Pre-header */}
@@ -110,8 +114,10 @@ const NavBar: React.FC = () => {
                 >
                     {/* Logo */}
                     <div className="navbar-start px-4 flex items-center" style={{ marginTop: "-10px" }}>
-                        <Link href="/" passHref>
-                            <Image src={logo} width={128} height={48} alt="Logo" />
+                        <Link href="/" legacyBehavior>
+                            <a onClick={() => handleLinkClick("/")}>
+                                <Image src={logo} width={128} height={48} alt="Logo" />
+                            </a>
                         </Link>
                     </div>
 
@@ -176,7 +182,10 @@ const NavBar: React.FC = () => {
                     {/* Contact Us Button (Desktop) */}
                     <div className="navbar-end md:flex px-4 hidden">
                         <Link href="/contact" passHref>
-                            <button className="btn flex items-center justify-center w-[173px] h-[46px] rounded-[41px] bg-[#025C7A] pr-[6px] pl-[10px] hover:bg-[#6E9753]">
+                            <button
+                                onClick={handleContactClick}
+                                className="btn flex items-center justify-center w-[173px] h-[46px] rounded-[41px] bg-[#025C7A] pr-[6px] pl-[10px] hover:bg-[#6E9753]"
+                            >
                                 <span
                                     className="mr-2 text-white"
                                     style={{
