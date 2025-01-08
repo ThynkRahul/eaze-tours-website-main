@@ -1,40 +1,38 @@
 import React, { useState, useEffect, useRef } from "react";
-import Image from 'next/image';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { EffectFade, Navigation, Pagination, Autoplay } from "swiper/modules";
 import PackageSummaryCard from './PackageSummaryCard';
-import CountriesList from "./CountriesList";
 import Testimonial from "./Testimonial";
 import backgroundImage from '../public/images/background_2.jpg';
 import backgroundImage2 from '../public/images/background_4.jpeg';
 import backgroundImage4 from '../public/images/background_5.jpg';
 import backgroundImage3 from '../public/images/background_6.jpg';
-
-
 import packageData from '../data/packages.json'
 import testimonialData from '../data/testimonials.json'
-import { ITestimonialDataType, IPackageDetailDataType } from "../types/Common"
+import Image from 'next/image';
+
+const images = [
+    '/images/gallery/12.jpg',
+    '/images/gallery/20.jpg',
+    '/images/gallery/10.jpg',
+    '/images/gallery/9.jpg',
+    '/images/gallery/19.jpg',
+    '/images/gallery/16.jpg',
+    '/images/gallery/26.jpg',
+    '/images/gallery/28.jpg'
+];
 
 interface ILandingProps {
-
 }
 
 function Landing(props: ILandingProps) {
-    const [tabName, setTabName] = useState("india");
     const packages = packageData.filter(tourPackage => tourPackage.Id <= 9 && tourPackage.Id > 1);
     const testimonials = testimonialData.slice(0, 9);
-
-    const handleTabClick = (tab: string) => () => {
-        setTabName(tab);
-    };
-
     const [currentIndex, setCurrentIndex] = useState(0);
-
     const totalBoxes = 4; // Number of info boxes
     const [visibleBoxes, setVisibleBoxes] = useState(1);
     const boxWidth = useRef<number>(0);
     const infoSliderRef = useRef<HTMLDivElement>(null);
-
     const slideToIndex = (sliderRef: React.RefObject<HTMLDivElement>, index: number) => {
         if (sliderRef.current) {
             sliderRef.current.style.transition = 'transform 0.4s ease-in-out';
@@ -118,6 +116,28 @@ function Landing(props: ILandingProps) {
     useEffect(() => {
         slideToIndex(infoSliderRef, currentIndex); // Slide to the current index for info boxes
     }, [currentIndex]);
+
+    const [isModalOpen, setIsModalOpen] = useState(false);
+    const [currentImageIndex, setCurrentImageIndex] = useState(0);
+
+    const openModal = (index: number) => {
+        setCurrentImageIndex(index);
+        setIsModalOpen(true);
+    };
+
+    const closeModal = () => {
+        setIsModalOpen(false);
+    };
+
+    const nextImage = () => {
+        setCurrentImageIndex((prevIndex) => (prevIndex + 1) % images.length);
+    };
+
+    const prevImage = () => {
+        setCurrentImageIndex(
+            (prevIndex) => (prevIndex - 1 + images.length) % images.length
+        );
+    };
 
     return (
         <>
@@ -429,25 +449,69 @@ function Landing(props: ILandingProps) {
                 </div>
             </div >
             {/* Gallery Section */}
-            < div className="w-full py-16 bg-white" >
+            <div className="w-full py-16 bg-white">
                 <div className="my-12 max-w-screen-xl mx-8">
                     <div className="flex justify-between items-center mb-8">
                         <h2 className="text-2xl font-semibold text-black text-center sm:text-left" style={{ fontSize: '32px' }}>
                             The Unforgettable Tour Gallery
                         </h2>
-                    </div></div>
-
-                <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-screen-xl mx-8">
-                    <div className="aspect-square bg-cover bg-center rounded-[23px]" style={{ backgroundImage: 'url(/images/glry_img1.png)' }}></div>
-                    <div className="aspect-square bg-cover bg-center rounded-[23px]" style={{ backgroundImage: 'url(/images/glry_img2.png)' }}></div>
-                    <div className="aspect-square bg-cover bg-center rounded-[23px]" style={{ backgroundImage: 'url(/images/glry_img3.png)' }}></div>
-                    <div className="aspect-square bg-cover bg-center rounded-[23px]" style={{ backgroundImage: 'url(/images/glry_img4.png)' }}></div>
-                    <div className="aspect-square bg-cover bg-center rounded-[23px]" style={{ backgroundImage: 'url(/images/glry_img5.png)' }}></div>
-                    <div className="aspect-square bg-cover bg-center rounded-[23px]" style={{ backgroundImage: 'url(/images/glry_img6.png)' }}></div>
-                    <div className="aspect-square bg-cover bg-center rounded-[23px]" style={{ backgroundImage: 'url(/images/glry_img7.png)' }}></div>
-                    <div className="aspect-square bg-cover bg-center rounded-[23px]" style={{ backgroundImage: 'url(/images/glry_img8.png)' }}></div>
+                    </div>
                 </div>
-            </div >
+
+                {/* Gallery Grid */}
+                <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 max-w-screen-xl mx-8">
+                    {images.map((image, index) => (
+                        <div key={index} className="relative group">
+                            <Image
+                                src={image}
+                                alt={`Gallery Image ${index + 1}`}
+                                className="aspect-square object-cover rounded-[23px] transition-all duration-300 transform group-hover:scale-110 group-hover:opacity-90 cursor-pointer"
+                                width={300}
+                                height={300}
+                                onClick={() => openModal(index)} // Open modal on click
+                            />
+                        </div>
+                    ))}
+                </div>
+
+                {/* Modal for Full-Screen Image */}
+                {isModalOpen && (
+                    <div className="fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center z-50">
+                        <div className="relative">
+                            <button
+                                onClick={closeModal}
+                                className="absolute top-4 right-4 text-white text-3xl font-bold z-50"
+                            >
+                                ×
+                            </button>
+                            <div className="relative max-w-full max-h-full">
+                                <Image
+                                    src={images[currentImageIndex]}
+                                    alt="Full-Screen Image"
+                                    className="object-contain max-w-full max-h-screen"
+                                    width={1200}
+                                    height={800}
+                                />
+                            </div>
+
+                            {/* Navigation buttons */}
+                            <button
+                                onClick={prevImage}
+                                className="absolute left-4 top-1/2 transform -translate-y-1/2 text-white text-3xl"
+                            >
+                                &#60;
+                            </button>
+                            <button
+                                onClick={nextImage}
+                                className="absolute right-4 top-1/2 transform -translate-y-1/2 text-white text-3xl"
+                            >
+                                &#62;
+                            </button>
+                        </div>
+                    </div>
+                )}
+            </div>
+
             {/* "See All Destinations" Button */}
             < div className="flex justify-center items-center mb-[80px] gap-4 mx-8 sm:mx-auto" >
                 <a href="/gallery">
