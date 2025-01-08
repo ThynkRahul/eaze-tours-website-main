@@ -96,9 +96,7 @@ export default function Gallery() {
     };
 
     return (
-        <div className="mt-16 mx-5">
-            <h2 className="text-3xl font-bold text-center text-gray-800 mb-12">Gallery</h2>
-
+        <div className="mt-[78px] sm:mt-[145px] mx-8 mb-12">
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {gallery_images.map((gallery_image, index) => (
                     <div
