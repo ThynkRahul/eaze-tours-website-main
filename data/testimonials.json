@@ -17,7 +17,7 @@
         "Location": "Costa Rica",
         "Year": 2023,
         "Month": 3,
-        "Img": "/images/female.svg"
+        "Img": "/images/male.svg"
     },
     {
         "Id": 19,
@@ -52,10 +52,17 @@
     },
     {
         "Id": 4,
-        "User": "Erika & Karim",
+        "User": "Erika",
         "Content": "Dear Manoj,\nGreat to meet you and to be in contact with you.\nThank you for your timely message and your willingness to accommodate to our schedule. Really\nappreciated!  We would like to thank you for your efficiency to make our tour so comfortable.\nLooking forwards to meeting you again in near future.",
         "Location": "Mexico city",
         "Img": "/images/female.svg"
+    },
+    {
+        "Id": 4,
+        "User": "Karim",
+        "Content": "Dear Manoj,\nGreat to meet you and to be in contact with you.\nThank you for your timely message and your willingness to accommodate to our schedule. Really\nappreciated!  We would like to thank you for your efficiency to make our tour so comfortable.\nLooking forwards to meeting you again in near future.",
+        "Location": "Mexico city",
+        "Img": "/images/male.svg"
     },
     {
         "Id": 15,
@@ -167,7 +174,7 @@
         "Location": "",
         "Year": 2019,
         "Month": 12,
-        "Img": "/images/female.svg"
+        "Img": "/images/male.svg"
     },
     {
         "Id": 33,
@@ -177,16 +184,46 @@
         "Location": "",
         "Year": 2019,
         "Month": 12,
+        "Img": "/images/male.svg"
+    },
+    {
+        "Id": 21,
+        "User": "Gianna",
+        "Title": "Highly recommended, a must for your trip.",
+        "Content": "Manoj and his team made my first trip to India absolutely seamless. Always on time, and getting me where I needed to go. When you use Eaze yours it takes away the anxiety of of visiting a new foreign place. Not only are they on time and super helpful, but also very friendly and welcoming. They make you feel like family and really made my trip special because I didn’t have to worry about anything, I could just enjoy the magic of India! HIGHLY Recommend… I know I will be using this company for my return to India hopefully sooner than later. Thanks SO much guys!!!",
+        "Location": "",
+        "Year": 2022,
+        "Month": 11,
         "Img": "/images/female.svg"
     },
     {
-        "Id": 34,
-        "User": "Katherine T",
-        "Title": "EAZE Tours made it happen!",
-        "Content": "On an extensive (12 day) tour of South India, EAZE Tours didn't fail, but managed to figure out all difficult problems with success. Manoj kept us safe and on schedule. The hotel choices the company made were all very nice. The trip was difficult because it was a trip through south west India. This wouldn't have been possible without help from a tour company.",
-        "Location": "",
-        "Year": 2019,
-        "Month": 12,
+        "Id": 22,
+        "User": "Kandice S",
+        "Title": "A great experience",
+        "Content": "Manoj and his team were incredible. They were there to assist our group of 18 from the second we stepped out of baggage claim until we walked through the entrance to catch our departing flight. When I personally had my flight cancelled and rescheduled the Eaze Tours team was able to help me recover info that I would need to fly that wasnt sent to me by my airline. Manoj is knowledgeable, friendly, professional and efficient. He helped make our groups entire experience of India (and the chaos that often comes with it) truly wonderful. Highly recommend.",
+        "Location": "USA",
+        "Year": 2022,
+        "Month": 11,
+        "Img": "/images/female.svg"
+    },
+    {
+        "Id": 28,
+        "User": "Moira A",
+        "Title": "Experience of a lifetime!",
+        "Content": "This was my first trip to India, and it exceeded all my expectations. We visited Rajasthan, and then extended for a couple of days in Delhi/Agra. The colors, architecture, food, handicrafts and people were absolutely amazing. Everything we wanted to see or do, Manoj Singh made it happen. I travel for a living, so I know how difficult it can be to manage a group, coordinating transportation, hotel stays, meals, sightseeing, side excursions and more. Manoj was kind, professional, patient, knowledgeable ... and fun! I recommend him without hesitation. If you're going to India contact him!",
+        "Location": "USA",
+        "Year": 2020,
+        "Month": 3,
+        "Img": "/images/female.svg"
+    },
+    {
+        "Id": 18,
+        "User": "Nisa Sanz",
+        "Title": "The most amazing experience in India",
+        "Content": "Manoj and his team at Eaze managed our tour of 21 women traveling for the first time in India during two weeks. Our group was complex to manage as we were always asking for help or demanding all sort of services from hotels and restaurants. Manoj was always with is solving everything for us. Our trip was smooth, safe, on time and absolutely enjoyable. If I ever come back to India and I will asl Eaze to be my tour operator. They go for the extra mile always big a big smile and detail oriented. We are now back home and miss all the hospitality and professionalism from Manoj and his team. They the best!",
+        "Location": "Costa Rica",
+        "Year": 2023,
+        "Month": 3,
         "Img": "/images/female.svg"
     },
     {
@@ -210,63 +247,13 @@
         "Img": "/images/female.svg"
     },
     {
-        "Id": 18,
-        "User": "Nisa Sanz",
-        "Title": "The most amazing experience in India",
-        "Content": "Manoj and his team at Eaze managed our tour of 21 women traveling for the first time in India during two weeks. Our group was complex to manage as we were always asking for help or demanding all sort of services from hotels and restaurants. Manoj was always with is solving everything for us. Our trip was smooth, safe, on time and absolutely enjoyable. If I ever come back to India and I will asl Eaze to be my tour operator. They go for the extra mile always big a big smile and detail oriented. We are now back home and miss all the hospitality and professionalism from Manoj and his team. They the best!",
-        "Location": "Costa Rica",
-        "Year": 2023,
-        "Month": 3,
-        "Img": "/images/female.svg"
-    },
-    {
-        "Id": 21,
-        "User": "Gianna",
-        "Title": "Highly recommended, a must for your trip.",
-        "Content": "Manoj and his team made my first trip to India absolutely seamless. Always on time, and getting me where I needed to go. When you use Eaze yours it takes away the anxiety of of visiting a new foreign place. Not only are they on time and super helpful, but also very friendly and welcoming. They make you feel like family and really made my trip special because I didn’t have to worry about anything, I could just enjoy the magic of India! HIGHLY Recommend… I know I will be using this company for my return to India hopefully sooner than later. Thanks SO much guys!!!",
+        "Id": 34,
+        "User": "Katherine T",
+        "Title": "EAZE Tours made it happen!",
+        "Content": "On an extensive (12 day) tour of South India, EAZE Tours didn't fail, but managed to figure out all difficult problems with success. Manoj kept us safe and on schedule. The hotel choices the company made were all very nice. The trip was difficult because it was a trip through south west India. This wouldn't have been possible without help from a tour company.",
         "Location": "",
-        "Year": 2022,
-        "Month": 11,
-        "Img": "/images/female.svg"
-    },
-    {
-        "Id": 22,
-        "User": "Kandice S",
-        "Title": "A great experience",
-        "Content": "Manoj and his team were incredible. They were there to assist our group of 18 from the second we stepped out of baggage claim until we walked through the entrance to catch our departing flight. When I personally had my flight cancelled and rescheduled the Eaze Tours team was able to help me recover info that I would need to fly that wasnt sent to me by my airline. Manoj is knowledgeable, friendly, professional and efficient. He helped make our groups entire experience of India (and the chaos that often comes with it) truly wonderful. Highly recommend.",
-        "Location": "USA",
-        "Year": 2022,
-        "Month": 11,
-        "Img": "/images/female.svg"
-    },
-    {
-        "Id": 12,
-        "User": "Mikkitrow",
-        "Title": "Another Incredible Trip",
-        "Content": "I traveled with Eaze Tours in October 2023 to Mumbai, Varanasi and Kolkata. This was my second trip with Eaze and Harshit coordinating logistics and planning our itinerary around India, and I highly recommend them to anyone looking to plan a tour of India. Eaze and their team pay meticulous attention to details - everything from airport transfers, to local tours, to lodging, meals, and anything you need in between is thoughtfully planned out and of the highest quality and dependability. The itineraries feel customized and personalized to the needs and interests of the group, with enough flexibility and responsiveness from the team to allow for on the go changes during the trip based on the group’s interests, energy, etc. I always feel confident and at ease with Harshit and the Eaze Team coordinating logistics for my travels. Thank you for another memorable experience, Harshit!",
-        "Location": "USA",
-        "Year": 2023,
-        "Month": 10,
-        "Img": "/images/female.svg"
-    },
-    {
-        "Id": 25,
-        "User": "JP",
-        "Title": "Fantastic First Trip to India",
-        "Content": "My wife and I just returned from our first amazing trip to India. As travellers know, when it comes to travelling to third world countries, a local agent really is a necessity. We were recommended to Eaze Tours by good friends . Right from the first stages of planning our trip we found Mr Manoj Singh to be a true professional travel agent. All emails were promptly replied to. All details were taken care of. Together with Eaze Tours we determined an itinerary of the places we wanted to see. Mr Singh arranged for all our internal flights ,transfers, hotel bookings ,drivers & guides. Everything worked like clockwork. Eaze Tours were in constant contact with us during our two week stay to make sure that everything was ok (even notifying us of flight delays). This obviously contributed to our fantastic experience of India. I must commend Eaze Tours and Mr Singh for their dedication, professionalism and eagerness to give the best service possible.Thank you and Namaste",
-        "Location": "USA",
-        "Year": 2020,
-        "Month": 3,
-        "Img": "/images/female.svg"
-    },
-    {
-        "Id": 28,
-        "User": "Moira A",
-        "Title": "Experience of a lifetime!",
-        "Content": "This was my first trip to India, and it exceeded all my expectations. We visited Rajasthan, and then extended for a couple of days in Delhi/Agra. The colors, architecture, food, handicrafts and people were absolutely amazing. Everything we wanted to see or do, Manoj Singh made it happen. I travel for a living, so I know how difficult it can be to manage a group, coordinating transportation, hotel stays, meals, sightseeing, side excursions and more. Manoj was kind, professional, patient, knowledgeable ... and fun! I recommend him without hesitation. If you're going to India contact him!",
-        "Location": "USA",
-        "Year": 2020,
-        "Month": 3,
+        "Year": 2019,
+        "Month": 12,
         "Img": "/images/female.svg"
     },
     {
@@ -290,6 +277,26 @@
         "Img": "/images/female.svg"
     },
     {
+        "Id": 12,
+        "User": "Mikkitrow",
+        "Title": "Another Incredible Trip",
+        "Content": "I traveled with Eaze Tours in October 2023 to Mumbai, Varanasi and Kolkata. This was my second trip with Eaze and Harshit coordinating logistics and planning our itinerary around India, and I highly recommend them to anyone looking to plan a tour of India. Eaze and their team pay meticulous attention to details - everything from airport transfers, to local tours, to lodging, meals, and anything you need in between is thoughtfully planned out and of the highest quality and dependability. The itineraries feel customized and personalized to the needs and interests of the group, with enough flexibility and responsiveness from the team to allow for on the go changes during the trip based on the group’s interests, energy, etc. I always feel confident and at ease with Harshit and the Eaze Team coordinating logistics for my travels. Thank you for another memorable experience, Harshit!",
+        "Location": "USA",
+        "Year": 2023,
+        "Month": 10,
+        "Img": "/images/female.svg"
+    },
+    {
+        "Id": 25,
+        "User": "JP",
+        "Title": "Fantastic First Trip to India",
+        "Content": "My wife and I just returned from our first amazing trip to India. As travellers know, when it comes to travelling to third world countries, a local agent really is a necessity. We were recommended to Eaze Tours by good friends . Right from the first stages of planning our trip we found Mr Manoj Singh to be a true professional travel agent. All emails were promptly replied to. All details were taken care of. Together with Eaze Tours we determined an itinerary of the places we wanted to see. Mr Singh arranged for all our internal flights ,transfers, hotel bookings ,drivers & guides. Everything worked like clockwork. Eaze Tours were in constant contact with us during our two week stay to make sure that everything was ok (even notifying us of flight delays). This obviously contributed to our fantastic experience of India. I must commend Eaze Tours and Mr Singh for their dedication, professionalism and eagerness to give the best service possible.Thank you and Namaste",
+        "Location": "USA",
+        "Year": 2020,
+        "Month": 3,
+        "Img": "/images/male.svg"
+    },
+    {
         "Id": 37,
         "User": "Bharat Pancha",
         "Title": "Trek Tour in Indian Himalayas",
@@ -297,7 +304,7 @@
         "Location": "New Zealand",
         "Year": 2019,
         "Month": 9,
-        "Img": "/images/female.svg"
+        "Img": "/images/male.svg"
     },
     {
         "Id": 31,
@@ -330,16 +337,6 @@
         "Img": "/images/female.svg"
     },
     {
-        "Id": 29,
-        "User": "Aroop M",
-        "Title": "Great experience",
-        "Content": "I recently went with a group from Albuquerque, NM USA to various places in South India. The group tour was from November 10, 2019, to November 22. In addition, I traveled on my own in North India. In summary, the arrangement made by Manoj was excellent, and Manoj was with us throughout the whole period of the tours. He was a clear communicator. He informed everyone of the arrangements, the timing and the plans for the day. This resulted in a smooth passage of the day and avoided confusion. He was always available to answer questions. The buses were of good quality and punctual. Arrangements for water and breaks were very appropriate. We were informed in advance of the duration of each trip. The hotels chosen for us to stay in were of high quality and standard. At the time of the check-in, the hotel staff had our keys and rooms prepared, and there were very few delays. At each tourist site, we had excellent guides. They were knowledgeable about the historical sites and also about the history, culture, and economics of the area we were in. At one point our flight was canceled. Manoj brought his entire staff to pitch in. They arranged for alternative buses and found an alternative flight for the entire group. He kept us informed and guided us through the somewhat chaotic Indian Airports. In the end, he arranged for a grand farewell dinner with live music and dancing, which was fun. As I said, I also needed separate flights and ground transportation apart from the group. This too was done smoothly and without a hitch. I would recommend Manoj and Eazetours very strongly to any traveler to India.",
-        "Location": "USA",
-        "Year": 2019,
-        "Month": 11,
-        "Img": "/images/female.svg"
-    },
-    {
         "Id": 36,
         "User": "Sandy S",
         "Title": "The best way to see ANY of India",
@@ -348,5 +345,15 @@
         "Year": 2019,
         "Month": 11,
         "Img": "/images/female.svg"
+    },
+    {
+        "Id": 29,
+        "User": "Aroop M",
+        "Title": "Great experience",
+        "Content": "I recently went with a group from Albuquerque, NM USA to various places in South India. The group tour was from November 10, 2019, to November 22. In addition, I traveled on my own in North India. In summary, the arrangement made by Manoj was excellent, and Manoj was with us throughout the whole period of the tours. He was a clear communicator. He informed everyone of the arrangements, the timing and the plans for the day. This resulted in a smooth passage of the day and avoided confusion. He was always available to answer questions. The buses were of good quality and punctual. Arrangements for water and breaks were very appropriate. We were informed in advance of the duration of each trip. The hotels chosen for us to stay in were of high quality and standard. At the time of the check-in, the hotel staff had our keys and rooms prepared, and there were very few delays. At each tourist site, we had excellent guides. They were knowledgeable about the historical sites and also about the history, culture, and economics of the area we were in. At one point our flight was canceled. Manoj brought his entire staff to pitch in. They arranged for alternative buses and found an alternative flight for the entire group. He kept us informed and guided us through the somewhat chaotic Indian Airports. In the end, he arranged for a grand farewell dinner with live music and dancing, which was fun. As I said, I also needed separate flights and ground transportation apart from the group. This too was done smoothly and without a hitch. I would recommend Manoj and Eazetours very strongly to any traveler to India.",
+        "Location": "USA",
+        "Year": 2019,
+        "Month": 11,
+        "Img": "/images/male.svg"
     }
 ]
