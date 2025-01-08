@@ -15,7 +15,7 @@ const images = [
     '/images/gallery/12.jpg',
     '/images/gallery/20.jpg',
     '/images/gallery/10.jpg',
-    '/images/gallery/9.jpg',
+    '/images/gallery/8.jpg',
     '/images/gallery/19.jpg',
     '/images/gallery/16.jpg',
     '/images/gallery/26.jpg',
