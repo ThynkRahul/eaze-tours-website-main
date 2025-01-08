@@ -14,9 +14,8 @@ export default function Testimonials() {
                 <div className="absolute inset-0 bg-black/30 z-0"></div>
 
                 {/* Content */}
-                <div className="relative z-10 w-[600px] p-8 pb-12 text-left">
-                    <h2 className="text-white text-[40px] mb-4 font-semibold leading-[1.2em]">We let our customers <br />
-                        talk for us.</h2>
+                <div className="relative z-10 w-[900px] py-8 pt-[150px] text-left">
+                    <h2 className="text-white text-[56px] mb-4 font-semibold leading-[1.2em]">We let our customers talk for us.</h2>
                     {/* Input Field and Subscribe Button */}
                 </div>
             </div>
