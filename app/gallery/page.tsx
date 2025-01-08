@@ -1,7 +1,7 @@
 'use client';
 
-import React from 'react';
-import Image from 'next/image'
+import React, { useState } from 'react';
+import Image, { StaticImageData } from 'next/image';
 
 import gallery_1 from '../../public/images/gallery/1.jpg';
 import gallery_2 from '../../public/images/gallery/2.jpg';
@@ -33,8 +33,8 @@ import gallery_28 from '../../public/images/gallery/28.jpg';
 import gallery_29 from '../../public/images/gallery/29.jpg';
 import gallery_30 from '../../public/images/gallery/30.jpg';
 
-
-const gallery_images = [
+// Use StaticImageData type for images
+const gallery_images: StaticImageData[] = [
     gallery_1,
     gallery_2,
     gallery_3,
@@ -63,28 +63,96 @@ const gallery_images = [
     gallery_27,
     gallery_28,
     gallery_29,
-    gallery_30
-]
-
+    gallery_30,
+];
 
 export default function Gallery() {
-    return (
-            <>
-            <div className="columns-1 md:columns-2 lg:columns-3 mt-[135px] mx-5">
-            {gallery_images.map((gallery_image, index) =>
+    const [isOpen, setIsOpen] = useState(false);
+    const [currentImage, setCurrentImage] = useState<StaticImageData | null>(null);
+    const [currentIndex, setCurrentIndex] = useState<number>(0);
 
-                <div className='card w-full shadow-xl m-3' key={index}>
-                    <Image
-                        className="z-0"
-                        src={gallery_image}
-                        object-fit="cover"
-                        object-position="bottom"
-                        alt="BackgroundImage"
+    const openLightbox = (image: StaticImageData, index: number) => {
+        setCurrentImage(image);
+        setCurrentIndex(index);
+        setIsOpen(true);
+    };
+
+    const closeLightbox = () => {
+        setIsOpen(false);
+        setCurrentImage(null);
+        setCurrentIndex(0);
+    };
+
+    const nextImage = () => {
+        const nextIndex = (currentIndex + 1) % gallery_images.length;
+        setCurrentImage(gallery_images[nextIndex]);
+        setCurrentIndex(nextIndex);
+    };
+
+    const prevImage = () => {
+        const prevIndex = (currentIndex - 1 + gallery_images.length) % gallery_images.length;
+        setCurrentImage(gallery_images[prevIndex]);
+        setCurrentIndex(prevIndex);
+    };
+
+    return (
+        <div className="mt-16 mx-5">
+            <h2 className="text-3xl font-bold text-center text-gray-800 mb-12">Gallery</h2>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                {gallery_images.map((gallery_image, index) => (
+                    <div
+                        className="group relative overflow-hidden rounded-lg shadow-xl transition-all transform hover:scale-105 hover:shadow-2xl cursor-pointer"
+                        key={index}
+                        onClick={() => openLightbox(gallery_image, index)} // Pass the StaticImageData and its index
                     >
-                    </Image>
-                </div>)}
-                
+                        <div className="relative w-full h-72 md:h-80 lg:h-96">
+                            <Image
+                                className="object-cover w-full h-full transition-transform transform group-hover:scale-110"
+                                src={gallery_image}
+                                alt={`Gallery Image ${index + 1}`}
+                                layout="fill"
+                            />
+                        </div>
+                    </div>
+                ))}
             </div>
-            </>
-    )
-  }
+
+            {/* Lightbox Modal */}
+            {isOpen && currentImage && (
+                <div className="fixed inset-0 z-50 bg-black bg-opacity-75 flex justify-center items-center">
+                    <div className="relative">
+                        <button
+                            onClick={closeLightbox}
+                            className="absolute top-0 right-0 text-white text-4xl px-3 pt-0 pb-2 bg-transparent hover:bg-gray-700 rounded-full"
+                        >
+                            &times;
+                        </button>
+
+                        {/* Navigation Arrows */}
+                        <button
+                            onClick={prevImage}
+                            className="absolute left-5 top-1/2 transform -translate-y-1/2 text-white text-4xl bg-transparent hover:bg-gray-700 rounded-full px-2 pt-0 pb-1"
+                        >
+                            &larr;
+                        </button>
+                        <button
+                            onClick={nextImage}
+                            className="absolute right-5 top-1/2 transform -translate-y-1/2 text-white text-4xl bg-transparent hover:bg-gray-700 rounded-full px-2 pt-0 pb-1"
+                        >
+                            &rarr;
+                        </button>
+
+                        <Image
+                            className="object-contain max-h-screen max-w-screen"
+                            src={currentImage}
+                            alt="Lightbox Image"
+                            width={1200}
+                            height={800}
+                        />
+                    </div>
+                </div>
+            )}
+        </div>
+    );
+}
