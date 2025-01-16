@@ -558,6 +558,73 @@ function Landing(props: ILandingProps) {
                     </button>
                 </a>
             </div >
+
+            {/* Heading Before the Testimonial Slider */}
+            < div className="my-12 max-w-screen-xl mx-8 sm:mx-auto" >
+                <h2 className="text-2xl font-semibold text-black mt-12" style={{ fontSize: '32px' }}>
+                    Latest Blog & Articles
+                </h2>
+
+                {/* Swiper for the Trip Ideas */}
+                <Swiper
+                    spaceBetween={30}
+                    slidesPerView={3} // Show all 3 boxes in a row
+                    pagination={{ clickable: true }} // Enable pagination
+                    modules={[Pagination]} // Include Pagination module
+                    breakpoints={{
+                        0: {
+                            slidesPerView: 1, // 1 slide per view on small screens
+                        },
+                        640: {
+                            slidesPerView: 2, // 2 slides per view on tablets
+                        },
+                        1024: {
+                            slidesPerView: 3, // 3 slides per view on desktops
+                        },
+                    }}
+                    className="mt-8"
+                >
+                    {[
+                        { title: "India", content: "5 Ways to Select India Tour Packages from the USA", bg: "/images/blog_box1.png" },
+                        { title: "India", content: "5 Reasons to Have Your Honeymoon Tour in India", bg: "/images/blog_box2.webp" },
+                        { title: "India", content: "A Perfect Blend of History and Adventure with Eaze Tours", bg: "/images/blog_box3.jpg" },
+                        { title: "India", content: "5 Ways to Select India Tour Packages from the USA", bg: "/images/blog_box1.png" },
+                        { title: "India", content: "5 Reasons to Have Your Honeymoon Tour in India", bg: "/images/blog_box2.webp" }
+                    ].map((box, index) => (
+                        <SwiperSlide key={index}>
+                            <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col ml-1 mb-[100px]">
+                                <div
+                                    className="w-full h-[262px] bg-cover bg-center rounded-t-[23px]"
+                                    style={{ backgroundImage: `url(${box.bg})` }}
+                                ></div>
+                                <div className="w-full px-4 py-10 flex flex-col justify-center gap-5">
+                                    <div className="flex items-start space-x-2">
+                                        <p className="text-[16px] text-[#666666BF]">Admin</p>
+                                        <ul className="list-disc pl-5 space-y-2 text-[16px] text-[#666666BF] marker:text-[#025C7A]">
+                                            <li>{box.title}</li>
+                                        </ul>
+                                    </div>
+
+                                    <p className="text-[22px] text-[#04000B] font-semibold">{box.content}</p>
+                                    <div>
+                                        <a href="#" className="flex items-start space-x-2">
+                                            <p className="text-md text-[#04000B]">Continue Reading</p>
+                                            <i className="fa fa-arrow-right text-lg text-[#025C7A] -mt-1" />
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </SwiperSlide>
+                    ))}
+                </Swiper>
+            </div >
+
+            {/* "See All Testimonials" Button */}
+            < div className="text-center my-12" >
+                <button className="px-8 py-4 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">
+                    View All
+                </button>
+            </div >
         </>
     )
 }
