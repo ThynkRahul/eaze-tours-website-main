@@ -230,7 +230,7 @@ export default function About() {
       </div>
 
       <div className="bg-[url('/images/Frame-203.png')] bg-cover bg-center flex py-[100px] text-[#000] justify-center items-center">
-        <div className="w-[50%] mx-8"><h3 className="text-[52px] font-semibold mb-4 capitalize font-urbanist leading-[1.2em]">Let’s connect and talk about your travel dreams</h3>
+        <div className="w-[50%] mx-8"><h3 className="text-[42px] font-semibold mb-4 capitalize font-urbanist leading-[1.2em]">Let’s connect and talk about your travel dreams</h3>
           <p className="mb-4 font-urbanist font-semibold">Talk about and plan what your travel dreams are this year, and we will help you to make your dreams come true
           </p>
         </div>
@@ -274,7 +274,7 @@ export default function About() {
             ></textarea>
           </div>
           <div className="form-control mt-6">
-            <button className="btn btn-primary" type="submit">
+            <button className="btn text-[#fff] text-[20px] rounded-[41px] bg-[#025C7A] pr-[6px] pl-[10px] hover:bg-[#6E9753]" type="submit">
               Send
             </button>
           </div>
