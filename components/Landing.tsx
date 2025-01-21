@@ -194,9 +194,9 @@ function Landing(props: ILandingProps) {
                                 </div>
 
                                 <div className="absolute inset-0 z-20 flex flex-col justify-center items-start text-left text-white max-w-screen-lg mx-auto px-6 md:px-0">
-                                    <h1 className="text-[44px] sm:text-[56px] font-urbanist font-semibold text-shadow mb-6 leading-[1.2em] sm:leading-[65px] w-full sm:w-[90%]">
+                                    <div className="text-[44px] sm:text-[56px] font-urbanist font-semibold text-shadow mb-6 leading-[1.2em] sm:leading-[65px] w-full sm:w-[90%]">
                                         {slide.heading}
-                                    </h1>
+                                    </div>
                                     <p className="text-lg md:text-xl font-urbanist mb-12 max-w-lg">{slide.para}</p>
                                     <a href="/contact"><button className="px-6 py-3 font-urbanist text-white font-semibold bg-transparent border-2 border-white rounded-full shadow-lg hover:shadow-xl hover:text-[#025C7A] hover:bg-[#fff] hover:border-[#025c7a] focus:outline-none focus:ring-4 focus:ring-blue-500 transform transition-transform hover:scale-105 duration-300 uppercase">
                                         Contact Us
@@ -215,7 +215,7 @@ function Landing(props: ILandingProps) {
             <div className={`info-container flex justify-center gap-12 my-[70px] max-w-screen-xl mx-8 flex-wrap sm:flex-nowrap`}>
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_1.png" alt="Info Icon 1" width={77} height={77} />
-                    <h2 className="info-heading text-lg font-urbanist font-medium text-black text-center mt-4 mb-2">Book Your Tours Now!</h2>
+                    <h1 className="info-heading text-lg font-urbanist font-medium text-black text-center mt-4 mb-2">Book Your Tours Now!</h1>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
                         Find amazing deals for your travel plans on luxury holiday packages in India, select your holiday package now!
                     </p>
