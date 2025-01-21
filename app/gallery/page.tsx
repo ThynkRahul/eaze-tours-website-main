@@ -97,15 +97,15 @@ export default function Gallery() {
 
     return (
 
-        <div className="mt-[78px] sm:mt-[165px] mx-8 mb-12">
-        <p className="text-[14px] text-gray-700 mt-4">
+       
+        <div className="mt-[78px] sm:mt-[145px] mx-8 mb-12">
+ <p className="text-[14px] text-gray-700 mt-4">
         <span className="text-[#ccc]">Home</span> / Gallery
         </p>
         <h1 className="text-[42px] font-semibold text-black text-center sm:text-left">
           Gallery
         </h1>
-        </div>    
-        <div className="mt-[78px] sm:mt-[145px] mx-8 mb-12">
+            
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {gallery_images.map((gallery_image, index) => (
                     <div
