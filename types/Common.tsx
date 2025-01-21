@@ -6,7 +6,6 @@ interface IItineraryLineDataType {
 
 }
 
-
 interface IItineraryDetailDataType {
     M: IItineraryLineDataType
 }
@@ -29,5 +28,11 @@ interface ITestimonialDataType {
     Img: string;
 }
 
+interface IBlogDataType {
+    Id: number;
+    Title: string;
+    Content: string;
+    Img: string;
+}
 
-export type { IPackageDetailDataType, IItineraryDetailDataType, IItineraryLineDataType, ITestimonialDataType }
+export type { IPackageDetailDataType, IItineraryDetailDataType, IItineraryLineDataType, ITestimonialDataType, IBlogDataType }
