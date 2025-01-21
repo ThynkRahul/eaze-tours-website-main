@@ -25,7 +25,8 @@ export default function BlogDetail({ blogId }: BlogDetailProps) {
                     className="w-full h-[600px] aspect-w-3 aspect-h-2 bg-cover rounded-[40px] bg-center mb-4"
                     style={{ backgroundImage: `url(${blog.Img})` }}
                 ></div>
-                <p className="text-lg">{blog.Content}</p>
+                <div dangerouslySetInnerHTML={{ __html: blog.Content }}
+                />
             </div>
 
         </div>
