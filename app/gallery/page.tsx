@@ -107,7 +107,7 @@ export default function Gallery() {
           Gallery
         </h1>
             
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-[78px]">
                 {gallery_images.map((gallery_image, index) => (
                     <div
                         className="group relative overflow-hidden rounded-lg shadow-xl transition-all transform hover:scale-105 hover:shadow-2xl cursor-pointer"
