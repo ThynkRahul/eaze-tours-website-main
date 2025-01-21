@@ -32,7 +32,7 @@ function Footer() {
 
         {/* Second Column - Useful Links */}
         <div className="w-full md:w-1/4 mb-8 pl-1 md:pl-[80px] md:pt-[40px]">
-          <h5 className="text-lg font-semibold mb-4">Useful Links</h5>
+          <div className="text-lg font-semibold mb-4">Useful Links</div>
           <ul className="space-y-4">
             <li><Link href="/about" className="hover:text-blue-600 transition-colors">About us</Link></li>
             <li><Link href="/contact" className="hover:text-blue-600 transition-colors">Contact us</Link></li>
@@ -44,7 +44,7 @@ function Footer() {
 
         {/* Third Column - Top Destinations */}
         <div className="w-full md:w-1/4 mb-8 pl-1 md:pl-[80px] md:pt-[40px]">
-          <h5 className="text-lg font-semibold mb-4">Top Destinations</h5>
+          <div className="text-lg font-semibold mb-4">Top Destinations</div>
           <ul className="space-y-4">
             <li><Link href="/packages/28" className="hover:text-blue-600 transition-colors">Delhi</Link></li>
             <li><Link href="/packages/34" className="hover:text-blue-600 transition-colors">Jaipur</Link></li>
@@ -56,7 +56,7 @@ function Footer() {
 
         {/* Fourth Column - Contact Info */}
         <div className="w-full md:w-1/4 mb-8 pl-1 md:pl-8 md:pt-[40px]">
-          <h5 className="text-lg font-semibold mb-4">Contact Us</h5>
+          <div className="text-lg font-semibold mb-4">Contact Us</div>
           <div className="space-y-4">
             <div className="flex items-start space-x-2">
               <i className="fa fa-phone-alt text-lg text-white-400 -mt-1" />
