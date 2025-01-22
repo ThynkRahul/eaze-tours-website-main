@@ -228,58 +228,6 @@ export default function About() {
           </a>
         </div>
       </div>
-
-      <div className="bg-[url('/images/Frame-203.png')] bg-cover bg-center flex py-[100px] text-[#000] justify-center items-center">
-        <div className="w-[50%] mx-8"><h3 className="text-[42px] font-semibold mb-4 capitalize font-urbanist leading-[1.2em]">Let’s connect and talk about your travel dreams</h3>
-          <p className="mb-4 font-urbanist font-semibold">Talk about and plan what your travel dreams are this year, and we will help you to make your dreams come true
-          </p>
-        </div>
-
-        <form id="enquiry-form" className="card-body">
-          <div className="form-control">
-            <label htmlFor="name" className="label">
-              <span className="label-text">Name</span>
-            </label>
-            <input
-              type="text"
-              id="name"
-              name="name"
-              placeholder="Name"
-              className="input input-bordered bg-[#fff]"
-              required
-            />
-          </div>
-          <div className="form-control">
-            <label htmlFor="email" className="label">
-              <span className="label-text">Email</span>
-            </label>
-            <input
-              type="email"
-              id="email"
-              name="email"
-              placeholder="Email"
-              className="input input-bordered bg-[#fff]"
-              required
-            />
-          </div>
-          <div className="form-control">
-            <label htmlFor="message" className="label">
-              <span className="label-text">Message</span>
-            </label>
-            <textarea
-              id="message"
-              name="message"
-              placeholder="Message"
-              className="textarea textarea-bordered bg-[#fff]"
-            ></textarea>
-          </div>
-          <div className="form-control mt-6">
-            <button className="btn text-[#fff] text-[20px] rounded-[41px] bg-[#025C7A] pr-[6px] pl-[10px] hover:bg-[#6E9753]" type="submit">
-              Send
-            </button>
-          </div>
-        </form>
-      </div>
     </>
   );
 }
