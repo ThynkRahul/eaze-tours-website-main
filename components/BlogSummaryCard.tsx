@@ -26,7 +26,8 @@ function Blog({ blog }: IBlogProp) {
                         </ul>
                     </div>
 
-                    <p className="text-[22px] text-[#04000B] font-semibold">{blog.Title}</p>
+                    <p className="text-[22px] text-[#04000B] font-semibold hover:text-[#6E9753]"><Link href={getPackageHref(blog.Id)} passHref>
+                        {blog.Title}</Link></p>
                     <div>
                         <div className="flex items-start space-x-2">
                             <p className="text-md text-[#04000B]"><Link href={getPackageHref(blog.Id)} passHref>
