@@ -10,6 +10,8 @@ import backgroundImage3 from '../public/images/background_6.jpg';
 import packageData from '../data/packages.json'
 import testimonialData from '../data/testimonials.json'
 import Image from 'next/image';
+import Link from 'next/link'
+import blogData from '../data/blog.json';
 
 const images = [
     '/images/gallery/12.jpg',
@@ -26,6 +28,10 @@ interface ILandingProps {
 }
 
 function Landing(props: ILandingProps) {
+    const filteredBlogs = blogData.slice(0, 3);
+    const getPackageHref = (Id: string) => {
+        return "/blog/" + Id;
+    };
     const packages = packageData.filter(tourPackage => tourPackage.Id <= 9 && tourPackage.Id > 1);
     const testimonials = testimonialData.slice(0, 9);
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -194,9 +200,9 @@ function Landing(props: ILandingProps) {
                                 </div>
 
                                 <div className="absolute inset-0 z-20 flex flex-col justify-center items-start text-left text-white max-w-screen-lg mx-auto px-6 md:px-0">
-                                    <div className="text-[44px] sm:text-[56px] font-urbanist font-semibold text-shadow mb-6 leading-[1.2em] sm:leading-[65px] w-full sm:w-[90%]">
+                                    <h1 className="text-[44px] sm:text-[56px] font-urbanist font-semibold text-shadow mb-6 leading-[1.2em] sm:leading-[65px] w-full sm:w-[90%]">
                                         {slide.heading}
-                                    </div>
+                                    </h1>
                                     <p className="text-lg md:text-xl font-urbanist mb-12 max-w-lg">{slide.para}</p>
                                     <a href="/contact"><button className="px-6 py-3 font-urbanist text-white font-semibold bg-transparent border-2 border-white rounded-full shadow-lg hover:shadow-xl hover:text-[#025C7A] hover:bg-[#fff] hover:border-[#025c7a] focus:outline-none focus:ring-4 focus:ring-blue-500 transform transition-transform hover:scale-105 duration-300 uppercase">
                                         Contact Us
@@ -215,7 +221,7 @@ function Landing(props: ILandingProps) {
             <div className={`info-container flex justify-center gap-12 my-[70px] max-w-screen-xl mx-8 flex-wrap sm:flex-nowrap`}>
                 <div className="info-box p-0 rounded-lg w-72 flex flex-col items-center">
                     <Image src="/images/info_icon_1.png" alt="Info Icon 1" width={77} height={77} />
-                    <h1 className="info-heading text-lg font-urbanist font-medium text-black text-center mt-4 mb-2">Book Your Tours Now!</h1>
+                    <h2 className="info-heading text-lg font-urbanist font-medium text-black text-center mt-4 mb-2">Book Your Tours Now!</h2>
                     <p className="info-content text-center text-[#4F5E71] font-[16px] leading-[19px]">
                         Find amazing deals for your travel plans on luxury holiday packages in India, select your holiday package now!
                     </p>
@@ -560,7 +566,7 @@ function Landing(props: ILandingProps) {
             </div >
 
             {/* Heading Before the Testimonial Slider */}
-            < div className="my-12 max-w-screen-xl mx-8 sm:mx-auto" >
+            <div className="my-12 max-w-screen-xl mx-8 sm:mx-auto">
                 <h2 className="text-2xl font-semibold text-black mt-12" style={{ fontSize: '32px' }}>
                     Latest Blog & Articles
                 </h2>
@@ -584,40 +590,42 @@ function Landing(props: ILandingProps) {
                     }}
                     className="mt-8"
                 >
-                    {[
-                        { title: "India", content: "5 Ways to Select India Tour Packages from the USA", bg: "/images/blog_box1.png" },
-                        { title: "India", content: "5 Reasons to Have Your Honeymoon Tour in India", bg: "/images/blog_box2.webp" },
-                        { title: "India", content: "A Perfect Blend of History and Adventure with Eaze Tours", bg: "/images/blog_box3.jpg" },
-                        { title: "India", content: "5 Ways to Select India Tour Packages from the USA", bg: "/images/blog_box1.png" },
-                        { title: "India", content: "5 Reasons to Have Your Honeymoon Tour in India", bg: "/images/blog_box2.webp" }
-                    ].map((box, index) => (
-                        <SwiperSlide key={index}>
-                            <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col ml-1 mb-[100px]">
+                    {filteredBlogs.map((blog) => (
+                        <SwiperSlide key={blog.Id}>
+                            <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col ml-1 my-[10px]">
                                 <div
-                                    className="w-full h-[262px] bg-cover bg-center rounded-t-[23px]"
-                                    style={{ backgroundImage: `url(${box.bg})` }}
+                                    className="w-full h-[262px] aspect-w-3 aspect-h-2 bg-cover bg-center rounded-t-[23px] border-b border-gray-300"
+                                    style={{ backgroundImage: `url(${blog.Img})` }}
                                 ></div>
                                 <div className="w-full px-4 py-10 flex flex-col justify-center gap-5">
                                     <div className="flex items-start space-x-2">
                                         <p className="text-[16px] text-[#666666BF]">Admin</p>
                                         <ul className="list-disc pl-5 space-y-2 text-[16px] text-[#666666BF] marker:text-[#025C7A]">
-                                            <li>{box.title}</li>
+                                            <li>India</li>
                                         </ul>
                                     </div>
 
-                                    <p className="text-[22px] text-[#04000B] font-semibold">{box.content}</p>
+                                    <p className="text-[22px] text-[#04000B] font-semibold hover:text-[#6E9753]">
+                                        <Link href={getPackageHref(blog.Id)} passHref>
+                                            {blog.Title}
+                                        </Link>
+                                    </p>
                                     <div>
-                                        <a href="#" className="flex items-start space-x-2">
-                                            <p className="text-md text-[#04000B]">Continue Reading</p>
+                                        <div className="flex items-start space-x-2">
+                                            <p className="text-md text-[#04000B]">
+                                                <Link href={getPackageHref(blog.Id)} passHref>
+                                                    Continue Reading
+                                                </Link>
+                                            </p>
                                             <i className="fa fa-arrow-right text-lg text-[#025C7A] -mt-1" />
-                                        </a>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </SwiperSlide>
                     ))}
                 </Swiper>
-            </div >
+            </div>
 
             {/* "See All Testimonials" Button */}
             < div className="text-center my-12" >
