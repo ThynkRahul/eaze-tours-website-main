@@ -28,7 +28,7 @@ interface ILandingProps {
 }
 
 function Landing(props: ILandingProps) {
-    const filteredBlogs = blogData.slice(0, 3);
+    const filteredBlogs = blogData.slice(0, 5);
     const getPackageHref = (Id: string) => {
         return "/blog/" + Id;
     };
@@ -592,7 +592,7 @@ function Landing(props: ILandingProps) {
                 >
                     {filteredBlogs.map((blog) => (
                         <SwiperSlide key={blog.Id}>
-                            <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col ml-1 my-[10px]">
+                            <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col ml-1 mb-[100px]">
                                 <div
                                     className="w-full h-[262px] aspect-w-3 aspect-h-2 bg-cover bg-center rounded-t-[23px] border-b border-gray-300"
                                     style={{ backgroundImage: `url(${blog.Img})` }}
