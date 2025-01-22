@@ -1,8 +1,9 @@
 'use client';
 
 import BlogList from "../../../components/blogs";
-import BlogDetail from '../../../components/BlogDetail';
-import { notFound } from 'next/navigation';
+import BlogDetail from "../../../components/BlogDetail";
+import { notFound } from "next/navigation";
+import blogData from "../../../data/blog.json";
 
 export default function Blogs({ params }: { params: { slug?: string[] } }) {
   const { slug } = params;
@@ -16,14 +17,14 @@ export default function Blogs({ params }: { params: { slug?: string[] } }) {
       </div>
     );
   } else if (slug.length === 1) {
-    const blogId = slug[0]; // Keep blogId as a string
-    const blogIdNum = parseInt(blogId); // Convert to number for validation
+    const blogId = slug[0]; // Handle string Id directly
+    const blog = blogData.find((item) => item.Id === blogId);
 
-    if (blogIdNum < 7 && blogIdNum > 0 && !isNaN(blogIdNum)) {
+    if (blog) {
       return (
         <div>
           <div className="mt-16">
-            <BlogDetail blogId={blogId} /> {/* Pass blogId as a string */}
+            <BlogDetail blogId={blog.Id} />
           </div>
         </div>
       );
