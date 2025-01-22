@@ -7,7 +7,7 @@ interface IBlogProp {
 }
 
 function Blog({ blog }: IBlogProp) {
-    const getPackageHref = (Id: number) => {
+    const getPackageHref = (Id: string) => {
         return "/blog/" + Id
     }
 
