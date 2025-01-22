@@ -2,7 +2,7 @@ import React from "react";
 import blogData from '../data/blog.json';
 
 interface BlogDetailProps {
-    blogId?: number;
+    blogId?: string;
 }
 
 export default function BlogDetail({ blogId }: BlogDetailProps) {
