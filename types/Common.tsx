@@ -29,7 +29,7 @@ interface ITestimonialDataType {
 }
 
 interface IBlogDataType {
-    Id: number;
+    Id: string;
     Title: string;
     Content: string;
     Img: string;
