@@ -49,7 +49,7 @@ export default function About() {
       </div>
 
       <div className="mt-[78px] mx-auto mb-12 w-[85%] sm:w-[45%]">
-        <h2 className="text-[42px] font-semibold capitalize text-black text-center leading-[1.2em] mb-4">
+        <h2 className="text-[32px] sm:text-[42px] font-semibold capitalize text-black text-center leading-[1.2em] mb-4">
           Provide the best travel experience for you
         </h2>
         <p className="text-md text-gray-700 mt-1 text-center">
@@ -148,7 +148,7 @@ export default function About() {
       <div className="flex flex-col gap-8 sm:flex-row py-[100px] text-[#000] justify-center items-center">
         <div className="mx-8 sm:mr-12">
           <Image
-            src="/images/Rectangle-26.webp"
+            src="/images/Rectangle-26.png"
             alt="Background Image"
             width={516} height={600}
           />
