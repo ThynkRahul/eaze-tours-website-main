@@ -71,7 +71,7 @@ export default function About() {
                   <Image
                     src={about_us_image}
                     alt="About Us Image"
-                    layout="responsive"
+                    layout="fill"
                     objectFit="cover"
                     objectPosition="center"
                     className="rounded-lg"
