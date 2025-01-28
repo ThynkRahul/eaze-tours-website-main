@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
+import Link from "next/link";
 import Image, { StaticImageData } from 'next/image';
 
 import gallery_1 from '../../public/images/gallery/1.jpg';
@@ -96,71 +97,75 @@ export default function Gallery() {
     };
 
     return (
+        <div>
+            <div className="mt-[135px] sm:mt-[165px] mx-8 mb-12">
+                <p className="text-[14px] text-gray-700 mt-4">
+                    <span className="text-[#ccc] hover:text-[#035C7A]">
+                        <Link href="/" passHref>Home</Link>
+                    </span> / Gallery
+                </p>
+                <h2 className="text-[42px] font-semibold text-black text-left">
+                    Gallery
+                </h2>
+            </div>
 
-          
-        <div className="mt-[78px] sm:mt-[145px] mx-8 mb-12">
+            <div className="mt-[10px] mx-8 mb-12">
 
-            <p className="text-[14px] text-gray-700 mt-4">
-        <span className="text-[#ccc]">Home</span> / Gallery
-        </p>
-        <h1 className="text-[42px] font-semibold text-black text-center sm:text-left">
-          Gallery
-        </h1>
-            
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-[78px]">
-                {gallery_images.map((gallery_image, index) => (
-                    <div
-                        className="group relative overflow-hidden rounded-lg shadow-xl transition-all transform hover:scale-105 hover:shadow-2xl cursor-pointer"
-                        key={index}
-                        onClick={() => openLightbox(gallery_image, index)} // Pass the StaticImageData and its index
-                    >
-                        <div className="relative w-full h-72 md:h-80 lg:h-96">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                    {gallery_images.map((gallery_image, index) => (
+                        <div
+                            className="group relative overflow-hidden rounded-lg shadow-xl transition-all transform hover:scale-105 hover:shadow-2xl cursor-pointer"
+                            key={index}
+                            onClick={() => openLightbox(gallery_image, index)} // Pass the StaticImageData and its index
+                        >
+                            <div className="relative w-full h-72 md:h-80 lg:h-96">
+                                <Image
+                                    className="object-cover w-full h-full transition-transform transform group-hover:scale-110"
+                                    src={gallery_image}
+                                    alt={`Gallery Image ${index + 1}`}
+                                    layout="fill"
+                                />
+                            </div>
+                        </div>
+                    ))}
+                </div>
+
+                {/* Lightbox Modal */}
+                {isOpen && currentImage && (
+                    <div className="fixed inset-0 z-50 bg-black bg-opacity-75 flex justify-center items-center">
+                        <div className="relative">
+                            <button
+                                onClick={closeLightbox}
+                                className="absolute top-0 right-0 text-white text-4xl px-3 pt-0 pb-2 bg-transparent hover:bg-gray-700 rounded-full"
+                            >
+                                &times;
+                            </button>
+
+                            {/* Navigation Arrows */}
+                            <button
+                                onClick={prevImage}
+                                className="absolute left-5 top-1/2 transform -translate-y-1/2 text-white text-4xl bg-transparent hover:bg-gray-700 rounded-full px-2 pt-0 pb-1"
+                            >
+                                &larr;
+                            </button>
+                            <button
+                                onClick={nextImage}
+                                className="absolute right-5 top-1/2 transform -translate-y-1/2 text-white text-4xl bg-transparent hover:bg-gray-700 rounded-full px-2 pt-0 pb-1"
+                            >
+                                &rarr;
+                            </button>
+
                             <Image
-                                className="object-cover w-full h-full transition-transform transform group-hover:scale-110"
-                                src={gallery_image}
-                                alt={`Gallery Image ${index + 1}`}
-                                layout="fill"
+                                className="object-contain max-h-screen max-w-screen"
+                                src={currentImage}
+                                alt="Lightbox Image"
+                                width={1200}
+                                height={800}
                             />
                         </div>
                     </div>
-                ))}
+                )}
             </div>
-
-            {/* Lightbox Modal */}
-            {isOpen && currentImage && (
-                <div className="fixed inset-0 z-50 bg-black bg-opacity-75 flex justify-center items-center">
-                    <div className="relative">
-                        <button
-                            onClick={closeLightbox}
-                            className="absolute top-0 right-0 text-white text-4xl px-3 pt-0 pb-2 bg-transparent hover:bg-gray-700 rounded-full"
-                        >
-                            &times;
-                        </button>
-
-                        {/* Navigation Arrows */}
-                        <button
-                            onClick={prevImage}
-                            className="absolute left-5 top-1/2 transform -translate-y-1/2 text-white text-4xl bg-transparent hover:bg-gray-700 rounded-full px-2 pt-0 pb-1"
-                        >
-                            &larr;
-                        </button>
-                        <button
-                            onClick={nextImage}
-                            className="absolute right-5 top-1/2 transform -translate-y-1/2 text-white text-4xl bg-transparent hover:bg-gray-700 rounded-full px-2 pt-0 pb-1"
-                        >
-                            &rarr;
-                        </button>
-
-                        <Image
-                            className="object-contain max-h-screen max-w-screen"
-                            src={currentImage}
-                            alt="Lightbox Image"
-                            width={1200}
-                            height={800}
-                        />
-                    </div>
-                </div>
-            )}
         </div>
     );
 }
