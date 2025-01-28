@@ -53,7 +53,7 @@ export default function About() {
       </div>
 
       <div className="flex flex-col gap-8 sm:flex-row py-[100px] text-[#000] justify-center items-center">
-        <div className="mx-8 sm:mr-12 w-[40%] h-[400px]">
+        <div className="mx-8 sm:mr-12 w-[85%] sm:w-[40%] h-[400px]">
           <Swiper
             spaceBetween={30}
             effect={"fade"}
