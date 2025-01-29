@@ -1,9 +1,11 @@
 import React from "react";
 
 import { PackageImageSwiper } from "./Images";
+import PackageSummaryCard from "./PackageSummaryCard";
 import Link from "next/link";
 import VerticalTimelineElement from './VerticalTimelineElement';
 import { IPackageDetailDataType } from "../types/Common";
+import packageData from '../data/packages.json'
 
 interface VerticalTimelineProp {
     tourPackage: IPackageDetailDataType;
@@ -14,6 +16,7 @@ interface VerticalTimelineState {
 }
 
 function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
+    const packages = packageData.filter(tourPackage => tourPackage.Id <= 5 && tourPackage.Id > 1);
     return (
 
         <div className="min-h-screen">
@@ -142,7 +145,6 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                         </ul>
                     </div>
                 </div>
-
                 <div className="max-h-screen overflow-auto border-2 mx-8 rounded-[20px]">
                     <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[30px]">
                         <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2 mb-8">Trip That Inspire You</h2>
@@ -158,6 +160,21 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                         ))}
 
                     </ul>
+                </div>
+
+                <div className="h-screen overflow-auto border-2 mx-8 rounded-[20px]"><iframe loading="lazy" className="w-full h-full p-[30px]" src="https://maps.google.com/maps?q=Maldives&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" title="Maldives" aria-label="Maldives"></iframe></div>
+                <div className="my-12 max-w-screen-xl mx-8">
+                    <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2" style={{ fontSize: '32px' }}>
+                        Popular Packages
+                    </h2>
+                </div>
+
+                <div className="grid grid-cols-1 sm:grid-cols-4 mb-[80px] gap-10 mx-8">
+                    {packages.map(tourPackage => (
+                        <div key={tourPackage.Id} className="h-full">
+                            <PackageSummaryCard tourPackage={tourPackage}></PackageSummaryCard>
+                        </div>
+                    ))}
                 </div>
             </div>
         </div>
