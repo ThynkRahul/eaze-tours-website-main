@@ -230,7 +230,12 @@
             }
         ],
         "Name": "Forts and Palaces",
-        "Tags": ["cultural"],
+        "Tags": [
+            "cultural"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi-Mandawa-Bikaner-Jaisalmer-Jodhpur-Luni-Ranakpur-Udaipur-Pushkar-Jaipur-Jaipur-Fatehpur Sikri-Agra"
     },
     {
@@ -336,7 +341,12 @@
             }
         ],
         "Name": "North East Tour-Gangtok",
-        "Tags": ["adventure"],
+        "Tags": [
+            "adventure"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "BAGDOGRA AIRPORT-GANGTOK- KALIMPONG-DARJEELING"
     },
     {
@@ -410,7 +420,12 @@
             }
         ],
         "Name": "North East Tour-Darjeeling",
-        "Tags": ["adventure"],
+        "Tags": [
+            "adventure"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Darjeeling"
     },
     {
@@ -421,10 +436,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Arrival Manali"
+                        "S": "Arrival in Manali"
                     },
                     "description": {
-                        "S": "Very early in the morning arrival Manali, on arrival meet to our staff and transfer to hotel (We try to provIde the early check in, it is depend on the session, normally check in time is 12:00) On arrival check in hotel or resort, morning free for get relax, afternoon explore Manali by testing biking visit Naggar Castle, Jagatsukh Temple and Vashist Hot Spring etc. Overnight at hotel. (B)"
+                        "S": "<li>Arrive in Manali and check into your accommodation.</li><li>Spend the day acclimatizing to the altitude.</li><li>Meet your guide, review the itinerary, and prepare your gear for the adventure.</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -437,10 +452,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Manali"
+                        "S": "Manali to Rohtang Pass (51 km)"
                     },
                     "description": {
-                        "S": "After breakfast full day biking tour in around Manali includes Manikaran, Hadimba Temple and Kullu Valley. Overnight at hotel. (B)"
+                        "S": "<li>Begin the journey with a climb to Rohtang Pass (3,978 meters).</li><li>Witness panoramic views of snow-capped peaks and lush valleys.</li><li>Overnight stay in a campsite.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -453,10 +468,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Manali \u2013 Keylong \u2013 Jispa (136 Km)"
+                        "S": "Rohtang Pass to Jispa (75 km)"
                     },
                     "description": {
-                        "S": "After breakfast commence biking tour to Leh via Rohatang Pass (3990M) , this is the first pass between Manali to Lahaul Valley, enjoy the biking via Gulaba,Marchi, Rani Nala, Rohatang Jyot, Koksar, Gondal, Tandi (Confluence of Chandra and Bhaga River), Keylong finally reach at Jispa, on arrival check in hotel or fix tent. (B/D)"
+                        "S": "<li>Cycle downhill to the charming town of Jispa.</li><li>Cross small villages and the scenic Lahaul Valley.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -469,10 +484,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Jispa \u2013 Darcha- Suraj Tal- Baralachal Pass (4890m) \u2013 Sarchu (110 Km)"
+                        "S": "Jispa to Baralacha La (60 km)"
                     },
                     "description": {
-                        "S": "Breakfast at hotel or fix tent, prepare your bike to cover next destination, through the high passes and nice landscape, cross small hamlets or tea stall as Darcha, this is the first TRC checking points and this place is known for adventure lover who want commence trek to Zanskar Valley. Gradually ascend toward the Indian Plateau and cross the second Pass Baralacha, on the way you will see several wild animals and unforgettable landscape. On arrival at Sarchu take the tent for overnight stay. (B/D)"
+                        "S": "<li>Ascend to Baralacha La Pass (4,890 meters), known for its mesmerizing landscapes.</li><li>Stay overnight near Sarchu.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -485,10 +500,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Sarchu \u2013 Pang \u2013 Dibiring \u2013 Tsokar (180 Km)"
+                        "S": "Sarchu to Nakee La & Lachung La (55 km)"
                     },
                     "description": {
-                        "S": "After breakfast get ready to next day biking tour to Tsokar (Salt) Lake, enjoy the landscape and time to time break for photos, on arrival at Tsokar check in fix tent, rest of the time explore surrounding, catch the wild animals (Hinting with Camera). Overnight enjoy the meal. (B/D)"
+                        "S": "<li>Tackle the steep climbs to Nakee La (4,739 meters) and Lachung La (5,059 meters).</li><li>Marvel at the rugged Himalayan terrain.</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -501,58 +516,26 @@
             {
                 "M": {
                     "name": {
-                        "S": "Tsokar \u2013 Sumdah \u2013 Tsomoriri (145 Km)"
+                        "S": "Pang to Leh (170 km)"
                     },
                     "description": {
-                        "S": "After breakfast at fix tent proceed to Tsomoriri via Sumdah Village, again magnificent rIde see the wild animals, landscape and sulpher water spring. En route visit the Tibetan refugee village. Cross the Namshang La 4920m. & a small lake Thachung Karo Lake. Continue drive to Karzok (Tsomoriri) check in fix tent, rest of the time visit crystal Water Lake walking tour is possible there, bikes not allowed. Overnight at Tsomoriri. (B/D)"
+                        "S": "<li>Ride through vast plains and over the iconic Taglang La Pass (5,328 meters).</li><li>Explore Ladakhi villages and monasteries en route.</li>"
                     },
                     "Id": {
-                        "N": "6"
+                        "N": "6-8"
                     },
                     "day": {
-                        "N": "6"
+                        "N": "6-8"
                     }
                 }
             },
             {
                 "M": {
                     "name": {
-                        "S": "Tsomoriri \u2013 Mahay BrIdge- Chumathang \u2013 Leh (145 Km)"
+                        "S": "Arrival in Leh"
                     },
                     "description": {
-                        "S": "After breakfast start your rIde going through the Indus River many crossing many small villages and hamlets , Reach Natural Hot Spring at Chumathang. Visit hot spring and lunch. After that continue drive to Leh, through the small village, markets along with the India River, en route visit Hemis Monastery. On arrival at Leh check in hotel. Rest of the time free. (B/D)"
-                    },
-                    "Id": {
-                        "N": "7"
-                    },
-                    "day": {
-                        "N": "7"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Nubra Valley Over Khardung La Pass (120 Km)"
-                    },
-                    "description": {
-                        "S": "After breakfast start rIding to Nubra over the Khardong La Pass (5602m) \u2013 the Highest Motorable Road in the World. It was only recently opened for tourist\u2019s accessibility. You will stop on the top of the pass when one can see the Snow Peak Mountains and glacier. Have a cup of Hot Tea from the Highest Cafeteria in the World. This is an old route which used as part of the Legendary Silk Road which ran to Tibet, China & Turkmenistan, behind the Khardong mountain pass. The Road opens up and you are met with the wonderful view of the fruitful green valley of Ladakh which are watered thanks to Shyok and Nubra waterways-this road was previously on the silk street and lots of Caravans weaved their way further to central Asia- the green Nubra valley was for centuries the resting spot for Camel and Yak caravans- you will see apple, apricot and lots of mulberry trees in Hunder and other areas, Lamaism plays an important role in life in this area. After that continue drive through Nubra valley to Diskit, total drive will takes about 4 hrs. Upon reaching check in Guest House. Late afternoon, optional, You can also enjoy the Bactrian (Double hump) camel in the sand dune between Hunder and Diskit Village. Overnight at Diskit. (B/D)"
-                    },
-                    "Id": {
-                        "N": "8"
-                    },
-                    "day": {
-                        "N": "8"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Diskit \u2013 Leh"
-                    },
-                    "description": {
-                        "S": "After breakfast visit Diskit Monastery, The Diskit monastery was founded by Changzem Tserab Zangpo in the 14th century. The history of the Nubra Valley and the monastery could thus be traced from 14th century onwards. It has a tallest statue of Maitreya Buddha in Ladakh. After that visit Sumoor village and drive back to Leh. Upon arrival check in hotel. Late afternoon visit Shanti Stupa for Sunset Tour. The Stupa is located on the hill top of the Changspa locality in Leh, it was built in 1983 on the rock and inaugurated by HH Dalai Lam. From this Stupa you can see the memorable sunset over the Leh Valley. After that back to Leh and some free time for shopping. Evening dinner. (B/D)"
+                        "S": "<li>Complete the journey as you reach Leh, the heart of Ladakh.</li><li>Celebrate your achievement with your team.</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -565,54 +548,27 @@
             {
                 "M": {
                     "name": {
-                        "S": "Leh \u2013 Lamayuru (240 Km) \u2013 Leh"
+                        "S": "Departure from Leh"
                     },
                     "description": {
-                        "S": "After breakfast full day rIding to lower Ladakh called Sham Valley, straight drive to Lamayuru, visit monastery and moon land, drive back to Leh, en route visit Rizong Gompa, Alchi Choskor, Likir, Basgo Palace and Nimmo (Confluence of Indus and Zanskar River) if the time is allowed just a photo break at Gurudwara Pathar Saheb, rest of the time free at Leh market. (B/D)"
+                        "S": "<li>Bid farewell to the Himalayas.</li><li>Depart with incredible memories of this once-in-a-lifetime experience.</li>"
                     },
                     "Id": {
                         "N": "10"
                     },
                     "day": {
                         "N": "10"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Leh"
-                    },
-                    "description": {
-                        "S": "Full day free for indivIdual activities or last time shopping etc. Overnight at hotel (B/D)"
-                    },
-                    "Id": {
-                        "N": "11"
-                    },
-                    "day": {
-                        "N": "11"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Leh Departure"
-                    },
-                    "description": {
-                        "S": "Early in the morning departure transfer to airport connect flight to Delhi or onward destination"
-                    },
-                    "Id": {
-                        "N": "12"
-                    },
-                    "day": {
-                        "N": "12"
                     }
                 }
             }
         ],
         "Name": "Mountain Bike Tour",
-        "Tags": ["adventure"],
+        "Tags": [
+            "adventure"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Accommodation in camps or guesthouses</li><li>All meals (breakfast, lunch, dinner)</li><li>Professional biking guides and support staff</li><li>Backup vehicle for safety and emergencies</li><li>Bike maintenance and mechanical support</li><li>Permits for restricted areas</li>",
+        "Overview": "Experience the thrill of cycling through the majestic Himalayas with our Manali to Leh Mountain Bike Tour. This journey takes you across rugged terrains, lush valleys, and some of the world’s highest motorable passes. Designed for adventure enthusiasts, this tour offers breathtaking views, cultural encounters, and the satisfaction of conquering challenging routes.",
         "LocationDescription": "Manali\u2013Keylong\u2013Jispa-Darcha-Suraj Tal-Baralachal Pass-Sarchu\u2013Pang\u2013Dibiring-Tsokar-Sumdah \u2013Tsomoriri-Mahay BrIdge-Chumathang\u2013Leh-Nubra Valley-Diskit-Lamayuru-Leh"
     },
     {
@@ -798,7 +754,12 @@
             }
         ],
         "Name": "Markha Trek",
-        "Tags": ["adventure"],
+        "Tags": [
+            "adventure"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Leh \u2013 Spituk (Kali Temple) - Zinchen-Yurutse \u2013 Gondala\u2013 Shingo \u2013 Skyu-Markha Village \u2013 Hankar \u2013 Thachunche-Nimaling \u2013 Shang Sumdo-Hemis \u2013 Leh"
     },
     {
@@ -968,7 +929,12 @@
             }
         ],
         "Name": "High on Sky \u2013 North East",
-        "Tags": ["adventure"],
+        "Tags": [
+            "adventure"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Calcutta \u2013 Bagdogra - Darjeeling - Pemayangste - Gangtok - Rumtek-Monastery - Jalpaiguri"
     },
     {
@@ -1250,7 +1216,12 @@
             }
         ],
         "Name": "Best of Ladakh & Kashmir",
-        "Tags": ["adventure"],
+        "Tags": [
+            "adventure"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi - Manali - Keylong - Hemis - Pangong Lake - Tso Moriri Lake - Thiksey - Shey palace - Sankar gompa - Lamayuru - Likir - Alchi - Srinagar"
     },
     {
@@ -1452,7 +1423,12 @@
             }
         ],
         "Name": "Best of Ladakh",
-        "Tags": ["adventure"],
+        "Tags": [
+            "adventure"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi - Leh - Lamayuru - Uleytopko - Alchi - Nubra - Pangong"
     },
     {
@@ -1686,7 +1662,12 @@
             }
         ],
         "Name": "Ayurveda",
-        "Tags": ["ayurveda"],
+        "Tags": [
+            "ayurveda"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Kerala"
     },
     {
@@ -1920,7 +1901,12 @@
             }
         ],
         "Name": "Magical South India",
-        "Tags": ["cultural"],
+        "Tags": [
+            "cultural"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Chennai-Cochin-Mahabalipuram-Kanchipuram-Pondichery-ChIdambaram -Thanjavur- Trichy-Chettinad-Madurai-Periyar-Kumarakom-House Boat-Alleppey-Cochin"
     },
     {
@@ -2106,7 +2092,12 @@
             }
         ],
         "Name": "Kerala \u2013 God\u2019s Own Country",
-        "Tags": ["cultural"],
+        "Tags": [
+            "cultural"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Cochin -Munnar- Periyar-Kumarakom-Alleppey-Kovlam-Trivandrum"
     },
     {
@@ -2244,7 +2235,12 @@
             }
         ],
         "Name": "Golden Triangle with Tiger",
-        "Tags": ["cultural"],
+        "Tags": [
+            "cultural"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi-Agra- Fatehpur Sikri-Ranthambhore-Jaipur-Delhi"
     },
     {
@@ -2430,7 +2426,12 @@
             }
         ],
         "Name": "Romantic Kerala",
-        "Tags": ["honeymoon"],
+        "Tags": [
+            "honeymoon"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Cochin-Munnar -Periyar-Alleppey-Kovlam-Trivandrum"
     },
     {
@@ -2552,7 +2553,12 @@
             }
         ],
         "Name": "Romantic Andman",
-        "Tags": ["honeymoon"],
+        "Tags": [
+            "honeymoon"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "PORT BLAIR \u2013 HAVELOCK ISLAND-PORT BLAIR"
     },
     {
@@ -2674,7 +2680,12 @@
             }
         ],
         "Name": "Exotic Manali",
-        "Tags": ["honeymoon"],
+        "Tags": [
+            "honeymoon"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi-Chandigarh - Manali-Rohtang-Manali-Chandigarh"
     },
     {
@@ -2812,7 +2823,12 @@
             }
         ],
         "Name": "The Golden Chariot",
-        "Tags": ["luxury"],
+        "Tags": [
+            "luxury"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Bangalore - Kabini/Bandipur - Mysore - Hassan - Hospet - Badami - Goa - Bangalore"
     },
     {
@@ -3012,7 +3028,12 @@
             }
         ],
         "Name": "Royal Rajasthan on Wheels",
-        "Tags": ["luxury"],
+        "Tags": [
+            "luxury"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi-Jodhpur-Udaipur-Chittorgarh-SawaiMadhopur-Jaipur-Khajuraho-Varanasi (Banaras)-Agra"
     },
     {
@@ -3150,7 +3171,12 @@
             }
         ],
         "Name": "Palace on Wheels",
-        "Tags": ["luxury"],
+        "Tags": [
+            "luxury"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "New Delhi - Jaipur - Sawai Madhopur - Chittorgarh - Udaipur - Jaisalmer - Jodhpur - Bharatpur - Agra - Delhi"
     },
     {
@@ -3368,7 +3394,12 @@
             }
         ],
         "Name": "Buddhist Pilgrimage Tour",
-        "Tags": ["pilgrim"],
+        "Tags": [
+            "pilgrim"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi-Agra-Varanas-Bodhgaya-Vaishali-Kushinagar-Lumbini-Shravasti-Gorakhpur"
     },
     {
@@ -3554,7 +3585,12 @@
             }
         ],
         "Name": "Chardham tour",
-        "Tags": ["pilgrim"],
+        "Tags": [
+            "pilgrim"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi-Rishikesh-Barkot\u2013Jankichatti\u2013Yamunotri-Harsil-Gangotri-Uttarkashi-Guptkashi\u2013Kedarnath-Rudraprayag-Badrinath\u2013 Srinagar-HarIdwar"
     },
     {
@@ -3788,7 +3824,12 @@
             }
         ],
         "Name": "North India \u2013 Temple Tour",
-        "Tags": ["pilgrim"],
+        "Tags": [
+            "pilgrim"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "DELHI\u2013AMRITSAR-DHARMSHALA-SHIMLA-KUFRI-RISHIKESH\u2013HARIdWAR-DELHI-VARANASI"
     },
     {
@@ -4022,7 +4063,12 @@
             }
         ],
         "Name": "Tour to Orissa",
-        "Tags": ["tribal"],
+        "Tags": [
+            "tribal"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "DELHI-BHUBANESHWAR-RATNA GIRI-BALIGUDA-BELGHAR-KOTHAGARGH-RAYAGADA-JEYPORE-LAXMIPUR-RAYAGADA-TAPTAOANI-CHILKA-PURI"
     },
     {
@@ -4272,7 +4318,12 @@
             }
         ],
         "Name": "Orissa \u2013 Chattisgarh Program",
-        "Tags": ["tribal"],
+        "Tags": [
+            "tribal"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "BHUBANESWAR-PURI-KONARK-BALLIGUDA-RAYAGADA-CHATIKONA-JEYPORE-JAGDALPUR-CHITRAKUT-NARAYANPUR-RAIPUR"
     },
     {
@@ -4474,8 +4525,13 @@
             }
         ],
         "Name": "In Search of Tigers",
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "DELHI-SAWAI-MADHOPUR-RANTHAMBHORE- FATEHPUR SIKRI-AGRA-KATNI-BANDHAVGARH-KANHA-NAGPUR",
-        "Tags": ["wildlife"]
+        "Tags": [
+            "wildlife"
+        ]
     },
     {
         "Id": 25,
@@ -4708,7 +4764,12 @@
             }
         ],
         "Name": "Gujarat Tribal Tours",
-        "Tags": ["tribal"],
+        "Tags": [
+            "tribal"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Mumbai-Baroda-Bhuj-Ahmedamad-Utellia-Balaram-Patan-Little Rann of Kutch-Bhuj"
     },
     {
@@ -4894,7 +4955,12 @@
             }
         ],
         "Name": "South India -Temple Tour",
-        "Tags": ["pilgrim"],
+        "Tags": [
+            "pilgrim"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Chennai \u2013 Mahabalipuram \u2013 Pondicherry \u2013 Thanjavur \u2013 Trichy \u2013 Madurai \u2013 Bangalore \u2013 Mysore - Hassan"
     },
     {
@@ -5160,7 +5226,12 @@
             }
         ],
         "Name": "A Journey through Royal",
-        "Tags": ["cultural"],
+        "Tags": [
+            "cultural"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Khimsar \u2013 Jasailmer \u2013 Jodhpur \u2013 Rohetgarh \u2013 Ranakpur \u2013 Udaipur \u2013 Pushkar \u2013 Jaipur \u2013 Agra \u2013 Delhi"
     },
     {
@@ -5314,7 +5385,12 @@
             }
         ],
         "Name": "Classical Journey",
-        "Tags": ["cultural"],
+        "Tags": [
+            "cultural"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi \u2013 Jaipur \u2013 Agra \u2013 Khajuraho \u2013 Varanasi \u2013 Delhi"
     },
     {
@@ -5548,7 +5624,12 @@
             }
         ],
         "Name": "Classical North with Wildlife",
-        "Tags": ["wildlife"],
+        "Tags": [
+            "wildlife"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi \u2013 Jaipur \u2013 Ranthambore \u2013 Bharatpur \u2013 Agra \u2013 Umaria \u2013 Bandhavgarhh \u2013 Kanha \u2013 Jabalpur"
     },
     {
@@ -5718,7 +5799,12 @@
             }
         ],
         "Name": "Painted Havelis of Sekhawati",
-        "Tags": ["cultural"],
+        "Tags": [
+            "cultural"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": " Delhi \u2013 Bikaner \u2013 Mandawa \u2013 Jaipur - Delhi"
     },
     {
@@ -5888,7 +5974,12 @@
             }
         ],
         "Name": "Enchanted Beaches",
-        "Tags": ["cultural"],
+        "Tags": [
+            "cultural"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi \u2013 Cochin \u2013 Mararikulam \u2013 Kovalam \u2013 Trivendrum - Delhi"
     },
     {
@@ -6170,7 +6261,12 @@
             }
         ],
         "Name": "Grand South India Tour",
-        "Tags": ["cultural"],
+        "Tags": [
+            "cultural"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Mumbai \u2013 Bangalore \u2013 Hassan \u2013 Mysore \u2013 Ooty \u2013 Cochin \u2013 Kumarakom \u2013 Periyar \u2013 Madurai \u2013 Trichy \u2013 Thanjavur \u2013 Pondicherry \u2013 Mammalapuram \u2013 Kanchipuram \u2013 Chennai \u2013 Mumbai"
     },
     {
@@ -6420,7 +6516,12 @@
             }
         ],
         "Name": "Gujarat Tour",
-        "Tags": ["cultural"],
+        "Tags": [
+            "cultural"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Ahmedabad-Taranga-Vijaynagar-Zainabad-Bhuj-Jamnagar-Dwarka\u2013 Junagadh-Bhavnagar"
     },
     {
@@ -6606,7 +6707,12 @@
             }
         ],
         "Name": "Forts of Rajasthan",
-        "Tags": ["cultural"],
+        "Tags": [
+            "cultural"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jasailmer \u2013 Jodhpur - Jaipur \u2013 Agra \u2013 Delhi"
     },
     {
@@ -6728,7 +6834,12 @@
             }
         ],
         "Name": "Golden Triangle",
-        "Tags": ["cultural"],
+        "Tags": [
+            "cultural"
+        ],
+        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
+        "Overview": "This is a brief overview of the package.",
         "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi"
     }
 ]
