@@ -18,6 +18,9 @@ interface IPackageDetailDataType {
     Name: string;
     LocationDescription: string;
     Tags: Array<string>;
+    Overview: string;
+    Whats_Included: string;
+    Additional_Information: string;
 }
 
 interface ITestimonialDataType {
