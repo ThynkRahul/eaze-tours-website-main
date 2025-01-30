@@ -41,110 +41,25 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                     <PackageImageSwiper source={tourPackage.Id}></PackageImageSwiper>
                 </div>
 
-                <div className="max-h-screen overflow-auto border-2 mx-8 rounded-[20px]">
+                <div className="overflow-auto border-2 mx-8 rounded-[20px]">
                     <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[30px]">
                         <h2 className="text-2xl font-semibold text-black text-center sm:text-left mb-4">Overview</h2>
-                        <div className="text-[#4f5e71] font-[16px] leading-[22.4px]">With a maximum of 13 people, this small-group tour takes in the beauty of Antelope Canyon X without the crowds. Travel round-trip by minivan from your Las Vegas hotel to Arizona, and explore the canyon with a Navajo guide. Hike out to the sheer rock face at Horseshoe Bend and stop at a scenic overlook for views of Lake Powell.</div>
-                        <ul className="list-disc pl-6 mt-4 grid grid-cols-2 gap-4">
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Spend a day exploring Antelope Canyon X, led by a Navajo guide
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Spend a day exploring Antelope Canyon X, led by a Navajo guide
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Spend a day exploring Antelope Canyon X, led by a Navajo guide
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Spend a day exploring Antelope Canyon X, led by a Navajo guide
-                            </li>
-                        </ul>
+                        <div className="text-[#4f5e71] font-[16px] leading-[22.4px]">{tourPackage.Overview}</div>
                     </div>
                 </div>
-                <div className="max-h-screen overflow-auto border-2 mx-8 rounded-[20px]">
+                <div className="overflow-auto border-2 mx-8 rounded-[20px]">
                     <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[30px]">
                         <h2 className="text-2xl font-semibold text-black text-center sm:text-left mb-4">What’s Included</h2>
-                        <ul className="list-disc pl-6 mt-4 grid grid-cols-2 gap-4">
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Tour to Antelope Canyon X and Horseshoe Bend
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Driver/Guide
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Bottled water, soda, fruit and snacks
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Hotel pick-up and dropoff by airconditioned vehicle
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                All Fees and Taxes
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Gratuities (optional)
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Lunch
-                            </li>
-                        </ul>
+                        <ul className="list-disc pl-6 mt-4 grid grid-cols-1 sm:grid-cols-2 gap-4 text-[#4f5e71] text-[16px] leading-[22.4px]" dangerouslySetInnerHTML={{ __html: tourPackage.Whats_Included }} />
                     </div>
                 </div>
-                <div className="max-h-screen overflow-auto border-2 mx-8 rounded-[20px]">
+                <div className="overflow-auto border-2 mx-8 rounded-[20px]">
                     <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[30px]">
                         <h2 className="text-2xl font-semibold text-black text-center sm:text-left mb-4">Additional Information</h2>
-                        <ul className="list-disc pl-6 mt-4 grid grid-cols-2 gap-4">
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Confirmation will be received at time of booking
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Don’t forget to bring sunscreen, hats, sunglasses, comfortable clothes and hiking or tennis shoes.
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Not recommended for travelers with back problems
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                The tour start at 5:30am but the pickup times will be between 4am and 5:30am
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                May be operated, under request by a multi-lingual guide (Spanish and Portuguese)
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                A moderate amount of walking is involved at both attractions.
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Waiver will need to be signed attesting to good health conditions
-                            </li>
-                        </ul>
+                        <ul className="list-disc pl-6 mt-4 grid grid-cols-1 sm:grid-cols-2 gap-4 text-[#4f5e71] text-[16px] leading-[22.4px]" dangerouslySetInnerHTML={{ __html: tourPackage.Additional_Information }} />
                     </div>
                 </div>
 
-                <div className="max-h-screen overflow-auto border-2 mx-8 rounded-[20px]">
-                    <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[30px]">
-                        <h2 className="text-2xl font-semibold text-black text-center sm:text-left mb-4">Cancellation Policy
-                        </h2>
-                        <ul className="list-disc pl-6 mt-4 grid grid-cols-2 gap-4">
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                For a full refund, you must cancel at least 24 hours before the experience’s start time.
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                If you cancel less than 24 hours before the experience’s start time, the amount you paid will not be refunded.
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                Any changes made less than 24 hours before the experience’s start time will not be accepted.
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                The tour start at 5:30am but the pickup times will be between 4am and 5:30am
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                This experience requires good weather. If it’s canceled due to poor weather, you’ll be offered a different date or a full refund.
-                            </li>
-                            <li className="text-[#4f5e71] text-[16px] leading-[22.4px]">
-                                This experience requires a minimum number of travelers. If it’s canceled because the minimum isn’t met, you’ll be offered a different date/experience or a full refund.
-                            </li>
-
-                        </ul>
-                    </div>
-                </div>
                 <div className="max-h-screen overflow-auto border-2 mx-8 rounded-[20px]">
                     <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[30px]">
                         <h2 className="text-2xl font-semibold text-black text-center sm:text-left mx-2 mb-8">Trip That Inspire You</h2>
