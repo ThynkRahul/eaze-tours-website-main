@@ -436,10 +436,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Arrival in Manali"
+                        "S": "Arrival Manali"
                     },
                     "description": {
-                        "S": "<li>Arrive in Manali and check into your accommodation.</li><li>Spend the day acclimatizing to the altitude.</li><li>Meet your guide, review the itinerary, and prepare your gear for the adventure.</li>"
+                        "S": "Very early in the morning arrival Manali, on arrival meet to our staff and transfer to hotel (We try to provIde the early check in, it is depend on the session, normally check in time is 12:00) On arrival check in hotel or resort, morning free for get relax, afternoon explore Manali by testing biking visit Naggar Castle, Jagatsukh Temple and Vashist Hot Spring etc. Overnight at hotel. (B)"
                     },
                     "Id": {
                         "N": "1"
@@ -452,10 +452,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Manali to Rohtang Pass (51 km)"
+                        "S": "Manali"
                     },
                     "description": {
-                        "S": "<li>Begin the journey with a climb to Rohtang Pass (3,978 meters).</li><li>Witness panoramic views of snow-capped peaks and lush valleys.</li><li>Overnight stay in a campsite.</li>"
+                        "S": "After breakfast full day biking tour in around Manali includes Manikaran, Hadimba Temple and Kullu Valley. Overnight at hotel. (B)"
                     },
                     "Id": {
                         "N": "2"
@@ -468,10 +468,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Rohtang Pass to Jispa (75 km)"
+                        "S": "Manali \u2013 Keylong \u2013 Jispa (136 Km)"
                     },
                     "description": {
-                        "S": "<li>Cycle downhill to the charming town of Jispa.</li><li>Cross small villages and the scenic Lahaul Valley.</li>"
+                        "S": "After breakfast commence biking tour to Leh via Rohatang Pass (3990M) , this is the first pass between Manali to Lahaul Valley, enjoy the biking via Gulaba,Marchi, Rani Nala, Rohatang Jyot, Koksar, Gondal, Tandi (Confluence of Chandra and Bhaga River), Keylong finally reach at Jispa, on arrival check in hotel or fix tent. (B/D)"
                     },
                     "Id": {
                         "N": "3"
@@ -484,10 +484,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Jispa to Baralacha La (60 km)"
+                        "S": "Jispa \u2013 Darcha- Suraj Tal- Baralachal Pass (4890m) \u2013 Sarchu (110 Km)"
                     },
                     "description": {
-                        "S": "<li>Ascend to Baralacha La Pass (4,890 meters), known for its mesmerizing landscapes.</li><li>Stay overnight near Sarchu.</li>"
+                        "S": "Breakfast at hotel or fix tent, prepare your bike to cover next destination, through the high passes and nice landscape, cross small hamlets or tea stall as Darcha, this is the first TRC checking points and this place is known for adventure lover who want commence trek to Zanskar Valley. Gradually ascend toward the Indian Plateau and cross the second Pass Baralacha, on the way you will see several wild animals and unforgettable landscape. On arrival at Sarchu take the tent for overnight stay. (B/D)"
                     },
                     "Id": {
                         "N": "4"
@@ -500,10 +500,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Sarchu to Nakee La & Lachung La (55 km)"
+                        "S": "Sarchu \u2013 Pang \u2013 Dibiring \u2013 Tsokar (180 Km)"
                     },
                     "description": {
-                        "S": "<li>Tackle the steep climbs to Nakee La (4,739 meters) and Lachung La (5,059 meters).</li><li>Marvel at the rugged Himalayan terrain.</li>"
+                        "S": "After breakfast get ready to next day biking tour to Tsokar (Salt) Lake, enjoy the landscape and time to time break for photos, on arrival at Tsokar check in fix tent, rest of the time explore surrounding, catch the wild animals (Hinting with Camera). Overnight enjoy the meal. (B/D)"
                     },
                     "Id": {
                         "N": "5"
@@ -516,26 +516,58 @@
             {
                 "M": {
                     "name": {
-                        "S": "Pang to Leh (170 km)"
+                        "S": "Tsokar \u2013 Sumdah \u2013 Tsomoriri (145 Km)"
                     },
                     "description": {
-                        "S": "<li>Ride through vast plains and over the iconic Taglang La Pass (5,328 meters).</li><li>Explore Ladakhi villages and monasteries en route.</li>"
+                        "S": "After breakfast at fix tent proceed to Tsomoriri via Sumdah Village, again magnificent rIde see the wild animals, landscape and sulpher water spring. En route visit the Tibetan refugee village. Cross the Namshang La 4920m. & a small lake Thachung Karo Lake. Continue drive to Karzok (Tsomoriri) check in fix tent, rest of the time visit crystal Water Lake walking tour is possible there, bikes not allowed. Overnight at Tsomoriri. (B/D)"
                     },
                     "Id": {
-                        "N": "6-8"
+                        "N": "6"
                     },
                     "day": {
-                        "N": "6-8"
+                        "N": "6"
                     }
                 }
             },
             {
                 "M": {
                     "name": {
-                        "S": "Arrival in Leh"
+                        "S": "Tsomoriri \u2013 Mahay BrIdge- Chumathang \u2013 Leh (145 Km)"
                     },
                     "description": {
-                        "S": "<li>Complete the journey as you reach Leh, the heart of Ladakh.</li><li>Celebrate your achievement with your team.</li>"
+                        "S": "After breakfast start your rIde going through the Indus River many crossing many small villages and hamlets , Reach Natural Hot Spring at Chumathang. Visit hot spring and lunch. After that continue drive to Leh, through the small village, markets along with the India River, en route visit Hemis Monastery. On arrival at Leh check in hotel. Rest of the time free. (B/D)"
+                    },
+                    "Id": {
+                        "N": "7"
+                    },
+                    "day": {
+                        "N": "7"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "name": {
+                        "S": "Nubra Valley Over Khardung La Pass (120 Km)"
+                    },
+                    "description": {
+                        "S": "After breakfast start rIding to Nubra over the Khardong La Pass (5602m) \u2013 the Highest Motorable Road in the World. It was only recently opened for tourist\u2019s accessibility. You will stop on the top of the pass when one can see the Snow Peak Mountains and glacier. Have a cup of Hot Tea from the Highest Cafeteria in the World. This is an old route which used as part of the Legendary Silk Road which ran to Tibet, China & Turkmenistan, behind the Khardong mountain pass. The Road opens up and you are met with the wonderful view of the fruitful green valley of Ladakh which are watered thanks to Shyok and Nubra waterways-this road was previously on the silk street and lots of Caravans weaved their way further to central Asia- the green Nubra valley was for centuries the resting spot for Camel and Yak caravans- you will see apple, apricot and lots of mulberry trees in Hunder and other areas, Lamaism plays an important role in life in this area. After that continue drive through Nubra valley to Diskit, total drive will takes about 4 hrs. Upon reaching check in Guest House. Late afternoon, optional, You can also enjoy the Bactrian (Double hump) camel in the sand dune between Hunder and Diskit Village. Overnight at Diskit. (B/D)"
+                    },
+                    "Id": {
+                        "N": "8"
+                    },
+                    "day": {
+                        "N": "8"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "name": {
+                        "S": "Diskit \u2013 Leh"
+                    },
+                    "description": {
+                        "S": "After breakfast visit Diskit Monastery, The Diskit monastery was founded by Changzem Tserab Zangpo in the 14th century. The history of the Nubra Valley and the monastery could thus be traced from 14th century onwards. It has a tallest statue of Maitreya Buddha in Ladakh. After that visit Sumoor village and drive back to Leh. Upon arrival check in hotel. Late afternoon visit Shanti Stupa for Sunset Tour. The Stupa is located on the hill top of the Changspa locality in Leh, it was built in 1983 on the rock and inaugurated by HH Dalai Lam. From this Stupa you can see the memorable sunset over the Leh Valley. After that back to Leh and some free time for shopping. Evening dinner. (B/D)"
                     },
                     "Id": {
                         "N": "9"
@@ -548,21 +580,53 @@
             {
                 "M": {
                     "name": {
-                        "S": "Departure from Leh"
+                        "S": "Leh \u2013 Lamayuru (240 Km) \u2013 Leh"
                     },
                     "description": {
-                        "S": "<li>Bid farewell to the Himalayas.</li><li>Depart with incredible memories of this once-in-a-lifetime experience.</li>"
+                        "S": "After breakfast full day rIding to lower Ladakh called Sham Valley, straight drive to Lamayuru, visit monastery and moon land, drive back to Leh, en route visit Rizong Gompa, Alchi Choskor, Likir, Basgo Palace and Nimmo (Confluence of Indus and Zanskar River) if the time is allowed just a photo break at Gurudwara Pathar Saheb, rest of the time free at Leh market. (B/D)"
                     },
                     "Id": {
                         "N": "10"
                     },
                     "day": {
                         "N": "10"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "name": {
+                        "S": "Leh"
+                    },
+                    "description": {
+                        "S": "Full day free for indivIdual activities or last time shopping etc. Overnight at hotel (B/D)"
+                    },
+                    "Id": {
+                        "N": "11"
+                    },
+                    "day": {
+                        "N": "11"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "name": {
+                        "S": "Leh Departure"
+                    },
+                    "description": {
+                        "S": "Early in the morning departure transfer to airport connect flight to Delhi or onward destination"
+                    },
+                    "Id": {
+                        "N": "12"
+                    },
+                    "day": {
+                        "N": "12"
                     }
                 }
             }
         ],
-        "Name": "Mountain Bike Tour",
+        "Name": "Mountain Bike Tour: Manali to Leh Travel Package",
         "Tags": [
             "adventure"
         ],
@@ -753,13 +817,13 @@
                 }
             }
         ],
-        "Name": "Markha Trek",
+        "Name": "Trekking Tour in India Travel Package",
         "Tags": [
             "adventure"
         ],
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Difficulty Level: Varies from easy to challenging trails, suitable for beginners and experienced trekkers</li><li>Best Time to Visit: October to March for most regions; May to September for Himalayan treks</li><li>What to Bring: Comfortable trekking shoes, warm clothing, a backpack, water bottle, and personal essentials</li><li>Travel insurance is recommended</li>",
+        "Whats_Included": "<li>Professional trekking guides and porters</li><li>Accommodation in tents, guesthouses, or homestays</li><li>All meals (breakfast, lunch, and dinner)</li><li>Trekking permits and entry fees</li><li>First aid and emergency assistance</li><li>Transfer to and from the trekking base</li>",
+        "Overview": "Discover the untouched beauty of India’s mountains, forests, and valleys with our Trekking Tour in India. Perfect for nature lovers and adventure seekers, this tour takes you through picturesque trails, rich cultural heritage, and diverse landscapes. Whether it’s the Himalayan foothills, Western Ghats, or the serene deserts of Rajasthan, this trekking journey is a blend of adventure and tranquility.",
         "LocationDescription": "Leh \u2013 Spituk (Kali Temple) - Zinchen-Yurutse \u2013 Gondala\u2013 Shingo \u2013 Skyu-Markha Village \u2013 Hankar \u2013 Thachunche-Nimaling \u2013 Shang Sumdo-Hemis \u2013 Leh"
     },
     {
@@ -928,13 +992,13 @@
                 }
             }
         ],
-        "Name": "High on Sky \u2013 North East",
+        "Name": "Explore the Land of Mystical Beauty",
         "Tags": [
             "adventure"
         ],
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Best Time to Visit: October to April, when the weather is pleasant and ideal for sightseeing.</li><li>Ideal For: Families, solo travelers, couples, and adventure enthusiasts.</li><li>What to Bring: Comfortable clothing, trekking shoes, rain gear, and a camera to capture the beauty.</li><li>All permits for restricted areas will be arranged by us.</li>",
+        "Whats_Included": "<li>Comfortable accommodation in hotels or homestays</li><li>Daily breakfast and dinner</li><li>Guided sightseeing tours</li><li>Transportation in a private vehicle</li><li>Entry permits and tickets to attractions</li><li>Professional tour guide assistance</li>",
+        "Overview": "Dive into the serene charm of India's North East with our North East Tour Package. This journey will take you through breathtaking landscapes, vibrant culture, and unique traditions. From the lush tea gardens of Assam to the misty hills of Meghalaya and the vibrant festivals of Nagaland, this tour is a perfect blend of nature, adventure, and heritage.",
         "LocationDescription": "Calcutta \u2013 Bagdogra - Darjeeling - Pemayangste - Gangtok - Rumtek-Monastery - Jalpaiguri"
     },
     {
