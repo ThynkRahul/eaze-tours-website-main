@@ -436,10 +436,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Arrival Manali"
+                        "S": "Arrival in Manali"
                     },
                     "description": {
-                        "S": "Very early in the morning arrival Manali, on arrival meet to our staff and transfer to hotel (We try to provIde the early check in, it is depend on the session, normally check in time is 12:00) On arrival check in hotel or resort, morning free for get relax, afternoon explore Manali by testing biking visit Naggar Castle, Jagatsukh Temple and Vashist Hot Spring etc. Overnight at hotel. (B)"
+                        "S": "Arrive in Manali and check into your accommodation. Spend the day acclimatizing to the altitude. Meet your guide, review the itinerary, and prepare your gear for the adventure. Afternoon explore Manali by testing biking visit Naggar Castle, Jagatsukh Temple and Vashist Hot Spring etc. Overnight at hotel (B)."
                     },
                     "Id": {
                         "N": "1"
@@ -452,10 +452,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Manali"
+                        "S": "Manali to Rohtang Pass (51 km)"
                     },
                     "description": {
-                        "S": "After breakfast full day biking tour in around Manali includes Manikaran, Hadimba Temple and Kullu Valley. Overnight at hotel. (B)"
+                        "S": "After breakfast full day biking tour in around Manali includes Manikaran, Hadimba Temple and Kullu Valley. Overnight stay at hotel (B)."
                     },
                     "Id": {
                         "N": "2"
@@ -468,10 +468,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Manali \u2013 Keylong \u2013 Jispa (136 Km)"
+                        "S": "Rohtang Pass to Jispa (75 km)"
                     },
                     "description": {
-                        "S": "After breakfast commence biking tour to Leh via Rohatang Pass (3990M) , this is the first pass between Manali to Lahaul Valley, enjoy the biking via Gulaba,Marchi, Rani Nala, Rohatang Jyot, Koksar, Gondal, Tandi (Confluence of Chandra and Bhaga River), Keylong finally reach at Jispa, on arrival check in hotel or fix tent. (B/D)"
+                        "S": "After breakfast commence biking tour to Leh via Rohatang Pass (3990M). Enjoy the biking via Gulaba,Marchi, Rani Nala, Rohatang Jyot, Koksar, Gondal, Tandi (Confluence of Chandra and Bhaga River), Keylong finally reach at Jispa. Arrival check in hotel or fix tent (B/D)."
                     },
                     "Id": {
                         "N": "3"
@@ -484,10 +484,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Jispa \u2013 Darcha- Suraj Tal- Baralachal Pass (4890m) \u2013 Sarchu (110 Km)"
+                        "S": "Jispa – Darcha- Suraj Tal- Baralachal Pass (4890m) – Sarchu (110 Km)"
                     },
                     "description": {
-                        "S": "Breakfast at hotel or fix tent, prepare your bike to cover next destination, through the high passes and nice landscape, cross small hamlets or tea stall as Darcha, this is the first TRC checking points and this place is known for adventure lover who want commence trek to Zanskar Valley. Gradually ascend toward the Indian Plateau and cross the second Pass Baralacha, on the way you will see several wild animals and unforgettable landscape. On arrival at Sarchu take the tent for overnight stay. (B/D)"
+                        "S": "Breakfast at hotel or fix tent. Prepare your bike to cover next destination, through the high passes and nice landscape, cross small hamlets or tea stall as Darcha, this is the first TRC checking points and this place is known for adventure lover who want commence trek to Zanskar Valley. Ascend to Baralacha La Pass (4,890 meters), known for its mesmerizing landscapes. On arrival at Sarchu take the tent for overnight stay. (B/D)"
                     },
                     "Id": {
                         "N": "4"
@@ -500,7 +500,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Sarchu \u2013 Pang \u2013 Dibiring \u2013 Tsokar (180 Km)"
+                        "S": "Sarchu – Pang – Dibiring – Tsokar (180 Km)"
                     },
                     "description": {
                         "S": "After breakfast get ready to next day biking tour to Tsokar (Salt) Lake, enjoy the landscape and time to time break for photos, on arrival at Tsokar check in fix tent, rest of the time explore surrounding, catch the wild animals (Hinting with Camera). Overnight enjoy the meal. (B/D)"
@@ -516,7 +516,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Tsokar \u2013 Sumdah \u2013 Tsomoriri (145 Km)"
+                        "S": "Tsokar – Sumdah – Tsomoriri (145 Km)"
                     },
                     "description": {
                         "S": "After breakfast at fix tent proceed to Tsomoriri via Sumdah Village, again magnificent rIde see the wild animals, landscape and sulpher water spring. En route visit the Tibetan refugee village. Cross the Namshang La 4920m. & a small lake Thachung Karo Lake. Continue drive to Karzok (Tsomoriri) check in fix tent, rest of the time visit crystal Water Lake walking tour is possible there, bikes not allowed. Overnight at Tsomoriri. (B/D)"
@@ -532,7 +532,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Tsomoriri \u2013 Mahay BrIdge- Chumathang \u2013 Leh (145 Km)"
+                        "S": "Tsomoriri – Mahay BrIdge- Chumathang – Leh (145 Km)"
                     },
                     "description": {
                         "S": "After breakfast start your rIde going through the Indus River many crossing many small villages and hamlets , Reach Natural Hot Spring at Chumathang. Visit hot spring and lunch. After that continue drive to Leh, through the small village, markets along with the India River, en route visit Hemis Monastery. On arrival at Leh check in hotel. Rest of the time free. (B/D)"
@@ -551,7 +551,7 @@
                         "S": "Nubra Valley Over Khardung La Pass (120 Km)"
                     },
                     "description": {
-                        "S": "After breakfast start rIding to Nubra over the Khardong La Pass (5602m) \u2013 the Highest Motorable Road in the World. It was only recently opened for tourist\u2019s accessibility. You will stop on the top of the pass when one can see the Snow Peak Mountains and glacier. Have a cup of Hot Tea from the Highest Cafeteria in the World. This is an old route which used as part of the Legendary Silk Road which ran to Tibet, China & Turkmenistan, behind the Khardong mountain pass. The Road opens up and you are met with the wonderful view of the fruitful green valley of Ladakh which are watered thanks to Shyok and Nubra waterways-this road was previously on the silk street and lots of Caravans weaved their way further to central Asia- the green Nubra valley was for centuries the resting spot for Camel and Yak caravans- you will see apple, apricot and lots of mulberry trees in Hunder and other areas, Lamaism plays an important role in life in this area. After that continue drive through Nubra valley to Diskit, total drive will takes about 4 hrs. Upon reaching check in Guest House. Late afternoon, optional, You can also enjoy the Bactrian (Double hump) camel in the sand dune between Hunder and Diskit Village. Overnight at Diskit. (B/D)"
+                        "S": "After breakfast start rIding to Nubra over the Khardong La Pass (5602m) – the Highest Motorable Road in the World. You will stop on the top of the pass when one can see the Snow Peak Mountains and glacier. Have a cup of Hot Tea from the Highest Cafeteria in the World. This is an old route which used as part of the Legendary Silk Road which ran to Tibet, China & Turkmenistan, behind the Khardong mountain pass. The Road opens up and you are met with the wonderful view of the fruitful green valley of Ladakh which are watered thanks to Shyok and Nubra waterways-this road was previously on the silk street and lots of Caravans weaved their way further to central Asia- the green Nubra valley was for centuries the resting spot for Camel and Yak caravans- you will see apple, apricot and lots of mulberry trees in Hunder and other areas, Lamaism plays an important role in life in this area. After that continue drive through Nubra valley to Diskit, total drive will takes about 4 hrs. Upon reaching check in Guest House. Late afternoon, optional, You can also enjoy the Bactrian (Double hump) camel in the sand dune between Hunder and Diskit Village. Overnight at Diskit. (B/D)"
                     },
                     "Id": {
                         "N": "8"
@@ -564,7 +564,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Diskit \u2013 Leh"
+                        "S": "Diskit – Leh"
                     },
                     "description": {
                         "S": "After breakfast visit Diskit Monastery, The Diskit monastery was founded by Changzem Tserab Zangpo in the 14th century. The history of the Nubra Valley and the monastery could thus be traced from 14th century onwards. It has a tallest statue of Maitreya Buddha in Ladakh. After that visit Sumoor village and drive back to Leh. Upon arrival check in hotel. Late afternoon visit Shanti Stupa for Sunset Tour. The Stupa is located on the hill top of the Changspa locality in Leh, it was built in 1983 on the rock and inaugurated by HH Dalai Lam. From this Stupa you can see the memorable sunset over the Leh Valley. After that back to Leh and some free time for shopping. Evening dinner. (B/D)"
@@ -580,10 +580,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Leh \u2013 Lamayuru (240 Km) \u2013 Leh"
+                        "S": "Leh – Lamayuru (240 Km) – Leh"
                     },
                     "description": {
-                        "S": "After breakfast full day rIding to lower Ladakh called Sham Valley, straight drive to Lamayuru, visit monastery and moon land, drive back to Leh, en route visit Rizong Gompa, Alchi Choskor, Likir, Basgo Palace and Nimmo (Confluence of Indus and Zanskar River) if the time is allowed just a photo break at Gurudwara Pathar Saheb, rest of the time free at Leh market. (B/D)"
+                        "S": "After breakfast full day rIding to lower Ladakh called Sham Valley, straight drive to Lamayuru, visit monastery and moon land, drive back to Leh, en route visit Rizong Gompa, Alchi Choskor, Likir, Basgo Palace and Nimmo (Confluence of Indus and Zanskar River) if the time is allowed just a photo break at Gurudwara Pathar Saheb. Rest of the time free at Leh market. (B/D)"
                     },
                     "Id": {
                         "N": "10"
@@ -596,10 +596,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Leh"
+                        "S": "Arrival in Leh"
                     },
                     "description": {
-                        "S": "Full day free for indivIdual activities or last time shopping etc. Overnight at hotel (B/D)"
+                        "S": "Full day free for individual activities or last time shopping etc. Celebrate your achievement with your team. Overnight at hotel (B/D)"
                     },
                     "Id": {
                         "N": "11"
@@ -612,10 +612,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Leh Departure"
+                        "S": "Departure from Leh"
                     },
                     "description": {
-                        "S": "Early in the morning departure transfer to airport connect flight to Delhi or onward destination"
+                        "S": "Bid farewell to the Himalayas. Early in the morning departure transfer to airport connect flight to Delhi or onward destination."
                     },
                     "Id": {
                         "N": "12"
@@ -646,7 +646,7 @@
                         "S": "Arrival Leh"
                     },
                     "description": {
-                        "S": "Upon arrival at Leh airport meet to our representative and transfer to hotel, during the check in time you will get tea, coffee, snakes, etc. complete the check formalities, we suggest to you, AM free for get used the rare air of Ladakh. After lunch commence walking tour in the market or visit Shanti Stupa, Tsomo Castle. Overnight at hotel. (B/D)"
+                        "S": "Arrival at Leh airport meet to our representative and transfer to hotel, during the check in time you will get tea, coffee, snacks, etc. Complete the check formalities. After lunch commence walking tour in the market or visit Shanti Stupa, Tsomo Castle. Overnight at hotel. (B/D)"
                     },
                     "Id": {
                         "N": "1"
@@ -675,10 +675,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Leh \u2013 Spituk (Kali Temple) \u2013 Zinchen: 4-5 H. Trek"
+                        "S": "Leh – Spituk (Kali Temple) – Zinchen: 4-5 H. Trek"
                     },
                     "description": {
-                        "S": "After the breakfast drive to Spituk BrIdge behind the Spituk monastery, around 7 kms from Leh town. From Spituk brIdge starts the trekking along Indus River walking through flat and desolate plane at the foot of the Stok Mountain. Gradually, you will leave the view of busy Leh-Srinagar highway and move towards wilderness of Himalaya. Soon you arrive at Zingchen through a gorge, which gives you a feeling of complete isolation. Stay overnight in Camp at Zingchen. (B/D)"
+                        "S": "After the breakfast drive to Spituk BrIdge behind the Spituk monastery, around 7 kms from Leh town. From Spituk brIdge starts the trekking along Indus River walking through flat and desolate plane at the foot of the Stok Mountain. Ascend to higher altitudes, crossing breathtaking mountain passes. Soon you arrive at Zingchen through a gorge, which gives you a feeling of complete isolation. Stay overnight in Camp at Zingchen. (B/D)"
                     },
                     "Id": {
                         "N": "3"
@@ -691,7 +691,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Zinchen \u2013 Yurutse: 5-6 H. Trek"
+                        "S": "Zinchen – Yurutse: 5-6 H. Trek"
                     },
                     "description": {
                         "S": "Leave Zingchen for Rumbak through a straight forward road; leaving village, you enter Hemis national park for the preservation of Snow leopard, Baharal, marmot, wolf etc. Walk through a narrow trail and valley wIdens as you arrive Rumbak and camp at Yurutse below Gandala Pass. Overnight in Camp. (B/D)"
@@ -707,7 +707,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Yurutse \u2013 Gondala (4350m) \u2013 Shingo \u2013 Skyu: 7 \u2013 8 H. Trek"
+                        "S": "Yurutse – Gondala (4350m) – Shingo – Skyu: 7 – 8 H. Trek"
                     },
                     "description": {
                         "S": "From Yurutse follow the path along the mountain sIde, then cross a small valley and follow zig zag steep path. There after cross Gandala pass (4380m). Then walk the long descent towards Shingo for 2 hrs that will lead to the valley of Markha and after few hundred meters you reach Skyu. Overnight halt in tents. (B/D)"
@@ -723,7 +723,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Skyu \u2013 Markha Village: 7-8 H. Trek."
+                        "S": "Skyu – Markha Village: 7-8 H. Trek."
                     },
                     "description": {
                         "S": "After breakfast commence trek to Markha village, follow a good path on the right bank of Markha where one can find great vegetation. Then cross the right bank of river then the barren plain and arrive at Chaluk. Thereafter, walk along the left bank of river and after another crossing climb towards Markha village. Towards the end of the village there are good camp site near the river. Overnight stay in tents. (B/D)"
@@ -739,7 +739,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Markha Village \u2013 Hankar \u2013 Thachunche: 7-8 H. Trek"
+                        "S": "Markha Village – Hankar – Thachunche: 7-8 H. Trek"
                     },
                     "description": {
                         "S": "Right after breakfast you start trekking in the morning to reach Tchatchutse via Hankar village. Overnight in tents. (B/D)"
