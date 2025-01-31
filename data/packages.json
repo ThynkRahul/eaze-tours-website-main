@@ -755,7 +755,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Thachunche \u2013 Nimaling: 5-6 H. Trek"
+                        "S": "Thachunche – Nimaling: 5-6 H. Trek"
                     },
                     "description": {
                         "S": "After breakfast start trekking to reach Nimaling. Nimaling (4900 M) has a sweeping pasture where thousands of sheep, goats and yaks graze during the summer months. Rising to the south is 6400 M high Kang Yatse (Nimaling Peak), a lovely mountain, but not an easy one to climb. Overnight in tents. (B/D)"
@@ -771,7 +771,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Nimaling \u2013 Shang Sumdo: 7-8 H. Trek"
+                        "S": "Nimaling – Shang Sumdo: 7-8 H. Trek"
                     },
                     "description": {
                         "S": "After breakfast start trekking to reach Kongmaru La (5100 M). The trek to Kongmaru la passes through narrow gorges. From the top of the pass, you can have a view of Ladakh ranges and the sight of villages to the north of Indus valley is excellent. Cross the pass and proceed to Shang. Overnight in tents. (B/D)"
@@ -787,7 +787,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Shang Sumdo Village \u2013 Hemis \u2013 Leh: 2 H. Trek /Drive"
+                        "S": "Shang Sumdo Village – Hemis – Leh: 2 H. Trek /Drive"
                     },
                     "description": {
                         "S": "Walk along the stream down to Hemis monastery, which is one of the oldest and richest monasteries in Ladakh. Visit Hemis monastery and drive to Leh, enroute visit Thiksey Monastery, Shey Palace and Stok Palace cum museum. On arrival at Leh check in hotel, rest of the time free for indivIdual activities. (B/D)"
@@ -806,7 +806,7 @@
                         "S": "Leh Departure"
                     },
                     "description": {
-                        "S": "After breakfast in time departure transfer to airport, board onward flight."
+                        "S": "After breakfast in time depart from the base location, taking with you unforgettable memories departure transfer to airport, board onward flight and a sense of accomplishment."
                     },
                     "Id": {
                         "N": "11"
@@ -834,32 +834,16 @@
             {
                 "M": {
                     "name": {
-                        "S": "Arrival Calcutta"
+                        "S": " Arrival in Calcutta"
                     },
                     "description": {
-                        "S": ""
+                        "S": "Arrive breakfast tour briefing by Local Staff, followed by half day visit of the “City of Joy ” also the Mother Teresa’s city. Palaces to visit are the Jain Temple , Zoological Gardens, Victoria Memorial & drive past Howrah BrIdge , Dalhousie Square , Fort Williams , Secretariat Building and Old Court House Street. Overnight at Hotel."
                     },
                     "Id": {
-                        "N": "1"
+                        "N": "1-2"
                     },
                     "day": {
-                        "N": "1"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Calcutta"
-                    },
-                    "description": {
-                        "S": "Arrive breakfast tour briefing by Local Staff, followed by half day visit of the \u201cCity of Joy \u201d also the Mother Teresa\u2019s city. Palaces to visit are the Jain Temple , Zoological Gardens, Victoria Memorial & drive past Howrah BrIdge , Dalhousie Square , Fort Williams , Secretariat Building and Old Court House Street. Overnight at Hotel."
-                    },
-                    "Id": {
-                        "N": "2"
-                    },
-                    "day": {
-                        "N": "2"
+                        "N": "1-2"
                     }
                 }
             },
@@ -869,7 +853,7 @@
                         "S": "Calcutta / Bagdogra / Darjeeling"
                     },
                     "description": {
-                        "S": "After breakfast day free. ProvIde intime departure & transfer to airport to connect the flight for Bagdogra. On arrival at Bagdogra airport followed by drive to Darjeeling . Darjeeling is one of the most beautiful Hill Stations in Eastern India and has the highest Race Course in the World. Place worth visiting are the Lablong village, the Mountaineering Institute and Tenzing Norgay House \u2013 The first Everest Hero.On arrival Check into the Hotel. Overnight at Hotel."
+                        "S": "After breakfast, provide in-time departure & transfer to airport to connect the flight for Bagdogra. On arrival at Bagdogra airport followed by drive to Darjeeling. Darjeeling is one of the most beautiful Hill Stations in Eastern India and has the highest Race Course in the World. Place worth visiting are the Lablong village, the Mountaineering Institute and Tenzing Norgay House – The first Everest Hero. On arrival Check into the Hotel. Overnight at Hotel."
                     },
                     "Id": {
                         "N": "3"
@@ -885,7 +869,7 @@
                         "S": "Darjeeling"
                     },
                     "description": {
-                        "S": "Early morning tour of Tiger Hill & Ghoom Monastery. At the Tiger Hill, the early morning Sun rise displays a panorama of colours and sunsets are purple and gold. Beyond in the distance are the Himalayan Peaks . Return via the famous Ghoom Monastery. You could spend the rest of the day walking in the bazzars of darjeeling or visiting one of the Tea gardens. Darjeeling tea is known world over for its fine flavor. Overnight at Hotel."
+                        "S": "Early morning tour of Tiger Hill & Ghoom Monastery. At the Tiger Hill, the early morning Sun rise displays a panorama of colours and sunsets are purple and gold. Beyond in the distance are the Himalayan Peaks. Return via the famous Ghoom Monastery. Spend the rest of the day walking in the markets of Darjeeling or visiting one of the Tea gardens (Darjeeling tea is known world over for its fine flavor). Overnight at Hotel."
                     },
                     "Id": {
                         "N": "4"
@@ -901,7 +885,7 @@
                         "S": "Darjeeling / Pemayangste"
                     },
                     "description": {
-                        "S": "After breakfast drive to Pemayangste. Afternoon visit the Monastery. Pemayangste is situated in Pelling, West Sikkim . It is perched at a height of 2085 mts and is the second oldest and perhaps the most important monastery in Sikkim . This monastery belongs to the Nyigma order & all ther Nyigma order monasteries in Sikkim are subordinate to it. Overnight at Hotel."
+                        "S": "After breakfast drive to Pemayangste. Afternoon visit the Monastery (Pemayangste is situated in Pelling, West Sikkim). It is perched at a height of 2085 meters and is the second oldest and perhaps the most important monastery in Sikkim. This monastery belongs to the Nyingma order & all their Nyingma order monasteries in Sikkim are subordinate to it. Overnight at Hotel."
                     },
                     "Id": {
                         "N": "5"
@@ -914,7 +898,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Pemayangste / Gangtok"
+                        "S": " Pemayangste / Gangtok"
                     },
                     "description": {
                         "S": "After breakfast drive to Gangtok. The capital of Sikkim and a city of great scenic beauty, is surrounded by green forests. On arrival Check into the Hotel. Rest of the day at leisure. Overnight at Hotel."
@@ -933,7 +917,7 @@
                         "S": "Gangtok"
                     },
                     "description": {
-                        "S": "After breakfast city tour Gangtok. There are a number of monasteries in and around Sikkim , each a symbol of Himalayan Buddhism. Afternoon free. Overnight at Hotel."
+                        "S": "After breakfast city tour Gangtok. There are a number of monasteries in and around Sikkim, each a symbol of Himalayan Buddhism. Afternoon free. Overnight at Hotel."
                     },
                     "Id": {
                         "N": "7"
@@ -949,7 +933,7 @@
                         "S": "Gangtok / Rumtek Monastery / Gangtok"
                     },
                     "description": {
-                        "S": "Morning visit Enchey Monastery, The ResIdency \u2013 for an excellent view of the mountains, the White Memorial Hall, Institute of Tibetology and Deer Park. Continue to visit the famous Rumtek Monastery belonging to the RED HAT sect of Tibetan Buddhism. Afternoon free. Overnight at Hotel."
+                        "S": "Morning visit Enchey Monastery, The ResIdency – for an excellent view of the mountains, the White Memorial Hall, Institute of Tibetology and Deer Park. Continue to visit the famous Rumtek Monastery belonging to the RED HAT sect of Tibetan Buddhism. Afternoon free. Overnight at Hotel."
                     },
                     "Id": {
                         "N": "8"
@@ -965,7 +949,7 @@
                         "S": "Gangtok / Bagdogra / Calcutta"
                     },
                     "description": {
-                        "S": "In time drive to Bagdogra airport to connect the flight for Calcutta . On arrival at Calcutta airport, transfer to hotel. Rest of the day at leisure. Overnight at Hotel."
+                        "S": "In time drive to Bagdogra airport to connect the flight for Calcutta. On arrival at Calcutta airport, transfer to hotel. Rest of the day at leisure. Overnight at Hotel."
                     },
                     "Id": {
                         "N": "9"
@@ -981,7 +965,7 @@
                         "S": "Departure Calcutta"
                     },
                     "description": {
-                        "S": "After breakfast day free. ProvIde intime departure & transfer to airport to connect the flight for onward journey."
+                        "S": "After breakfast day free. Provide in-time departure & transfer to airport to connect the flight for onward journey."
                     },
                     "Id": {
                         "N": "10"
