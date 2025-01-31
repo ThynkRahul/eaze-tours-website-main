@@ -7,12 +7,12 @@ interface IPackageDetailProp {
 }
 
 
-export default function PackageDetail({packageId}: IPackageDetailProp) {
-    const tourPackage = packageData.filter(function(tourPackage) { return tourPackage.Id == packageId; })[0];
-    
+export default function PackageDetail({ packageId }: IPackageDetailProp) {
+    const tourPackage = packageData.filter(function (tourPackage) { return tourPackage.Id == packageId; })[0];
+
     return (
         <>
-            <div className="mt-16 md:mx-16">
+            <div className="mt-16 sm:mx-4">
                 <VerticalTimeline tourPackage={tourPackage}>
                 </VerticalTimeline>
             </div>
