@@ -295,18 +295,18 @@ function PackageImage({ source }: IPackageImageProp) {
 function PackageImageSwiper({ source }: IPackageImageProp) {
     return (
 
-        <div className="grid grid-cols-10 gap-x-6 h-[400px] max-w-screen-xl mx-8">
+        <div className="grid grid-cols-10 gap-x-6 max-w-screen-xl mx-8">
             {/* Left Column (65%) */}
-            <div className="col-span-6 h-full">
+            <div className="col-span-12 sm:col-span-7 h-full">
                 <Image
                     src={package_images[source]["list"][0]}
                     alt="Large Gallery Image"
-                    className="w-full h-[424px] object-cover rounded-[23px]"
+                    className="w-full h-[200px] sm:h-[424px] object-cover rounded-[23px]"
                 />
             </div>
 
             {/* Right Column (35%) with two stacked images */}
-            <div className="col-span-4 flex flex-col gap-y-6 h-[400px]">
+            <div className="col-span-3 hidden flex-row sm:flex sm:flex-col gap-y-6 h-[400px]">
                 <div className="h-[50%]">
                     <Image
                         src={package_images[source]["list"][1]}
