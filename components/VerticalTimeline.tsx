@@ -61,10 +61,10 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                 </div>
 
                 <div className="overflow-auto border-0 sm:border-2 mx-8 rounded-[20px]">
-                    <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
+                    <ul className="timeline timeline-snap-icon timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
                         <h2 className="text-2xl font-semibold text-black text-left mb-4">What to Expect</h2>
                         {tourPackage.Itinerary.map(itinerary => (
-                            <li key={itinerary.M.Id.N} className="grid gap-1">
+                            <li key={itinerary.M.Id.N}>
                                 <VerticalTimelineElement
                                     time={itinerary.M.day.N}
                                     title={itinerary.M.name.S}
