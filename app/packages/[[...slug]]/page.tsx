@@ -1,13 +1,44 @@
-'use client';
-
 import PackagesList from "../../../components/Packages";
-import PackageDetail from '../../../components/PackageDetail';
+import PackageDetail from "../../../components/PackageDetail";
+import packageData from '../../../data/packages.json';
 import { notFound } from 'next/navigation';
 
-export default function Packages({ params }: { params: { slug?: string[] } }) {
-  const { slug } = params;
+import { Metadata } from 'next';
 
-  // Handle the `/packages` route
+type Params = {
+  params: Promise<{
+    slug: string[];
+  }>;
+};
+
+export async function generateMetadata(
+  props: Params,
+): Promise<Metadata> {
+  const param = await props.params;
+  const slug = param.slug;
+
+  if (slug !== undefined && slug.length == 1) {
+    const packageUri = slug[0]
+    const tourPackage = packageData.filter(function (tourPackage) { return tourPackage.Uri == packageUri; })[0];
+    if (packageUri) {
+
+      return {
+        title: tourPackage.Title,
+        description: tourPackage.Description,
+      }
+    }
+  }
+
+  return {
+    title: "Luxury Holiday Tour Packages in India - Eaze Tours",
+    description: "Explore luxury holiday packages in India with Eaze Tours. From India tour packages from Delhi to the best tours to India from the USA, plan your trip today!",
+  }
+}
+
+
+export default async function Packages(props: Params) {
+  const param = await props.params;
+  const slug = param.slug;
   if (!slug) {
     return (
       <div>
@@ -15,23 +46,21 @@ export default function Packages({ params }: { params: { slug?: string[] } }) {
           <PackagesList />
         </div>
       </div>
-    );
+    )
   }
-
-  // Handle `/packages/[id]`
-  if (slug.length === 1) {
-    const packageId = parseInt(slug[0], 10);
-    if (packageId > 0 && packageId < 36 && !isNaN(packageId)) {
+  else if (slug.length == 1) {
+    const packageUri = slug[0]
+    if (packageUri) {
       return (
         <div>
           <div className="mt-[78px] sm:mt-[135px]">
-            <PackageDetail packageId={packageId} />
+            <PackageDetail packageUri={packageUri} />
           </div>
         </div>
-      );
+      )
     }
   }
-
-  // For all other cases, show a 404 page
-  return notFound();
+  return (
+    notFound()
+  )
 }
