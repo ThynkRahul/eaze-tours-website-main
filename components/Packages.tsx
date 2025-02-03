@@ -1,4 +1,6 @@
-import React, { Ref, useRef, useState } from "react";
+"use client";
+
+import React, { useRef, useState } from "react";
 import PackageSummaryCard from "./PackageSummaryCard";
 
 import packageData from '../data/packages.json';
