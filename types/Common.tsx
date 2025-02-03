@@ -35,4 +35,11 @@ interface ITestimonialDataType {
     Img: string;
 }
 
-export type { IPackageDetailDataType, IItineraryDetailDataType, IItineraryLineDataType, ITestimonialDataType }
+interface IBlogDataType {
+    Id: string;
+    Title: string;
+    Content: string;
+    Img: string;
+}
+
+export type { IPackageDetailDataType, IItineraryDetailDataType, IItineraryLineDataType, ITestimonialDataType, IBlogDataType }
