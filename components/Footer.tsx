@@ -26,12 +26,12 @@ function Footer() {
 
             <a href="https://www.instagram.com/eazetourpackages/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-600 transition-colors">
               <span className="relative w-7 h-7 flex items-center justify-center rounded-full bg-white text-black hover:bg-gray-300"><i className="fab fa-instagram text-lg leading-lg" /></span></a>
-
           </div>
         </div>
 
         {/* Second Column - Useful Links */}
-        <div className="w-full md:w-1/4 mb-8 pl-1 md:pl-[80px] md:pt-[40px]">
+        <div className="w-full md:w-1/4 mb-8 pl-1 md:pl-20 md:pt-10">
+
           <div className="text-lg font-semibold mb-4">Useful Links</div>
           <ul className="space-y-4">
             <li><Link href="/about" className="hover:text-blue-600 transition-colors">About us</Link></li>
@@ -43,19 +43,19 @@ function Footer() {
         </div>
 
         {/* Third Column - Top Destinations */}
-        <div className="w-full md:w-1/4 mb-8 pl-1 md:pl-[80px] md:pt-[40px]">
+        <div className="w-full md:w-1/4 mb-8 pl-1 md:pl-20 md:pt-10">
           <div className="text-lg font-semibold mb-4">Top Destinations</div>
           <ul className="space-y-4">
-            <li><Link href="/packages/28" className="hover:text-blue-600 transition-colors">Delhi</Link></li>
-            <li><Link href="/packages/34" className="hover:text-blue-600 transition-colors">Jaipur</Link></li>
-            <li><Link href="/packages/35" className="hover:text-blue-600 transition-colors">Agra</Link></li>
-            <li><Link href="/packages/21" className="hover:text-blue-600 transition-colors">Varanasi</Link></li>
-            <li><Link href="/packages/16" className="hover:text-blue-600 transition-colors">Goa</Link></li>
+            <li><Link href="/packages/classical-delhi-jaipur-agra-khajurao-varanasi-tour-india" className="hover:text-blue-600 transition-colors">Delhi</Link></li>
+            <li><Link href="/packages/forts-of-rajasthan-from-delhi-11-days-package-india" className="hover:text-blue-600 transition-colors">Jaipur</Link></li>
+            <li><Link href="/packages/golden-triangle-delhi-agra-jaipur-7-days-package-india" className="hover:text-blue-600 transition-colors">Agra</Link></li>
+            <li><Link href="/packages/north-india-temple-tour-package-india" className="hover:text-blue-600 transition-colors">Varanasi</Link></li>
+            <li><Link href="/packages/golden-chariot-bangalore-mysore-goa-tour-package-india" className="hover:text-blue-600 transition-colors">Goa</Link></li>
           </ul>
         </div>
 
         {/* Fourth Column - Contact Info */}
-        <div className="w-full md:w-1/4 mb-8 pl-1 md:pl-8 md:pt-[40px]">
+        <div className="w-full md:w-1/4 mb-8 pl-1 md:pl-8 md:pt-10">
           <div className="text-lg font-semibold mb-4">Contact Us</div>
           <div className="space-y-4">
             <div className="flex items-start space-x-2">
@@ -63,6 +63,7 @@ function Footer() {
               <div>
                 <p className="text-sm"><a href="tel:+919873186168" className="hover:text-blue-600">+91 98731 86168</a></p>
                 <p className="text-sm"><a href="tel:+919911684818" className="hover:text-blue-600">+91 99116 84818</a></p>
+                <p className="text-sm"><a href="tel:+919818006830" className="hover:text-blue-600">+91 98180 06830</a></p>
               </div></div>
             <div className="flex items-start space-x-2">
               <i className="far fa-envelope text-lg text-white-400 -mt-1" />
@@ -75,14 +76,14 @@ function Footer() {
               <i className="fa fa-map-marker-alt text-lg text-white-400 -mt-1" />
               <p className="text-sm">Eaze House ~2nd Floor, RZP-146 Palam Colony, New Delhi, South West Delhi, 110075</p>
             </div>
-
           </div>
         </div>
       </div>
 
       {/* Copyright Section */}
-      <div className="w-full bg-[#0D2000] text-white py-7 text-center justify-center border-t border-white border-opacity-50">
-        <p className="text-sm">&copy; Copyright <a href="/" className="hover:text-blue-600">Eaze Tours</a> 2024. All Rights Reserved.</p>
+      <div className="w-full bg-midnight text-white py-7 text-center justify-center border-t border-white border-opacity-50">
+        <p className="text-sm">&copy; Copyright <a href="/" className="hover:text-blue-600">Eaze Tours</a> {new Date().getFullYear()} All Rights Reserved.
+        </p>
       </div>
     </footer>
   );
