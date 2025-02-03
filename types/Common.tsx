@@ -3,7 +3,6 @@ interface IItineraryLineDataType {
     description: { [key: string]: string }
     Id: { [key: string]: string }
     day: { [key: string]: string }
-
 }
 
 interface IItineraryDetailDataType {
@@ -18,9 +17,14 @@ interface IPackageDetailDataType {
     Name: string;
     LocationDescription: string;
     Tags: Array<string>;
-    Overview: string;
-    Whats_Included: string;
+    Title: string;
+    Uri: string;
+    Description: string;
+    NoOfRatings: number;
+    Ratings: number;
     Additional_Information: string;
+    Whats_Included: string;
+    Overview: string;
 }
 
 interface ITestimonialDataType {
@@ -31,11 +35,4 @@ interface ITestimonialDataType {
     Img: string;
 }
 
-interface IBlogDataType {
-    Id: string;
-    Title: string;
-    Content: string;
-    Img: string;
-}
-
-export type { IPackageDetailDataType, IItineraryDetailDataType, IItineraryLineDataType, ITestimonialDataType, IBlogDataType }
+export type { IPackageDetailDataType, IItineraryDetailDataType, IItineraryLineDataType, ITestimonialDataType }
