@@ -231,12 +231,18 @@
         ],
         "Name": "Forts and Palaces",
         "Tags": [
-            "cultural"
+            "cultural",
+            "traditional "
         ],
+        "LocationDescription": "Delhi-Mandawa-Bikaner-Jaisalmer-Jodhpur-Luni-Ranakpur-Udaipur-Pushkar-Jaipur-Jaipur-Fatehpur Sikri-Agra",
+        "Uri": "forts-and-palaces-india",
+        "Title": "Explore Fort and Palaces of India Tour - Eaze Tours",
+        "Description": "Explore the majestic Fort and Palaces of India with Eaze Tours. Experience royal heritage, stunning architecture, and timeless stories on your journey.",
+        "NoOfRatings": 19,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Delhi-Mandawa-Bikaner-Jaisalmer-Jodhpur-Luni-Ranakpur-Udaipur-Pushkar-Jaipur-Jaipur-Fatehpur Sikri-Agra"
+        "Ratings": 4.9
     },
     {
         "Id": 2,
@@ -342,12 +348,18 @@
         ],
         "Name": "North East Tour-Gangtok",
         "Tags": [
-            "adventure"
+            "adventure",
+            " culture"
         ],
+        "LocationDescription": "BAGDOGRA AIRPORT-GANGTOK- KALIMPONG-DARJEELING",
+        "Uri": "north-east-tour-gangtok-india",
+        "Title": "North East Tour-Gangtok Package India - Eaze Tours",
+        "Description": "Enjoy a memorable journey with the North East Tour-Gangtok package. Visit Bagdogra Airport, Gangtok, Kalimpong, and Darjeeling for an unforgettable experience.",
+        "NoOfRatings": 10,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "BAGDOGRA AIRPORT-GANGTOK- KALIMPONG-DARJEELING"
+        "Ratings": 5.0
     },
     {
         "Id": 3,
@@ -421,12 +433,18 @@
         ],
         "Name": "North East Tour-Darjeeling",
         "Tags": [
-            "adventure"
+            "adventure",
+            " culture"
         ],
+        "LocationDescription": "Darjeeling",
+        "Uri": "north-east-tour-darjeeling-india",
+        "Title": "North East Tour-Darjeeling Package India - Eaze Tours",
+        "Description": "Explore the best North East tour-Darjeeling package in India with Eaze Tours. Enjoy breathtaking views, tea gardens, and serene landscapes. Book today!",
+        "NoOfRatings": 20,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Darjeeling"
+        "Ratings": 4.9
     },
     {
         "Id": 4,
@@ -439,7 +457,7 @@
                         "S": "Arrival in Manali"
                     },
                     "description": {
-                        "S": "Arrive in Manali and check into your accommodation. Spend the day acclimatizing to the altitude. Meet your guide, review the itinerary, and prepare your gear for the adventure. Afternoon explore Manali by testing biking visit Naggar Castle, Jagatsukh Temple and Vashist Hot Spring etc. Overnight at hotel (B)."
+                        "S": "<li>Arrive in Manali and check into your accommodation.</li><li> Spend the day acclimatizing to the altitude.</li><li> Meet your guide, review the itinerary, and prepare your gear for the adventure.</li><li> Afternoon explore Manali by testing biking visit Naggar Castle, Jagatsukh Temple and Vashist Hot Spring etc.</li><li> Overnight at hotel (B).</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -455,7 +473,7 @@
                         "S": "Manali to Rohtang Pass (51 km)"
                     },
                     "description": {
-                        "S": "After breakfast full day biking tour in around Manali includes Manikaran, Hadimba Temple and Kullu Valley. Overnight stay at hotel (B)."
+                        "S": "<li>After breakfast full day biking tour in around Manali includes Manikaran, Hadimba Temple and Kullu Valley.</li><li> Overnight stay at hotel (B).</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -471,7 +489,7 @@
                         "S": "Rohtang Pass to Jispa (75 km)"
                     },
                     "description": {
-                        "S": "After breakfast commence biking tour to Leh via Rohatang Pass (3990M). Enjoy the biking via Gulaba,Marchi, Rani Nala, Rohatang Jyot, Koksar, Gondal, Tandi (Confluence of Chandra and Bhaga River), Keylong finally reach at Jispa. Arrival check in hotel or fix tent (B/D)."
+                        "S": "<li>After breakfast commence biking tour to Leh via Rohatang Pass (3990M).</li><li> Enjoy the biking via Gulaba,Marchi, Rani Nala, Rohatang Jyot, Koksar, Gondal, Tandi (Confluence of Chandra and Bhaga River), Keylong finally reach at Jispa.</li><li> Arrival check in hotel or fix tent (B/D).</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -487,7 +505,7 @@
                         "S": "Jispa – Darcha- Suraj Tal- Baralachal Pass (4890m) – Sarchu (110 Km)"
                     },
                     "description": {
-                        "S": "Breakfast at hotel or fix tent. Prepare your bike to cover next destination, through the high passes and nice landscape, cross small hamlets or tea stall as Darcha, this is the first TRC checking points and this place is known for adventure lover who want commence trek to Zanskar Valley. Ascend to Baralacha La Pass (4,890 meters), known for its mesmerizing landscapes. On arrival at Sarchu take the tent for overnight stay. (B/D)"
+                        "S": "<li>Breakfast at hotel or fix tent.</li><li> Prepare your bike to cover next destination, through the high passes and nice landscape, cross small hamlets or tea stall as Darcha, this is the first TRC checking points and this place is known for adventure lover who want commence trek to Zanskar Valley.</li><li> Ascend to Baralacha La Pass (4,890 meters), known for its mesmerizing landscapes.</li><li> On arrival at Sarchu take the tent for overnight stay. (B/D)</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -503,7 +521,7 @@
                         "S": "Sarchu – Pang – Dibiring – Tsokar (180 Km)"
                     },
                     "description": {
-                        "S": "After breakfast get ready to next day biking tour to Tsokar (Salt) Lake, enjoy the landscape and time to time break for photos, on arrival at Tsokar check in fix tent, rest of the time explore surrounding, catch the wild animals (Hinting with Camera). Overnight enjoy the meal. (B/D)"
+                        "S": "<li>After breakfast get ready to next day biking tour to Tsokar (Salt) Lake, enjoy the landscape and time to time break for photos, on arrival at Tsokar check in fix tent, rest of the time explore surrounding, catch the wild animals (Hinting with Camera).</li><li> Overnight enjoy the meal. (B/D)</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -519,7 +537,7 @@
                         "S": "Tsokar – Sumdah – Tsomoriri (145 Km)"
                     },
                     "description": {
-                        "S": "After breakfast at fix tent proceed to Tsomoriri via Sumdah Village, again magnificent rIde see the wild animals, landscape and sulpher water spring. En route visit the Tibetan refugee village. Cross the Namshang La 4920m. & a small lake Thachung Karo Lake. Continue drive to Karzok (Tsomoriri) check in fix tent, rest of the time visit crystal Water Lake walking tour is possible there, bikes not allowed. Overnight at Tsomoriri. (B/D)"
+                        "S": "<li>After breakfast at fix tent proceed to Tsomoriri via Sumdah Village, again magnificent rIde see the wild animals, landscape and sulpher water spring.</li><li> En route visit the Tibetan refugee village.</li><li> Cross the Namshang La 4920m.</li><li> & a small lake Thachung Karo Lake.</li><li> Continue drive to Karzok (Tsomoriri) check in fix tent, rest of the time visit crystal Water Lake walking tour is possible there, bikes not allowed.</li><li> Overnight at Tsomoriri. (B/D)</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -535,7 +553,7 @@
                         "S": "Tsomoriri – Mahay BrIdge- Chumathang – Leh (145 Km)"
                     },
                     "description": {
-                        "S": "After breakfast start your rIde going through the Indus River many crossing many small villages and hamlets , Reach Natural Hot Spring at Chumathang. Visit hot spring and lunch. After that continue drive to Leh, through the small village, markets along with the India River, en route visit Hemis Monastery. On arrival at Leh check in hotel. Rest of the time free. (B/D)"
+                        "S": "<li>After breakfast start your rIde going through the Indus River many crossing many small villages and hamlets , Reach Natural Hot Spring at Chumathang.</li><li> Visit hot spring and lunch.</li><li> After that continue drive to Leh, through the small village, markets along with the India River, en route visit Hemis Monastery.</li><li> On arrival at Leh check in hotel.</li><li> Rest of the time free. (B/D)</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -551,7 +569,7 @@
                         "S": "Nubra Valley Over Khardung La Pass (120 Km)"
                     },
                     "description": {
-                        "S": "After breakfast start rIding to Nubra over the Khardong La Pass (5602m) – the Highest Motorable Road in the World. You will stop on the top of the pass when one can see the Snow Peak Mountains and glacier. Have a cup of Hot Tea from the Highest Cafeteria in the World. This is an old route which used as part of the Legendary Silk Road which ran to Tibet, China & Turkmenistan, behind the Khardong mountain pass. The Road opens up and you are met with the wonderful view of the fruitful green valley of Ladakh which are watered thanks to Shyok and Nubra waterways-this road was previously on the silk street and lots of Caravans weaved their way further to central Asia- the green Nubra valley was for centuries the resting spot for Camel and Yak caravans- you will see apple, apricot and lots of mulberry trees in Hunder and other areas, Lamaism plays an important role in life in this area. After that continue drive through Nubra valley to Diskit, total drive will takes about 4 hrs. Upon reaching check in Guest House. Late afternoon, optional, You can also enjoy the Bactrian (Double hump) camel in the sand dune between Hunder and Diskit Village. Overnight at Diskit. (B/D)"
+                        "S": "<li>After breakfast start rIding to Nubra over the Khardong La Pass (5602m) – the Highest Motorable Road in the World.</li><li> You will stop on the top of the pass when one can see the Snow Peak Mountains and glacier.</li><li> Have a cup of Hot Tea from the Highest Cafeteria in the World.</li><li> This is an old route which used as part of the Legendary Silk Road which ran to Tibet, China & Turkmenistan, behind the Khardong mountain pass.</li><li> The Road opens up and you are met with the wonderful view of the fruitful green valley of Ladakh which are watered thanks to Shyok and Nubra waterways-this road was previously on the silk street and lots of Caravans weaved their way further to central Asia- the green Nubra valley was for centuries the resting spot for Camel and Yak caravans- you will see apple, apricot and lots of mulberry trees in Hunder and other areas, Lamaism plays an important role in life in this area.</li><li> After that continue drive through Nubra valley to Diskit, total drive will takes about 4 hrs.</li><li> Upon reaching check in Guest House.</li><li> Late afternoon, optional, You can also enjoy the Bactrian (Double hump) camel in the sand dune between Hunder and Diskit Village.</li><li> Overnight at Diskit. (B/D)</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -567,7 +585,7 @@
                         "S": "Diskit – Leh"
                     },
                     "description": {
-                        "S": "After breakfast visit Diskit Monastery, The Diskit monastery was founded by Changzem Tserab Zangpo in the 14th century. The history of the Nubra Valley and the monastery could thus be traced from 14th century onwards. It has a tallest statue of Maitreya Buddha in Ladakh. After that visit Sumoor village and drive back to Leh. Upon arrival check in hotel. Late afternoon visit Shanti Stupa for Sunset Tour. The Stupa is located on the hill top of the Changspa locality in Leh, it was built in 1983 on the rock and inaugurated by HH Dalai Lam. From this Stupa you can see the memorable sunset over the Leh Valley. After that back to Leh and some free time for shopping. Evening dinner. (B/D)"
+                        "S": "<li>After breakfast visit Diskit Monastery, The Diskit monastery was founded by Changzem Tserab Zangpo in the 14th century.</li><li> The history of the Nubra Valley and the monastery could thus be traced from 14th century onwards.</li><li> It has a tallest statue of Maitreya Buddha in Ladakh.</li><li> After that visit Sumoor village and drive back to Leh.</li><li> Upon arrival check in hotel.</li><li> Late afternoon visit Shanti Stupa for Sunset Tour.</li><li> The Stupa is located on the hill top of the Changspa locality in Leh, it was built in 1983 on the rock and inaugurated by HH Dalai Lam.</li><li> From this Stupa you can see the memorable sunset over the Leh Valley.</li><li> After that back to Leh and some free time for shopping.</li><li> Evening dinner. (B/D)</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -583,7 +601,7 @@
                         "S": "Leh – Lamayuru (240 Km) – Leh"
                     },
                     "description": {
-                        "S": "After breakfast full day rIding to lower Ladakh called Sham Valley, straight drive to Lamayuru, visit monastery and moon land, drive back to Leh, en route visit Rizong Gompa, Alchi Choskor, Likir, Basgo Palace and Nimmo (Confluence of Indus and Zanskar River) if the time is allowed just a photo break at Gurudwara Pathar Saheb. Rest of the time free at Leh market. (B/D)"
+                        "S": "<li>After breakfast full day rIding to lower Ladakh called Sham Valley, straight drive to Lamayuru, visit monastery and moon land, drive back to Leh, en route visit Rizong Gompa, Alchi Choskor, Likir, Basgo Palace and Nimmo (Confluence of Indus and Zanskar River) if the time is allowed just a photo break at Gurudwara Pathar Saheb.</li><li> Rest of the time free at Leh market. (B/D)</li>"
                     },
                     "Id": {
                         "N": "10"
@@ -599,7 +617,7 @@
                         "S": "Arrival in Leh"
                     },
                     "description": {
-                        "S": "Full day free for individual activities or last time shopping etc. Celebrate your achievement with your team. Overnight at hotel (B/D)"
+                        "S": "<li>Full day free for individual activities or last time shopping etc.</li><li> Celebrate your achievement with your team.</li><li> Overnight at hotel (B/D)</li>"
                     },
                     "Id": {
                         "N": "11"
@@ -615,7 +633,7 @@
                         "S": "Departure from Leh"
                     },
                     "description": {
-                        "S": "Bid farewell to the Himalayas. Early in the morning departure transfer to airport connect flight to Delhi or onward destination."
+                        "S": "<li>Bid farewell to the Himalayas.</li><li> Early in the morning departure transfer to airport connect flight to Delhi or onward destination.</li>"
                     },
                     "Id": {
                         "N": "12"
@@ -628,12 +646,18 @@
         ],
         "Name": "Mountain Bike Tour",
         "Tags": [
-            "adventure"
+            "adventure",
+            " culture"
         ],
+        "LocationDescription": "Manali\u2013Keylong\u2013Jispa-Darcha-Suraj Tal-Baralachal Pass-Sarchu\u2013Pang\u2013Dibiring-Tsokar-Sumdah \u2013Tsomoriri-Mahay BrIdge-Chumathang\u2013Leh-Nubra Valley-Diskit-Lamayuru-Leh",
+        "Uri": "mountain-bike-tour-manali-leh-travel-package",
+        "Title": "Mountain Bike Tour Manali Leh Travel Package - Eaze Tours",
+        "Description": "Embark on an epic Manali–Keylong–Jispa-Darcha-Suraj Tal-Baralachal Pass adventure to Leh, Nubra Valley, and more with Eaze Tours packages. Book Now!",
+        "NoOfRatings": 19,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Accommodation in camps or guesthouses</li><li>All meals (breakfast, lunch, dinner)</li><li>Professional biking guides and support staff</li><li>Backup vehicle for safety and emergencies</li><li>Bike maintenance and mechanical support</li><li>Permits for restricted areas</li>",
         "Overview": "Experience the thrill of cycling through the majestic Himalayas with our Manali to Leh Mountain Bike Tour. This journey takes you across rugged terrains, lush valleys, and some of the world’s highest motorable passes. Designed for adventure enthusiasts, this tour offers breathtaking views, cultural encounters, and the satisfaction of conquering challenging routes.",
-        "LocationDescription": "Manali\u2013Keylong\u2013Jispa-Darcha-Suraj Tal-Baralachal Pass-Sarchu\u2013Pang\u2013Dibiring-Tsokar-Sumdah \u2013Tsomoriri-Mahay BrIdge-Chumathang\u2013Leh-Nubra Valley-Diskit-Lamayuru-Leh"
+        "Ratings": 5.0
     },
     {
         "Id": 5,
@@ -646,7 +670,7 @@
                         "S": "Arrival Leh"
                     },
                     "description": {
-                        "S": "Arrival at Leh airport meet to our representative and transfer to hotel, during the check in time you will get tea, coffee, snacks, etc. Complete the check formalities. After lunch commence walking tour in the market or visit Shanti Stupa, Tsomo Castle. Overnight at hotel. (B/D)"
+                        "S": "<li>Arrival at Leh airport meet to our representative and transfer to hotel, during the check in time you will get tea, coffee, snacks, etc.</li><li> Complete the check formalities.</li><li> After lunch commence walking tour in the market or visit Shanti Stupa, Tsomo Castle.</li><li> Overnight at hotel. (B/D)</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -662,7 +686,7 @@
                         "S": "Leh Sightseeing"
                     },
                     "description": {
-                        "S": "After breakfast full day sightseeing of Lamayuru, Rizong, Alchi, Gurudwara Pathar Saheb, Nimmo (Confluence of Indus and Zanskar River). Drive back to Leh, rest of the time free for indivIdual activities. Overnight at hotel (B/D)"
+                        "S": "<li>After breakfast full day sightseeing of Lamayuru, Rizong, Alchi, Gurudwara Pathar Saheb, Nimmo (Confluence of Indus and Zanskar River).</li><li> Drive back to Leh, rest of the time free for indivIdual activities.</li><li> Overnight at hotel (B/D)</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -678,7 +702,7 @@
                         "S": "Leh – Spituk (Kali Temple) – Zinchen: 4-5 H. Trek"
                     },
                     "description": {
-                        "S": "After the breakfast drive to Spituk BrIdge behind the Spituk monastery, around 7 kms from Leh town. From Spituk brIdge starts the trekking along Indus River walking through flat and desolate plane at the foot of the Stok Mountain. Ascend to higher altitudes, crossing breathtaking mountain passes. Soon you arrive at Zingchen through a gorge, which gives you a feeling of complete isolation. Stay overnight in Camp at Zingchen. (B/D)"
+                        "S": "<li>After the breakfast drive to Spituk BrIdge behind the Spituk monastery, around 7 kms from Leh town.</li><li> From Spituk brIdge starts the trekking along Indus River walking through flat and desolate plane at the foot of the Stok Mountain.</li><li> Ascend to higher altitudes, crossing breathtaking mountain passes.</li><li> Soon you arrive at Zingchen through a gorge, which gives you a feeling of complete isolation.</li><li> Stay overnight in Camp at Zingchen. (B/D)</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -694,7 +718,7 @@
                         "S": "Zinchen – Yurutse: 5-6 H. Trek"
                     },
                     "description": {
-                        "S": "Leave Zingchen for Rumbak through a straight forward road; leaving village, you enter Hemis national park for the preservation of Snow leopard, Baharal, marmot, wolf etc. Walk through a narrow trail and valley wIdens as you arrive Rumbak and camp at Yurutse below Gandala Pass. Overnight in Camp. (B/D)"
+                        "S": "<li>Leave Zingchen for Rumbak through a straight forward road; leaving village, you enter Hemis national park for the preservation of Snow leopard, Baharal, marmot, wolf etc.</li><li> Walk through a narrow trail and valley wIdens as you arrive Rumbak and camp at Yurutse below Gandala Pass.</li><li> Overnight in Camp. (B/D)</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -710,7 +734,7 @@
                         "S": "Yurutse – Gondala (4350m) – Shingo – Skyu: 7 – 8 H. Trek"
                     },
                     "description": {
-                        "S": "From Yurutse follow the path along the mountain sIde, then cross a small valley and follow zig zag steep path. There after cross Gandala pass (4380m). Then walk the long descent towards Shingo for 2 hrs that will lead to the valley of Markha and after few hundred meters you reach Skyu. Overnight halt in tents. (B/D)"
+                        "S": "<li>From Yurutse follow the path along the mountain sIde, then cross a small valley and follow zig zag steep path.</li><li> There after cross Gandala pass (4380m).</li><li> Then walk the long descent towards Shingo for 2 hrs that will lead to the valley of Markha and after few hundred meters you reach Skyu.</li><li> Overnight halt in tents. (B/D)</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -723,10 +747,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Skyu – Markha Village: 7-8 H. Trek."
+                        "S": "Skyu – Markha Village: 7-8 H.</li><li> Trek."
                     },
                     "description": {
-                        "S": "After breakfast commence trek to Markha village, follow a good path on the right bank of Markha where one can find great vegetation. Then cross the right bank of river then the barren plain and arrive at Chaluk. Thereafter, walk along the left bank of river and after another crossing climb towards Markha village. Towards the end of the village there are good camp site near the river. Overnight stay in tents. (B/D)"
+                        "S": "<li>After breakfast commence trek to Markha village, follow a good path on the right bank of Markha where one can find great vegetation.</li><li> Then cross the right bank of river then the barren plain and arrive at Chaluk.</li><li> Thereafter, walk along the left bank of river and after another crossing climb towards Markha village.</li><li> Towards the end of the village there are good camp site near the river.</li><li> Overnight stay in tents. (B/D)</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -742,7 +766,7 @@
                         "S": "Markha Village – Hankar – Thachunche: 7-8 H. Trek"
                     },
                     "description": {
-                        "S": "Right after breakfast you start trekking in the morning to reach Tchatchutse via Hankar village. Overnight in tents. (B/D)"
+                        "S": "<li>Right after breakfast you start trekking in the morning to reach Tchatchutse via Hankar village.</li><li> Overnight in tents. (B/D)</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -758,7 +782,7 @@
                         "S": "Thachunche – Nimaling: 5-6 H. Trek"
                     },
                     "description": {
-                        "S": "After breakfast start trekking to reach Nimaling. Nimaling (4900 M) has a sweeping pasture where thousands of sheep, goats and yaks graze during the summer months. Rising to the south is 6400 M high Kang Yatse (Nimaling Peak), a lovely mountain, but not an easy one to climb. Overnight in tents. (B/D)"
+                        "S": "<li>After breakfast start trekking to reach Nimaling.</li><li> Nimaling (4900 M) has a sweeping pasture where thousands of sheep, goats and yaks graze during the summer months.</li><li> Rising to the south is 6400 M high Kang Yatse (Nimaling Peak), a lovely mountain, but not an easy one to climb.</li><li> Overnight in tents. (B/D)</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -774,7 +798,7 @@
                         "S": "Nimaling – Shang Sumdo: 7-8 H. Trek"
                     },
                     "description": {
-                        "S": "After breakfast start trekking to reach Kongmaru La (5100 M). The trek to Kongmaru la passes through narrow gorges. From the top of the pass, you can have a view of Ladakh ranges and the sight of villages to the north of Indus valley is excellent. Cross the pass and proceed to Shang. Overnight in tents. (B/D)"
+                        "S": "<li>After breakfast start trekking to reach Kongmaru La (5100 M).</li><li> The trek to Kongmaru la passes through narrow gorges.</li><li> From the top of the pass, you can have a view of Ladakh ranges and the sight of villages to the north of Indus valley is excellent.</li><li> Cross the pass and proceed to Shang.</li><li> Overnight in tents. (B/D)</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -790,7 +814,7 @@
                         "S": "Shang Sumdo Village – Hemis – Leh: 2 H. Trek /Drive"
                     },
                     "description": {
-                        "S": "Walk along the stream down to Hemis monastery, which is one of the oldest and richest monasteries in Ladakh. Visit Hemis monastery and drive to Leh, enroute visit Thiksey Monastery, Shey Palace and Stok Palace cum museum. On arrival at Leh check in hotel, rest of the time free for indivIdual activities. (B/D)"
+                        "S": "<li>Walk along the stream down to Hemis monastery, which is one of the oldest and richest monasteries in Ladakh.</li><li> Visit Hemis monastery and drive to Leh, enroute visit Thiksey Monastery, Shey Palace and Stok Palace cum museum.</li><li> On arrival at Leh check in hotel, rest of the time free for indivIdual activities. (B/D)<li>"
                     },
                     "Id": {
                         "N": "10"
@@ -806,7 +830,7 @@
                         "S": "Leh Departure"
                     },
                     "description": {
-                        "S": "After breakfast in time depart from the base location, taking with you unforgettable memories departure transfer to airport, board onward flight and a sense of accomplishment."
+                        "S": "<li>After breakfast in time depart from the base location, taking with you unforgettable memories departure transfer to airport, board onward flight and a sense of accomplishment.</li>"
                     },
                     "Id": {
                         "N": "11"
@@ -819,12 +843,18 @@
         ],
         "Name": "Markha Trek",
         "Tags": [
-            "adventure"
+            "adventure",
+            " culture"
         ],
+        "LocationDescription": "Leh \u2013 Spituk (Kali Temple) - Zinchen-Yurutse \u2013 Gondala\u2013 Shingo \u2013 Skyu-Markha Village \u2013 Hankar \u2013 Thachunche-Nimaling \u2013 Shang Sumdo-Hemis \u2013 Leh",
+        "Uri": "markha-trek-leh-travel-package",
+        "Title": "Trekking Tour in India: Markha Trek Adventure - Eaze Tours",
+        "Description": "Explore the thrilling Markha trek from Leh to Hemis via Spituk, Zinchen, Nimaling, and Shang Sumdo. Experience India's scenic trekking routes with Eaze Tours.",
+        "NoOfRatings": 6,
         "Additional_Information": "<li>Difficulty Level: Varies from easy to challenging trails, suitable for beginners and experienced trekkers</li><li>Best Time to Visit: October to March for most regions; May to September for Himalayan treks</li><li>What to Bring: Comfortable trekking shoes, warm clothing, a backpack, water bottle, and personal essentials</li><li>Travel insurance is recommended</li>",
         "Whats_Included": "<li>Professional trekking guides and porters</li><li>Accommodation in tents, guesthouses, or homestays</li><li>All meals (breakfast, lunch, and dinner)</li><li>Trekking permits and entry fees</li><li>First aid and emergency assistance</li><li>Transfer to and from the trekking base</li>",
         "Overview": "Discover the untouched beauty of India’s mountains, forests, and valleys with our Trekking Tour in India. Perfect for nature lovers and adventure seekers, this tour takes you through picturesque trails, rich cultural heritage, and diverse landscapes. Whether it’s the Himalayan foothills, Western Ghats, or the serene deserts of Rajasthan, this trekking journey is a blend of adventure and tranquility.",
-        "LocationDescription": "Leh \u2013 Spituk (Kali Temple) - Zinchen-Yurutse \u2013 Gondala\u2013 Shingo \u2013 Skyu-Markha Village \u2013 Hankar \u2013 Thachunche-Nimaling \u2013 Shang Sumdo-Hemis \u2013 Leh"
+        "Ratings": 4.8
     },
     {
         "Id": 6,
@@ -837,7 +867,7 @@
                         "S": " Arrival in Calcutta"
                     },
                     "description": {
-                        "S": "Arrive breakfast tour briefing by Local Staff, followed by half day visit of the “City of Joy ” also the Mother Teresa’s city. Palaces to visit are the Jain Temple , Zoological Gardens, Victoria Memorial & drive past Howrah BrIdge , Dalhousie Square , Fort Williams , Secretariat Building and Old Court House Street. Overnight at Hotel."
+                        "S": "<li>Arrive breakfast tour briefing by Local Staff, followed by half day visit of the “City of Joy ” also the Mother Teresa’s city.</li><li> Palaces to visit are the Jain Temple , Zoological Gardens, Victoria Memorial & drive past Howrah BrIdge , Dalhousie Square , Fort Williams , Secretariat Building and Old Court House Street.</li><li> Overnight at Hotel.</li>"
                     },
                     "Id": {
                         "N": "1-2"
@@ -853,7 +883,7 @@
                         "S": "Calcutta / Bagdogra / Darjeeling"
                     },
                     "description": {
-                        "S": "After breakfast, provide in-time departure & transfer to airport to connect the flight for Bagdogra. On arrival at Bagdogra airport followed by drive to Darjeeling. Darjeeling is one of the most beautiful Hill Stations in Eastern India and has the highest Race Course in the World. Place worth visiting are the Lablong village, the Mountaineering Institute and Tenzing Norgay House – The first Everest Hero. On arrival Check into the Hotel. Overnight at Hotel."
+                        "S": "<li>After breakfast, provide in-time departure & transfer to airport to connect the flight for Bagdogra.</li><li> On arrival at Bagdogra airport followed by drive to Darjeeling.</li><li> Darjeeling is one of the most beautiful Hill Stations in Eastern India and has the highest Race Course in the World.</li><li> Place worth visiting are the Lablong village, the Mountaineering Institute and Tenzing Norgay House – The first Everest Hero.</li><li> On arrival Check into the Hotel.</li><li> Overnight at Hotel.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -869,7 +899,7 @@
                         "S": "Darjeeling"
                     },
                     "description": {
-                        "S": "Early morning tour of Tiger Hill & Ghoom Monastery. At the Tiger Hill, the early morning Sun rise displays a panorama of colours and sunsets are purple and gold. Beyond in the distance are the Himalayan Peaks. Return via the famous Ghoom Monastery. Spend the rest of the day walking in the markets of Darjeeling or visiting one of the Tea gardens (Darjeeling tea is known world over for its fine flavor). Overnight at Hotel."
+                        "S": "<li>Early morning tour of Tiger Hill & Ghoom Monastery.</li><li> At the Tiger Hill, the early morning Sun rise displays a panorama of colours and sunsets are purple and gold.</li><li> Beyond in the distance are the Himalayan Peaks.</li><li> Return via the famous Ghoom Monastery.</li><li> Spend the rest of the day walking in the markets of Darjeeling or visiting one of the Tea gardens (Darjeeling tea is known world over for its fine flavor).</li><li> Overnight at Hotel.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -885,7 +915,7 @@
                         "S": "Darjeeling / Pemayangste"
                     },
                     "description": {
-                        "S": "After breakfast drive to Pemayangste. Afternoon visit the Monastery (Pemayangste is situated in Pelling, West Sikkim). It is perched at a height of 2085 meters and is the second oldest and perhaps the most important monastery in Sikkim. This monastery belongs to the Nyingma order & all their Nyingma order monasteries in Sikkim are subordinate to it. Overnight at Hotel."
+                        "S": "<li>After breakfast drive to Pemayangste.</li><li> Afternoon visit the Monastery (Pemayangste is situated in Pelling, West Sikkim).</li><li> It is perched at a height of 2085 meters and is the second oldest and perhaps the most important monastery in Sikkim.</li><li> This monastery belongs to the Nyingma order & all their Nyingma order monasteries in Sikkim are subordinate to it.</li><li> Overnight at Hotel.</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -901,7 +931,7 @@
                         "S": " Pemayangste / Gangtok"
                     },
                     "description": {
-                        "S": "After breakfast drive to Gangtok. The capital of Sikkim and a city of great scenic beauty, is surrounded by green forests. On arrival Check into the Hotel. Rest of the day at leisure. Overnight at Hotel."
+                        "S": "<li>After breakfast drive to Gangtok.</li><li> The capital of Sikkim and a city of great scenic beauty, is surrounded by green forests.</li><li> On arrival Check into the Hotel.</li><li> Rest of the day at leisure.</li><li> Overnight at Hotel.</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -917,7 +947,7 @@
                         "S": "Gangtok"
                     },
                     "description": {
-                        "S": "After breakfast city tour Gangtok. There are a number of monasteries in and around Sikkim, each a symbol of Himalayan Buddhism. Afternoon free. Overnight at Hotel."
+                        "S": "<li>After breakfast city tour Gangtok.</li><li> There are a number of monasteries in and around Sikkim, each a symbol of Himalayan Buddhism.</li><li> Afternoon free.</li><li> Overnight at Hotel.</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -933,7 +963,7 @@
                         "S": "Gangtok / Rumtek Monastery / Gangtok"
                     },
                     "description": {
-                        "S": "Morning visit Enchey Monastery, The ResIdency – for an excellent view of the mountains, the White Memorial Hall, Institute of Tibetology and Deer Park. Continue to visit the famous Rumtek Monastery belonging to the RED HAT sect of Tibetan Buddhism. Afternoon free. Overnight at Hotel."
+                        "S": "<li>Morning visit Enchey Monastery, The ResIdency – for an excellent view of the mountains, the White Memorial Hall, Institute of Tibetology and Deer Park.</li><li> Continue to visit the famous Rumtek Monastery belonging to the RED HAT sect of Tibetan Buddhism.</li><li> Afternoon free.</li><li> Overnight at Hotel.</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -949,7 +979,7 @@
                         "S": "Gangtok / Bagdogra / Calcutta"
                     },
                     "description": {
-                        "S": "In time drive to Bagdogra airport to connect the flight for Calcutta. On arrival at Calcutta airport, transfer to hotel. Rest of the day at leisure. Overnight at Hotel."
+                        "S": "<li>In time drive to Bagdogra airport to connect the flight for Calcutta.</li><li> On arrival at Calcutta airport, transfer to hotel.</li><li> Rest of the day at leisure.</li><li> Overnight at Hotel.</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -965,7 +995,7 @@
                         "S": "Departure Calcutta"
                     },
                     "description": {
-                        "S": "After breakfast day free. Provide in-time departure & transfer to airport to connect the flight for onward journey."
+                        "S": "<li>After breakfast day free.</li><li> Provide in-time departure & transfer to airport to connect the flight for onward journey.</li>"
                     },
                     "Id": {
                         "N": "10"
@@ -978,12 +1008,18 @@
         ],
         "Name": "High on Sky \u2013 North East",
         "Tags": [
-            "adventure"
+            "adventure",
+            " culture"
         ],
+        "LocationDescription": "Calcutta \u2013 Bagdogra - Darjeeling - Pemayangste - Gangtok - Rumtek-Monastery - Jalpaiguri",
+        "Uri": "high-on-sky-north-east-tour-india",
+        "Title": "North East Tour Package India - Calcutta to Gangtok",
+        "Description": "Explore North East India with Eaze Tours. Visit Calcutta, Darjeeling, Gangtok, Pemayangste, Rumtek Monastery, and more. Book your dream tour package today!",
+        "NoOfRatings": 17,
         "Additional_Information": "<li>Best Time to Visit: October to April, when the weather is pleasant and ideal for sightseeing.</li><li>Ideal For: Families, solo travelers, couples, and adventure enthusiasts.</li><li>What to Bring: Comfortable clothing, trekking shoes, rain gear, and a camera to capture the beauty.</li><li>All permits for restricted areas will be arranged by us.</li>",
         "Whats_Included": "<li>Comfortable accommodation in hotels or homestays</li><li>Daily breakfast and dinner</li><li>Guided sightseeing tours</li><li>Transportation in a private vehicle</li><li>Entry permits and tickets to attractions</li><li>Professional tour guide assistance</li>",
         "Overview": "Dive into the serene charm of India's North East with our North East Tour Package. This journey will take you through breathtaking landscapes, vibrant culture, and unique traditions. From the lush tea gardens of Assam to the misty hills of Meghalaya and the vibrant festivals of Nagaland, this tour is a perfect blend of nature, adventure, and heritage.",
-        "LocationDescription": "Calcutta \u2013 Bagdogra - Darjeeling - Pemayangste - Gangtok - Rumtek-Monastery - Jalpaiguri"
+        "Ratings": 4.8
     },
     {
         "Id": 7,
@@ -993,7 +1029,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 01 Arrive Delhi"
+                        "S": "Arrive Delhi"
                     },
                     "description": {
                         "S": ""
@@ -1009,10 +1045,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 02 Delhi to Manali"
+                        "S": "Delhi to Manali"
                     },
                     "description": {
-                        "S": "Drive the taxi to Manali, by passing through the an important junction on the salt route to Tibet , Mandi is the gateway to the Kullu valley. Moving through the Mandi, tourists will see the impressive Pandoh Dam diverts water from the Beas River two 12 tunnels to Baggi. The beautiful view of the mountains can be enjoyed moving through the Sainj valley. On the way to Manali, there are interesting things to see long both sIdes of the 42 kms valley. Like, Vaishno Devi Temple -a small cave with the Vaishno Devi Temple . And other interesting places to discover is Katrain, Patlikuhl, Nagar and Roerich Gallery."
+                        "S": "<li>Drive the taxi to Manali, passing through an important junction on the salt route to Tibet.</li><li>Mandi is the gateway to the Kullu valley. Moving via Mandi, tourists will see the impressive Pandoh Dam that diverts water from the Beas River through two 12 km tunnels to Baggi. The beautiful view of the mountains can be enjoyed while moving through the Sainj valley.</li><li>On the way to Manali, there are interesting sights along both sides of the 42 km valley, such as the Vaishno Devi Temple – a small cave temple dedicated to Vaishno Devi.</li><li>Other interesting places to explore include Katrain, Patlikuhl, Nagar, and Roerich Gallery.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -1025,10 +1061,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 03 Manali to Keylong"
+                        "S": "Manali to Keylong"
                     },
                     "description": {
-                        "S": "Drive the taxi toward Leh, after the local sight seeing of Manali: At the northern end of the Kullu Valley , is the main resort in the area. Its beautifully situated and there are many pleasant walks around the town, as well as a large numbers hotels and restaurants. Attraction of Local sight seeing."
+                        "S": "<li>Drive the taxi toward Leh, after the local sightseeing of Manali.</li><li>At the northern end of the Kullu Valley lies the main resort in the area. It is beautifully situated, offering many pleasant walks around the town, along with a large number of hotels and restaurants.</li><li>Attractions of local sightseeing.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -1041,10 +1077,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 04 Keylong to Hemis"
+                        "S": "Keylong to Hemis"
                     },
                     "description": {
-                        "S": "The tough journey will begin toward Leh, Darcha is the major tent site on this road. While next move is the Baralachala, which is 4883 metres means crossroads pass. Just after this pass tourist are entered to the another tent site called Sarchu. The journey becomes more adventurous and interesting while passing the Lachlung La, 5060 metres, is the second highest pass on the Manali-Leh road. The next destination is the Pang, just the tourists are moving through the Taglang La, the second highest motorable road of the world, 5328 metres. On the descent tourists are entering in to the Ladakh region and the first village is the Upshi and one can enjoy the beautiful landscape and magnificent valley views."
+                        "S": "<li>The tough journey will begin toward Leh, with Darcha being the major tent site on this road.</li><li>The next move is to Baralachala, which stands at 4883 meters, known as the crossroads pass.</li><li>After this pass, tourists enter another tent site called Sarchu.</li><li>The journey becomes more adventurous and interesting while passing Lachlung La (5060 meters), the second highest pass on the Manali-Leh road.</li><li>The next destination is Pang, just after tourists pass Taglang La, the second highest motorable road in the world, at 5328 meters.</li><li>On the descent, tourists enter the Ladakh region, and the first village is Upshi, where one can enjoy the beautiful landscape and magnificent valley views.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -1057,10 +1093,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 05 Hemis to Pangong Lake / Tso Moriri Lake"
+                        "S": "Hemis to Pangong Lake / Tso Moriri Lake"
                     },
                     "description": {
-                        "S": "In the morning visit the Hemis monastery. The travellers have the option to visit either of the Lakes. Hemis Monastery : This is biggest and the most important monastery in Ladakh. It is situated 49 kms to south of Leh, a little off the main Leh-Manali road. It was built in the 17th century by Chapgon Gyalshas and ever since has enjoyed the patronage of the royal family. Hemis is the headquater of the Drukpa order and all the monasteries throughout Ladakh are administered by it. It also trains Lamas for the royal monasteries at Leh, Shey and Bazgo. In the 19th century it faced a siege by general Zorawar Singh. The Gompa was saved to the skillful handing of the situation by the head Lama."
+                        "S": "<li>In the morning, visit the Hemis monastery (Travelers have the option to visit either of the Lakes).</li><li>Hemis Monastery: This is the biggest and most important monastery in Ladakh (It’s situated 49 kms to the south of Leh), a little off the main Leh-Manali road. It was built in the 17th century by Chapgon Gyalshas and has enjoyed the patronage of the royal family ever since.</li><li>Hemis is the headquarters of the Drukpa order, and all the monasteries throughout Ladakh are administered by it. It also trains Lamas for the royal monasteries at Leh, Shey, and Bazgo.</li><li>In the 19th century, it faced a siege by General Zorawar Singh. The Gompa was saved due to the skillful handling of the situation by the head Lama.</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -1073,42 +1109,26 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 06 Pangong Lake / Tso Moriri Lake to Leh"
+                        "S": "Pangong Lake / Tso Moriri Lake to Leh"
                     },
                     "description": {
-                        "S": "on the way back sight seeing of Thiksey and Shey palace"
+                        "S": "<li>On the way back, sightseeing of Thiksey and Shey palace.</li><li>On Day 7, complete rest in the hotel in Leh.</li>"
                     },
                     "Id": {
-                        "N": "6"
+                        "N": "6-7"
                     },
                     "day": {
-                        "N": "6"
+                        "N": "6-7"
                     }
                 }
             },
             {
                 "M": {
                     "name": {
-                        "S": "Day 07"
+                        "S": "Local Sight seeing"
                     },
                     "description": {
-                        "S": "Rest Complete rest in the hotel in Leh"
-                    },
-                    "Id": {
-                        "N": "7"
-                    },
-                    "day": {
-                        "N": "7"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Day 08 Local Sight seeing"
-                    },
-                    "description": {
-                        "S": "Leh Bazaar, Leh Palace and Sankar gompa. The women\u2019s vegetable market in the afternoon and some interesting place to visit. And the evening the Sankar monastery."
+                        "S": "<li>Explore Leh Market, Leh Palace, and Sankar Gompa.</li><li>The women’s vegetable market in the afternoon and some interesting places to visit.</li><li>And in the evening, The Sankar monastery.</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -1121,10 +1141,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 09 Leh to Khardung-la top"
+                        "S": "Leh to Khardung-la top"
                     },
                     "description": {
-                        "S": "The tourists will visit the Khardung-la. It Takes you to the highest motorable road of in the world Khardongla (18,380 feet or 5,578 m). Nubra Valley lies in the north of Leh. Apart from unparalleled trekking opportunities, the valley has several Buddhists monasteries such as Sumor, Tigar and 350 years old Diskit monastery."
+                        "S": "<li>The tourists will visit the Khardung-la. It takes you to the highest motorable road in the world, Khardungla (18,380 feet or 5,578 m).</li><li>Nubra Valley lies in the north of Leh. Apart from unparalleled trekking opportunities, the valley has several Buddhist monasteries such as Sumor, Tigar, and the 350 years old Diskit monastery.</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -1137,10 +1157,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 10 Shopping and Cultural programme"
+                        "S": "Shopping and Cultural Programme"
                     },
                     "description": {
-                        "S": "The whole day is dedicated to the shopping and to discover some interesting things about Ladakhi art and cultural by the visiting the Tibetan refugees camp Choklamsar, Library and Ecological Development etc."
+                        "S": "<li>On the 10th day, the whole day is dedicated to shopping and exploring interesting things about Ladakhi art and culture by visiting the Tibetan refugees camp in Choklamsar, the Library, and Ecological Development, etc.</li>"
                     },
                     "Id": {
                         "N": "10"
@@ -1153,10 +1173,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 11 Local Sight Seeing"
+                        "S": "Local Sight-seeing"
                     },
                     "description": {
-                        "S": "Leh to Lamayuru, Likir and Alchi and night halt at Lamayuru. Whole day is dedicated for the local sight seeing."
+                        "S": "<li>Local sightseeing Leh to Lamayuru, Likir & Alchi and halt for the night at Lamayuru.</li><li>Whole day is dedicated to local sightseeing.</li>"
                     },
                     "Id": {
                         "N": "11"
@@ -1169,10 +1189,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 12 Lamayuru to Kargil"
+                        "S": "Lamayuru to Kargil"
                     },
                     "description": {
-                        "S": "The caravan move toward the Kargil and the Way Passing through Following Place"
+                        "S": "<li>On Day 12, the caravan moves towards Kargil, passing through the following places:</li>"
                     },
                     "Id": {
                         "N": "12"
@@ -1185,10 +1205,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 13: Kargil to Srinagar"
+                        "S": "Kargil to Srinagar"
                     },
                     "description": {
-                        "S": "Drive the taxi toward Srinagar , by passing the Zoji-la and picturesque Sonamarg, entering to the Kashmir valley."
+                        "S": "<li>Drive the taxi toward Srinagar, passing through Zoji-la and picturesque Sonamarg, entering the Kashmir Valley.</li>"
                     },
                     "Id": {
                         "N": "13"
@@ -1201,10 +1221,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 14 Srinagar , Local sight seeing"
+                        "S": "Srinagar, Local Sight-seeing"
                     },
                     "description": {
-                        "S": "Dal Lake : Much of Dal Lake is maze of intricate waterways rather than a simple body of open water. The lake is divIded into Gagribal, Lokut Dal and Bod Dal by a series of causeways. Dal Gate, at the city end of the lake, controls the flow of the lake water into the Jhelum River canal."
+                        "S": "<li><strong>Dal Lake:</strong> Much of Dal Lake is a maze of intricate waterways rather than a simple body of open water. The lake is divided into Gagribal, Lokut Dal, and Bod Dal by a series of causeways. Dal Gate, at the city end of the lake, controls the flow of the lake water into the Jhelum River canal.</li>"
                     },
                     "Id": {
                         "N": "14"
@@ -1217,10 +1237,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 15 Srinagar to Jammu"
+                        "S": "Srinagar to Jammu"
                     },
                     "description": {
-                        "S": "On the Srinagar to Jammu route are the hill resorts of Batote, Panitop and Kud, before Jammu region tourists will move through about 3 km long tunnel Jawarhar Tunnel. On the way tourists can visit the famous shrine of Vaishno Devi and night halt at Jammu city."
+                        "S": "<li>On the way from Srinagar to Jammu, the route passes through the hill resorts of Batote, Panitop, and Kud. Before reaching the Jammu region, tourists will pass through the about 3 km long Jawahar Tunnel.</li><li>On the way, tourists can visit the famous shrine of Vaishno Devi and halt overnight in Jammu city.</li>"
                     },
                     "Id": {
                         "N": "15"
@@ -1233,10 +1253,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 16 Jammu to Delhi"
+                        "S": "Return from Jammu to Delhi"
                     },
                     "description": {
-                        "S": "Final day of the discovery trip and the farewell will be given at Karnal. What tourists have discovered? o Tanglang-la 17,469 ft. o Pangong Lake ( 14, 469 ft) o Chang-la (17,350 ft) o Famous monasteries of Ladakh o Traditional culture and life-style of Ladakh on 11,000 ft o Khardung-la, highest motorable road of world 18,380 ft o Drass, second coldest place of world o Zoji-la o Srinagar o vaishno Devi Amenities Taxi Hotel Food Travel Corporation of Ladakh will make other important arrangements."
+                        "S": "<li>Final day of the discovery trip and the farewell will be given at Karnal.</li>"
                     },
                     "Id": {
                         "N": "16"
@@ -1249,7 +1269,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 17 Depart Home"
+                        "S": "Depart at Home"
                     },
                     "description": {
                         "S": ""
@@ -1265,12 +1285,18 @@
         ],
         "Name": "Best of Ladakh & Kashmir",
         "Tags": [
-            "adventure"
+            "adventure",
+            " culture"
         ],
+        "LocationDescription": "Delhi - Manali - Keylong - Hemis - Pangong Lake - Tso Moriri Lake - Thiksey - Shey palace - Sankar gompa - Lamayuru - Likir - Alchi - Srinagar",
+        "Uri": "delhi-ladakh-kashmir-srinagar-india",
+        "Title": "Ladakh & Kashmir Tour Package India | Delhi to Srinagar",
+        "Description": "Explore Ladakh and Kashmir tour package in India: Delhi, Manali, Keylong, Hemis, Pangong, Lamayuru, Likir, Srinagar, and more. Book your adventure today!",
+        "NoOfRatings": 11,
         "Additional_Information": "<li>Best Time to Visit: April to October for Kashmir; June to September for Ladakh.</li><li>Difficulty Level: Moderate, suitable for all age groups.</li><li>What to Bring: Warm clothing, sturdy shoes, sunglasses, sunscreen, and a camera.</li><li>Oxygen support is available for high-altitude areas.</li><li>Travel insurance is highly recommended.</li>",
         "Whats_Included": "<li>Comfortable accommodation in hotels, camps, or houseboats</li><li>Daily breakfast and dinner</li><li>Private transportation for all transfers and sightseeing</li><li>Inner line permits for restricted areas in Ladakh</li><li>Professional tour guide for sightseeing</li><li>Airport transfers</li>",
         "Overview": "Embark on a mesmerizing journey through the scenic landscapes of Ladakh and Kashmir with our exclusive tour package. Witness Kashmir's lush valleys and tranquil lakes, coupled with Ladakh's rugged mountains and high-altitude desert. This package promises an unforgettable experience filled with adventure, culture, and natural beauty.",
-        "LocationDescription": "Delhi - Manali - Keylong - Hemis - Pangong Lake - Tso Moriri Lake - Thiksey - Shey palace - Sankar gompa - Lamayuru - Likir - Alchi - Srinagar"
+        "Ratings": 5.0
     },
     {
         "Id": 8,
@@ -1280,7 +1306,7 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 01 Arrival Delhi"
+                        "S": "Arrival in Delhi"
                     },
                     "description": {
                         "S": ""
@@ -1296,10 +1322,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 02 Delhi"
+                        "S": "Explore Delhi"
                     },
                     "description": {
-                        "S": ""
+                        "S": "<li>Explore iconic attractions like India Gate and Qutub Minar.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -1312,10 +1338,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 03 Delhi / Leh"
+                        "S": "Delhi to Leh"
                     },
                     "description": {
-                        "S": "ProvIde intime departure & transfer to airport to connect the flight for Leh. After a breathtaking flight over the trans Himalayas and equally beautiful and breathtaking landing you will be welcomed and escorted to our hotel where room has been booked for your ready occupancy. A little briefing on the days program and a breakfast, you are advised to rest for the first half of the day. After lunch we will go for an easy and relaxed orientation drive of Leh market. Overnight in the hotel."
+                        "S": "<li>Provide in-time departure & transfer to airport to connect the flight for Leh.</li><li>After a breathtaking flight over the trans Himalayas and breathtaking landing, you will be welcomed and escorted to our hotel.</li><li>A little briefing on the days program and a breakfast.</li><li>You are advised to rest for the first half of the day. After lunch, we will explore Leh market.</li><li>Overnight in the hotel.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -1328,10 +1354,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 04 Leh"
+                        "S": "Leh"
                     },
                     "description": {
-                        "S": "After breakfast we will visit the Spituk monastery. Enjoy your first encounter with the beautiful Buddhist monastery and understand \u201d the Buddhist life\u201d. Buddhism in this part of the world is also part of the social life. We live religion in this part of the world. Also visit the \u201d Much famed Kali Temple \u201d also known as the Temple of Palden Lhamo ( by Buddhist). You will see Buddhist as well Hindus( lndian army) worshipping there. Return to hotel for lunch. Post lunch we will visit the market and Shanti stupa( Japanese peace Pagoda) on the nearby Hillock of Leh town. We will visit Shanti stupa at sunset. Enjoy the scintillating view of the Leh town, upper Leh towards khardunglha and the part of upper Indus valley. Light at sunset or sunrise is just perfect for perfect pictures with the Himalayan mountain ranges at the back ground. Evening dinner at hotel."
+                        "S": "<li>After breakfast, we will visit the Spituk monastery. Enjoy your first encounter with the beautiful Buddhist monastery and understand 'the Buddhist life'. Buddhism in this part of the world is also part of the social life. We live religion in this part of the world.</li><li>Also visit the 'Much famed Kali Temple' also known as the Temple of Palden Lhamo (by Buddhist). You will see Buddhist as well Hindus (Indian army) worshipping there.</li><li>Return to hotel for lunch. Post lunch we will visit the market and Shanti Stupa (Japanese peace Pagoda) on the nearby Hillock of Leh town (visit Shanti stupa at sunset).</li><li>Enjoy the scintillating view of the Leh town, upper Leh towards Khardung La and the part of upper Indus valley.</li><li>Light at sunset or sunrise is just perfect for perfect pictures with the Himalayan mountain ranges at the background.</li><li>Evening dinner at hotel.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -1344,10 +1370,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 05 Leh / Lamayuru / Uleytopko (160 Kms)"
+                        "S": "Leh / Lamayuru / Uleytopko (160 Kms)"
                     },
                     "description": {
-                        "S": "Post breakfast drive to Lamayuru; enroute visits Liker Monastery and Gurudwara Pathar Sahib. Check in Camp at Alchi or Ule and enjoy your hot Lunch. After Lunch drive to visit the mesmerizing Moon landscapes and the Lamayuru monastery (Oldest Monastery in Ladakh). Overnight Camp or Hotel."
+                        "S": "<li>After breakfast, we depart to Lamayuru, enroute visits Liker Monastery and Gurudwara Pathar Sahib.</li><li>Check in Camp at Alchi or Ule and enjoy your hot lunch.</li><li>After Lunch drive to visit the mesmerizing Moon landscapes and the Lamayuru monastery (Oldest Monastery in Ladakh).</li><li>Overnight Camp or Hotel.</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -1360,10 +1386,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 06 Uleytopko / Alchi / Leh (70 Kms)"
+                        "S": "Uleytopko / Alchi / Leh (70 Kms)"
                     },
                     "description": {
-                        "S": "Post breakfast drive to Leh en-route visit Alchi monastery, Basgo Palace and Hall of Fame. Arrive at Leh by afternoon. Hot Lunch at Hotel. After the free at your leisure. Overnight Hotel."
+                        "S": "<li>After breakfast, drive to Leh en-route visit Alchi Monastery, Basgo Palace and Hall of Fame.</li><li>Arrive at Leh by afternoon, having hot and yummy lunch at Hotel.</li><li>After the free at your leisure. Overnight stay at hotel.</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -1376,10 +1402,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 07 Leh / Nubra Valley (120 Kms)"
+                        "S": "Leh / Nubra Valley (120 Kms)"
                     },
                     "description": {
-                        "S": "After Breakfast drive to Nubra Valley via Khardungla (Highest Motorable road in the World, 18,380 ft). Arrive at Deskit by Afternoon. Rest of the day free to explore Deskit, Hunder Villages. Overnight Hotel."
+                        "S": "<li>After Breakfast drive to Nubra Valley via Khardungla (highest motorable road in the World, 18,380 feet).</li><li>Arrive at Diskit by Afternoon. Rest of the day free to explore Diskit, Hunder Villages.</li><li>Overnight Hotel.</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -1472,12 +1498,18 @@
         ],
         "Name": "Best of Ladakh",
         "Tags": [
-            "adventure"
+            "adventure",
+            " culture"
         ],
+        "LocationDescription": "Delhi - Leh - Lamayuru - Uleytopko - Alchi - Nubra - Pangong",
+        "Uri": "delhi-leh-ladakh-travel-package",
+        "Title": "Delhi Leh Ladakh Travel Package India - Eaze Tours",
+        "Description": "Explore Delhi, Leh, Lamayuru, Uleytopko, Alchi, Nubra, and Pangong with our customized travel packages for an unforgettable adventure across India. Book Now!",
+        "NoOfRatings": 10,
         "Additional_Information": "<li>Best Time to Visit: May to September when the weather is pleasant.</li><li>Ideal For: Adventure enthusiasts, couples, and nature lovers.</li><li>What to Bring: Warm clothing, trekking shoes, sunglasses, sunscreen, and personal essentials.</li><li>Travel insurance is recommended for safety.</li>",
         "Whats_Included": "<li>Accommodation in hotels and camps</li><li>Daily breakfast and dinner</li><li>Private vehicle for all transfers and sightseeing</li><li>Inner line permits for restricted areas</li><li>Professional guide and driver</li><li>Airport transfers in Delhi and Leh</li>",
         "Overview": "Explore the mesmerizing beauty of Leh Ladakh with our Delhi to Leh Ladakh Travel Package. Starting from the bustling city of Delhi, this journey takes you through the rugged terrains of the Himalayas to the serene landscapes of Ladakh. From snow-capped mountains and pristine lakes to ancient monasteries and vibrant culture, this tour is a perfect mix of adventure and tranquility.",
-        "LocationDescription": "Delhi - Leh - Lamayuru - Uleytopko - Alchi - Nubra - Pangong"
+        "Ratings": 4.8
     },
     {
         "Id": 9,
@@ -1711,12 +1743,18 @@
         ],
         "Name": "Ayurveda",
         "Tags": [
-            "ayurveda"
+            "ayurveda",
+            "wellness"
         ],
+        "LocationDescription": "Kerala",
+        "Uri": "ayurveda-tour-package-kerala-india",
+        "Title": "Ayurveda Tour Package India | Kerala Wellness Tour",
+        "Description": "Explore Kerala with Eaze Tour's Ayurveda tour package in India. Experience traditional wellness treatments and rejuvenating therapies in serene settings.",
+        "NoOfRatings": 12,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Kerala"
+        "Ratings": 5.0
     },
     {
         "Id": 10,
@@ -1950,12 +1988,18 @@
         ],
         "Name": "Magical South India",
         "Tags": [
-            "cultural"
+            "cultural",
+            "traditional "
         ],
+        "LocationDescription": "Chennai-Cochin-Mahabalipuram-Kanchipuram-Pondichery-ChIdambaram -Thanjavur- Trichy-Chettinad-Madurai-Periyar-Kumarakom-House Boat-Alleppey-Cochin",
+        "Uri": "south-india-chennai-cochin-tour-india",
+        "Title": "Magical South India Chennai Cochin Tours with Eaze Tours",
+        "Description": "Explore the enchanting sights of South India with our Chennai Cochin tours. Immerse in rich culture, scenic beauty, & unforgettable experiences with Eaze Tours.",
+        "NoOfRatings": 17,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Chennai-Cochin-Mahabalipuram-Kanchipuram-Pondichery-ChIdambaram -Thanjavur- Trichy-Chettinad-Madurai-Periyar-Kumarakom-House Boat-Alleppey-Cochin"
+        "Ratings": 4.9
     },
     {
         "Id": 11,
@@ -2141,12 +2185,18 @@
         ],
         "Name": "Kerala \u2013 God\u2019s Own Country",
         "Tags": [
-            "cultural"
+            "cultural",
+            "traditional "
         ],
+        "LocationDescription": "Cochin -Munnar- Periyar-Kumarakom-Alleppey-Kovlam-Trivandrum",
+        "Uri": "kerala-cochin-trivandrum-tour-india",
+        "Title": "Kerala Tour Packages - God's Own Country - Eaze Tours",
+        "Description": "Book exclusive Kerala tour packages with Eaze Tours. Enjoy scenic backwaters, lush greenery, and unforgettable experiences tailored to your dreams! Call Now!",
+        "NoOfRatings": 12,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Cochin -Munnar- Periyar-Kumarakom-Alleppey-Kovlam-Trivandrum"
+        "Ratings": 4.9
     },
     {
         "Id": 12,
@@ -2284,12 +2334,18 @@
         ],
         "Name": "Golden Triangle with Tiger",
         "Tags": [
-            "cultural"
+            "cultural",
+            "traditional "
         ],
+        "LocationDescription": "Delhi-Agra- Fatehpur Sikri-Ranthambhore-Jaipur-Delhi",
+        "Uri": "tajmahal-and-tiger-safari-tour-india",
+        "Title": "Taj Mahal and Tiger Safari Tour in India - Eaze Tours",
+        "Description": "Experience the beauty of the Taj Mahal and the thrill of a tiger safari in India. Book your unforgettable adventure with Eaze Tours today!",
+        "NoOfRatings": 9,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Delhi-Agra- Fatehpur Sikri-Ranthambhore-Jaipur-Delhi"
+        "Ratings": 4.9
     },
     {
         "Id": 13,
@@ -2475,12 +2531,18 @@
         ],
         "Name": "Romantic Kerala",
         "Tags": [
-            "honeymoon"
+            "honeymoon",
+            "relaxation"
         ],
+        "LocationDescription": "Cochin-Munnar -Periyar-Alleppey-Kovlam-Trivandrum",
+        "Uri": "romantic-kerala-tour-package-india",
+        "Title": "Romantic Kerala Tour Package for Couples - Eaze Tours",
+        "Description": "Explore the beauty of Kerala with our romantic tour package. Enjoy serene backwaters, scenic beaches, and unforgettable experiences with your loved one.",
+        "NoOfRatings": 17,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Cochin-Munnar -Periyar-Alleppey-Kovlam-Trivandrum"
+        "Ratings": 4.9
     },
     {
         "Id": 14,
@@ -2602,12 +2664,18 @@
         ],
         "Name": "Romantic Andman",
         "Tags": [
-            "honeymoon"
+            "honeymoon",
+            "relaxation"
         ],
+        "LocationDescription": "PORT BLAIR \u2013 HAVELOCK ISLAND-PORT BLAIR",
+        "Uri": "romantic-andaman-tour-package-india",
+        "Title": "Romantic Andaman Tour Package for Couples - Eaze Tours",
+        "Description": "Book the best romantic Andaman tour package with Eaze Tours. Enjoy breathtaking views, serene beaches, and unforgettable experiences for couples. Call Now!",
+        "NoOfRatings": 13,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "PORT BLAIR \u2013 HAVELOCK ISLAND-PORT BLAIR"
+        "Ratings": 4.9
     },
     {
         "Id": 15,
@@ -2729,12 +2797,18 @@
         ],
         "Name": "Exotic Manali",
         "Tags": [
-            "honeymoon"
+            "honeymoon",
+            "relaxation"
         ],
+        "LocationDescription": "Delhi-Chandigarh - Manali-Rohtang-Manali-Chandigarh",
+        "Uri": "exotic-manali-tour-package-india",
+        "Title": "Book Manali Exotic Packages at Best Price - Eaze Tours",
+        "Description": "Book your exotic Manali tour package in India with Eaze Tours. Explore breathtaking landscapes, adventure activities, and cultural experiences.",
+        "NoOfRatings": 18,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Delhi-Chandigarh - Manali-Rohtang-Manali-Chandigarh"
+        "Ratings": 5.0
     },
     {
         "Id": 16,
@@ -2872,12 +2946,18 @@
         ],
         "Name": "The Golden Chariot",
         "Tags": [
-            "luxury"
+            "luxury",
+            "royal"
         ],
+        "LocationDescription": "Bangalore - Kabini/Bandipur - Mysore - Hassan - Hospet - Badami - Goa - Bangalore",
+        "Uri": "golden-chariot-bangalore-mysore-goa-tour-package-india",
+        "Title": "The Golden Chariot Tour Package India - Eaze Tours",
+        "Description": "Explore India's rich heritage with The Golden Chariot tour package. Visit Bangalore, Kabini, Mysore, Hassan, Hospet, Badami, Goa, and return to Bangalore.",
+        "NoOfRatings": 10,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Bangalore - Kabini/Bandipur - Mysore - Hassan - Hospet - Badami - Goa - Bangalore"
+        "Ratings": 5.0
     },
     {
         "Id": 17,
@@ -3077,12 +3157,18 @@
         ],
         "Name": "Royal Rajasthan on Wheels",
         "Tags": [
-            "luxury"
+            "luxury",
+            "royal"
         ],
+        "LocationDescription": "Delhi-Jodhpur-Udaipur-Chittorgarh-SawaiMadhopur-Jaipur-Khajuraho-Varanasi (Banaras)-Agra",
+        "Uri": "royal-rajasthan-tour-package-india",
+        "Title": "Best Rajasthan Tour Packages India - Eaze Tours",
+        "Description": "Explore the rich heritage of Rajasthan with our customized tour packages. Book your adventure today and experience royal palaces, forts, and vibrant culture.",
+        "NoOfRatings": 16,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Delhi-Jodhpur-Udaipur-Chittorgarh-SawaiMadhopur-Jaipur-Khajuraho-Varanasi (Banaras)-Agra"
+        "Ratings": 5.0
     },
     {
         "Id": 18,
@@ -3220,12 +3306,18 @@
         ],
         "Name": "Palace on Wheels",
         "Tags": [
-            "luxury"
+            "luxury",
+            "royal"
         ],
+        "LocationDescription": "New Delhi - Jaipur - Sawai Madhopur - Chittorgarh - Udaipur - Jaisalmer - Jodhpur - Bharatpur - Agra - Delhi",
+        "Uri": "palace-on-wheels-tour-package-india",
+        "Title": "Palace on Wheels Tour Package India - Ease Tours",
+        "Description": "Experience the Palace on Wheels tour package India, covering New Delhi, Jaipur, Sawai Madhopur, Udaipur, Jaisalmer, and more. A royal journey across India.",
+        "NoOfRatings": 17,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "New Delhi - Jaipur - Sawai Madhopur - Chittorgarh - Udaipur - Jaisalmer - Jodhpur - Bharatpur - Agra - Delhi"
+        "Ratings": 4.9
     },
     {
         "Id": 19,
@@ -3443,12 +3535,18 @@
         ],
         "Name": "Buddhist Pilgrimage Tour",
         "Tags": [
-            "pilgrim"
+            "pilgrim",
+            "spirituality"
         ],
+        "LocationDescription": "Delhi-Agra-Varanas-Bodhgaya-Vaishali-Kushinagar-Lumbini-Shravasti-Gorakhpur",
+        "Uri": "buddhist-pilgrimage-tour-package-india",
+        "Title": "Buddhist Pilgrimage Tour Package India - Eaze Tours",
+        "Description": "Explore India’s sacred sites with our Buddhist pilgrimage tour package. Visit Delhi, Agra, Varanasi, Bodhgaya, Vaishali, Kushinagar, Shravasti, & Gorakhpur.",
+        "NoOfRatings": 19,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Delhi-Agra-Varanas-Bodhgaya-Vaishali-Kushinagar-Lumbini-Shravasti-Gorakhpur"
+        "Ratings": 5.0
     },
     {
         "Id": 20,
@@ -3634,12 +3732,18 @@
         ],
         "Name": "Chardham tour",
         "Tags": [
-            "pilgrim"
+            "pilgrim",
+            "spirituality"
         ],
+        "LocationDescription": "Delhi-Rishikesh-Barkot\u2013Jankichatti\u2013Yamunotri-Harsil-Gangotri-Uttarkashi-Guptkashi\u2013Kedarnath-Rudraprayag-Badrinath\u2013 Srinagar-HarIdwar",
+        "Uri": "chardham-pilgrimage-tour-package-india",
+        "Title": "Chardham Pilgrimage Tour Package India – Eaze Tours",
+        "Description": "Embark on a spiritual journey with our Chardham pilgrimage tour package in India, covering Delhi, Rishikesh, Yamunotri, Gangotri, Kedarnath, Badrinath, & more.",
+        "NoOfRatings": 12,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Delhi-Rishikesh-Barkot\u2013Jankichatti\u2013Yamunotri-Harsil-Gangotri-Uttarkashi-Guptkashi\u2013Kedarnath-Rudraprayag-Badrinath\u2013 Srinagar-HarIdwar"
+        "Ratings": 5.0
     },
     {
         "Id": 21,
@@ -3873,12 +3977,18 @@
         ],
         "Name": "North India \u2013 Temple Tour",
         "Tags": [
-            "pilgrim"
+            "pilgrim",
+            "spirituality"
         ],
+        "LocationDescription": "DELHI\u2013AMRITSAR-DHARMSHALA-SHIMLA-KUFRI-RISHIKESH\u2013HARIdWAR-DELHI-VARANASI",
+        "Uri": "north-india-temple-tour-package-india",
+        "Title": "North India Temple Tour Package - Eaze Tours",
+        "Description": "Plan your North India temple tour package with Eaze Tours. Explore iconic temples, cultural landmarks, and spiritual destinations. Book your journey today!",
+        "NoOfRatings": 18,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "DELHI\u2013AMRITSAR-DHARMSHALA-SHIMLA-KUFRI-RISHIKESH\u2013HARIdWAR-DELHI-VARANASI"
+        "Ratings": 4.8
     },
     {
         "Id": 22,
@@ -4112,12 +4222,18 @@
         ],
         "Name": "Tour to Orissa",
         "Tags": [
-            "tribal"
+            "tribal",
+            "heritage"
         ],
+        "LocationDescription": "DELHI-BHUBANESHWAR-RATNA GIRI-BALIGUDA-BELGHAR-KOTHAGARGH-RAYAGADA-JEYPORE-LAXMIPUR-RAYAGADA-TAPTAOANI-CHILKA-PURI",
+        "Uri": "orissa-tour-package-india",
+        "Title": "Orissa Tour Package India: Explore Ancient Temples",
+        "Description": "Explore the rich culture and heritage with our Orissa tour package in India. Visit temples, wildlife sanctuaries, & scenic landscapes on a memorable journey.",
+        "NoOfRatings": 20,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "DELHI-BHUBANESHWAR-RATNA GIRI-BALIGUDA-BELGHAR-KOTHAGARGH-RAYAGADA-JEYPORE-LAXMIPUR-RAYAGADA-TAPTAOANI-CHILKA-PURI"
+        "Ratings": 4.8
     },
     {
         "Id": 23,
@@ -4367,12 +4483,18 @@
         ],
         "Name": "Orissa \u2013 Chattisgarh Program",
         "Tags": [
-            "tribal"
+            "tribal",
+            "heritage"
         ],
+        "LocationDescription": "BHUBANESWAR-PURI-KONARK-BALLIGUDA-RAYAGADA-CHATIKONA-JEYPORE-JAGDALPUR-CHITRAKUT-NARAYANPUR-RAIPUR",
+        "Uri": "orissa-chattisgarh-tour-package-india",
+        "Title": "Orissa Chattisgarh Tour Package India - Eaze Tours",
+        "Description": "Explore Orissa and Chhattisgarh with our tailored tour packages. Experience rich culture, stunning landscapes, and unique traditions in India.",
+        "NoOfRatings": 15,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "BHUBANESWAR-PURI-KONARK-BALLIGUDA-RAYAGADA-CHATIKONA-JEYPORE-JAGDALPUR-CHITRAKUT-NARAYANPUR-RAIPUR"
+        "Ratings": 5.0
     },
     {
         "Id": 24,
@@ -4573,13 +4695,19 @@
             }
         ],
         "Name": "In Search of Tigers",
+        "LocationDescription": "DELHI-SAWAI-MADHOPUR-RANTHAMBHORE- FATEHPUR SIKRI-AGRA-KATNI-BANDHAVGARH-KANHA-NAGPUR",
+        "Tags": [
+            "wildlife",
+            "nature"
+        ],
+        "Uri": "tiger-safari-tour-india",
+        "Title": "Book Luxury Tiger Safari Tours in India - Eaze Tours",
+        "Description": "Experience the thrill of a Tiger Safari in India with Eaze Tours. Explore wildlife sanctuaries and get up close with majestic tigers in their natural habitat. Book Now!",
+        "NoOfRatings": 16,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "DELHI-SAWAI-MADHOPUR-RANTHAMBHORE- FATEHPUR SIKRI-AGRA-KATNI-BANDHAVGARH-KANHA-NAGPUR",
-        "Tags": [
-            "wildlife"
-        ]
+        "Ratings": 4.9
     },
     {
         "Id": 25,
@@ -4813,12 +4941,18 @@
         ],
         "Name": "Gujarat Tribal Tours",
         "Tags": [
-            "tribal"
+            "tribal",
+            "heritage"
         ],
+        "LocationDescription": "Mumbai-Baroda-Bhuj-Ahmedamad-Utellia-Balaram-Patan-Little Rann of Kutch-Bhuj",
+        "Uri": "gujarat-tribal-tour-package-india",
+        "Title": "Gujarat Tribal Tour Packages India - Eaze Tours",
+        "Description": "Explore Gujarat's tribal culture with our tailored tribal tour package in India. Enjoy authentic experiences, traditions, and vibrant communities. Book Now!",
+        "NoOfRatings": 20,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Mumbai-Baroda-Bhuj-Ahmedamad-Utellia-Balaram-Patan-Little Rann of Kutch-Bhuj"
+        "Ratings": 5.0
     },
     {
         "Id": 26,
@@ -5004,12 +5138,18 @@
         ],
         "Name": "South India -Temple Tour",
         "Tags": [
-            "pilgrim"
+            "pilgrim",
+            "spirituality"
         ],
+        "LocationDescription": "Chennai \u2013 Mahabalipuram \u2013 Pondicherry \u2013 Thanjavur \u2013 Trichy \u2013 Madurai \u2013 Bangalore \u2013 Mysore - Hassan",
+        "Uri": "south-india-temple-tour-package-india",
+        "Title": "South India Temple Tour Package - Eaze Tours",
+        "Description": "Explore ancient temples of South India with our customised tour packages. Immerse in culture, heritage, and spirituality with Eaze Tours. Book now!",
+        "NoOfRatings": 9,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Chennai \u2013 Mahabalipuram \u2013 Pondicherry \u2013 Thanjavur \u2013 Trichy \u2013 Madurai \u2013 Bangalore \u2013 Mysore - Hassan"
+        "Ratings": 4.8
     },
     {
         "Id": 27,
@@ -5275,12 +5415,18 @@
         ],
         "Name": "A Journey through Royal",
         "Tags": [
-            "cultural"
+            "cultural",
+            "traditional "
         ],
+        "LocationDescription": "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Khimsar \u2013 Jasailmer \u2013 Jodhpur \u2013 Rohetgarh \u2013 Ranakpur \u2013 Udaipur \u2013 Pushkar \u2013 Jaipur \u2013 Agra \u2013 Delhi",
+        "Uri": "royal-delhi-jaipur-agra-tour-package-india",
+        "Title": "Royal Delhi Jaipur Agra Tour Package India - Eaze Tours",
+        "Description": "Explore India's rich heritage with our Royal Delhi Jaipur Agra tour package. Visit iconic landmarks and experience vibrant culture with Eaze Tours. Book Now!",
+        "NoOfRatings": 14,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Khimsar \u2013 Jasailmer \u2013 Jodhpur \u2013 Rohetgarh \u2013 Ranakpur \u2013 Udaipur \u2013 Pushkar \u2013 Jaipur \u2013 Agra \u2013 Delhi"
+        "Ratings": 4.8
     },
     {
         "Id": 28,
@@ -5434,12 +5580,18 @@
         ],
         "Name": "Classical Journey",
         "Tags": [
-            "cultural"
+            "cultural",
+            "traditional "
         ],
+        "LocationDescription": "Delhi \u2013 Jaipur \u2013 Agra \u2013 Khajuraho \u2013 Varanasi \u2013 Delhi",
+        "Uri": "classical-delhi-jaipur-agra-khajurao-varanasi-tour-india",
+        "Title": "Explore Delhi Jaipur Agra Khajuraho Varanasi with Eaze Tours",
+        "Description": "Explore India with the Classical Delhi, Jaipur, Agra, Khajuraho, and Varanasi tour package. Immerse in culture, history, and heritage. Book your journey today!",
+        "NoOfRatings": 4,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Delhi \u2013 Jaipur \u2013 Agra \u2013 Khajuraho \u2013 Varanasi \u2013 Delhi"
+        "Ratings": 4.8
     },
     {
         "Id": 29,
@@ -5673,12 +5825,18 @@
         ],
         "Name": "Classical North with Wildlife",
         "Tags": [
-            "wildlife"
+            "wildlife",
+            "nature"
         ],
+        "LocationDescription": "Delhi \u2013 Jaipur \u2013 Ranthambore \u2013 Bharatpur \u2013 Agra \u2013 Umaria \u2013 Bandhavgarhh \u2013 Kanha \u2013 Jabalpur",
+        "Uri": "wildlife-safari-tour-package-india",
+        "Title": "Wildlife Tour Packages India | India Wildlife Safari Tours",
+        "Description": "Explore the best wildlife tour packages in India with thrilling India wildlife safari tours. Encounter exotic wildlife in stunning natural habitats! Book Now!",
+        "NoOfRatings": 8,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Delhi \u2013 Jaipur \u2013 Ranthambore \u2013 Bharatpur \u2013 Agra \u2013 Umaria \u2013 Bandhavgarhh \u2013 Kanha \u2013 Jabalpur"
+        "Ratings": 5.0
     },
     {
         "Id": 30,
@@ -5848,12 +6006,18 @@
         ],
         "Name": "Painted Havelis of Sekhawati",
         "Tags": [
-            "cultural"
+            "cultural",
+            "traditional "
         ],
+        "LocationDescription": " Delhi \u2013 Bikaner \u2013 Mandawa \u2013 Jaipur - Delhi",
+        "Uri": "sekhawati-havelis-delhi-bikaner-mandawa-jaipur-tour-india",
+        "Title": "Sekhawati Havelis Tour: Delhi, Bikaner, Mandawa, Jaipur",
+        "Description": "Explore the stunning Sekhawati Havelis in Delhi, Bikaner, Mandawa, and Jaipur. Experience India’s rich culture and architecture with Eaze Tours. Book Now!",
+        "NoOfRatings": 14,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": " Delhi \u2013 Bikaner \u2013 Mandawa \u2013 Jaipur - Delhi"
+        "Ratings": 4.8
     },
     {
         "Id": 31,
@@ -6023,12 +6187,18 @@
         ],
         "Name": "Enchanted Beaches",
         "Tags": [
-            "cultural"
+            "cultural",
+            "traditional "
         ],
+        "LocationDescription": "Delhi \u2013 Cochin \u2013 Mararikulam \u2013 Kovalam \u2013 Trivendrum - Delhi",
+        "Uri": "beaches-delhi-cochin-kovalam-trivendrum-delhi-tour-india",
+        "Title": "Explore Exotic Beaches in India - Eaze Tours",
+        "Description": "Explore India's exotic beaches with Eaze Tours, featuring Delhi, Cochin, Mararikulam, Kovalam, and Trivandrum for a memorable coastal journey. Book Now!",
+        "NoOfRatings": 5,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Delhi \u2013 Cochin \u2013 Mararikulam \u2013 Kovalam \u2013 Trivendrum - Delhi"
+        "Ratings": 5.0
     },
     {
         "Id": 32,
@@ -6310,12 +6480,18 @@
         ],
         "Name": "Grand South India Tour",
         "Tags": [
-            "cultural"
+            "cultural",
+            "traditional "
         ],
+        "LocationDescription": "Mumbai \u2013 Bangalore \u2013 Hassan \u2013 Mysore \u2013 Ooty \u2013 Cochin \u2013 Kumarakom \u2013 Periyar \u2013 Madurai \u2013 Trichy \u2013 Thanjavur \u2013 Pondicherry \u2013 Mammalapuram \u2013 Kanchipuram \u2013 Chennai \u2013 Mumbai",
+        "Uri": "south-india-tour-package-india",
+        "Title": "South India Tour Packages: Mumbai to Chennai Highlights",
+        "Description": "Explore Mumbai, Bangalore, Mysore, Ooty, Cochin, Madurai, & Chennai with curated South India tour packages. Unforgettable cultural and scenic experiences await!",
+        "NoOfRatings": 12,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Mumbai \u2013 Bangalore \u2013 Hassan \u2013 Mysore \u2013 Ooty \u2013 Cochin \u2013 Kumarakom \u2013 Periyar \u2013 Madurai \u2013 Trichy \u2013 Thanjavur \u2013 Pondicherry \u2013 Mammalapuram \u2013 Kanchipuram \u2013 Chennai \u2013 Mumbai"
+        "Ratings": 4.8
     },
     {
         "Id": 33,
@@ -6565,12 +6741,18 @@
         ],
         "Name": "Gujarat Tour",
         "Tags": [
-            "cultural"
+            "cultural",
+            "traditional "
         ],
+        "LocationDescription": "Ahmedabad-Taranga-Vijaynagar-Zainabad-Bhuj-Jamnagar-Dwarka\u2013 Junagadh-Bhavnagar",
+        "Uri": "gujarat-tour-15-days-package-india",
+        "Title": "Gujarat 15 Days Tour Package India - Eaze Tours",
+        "Description": "Plan a Gujarat 15 days tour package in India covering Ahmedabad, Taranga, Vijaynagar, Zainabad, Bhuj, Jamnagar, Junagadh, Bhavnagar, etc with Eaze Tours.",
+        "NoOfRatings": 7,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Ahmedabad-Taranga-Vijaynagar-Zainabad-Bhuj-Jamnagar-Dwarka\u2013 Junagadh-Bhavnagar"
+        "Ratings": 4.9
     },
     {
         "Id": 34,
@@ -6756,12 +6938,18 @@
         ],
         "Name": "Forts of Rajasthan",
         "Tags": [
-            "cultural"
+            "cultural",
+            "traditional "
         ],
+        "LocationDescription": "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jasailmer \u2013 Jodhpur - Jaipur \u2013 Agra \u2013 Delhi",
+        "Uri": "forts-of-rajasthan-from-delhi-11-days-package-india",
+        "Title": "Rajasthan 11 Days Tour Package from Delhi - Eaze Tours",
+        "Description": "Explore Delhi, Mandawa, Bikaner, Jaisalmer, Jodhpur, Jaipur, Agra, and back to Delhi with our Rajasthan 11 days tour package from Delhi, India. Book Now!",
+        "NoOfRatings": 20,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Delhi \u2013 Mandawa \u2013 Bikaner \u2013 Jasailmer \u2013 Jodhpur - Jaipur \u2013 Agra \u2013 Delhi"
+        "Ratings": 4.9
     },
     {
         "Id": 35,
@@ -6883,11 +7071,17 @@
         ],
         "Name": "Golden Triangle",
         "Tags": [
-            "cultural"
+            "cultural",
+            "traditional "
         ],
+        "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
+        "Uri": "golden-triangle-delhi-agra-jaipur-7-days-package-india",
+        "Title": "Golden Triangle Delhi Agra Jaipur 7 Days Tour Package",
+        "Description": "Explore the Golden Triangle with our 7-day tour package. Experience Delhi, Agra, Jaipur, Delhi, rich in history, culture, and unforgettable memories. Book Now!",
+        "NoOfRatings": 20,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
         "Overview": "This is a brief overview of the package.",
-        "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi"
+        "Ratings": 5.0
     }
 ]
