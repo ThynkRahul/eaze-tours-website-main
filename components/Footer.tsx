@@ -68,7 +68,7 @@ function Footer() {
             <div className="flex items-start space-x-2">
               <i className="far fa-envelope text-lg text-white-400 -mt-1" />
               <div>
-                <p className="text-sm"><a href="mailto:info@eazetours.com;harshit@eazetours.com" className="hover:text-blue-600">info@eazetours.com</a></p>
+                <p className="text-sm"><a href="mailto:info@eazetours.com;" className="hover:text-blue-600">info@eazetours.com</a></p>
                 <p className="text-sm"><a href="mailto:harshit@eazetours.com" className="hover:text-blue-600">harshit@eazetours.com</a></p>
               </div>
             </div>
