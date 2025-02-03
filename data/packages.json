@@ -1418,10 +1418,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 08 Nubra Valley / Leh (120 Kms)"
+                        "S": "Nubra Valley / Leh (120 Kms)"
                     },
                     "description": {
-                        "S": "After Breakfast visit Deskit Monastery and drive back to Leh by same Route, crossing Khardungla Pass. Overnight Hotel."
+                        "S": "<li>After Breakfast visit Diskit Monastery and drive back to Leh by same Route, crossing Khardung La Pass.</li><li>Overnight stay at Hotel.</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -1434,10 +1434,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 09 Leh / Pangong Lake (160 Kms)"
+                        "S": "Leh / Pangong Lake (160 Kms)"
                     },
                     "description": {
-                        "S": "After Breakfast leave for Pangong Lake 14,500 ft, through Changla Pass 17,350 ft. (third Highest Motorable road in the world.) Overnight Camp."
+                        "S": "<li>After Breakfast leave for Pangong Lake (14,500 feet), through Changla Pass (17,350 feet). It’s the 3rd highest motorable road in the World.</li><li>Overnight Camp.</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -1450,10 +1450,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 10 Pangong Lake / Leh (160 Kms)"
+                        "S": "Leh / Pangong Lake (160 Kms)"
                     },
                     "description": {
-                        "S": "After Breakfast drive back to Leh, enroute visit Hemis, Thikse Monastery and Shey Palace . Overnight Hotel."
+                        "S": "<li>After Breakfast drive back to Leh, enroute visit Hemis, Thikse Monastery, and Shey Palace.</li><li>Overnight stay at Hotel.</li>"
                     },
                     "Id": {
                         "N": "10"
@@ -1466,10 +1466,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 11 Leh / Delhi"
+                        "S": "Depart from Leh to Delhi"
                     },
                     "description": {
-                        "S": "ProvIde intime departure & transfer to airport to connect the flight for Delhi . On arrival at Delhi airport, transfer to hotel.Overnight at hotel."
+                        "S": "<li>Provide in-time departure & transfer to airport to connect the flight for Delhi.</li><li>Flight back to Delhi with unforgettable memories.</li><li>On arrival at Delhi airport, transfer to hotel.</li><li>Overnight at hotel.</li>"
                     },
                     "Id": {
                         "N": "11"
@@ -1482,10 +1482,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 12 Dep. Delhi"
+                        "S": "Depart Delhi"
                     },
                     "description": {
-                        "S": "After Breakfast day free. Intime departure & transfer to airport to connect the fli8ght for onward journey."
+                        "S": " <li>After Breakfast day free.</li><li>In-time departure & transfer to airport to connect the flight for onward journey to your Home.</li>"
                     },
                     "Id": {
                         "N": "12"
