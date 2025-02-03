@@ -31,8 +31,14 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                     <span>{tourPackage.Name}</span>
                 </h2>
                 <div className="flex gap-2 pt-2 mb-3">
-                    <span className="bg-[#025C7A] capitalize text-white px-3 py-1 rounded-sm text-sm">{tourPackage.Tags}</span>
-                    <span className="bg-[#6E9753] capitalize text-white px-3 py-1 rounded-sm text-sm">{tourPackage.Tags}</span>
+                    {tourPackage.Tags.map((tag, index) => (
+                        <span
+                            key={index}
+                            className={`px-3 py-1 capitalize rounded-sm text-sm text-white ${index % 2 === 0 ? 'bg-[#025C7A]' : 'bg-[#6E9753]'
+                                }`}
+                        >
+                            {tag}
+                        </span>))}
                 </div>
             </div>
 
