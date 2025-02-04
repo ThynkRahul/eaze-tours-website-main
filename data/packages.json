@@ -2818,10 +2818,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 01 Bangalore (Monday)"
+                        "S": "Bangalore (Monday)"
                     },
                     "description": {
-                        "S": "3.00 pm to 4.00 pm: \nCheck-in at Taj West End \n4.00 pm to 5.00 pm: \nHigh Tea at Banquet Hall \n5.00 pm to 5.30 pm: \nPresentation on The Golden Chariot tour, Dos and Donts, safety and security, etc. \n5.30 pm to 6.30 pm: \nVisit to Chitrakala Parishad / Art Gallery \n6.30 pm to 7.30 pm:\nCultural Show\n8.00 pm:\nArrive at Yeshwantpur Railway Station, Platform\nNo. 6 to a traditional Indian welcome. Dinner\nonboard The Golden Chariot\n9.00 pm:\nDepart to Mysore\nAlternate Itinerary*\n11 am onwards:\nCheck in at Our Native Village\n12 Noon to 2 pm:\nLunch\n3.00 pm to 3.30 pm:\nWhat is it that makes us a 100% eco resort \u2013 Resort tour\nThe Revivalist movement \u2013 Art and culture tour\n4.00 pm to 4.30 pm:\nLiving an organic life \u2013 Herbal & Medicinal plant tour, Organic farm tour \n4.30 pm to 5.30 pm: \nPottery session & Explore the simplicity of village games \u2013 playing Indian village games & Bullock cart rIdes \n6.00 pm to 6.30 pm:\n Rest and depart to Yeshwantpur Railway Station\n *Optional itinerary for those who do not opt for Leela Palace check-in and Bangalore sight seeing. \nBangalore: A World of Opportunity \n The capital of Karnataka is known as the Garden City because of its salubrious climate and greenery. Perched 3,250 feet above sea level, temperatures seldom exceed 30oC (88oF). Founded by Kempegowda, a powerful chieftain, the city is unique with its rich cultural heritage that coexists with its modern day technological and industrial achievements. Today Bangalore is popularly known as India\u2019s Silicon Valley.\n Bandipur: \nTread the path of the erstwhile Maharaja of Mysore with a visit to Bandipur, about 80km south of Mysore on the Mysore-Ooty Road. The reserve is a playground for wildlife, with elephants taking the lead role. Be prepared for an unforgettable experience \u2013 you might see a tiger prowling amIdst the mix of decIduous, evergreen forest and scrubland vegetation. Set against the picturesque backdrop of the enchanting Niligiri mountains with its mist-covered peaks, Bandipur was once the Mysore Maharaja\u2019s private hunting ground. It was brought under Project Tiger in 1973. This is one of the best game sanctuaries in India to observe and photograph wildlife in close proximity. A temple perched atop Himad Gopalaswamy Hill, the highest peak in the Bandipur range, is worth a visit."
+                        "S": "<li>3:00 pm to 4:00 pm: Check-in at Taj West End</li><li>4:00 pm to 5:00 pm: High Tea at the Banquet Hall</li><li>5:00 pm to 5:30 pm: Presentation on The Golden Chariot Tour, covering dos and don’ts, safety, and security.</li><li>5:30 pm to 6:30 pm: Visit to Chitrakala Parishad / Art Gallery</li><li>6:30 pm to 7:30 pm: Enjoy a Cultural Show</li><li>8:00 pm: Arrive at Yeshwantpur Railway Station, Platform No. 6, for a traditional Indian welcome.</li><li>Dinner onboard The Golden Chariot</li><li>9:00 pm: Depart for Mysore</li><br><strong>Alternate Itinerary</strong><li>11:00 am: Check-in at Our Native Village</li><li>12:00 pm to 2:00 pm: Lunch</li><li>3:00 pm to 3:30 pm: Resort Tour – Learn what makes us a 100% eco-resort</li><li>4:00 pm to 4:30 pm: Herbal & Medicinal Plant Tour and Organic Farm Tour</li><li>4:30 pm to 5:30 pm: Pottery Session & Explore traditional village games and enjoy Bullock Cart Rides</li><li>6:00 pm to 6:30 pm: Rest before departing for Yeshwantpur Railway Station</li><strong>(Note: Alternate itinerary is for those who choose not to check-in at Leela Palace and participate in the Bangalore sightseeing tour.)</strong>"
                     },
                     "Id": {
                         "N": "1"
@@ -2834,10 +2834,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 02 Mysore/ Kabini/ Bandipur (Tuesday)"
+                        "S": "Mysore / Kabini / Bandipur (Tuesday)"
                     },
                     "description": {
-                        "S": "10:00 am:\nDepart for Kabini / Bandipur after breakfast\n01:00 pm:\nReach Jungle Lodge\n Lunch at the Jungle Lodge\nPost Lunch:\nJungle / Boat Safari\n Return in the evening for wildlife film\n \n\nDinner and stay overnight at Jungle Lodge\nAlternate Itinerary*\n\u2013 Raganatittu Bird Sanctary,\n\u2013 Mysore Zoo,\n\u2013 Lunch on board,\n\u2013 Brindavan Gardens\n*Optional itinerary for those who do not opt for Kabini / Bandipur tour\nA minimum of 5 passengers required for Alternate Itinerary\n\nKabini: A World of Wildlife\nRajiv Gandhi National Park, Nagarhole (Kabini), the hunting retreat of the Mysore Maharajas, is definitely the perfect destination for wildlife lovers in South India. The excitement starts with a safari into the heart of the park, where you are sure to spot wild animals in their natural habitat. Some of the popular sightings are elephant, gaur, sambar, chital, wild boar and the more exclusive predators like tiger and leopard. A bird watcher\u2019s paradise, the park is home to over 300 species of birds, many of which are endemic to these jungles."
+                        "S": "<li>10:00 am: Depart for Kabini / Bandipur after breakfast</li><li>1:00 pm: Arrive at Jungle Lodge for Lunch</li><li>Post-lunch: Go for a Jungle Safari / Boat Safari</li><li>Evening: Watch a wildlife film</li><li>Dinner and overnight stay at Jungle Lodge</li><br><strong>Alternate Itinerary</strong><li>Visit Ranganathittu Bird Sanctuary</li><li>Explore Mysore Zoo</li><li>Lunch onboard</li><li>Visit Brindavan Gardens</li><li>Kabini: A Wildlife Haven</li><li>Rajiv Gandhi National Park (Nagarhole/Kabini) is an ideal destination for wildlife enthusiasts. A safari through the heart of the park offers sightings of elephants, gaur, sambar, and even elusive predators like tigers and leopards. The park is home to over 300 bird species, making it a bird watcher's paradise.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -2850,10 +2850,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 03 Mysore (Wednesday)"
+                        "S": "Mysore (Wednesday)"
                     },
                     "description": {
-                        "S": "08:30 am:\nBreakfast and Depart for Mysore\n11:30 am:\nBack onboard The Golden Chariot\n01:00 pm:\nLunch on board The Golden Chariot\n03:00 pm:\nMysore sightseeing: Mysore Palace, Srirangapatnam\n07:00 pm:\nReach the Lalitha Mahal Palace for cultural show followed by dinner\n10:00 pm:\nBack onboard The Golden Chariot\n\nMysore: A World of Royalty\nMysore has been always associated with the royal families and their patronage, be it the Wodeyars or the Sultans. Mysore is a city known for its resplendent palaces and majestic buildings. A visit to the city conjures up visions of the glory, still evIdent of the illustrious Wodeyar Kings. This former state capital still retains its tradition in music and dance, art and literature and its time-honoured crafts.\n\nA 141 kms from Bangalore, the city enchants you with its quaint charm, verdant gardens, tree-lined boulevards and its sacred temples.\n\nMysore, once the state capital, today is a vibrant city teeming with tourists and visitors. It is known the world over for its exotic sandalwood and rich silks. Many culinary delights await those inclined to sample the regional cuisine.\n\nMysore Palace: Built in Indo-Saracenic style with domes, turrets, arches and colonnades, the Palace is a treasure house of exquisite carvings and works of art from all over the world. The magnificent jewel -studded golden throne of the Wodeyars is displayed here during the Dasara festival.\n\nSrirangapatna: The island fortress of the legendary warrior king Tipu Sultan is just 14 km from Mysore city. InsIde the fortress is Tipu\u2019s mosque with its twin minarets, the Wellesley BrIdge and the dungeons where British officers were once imprisoned."
+                        "S": "<li>8:30 am: Breakfast onboard</li><li>11:30 am: Return to The Golden Chariot</li><li>1:00 pm: Lunch onboard</li><li>3:00 pm: Mysore sightseeing - Visit Mysore Palace and Srirangapatnam.</li><li>7:00 pm: Arrive at Lalitha Mahal Palace for a cultural show, followed by dinner</li><li>10:00 pm: Back onboard The Golden Chariot</li><br><strong>Mysore: A Royal Legacy</strong><br>Mysore is known for its royal heritage, splendid palaces, and majestic buildings. It is also famous for its music, dance, arts, and crafts. The Mysore Palace, built in Indo-Saracenic style, is a treasure trove of art and architecture. Visit Srirangapatnam, Tipu Sultan’s fortress, which houses important historical sites like the mosque and the dungeons were British officers were held captive."
                     },
                     "Id": {
                         "N": "3"
@@ -2866,10 +2866,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 04 Hassan (Thursday)"
+                        "S": "Hassan (Thursday)"
                     },
                     "description": {
-                        "S": "06:00 am:\nDepart from Mysore to Hassan\n08:15 am:\nArrive at Hassan\n09:00 am:\nDepart for sightseeing to Shravanabelagola\n(Please note that you would have to climb close to 700 steps to\nexperience the architectural marvel. Only those who can undertake this are advised to do so. Guests unwilling to experience can stay back onboard The Golden Chariot. Palanquins are available for those who cannot take the climb by themselves. This is available to the passengers at no extra cost)\n01:00 pm:\nLunch on board The Golden Chariot\n03:00 pm:\nDepart for Belur and HalebId for sightseeing\n07:15 pm:\nBack onboard The Golden Chariot\n07:45 pm:\nDepart to Hospet\n Dinner onboard The Golden Chariot\n\nBelur & HalebId : A World of Worship\nBelur in Hassan district 220 kms from Bangalore and 38 kms from Hassan) is famous for its magnificent Hoysala Temple Complex. The Chennakesava Temple here is the major attraction, built by Hoysala Vishnuvardhana, to commemorate his victory over the Cholas. The facade of the temple is filled with intricate sculptures with no portion left blank. It is the only Hoysala Temple still in active worship.\n\nHalebId in Hassan district is 27 kms away from Hassan and was the capital of the Hoysalas. It has one of the finest Hoysala temples. The Hoysaleswara Temple, perched on a star-shaped base amIdst lawns, is a sculptural extravaganza. Its walls are richly carved with an endless variety of Hindu deities, sages, stylized animals, birds and friezes depicting the life of the Hoysala Kings.\n\nShravanabelagola, 52km from Hassan, is an important Jain pilgrim centre. It is home to Asia\u2019s largest monolithic statue Lord Gomateswara here towers 58 ft., looming atop the picturesque Vindhyagiri Hill. Every 12 years, Jain pilgrims gather here to participate in a splendId head-anointing ceremony."
+                        "S": "<li>6:00 am: Depart from Mysore to Hassan</li><li>8:15 am: Arrive at Hassan</li><li>9:00 am: Depart for Shravanabelagola (Note: A climb of 700 steps is required to reach the statue. Palanquins are available for those who prefer not to climb.)</li><li>1:00 pm: Lunch onboard</li><li>3:00 pm: Depart for Belur and Halebid for sightseeing</li><li>7:15 pm: Back onboard The Golden Chariot</li><li>7:45 pm: Depart for Hospet</li><li>Dinner onboard The Golden Chariot</li><br><strong>Belur & Halebid: A World of Worship</strong><br>Belur is famous for its stunning Hoysala Temple Complex, including the Chennakesava Temple, which showcases intricate sculptures. Halebid, once the capital of the Hoysala dynasty, is home to the beautiful Hoysaleswara Temple. Shravanabelagola features Asia’s largest monolithic statue of Lord Gomateswara, standing 58 feet tall."
                     },
                     "Id": {
                         "N": "4"
@@ -2882,10 +2882,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 05 Hospet (FrIday)"
+                        "S": "Hospet (Friday)"
                     },
                     "description": {
-                        "S": "06:00 am:\nArrival at Hospet\n08:30 am:\nAfter breakfast depart for Hampi sightseeing: Virupaksha Temple. Queens\u2019s Bath, Elephant Stables, Local crafts bazaar\n01:00 pm:\nReturn to The Golden Chariot for Lunch\n03:00 pm:\nDepart for sightseeing: Royal enclosure, Hazara Rama Temple. Illuminated Vittala Temple.\n08:00 pm:\nBack onboard The Golden Chariot\n Dinner onboard The Golden Chariot\n\nHampi: A World Heritage Site\nIf dreams were made out of stone, it would be Hampi. Hampi has been classified as a World Heritage Center and is one of the major tourist destinations in India.\n\nHampi, the seat of the famed Vijayanagara empire was the capital of the largest empire in post-moghul India, covering several states. The Vijayanagara empire stretched over at least three states -Karnataka, Maharashtra, and Andhra Pradesh. The destruction of Vijayanagar by marauding Moghul invaders was sudden, shocking and absolute.\n\nAlthough in ruins today, this capital city once boasted riches known far beyond the shores of India. The ruins of Hampi of the 14th Century lies scattered in about 26 sq. km area, amIdst giant boulders and vegetation.\n\nProtected by the tempestuous river Tungabhadra in the north and rocky granite rIdges on the other three sIdes, the ruins silently narrate the story of grandeur splendor and fabulous wealth.\n\nThe splendId remains of palaces and gateways of the broken city tells a tale of man\u2019s infinite talent and power of creativity together with his capacity for senseless destruction. A visit to Hampi is a sojourn into the past. Most of the important structures and ruins are located in two areas, which are generally referred to as the Royal Centre and the Sacred Centre.\n\nA visit to Anegundi village by traversing the gushing Tunga Badra river on a coracle is an experience that provIdes the guests with a glimpse into the traditional country life in Karnataka."
+                        "S": "<li>6:00 am: Arrive in Hospet</li><li>8:30 am: After breakfast, depart for Hampi sightseeing: Virupaksha Temple, Queens’ Bath, Elephant Stables, and the Local Crafts Bazaar</li><li>1:00 pm: Return to The Golden Chariot for Lunch</li><li>3:00 pm: Continue sightseeing: Royal Enclosure, Hazara Rama Temple, and Illuminated Vittala Temple</li><li>8:00 pm: Return onboard The Golden Chariot for Dinner</li><br><strong>Hampi: A World Heritage Site</strong><br>Hampi, once the capital of the Vijayanagara Empire, is a UNESCO World Heritage site. The ruins, scattered across 26 square kilometers, tell tales of grandeur and glory. Explore the temples and palaces, including the Vittala Temple, which features an impressive stone chariot."
                     },
                     "Id": {
                         "N": "5"
@@ -2898,10 +2898,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 06 Badami (Saturday)"
+                        "S": "Badami (Saturday)"
                     },
                     "description": {
-                        "S": "05:00 am:\nDepart from Hospet to Badami\n08:30 am:\nArrival at Badami\n09:00 am:\nDepart after breakfast for sightseeing: Badami Caves and Pattadakal\n01:30 pm:\nReturn to The Golden Chariot for Lunch\n02:00 pm:\nDepart for Goa\nRelax and enjoy the facilities onboard The Golden Chariot: Spa, Gym Dinner onboard The Golden Chariot Reach Goa post mIdnight\n\nBadami: A World Heritage Site\nBadami is picturesquely situated at the mouth of a ravine between two rocky hills. The exquisite sculptures and the rust red sandstone cliffs of Badami tell many a tale of yore. The first sculptural embellishment to dazzle the eye is the 18 armed Nataraja striking 81 dance poses.\n\nPattadakal, with its beautifully chiseled temples is a World Heritage Site located on the banks of the Malaprabha River. It bears testimony to the richness of the Chalukyan architecture. Pattadakal reached its pinnacle of glory under the Chalukyan Kings and was once used as a ceremonial center where kings were crowned."
+                        "S": "<li>5:00 am: Depart from Hospet to Badami</li><li>Arrive in Badami around 8:30 am.</li><li>9:00 am: After breakfast, explore the Badami Caves and Pattadakal</li><li>1:30 pm: Return to The Golden Chariot for Lunch</li><li>2:00 pm: Depart for Goa.</li><li>Relax onboard and enjoy facilities like the Spa and Gym</li><li>Dinner onboard The Golden Chariot</li><li>Reach Goa post-midnight</li><br><strong>Badami: A World Heritage Site</strong><br>Badami, with its stunning rock-cut temples and caves, offers a glimpse into India’s rich history. Pattadakal, known for its Chalukyan architecture, is another UNESCO World Heritage site and a testament to the region’s cultural richness."
                     },
                     "Id": {
                         "N": "6"
@@ -2914,10 +2914,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 07 Goa (Sunday)"
+                        "S": "Goa (Sunday)"
                     },
                     "description": {
-                        "S": "09:30 am:\nBreakfast on board The Golden Chariot\n10:00 am:\nDepart for sightseeing\n11:00 am:\nVisit the famous churches of old Goa\n12:15 pm:\nVisit an old Portuguese house: Sola Souto Maior for tea/coffee and cookies; shopping at the emporium\n02:00 pm:\nReach Majorda Beach Resort for lunch\n03:00 pm:\nAn Ayurvedic massage, a visit to the casino, a dip in the pool / beach, etc. (Ayurvedic massage and casino charges extra as applicable)\n06:00 pm:\nDepart from the resort\n07:15 pm:\nReturn to The Golden Chariot.\n\nDinner onboard The Golden Chariot\n09:00 pm:\nDepart for Bangalore\n\nGoa: A World of Golden Beaches\nAlso known as \u201cPearl of the Orient\u201d and a \u201cTourist Paradise\u201d, the state of Goa is located on the western coast of India in the coastal belt known as Konkan.\n\nThe magnificent scenic beauty and the architectural splendors of its temples, churches and old houses have made Goa a firm favorite with travelers around the world.\n\nBut then, Goa is much more than just beaches and sea. It has a soul which goes deep into unique history, rich culture and some of the prettiest natural scenery that India has to offer.\n\nBesIdes the natural beauty, the fabulous beaches and sunshine, travellers to Goa love the laId-back, peaceful, warm and friendly nature of the Goan people. After all, more than anywhere else on planet earth, this is a place where people really know how to relax."
+                        "S": "<li>9:30 am: Breakfast onboard</li><li>10:00 am: Depart for Goa sightseeing</li><li>11:00 am: Visit the famous churches of Old Goa</li><li>12:15 pm: Explore an old Portuguese house: Sola Souto Maior for tea/coffee and shopping</li><li>2:00 pm: Lunch at Majorda Beach Resort</li><li>3:00 pm: Relax with an Ayurvedic massage, visit the casino, or enjoy the pool and beach (extra charges apply)</li><li>6:00 pm: Depart from the resort</li><li>7:15 pm: Return to The Golden Chariot for Dinner</li><li>9:00 pm: Depart for Bangalore</li><br><strong>Goa: A World of Golden Beaches</strong><br>Goa is known for its beautiful beaches, colonial architecture, and relaxed pace of life. With its rich history, stunning landscapes, and vibrant culture, Goa is more than just a beach destination."
                     },
                     "Id": {
                         "N": "7"
@@ -2930,10 +2930,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 08 Bangalore (Monday)"
+                        "S": "Bangalore (Monday)"
                     },
                     "description": {
-                        "S": "08:00 to 09:30 am:\nBreakfast onboard The Golden Chariot\n\n11:00 am:\nReach Yeswanthpur railway station, farewell by the entire crew."
+                        "S": "<li>8:00 am to 9:30 am: Breakfast onboard</li><li>11:00 am: Arrive at Yeshwantpur Railway Station, where you’ll be farewelled by the entire crew.</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -2954,9 +2954,9 @@
         "Title": "The Golden Chariot Tour Package India - Eaze Tours",
         "Description": "Explore India's rich heritage with The Golden Chariot tour package. Visit Bangalore, Kabini, Mysore, Hassan, Hospet, Badami, Goa, and return to Bangalore.",
         "NoOfRatings": 10,
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather.</li><li>Ideal For: Luxury travelers, history buffs, and culture enthusiasts.</li><li>What to Bring: Comfortable clothing, travel essentials, and a camera to capture the experience.</li><li>Advance booking is recommended due to limited availability.</li>",
+        "Whats_Included": "<li>Luxury accommodation aboard the Golden Chariot train</li><li>All meals, including regional and international cuisine</li><li>Guided tours of historic and cultural landmarks</li><li>Private transportation for off-train excursions</li><li>Entry tickets to monuments and attractions</li><li>Professional tour guides for all sightseeing activities</li><li>Access to onboard facilities such as a spa, lounge, and dining cars</li>",
+        "Overview": "Step aboard the Golden Chariot, a luxury train that takes you on an unforgettable journey through South India’s rich history, stunning landscapes, and vibrant culture. This award-winning train offers world-class amenities and visits some of the most iconic destinations, including ancient temples, palaces, and wildlife sanctuaries. Whether you’re a history enthusiast or a lover of luxury, this tour is designed to give you a royal experience.",
         "Ratings": 5.0
     },
     {
@@ -2967,10 +2967,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 01, Sunday, Departure 16.30 PM"
+                        "S": "Sunday, Departure at 16:30 PM Delhi"
                     },
                     "description": {
-                        "S": "Delhi The luxurious Royal Rajasthan on Wheels takes you through a seven day exploration of the vibrant Rajasthan. The magic of the splendId journey begins at New Delhi and prepares you to weave the fabric of delightful imagination becoming reality over the next seven days. Your royal journey begins from Delhi and takes you through various erstwhile princely states. Welcome on board at Delhi with the ceremonial greetings at the safdarjung station with traditional aarti and tika with garlanding and some mock tails to refresh your selves. After check in, you would be escorted to the respective cabins. Feel the difference of the World in the moving Palace which empowers luxury and tradition hand to hand."
+                        "S": "<li>Embark on a luxurious journey aboard the Royal Rajasthan on Wheels for a seven-day exploration through the vibrant state of Rajasthan.</li><li>The adventure begins in New Delhi, where your royal journey commences, taking you through the magnificent former princely states of India.</li><li>Upon your arrival at Safdarjung Station, you will be welcomed with a traditional greeting, including a ceremonial aarti, tika, garlanding, and refreshing mocktails.</li><li>After check-in, you will be escorted to your private cabin. Experience the true essence of royal life aboard a moving palace, where luxury and tradition are seamlessly combined.</li>"
                     },
                     "location": {
                         "S": "Delhi \u2013 Safdarjung Station"
@@ -2986,10 +2986,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 02, Monday, Arrive at 09.15 AM. Breakfast on board | Departure 17.10 PM"
+                        "S": "Monday, Arrival at 09:15 AM, Breakfast onboard | Departure at 17:10 PM Jodhpur"
                     },
                     "description": {
-                        "S": "Jodhpur the second largest city of the state of Rajasthan is famous for its magnificent Meharangarh fort. Another example of Rajput glory is the Jaswant Thada built in 1899. Lunch at a hotel & dinner on board."
+                        "S": "<li>The second-largest city in Rajasthan, Jodhpur, is renowned for its magnificent Mehrangarh Fort, which stands as a symbol of Rajput glory.</li><li>Another highlight is Jaswant Thada, a marble cenotaph built in 1899. Enjoy lunch at a hotel, and in the evening, return to the train for dinner onboard.</li>"
                     },
                     "location": {
                         "S": "Jodhpur"
@@ -3005,10 +3005,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 03, Tuesday, Arrival 08.00 AM Breakfast on board | Departure 14.30 PM"
+                        "S": "Tuesday, Arrival at 08:00 AM, Breakfast onboard | Departure at 14:30 PM Udaipur"
                     },
                     "description": {
-                        "S": "Water marked by whimsy & splendor, the Venice of the holds stage as one of India\u2019s truly seductive cities. Udaipur is an international destination unto itself, packed with princeliness & passion, Udaipur is raw Rajput dreaming, with palaces, haveils gardens & temples at every turn. Visit to the beautiful princely city palace. Lunch at a hotel & in the afternoon followed by a trip to crystal gallery"
+                        "S": "<li>Known as the 'Venice of the East,' Udaipur is a mesmerizing city filled with royal palaces, gardens, and temples. It embodies the dreams of Rajputana grandeur. Explore the City Palace, which is a testament to the city’s regal past.</li><li>After lunch at a hotel, enjoy a visit to the Crystal Gallery, home to exquisite collections of crystal artifacts.</li>"
                     },
                     "location": {
                         "S": "Udaipur"
@@ -3024,10 +3024,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 03, Tuesday, Arrival 16.45 AM | Departure 22.00 PM"
+                        "S": "Tuesday, Arrival at 16:45 PM | Departure at 22:00 PM Chittorgarh"
                     },
                     "description": {
-                        "S": "The story is a saga of valor, tenacity & sacrifice. The fort of Chittorgarh is a treasure trove of history & offers to the traveler an insight into the life of the great Rajput rulers. The victory tower or Vijay Stambh is one of the main tourist attractions of the fort. Gaumukh reservoir & the palace of queen Padmini are important spots to the south of the Rana Kumbha palace. The light & sound programme is shown at the fort. Dinner on board/ Hotel Panna with cultural programme."
+                        "S": "<li>Chittorgarh Fort is steeped in history, telling the tale of valor, sacrifice, and bravery. The Vijay Stambh (Victory Tower) and the Gaumukh Reservoir, along with the Palace of Queen Padmini, are among the key attractions here.</li><li>In the evening, enjoy the captivating light and sound show at the fort. Afterward, head to a hotel for a cultural performance, followed by dinner.</li>"
                     },
                     "location": {
                         "S": "Chittorgarh"
@@ -3043,10 +3043,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 04, Wednesday, Arrival 05.30 AM Breakfast on board or Hotel Vinayak | Departure 11.00 AM"
+                        "S": "Wednesday, Arrival at 05:30 AM, Breakfast onboard or at Hotel Vinayak | Departure at 11:00 AM Sawai Madhopur"
                     },
                     "description": {
-                        "S": "Located in the eastern part of Rajasthan, Sawai Modhupur\u2019s claim to fame today is the Ranthambore Fort & Ranthambore National Park. Visit the national park to catch a glimpse of the majestic tigers roaming around in the open wilderness & also pay a visit to the imposing fort to turn a page in the history of Rajasthan. There is also a temple on route the park by the name of Amareshwar Mohadeo temple which can be visited by tourist. Lunch on board."
+                        "S": "<li>The famed Ranthambore National Park and Ranthambore Fort are located in the eastern part of Rajasthan. The park is home to majestic tigers and other wildlife, offering a fantastic safari experience. Also, visit the Amareshwar Mohadeo Temple en route.</li><li>Enjoy lunch onboard before continuing your journey.</li>"
                     },
                     "location": {
                         "S": "Sawai Madhopur"
@@ -3062,10 +3062,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 04, Wednesday, Arrival 13:15 PM | Departure 22.15 PM"
+                        "S": "Wednesday, Arrival at 13:15 PM | Departure at 22:15 PM Jaipur"
                     },
                     "description": {
-                        "S": "Welcome by caparisoned elephants & sweet music of the auspicious \u201cShehnai\u201d. Watch the awesome \u201cHawa Mahal\u201d (the palace of winds), elephants rIde at amber fort, shopping of centuries old object de arts & other items. Lunch at a hotel / on board & visit to the city palace resIdence of the erstwhile maharaja of Jaipur which houses a museum of amazing centuries-old artifacts & the observatory built by the founder of jaipur maharaja Sawai jai Singh-ii who himself was noted astronomer. Dinner at a hotel with cultural program."
+                        "S": "<li>In Jaipur, the capital of Rajasthan, you’ll be welcomed by caparisoned elephants and the sounds of the Shehnai.</li><li>Visit the Hawa Mahal (Palace of Winds) and experience an elephant ride at Amber Fort.</li><li>After shopping for centuries-old artifacts, enjoy a visit to the City Palace, the residence of the former Maharaja, which houses a museum filled with fascinating historical artifacts.</li><li>Lunch at a hotel and dinner at a hotel with a cultural program follow.</li>"
                     },
                     "location": {
                         "S": "Jaipur"
@@ -3081,10 +3081,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 05, Thursday, Arrival 11.00 AM Breakfast on board | Departure 18.30 PM"
+                        "S": "Thursday, Arrival at 11:00 AM, Breakfast onboard | Departure at 18:30 PM Khajuraho"
                     },
                     "description": {
-                        "S": "The 9th to 12th century temples of Khajuraho is the evIdences of the architectural geniuses during the times of chandela dynasty. situated in Madhya Pradesh, India, Khajuraho oozes with passion, eroticism, dance & music & other finesses of creative arts depicted in sculpture & images of the temples were built in north Indian \u201cNagara\u201d style of architure, though only 20 of them have survived the rough weather conditions over long years of time. Guest will take on visit of temples & museum. Lunch at a hotel & dinner on board."
+                        "S": "<li>The Khajuraho Temples, built between the 9th and 12th centuries, are famous for their intricate sculptures depicting passion, eroticism, dance, music, and other aspects of Indian culture.</li><li>Located in Madhya Pradesh, these temples are masterpieces of architecture and artistry, with only 20 of them surviving the test of time.</li><li>Visit the temples and museum, and enjoy lunch at a hotel and dinner onboard.</li>"
                     },
                     "location": {
                         "S": "Khajuraho"
@@ -3100,10 +3100,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 06, FrIday, Arrival 06.00 AM | Departure 18.00 PM Varanasi is the oldest city of the world."
+                        "S": "Friday, Arrival at 06:00 AM | Departure at 18:00 PM Varanasi"
                     },
                     "description": {
-                        "S": "Varanasi is more than 3000 years old & is famous as the city of temples. In Varanasi, there are temples at every few paces. Jyotirlinga Visvanatha temple or golden temple, rebuilt in 1776, is dedicated to the lord Shiva. The Jnana Vapi well (meaning \u201cwell of wisdom\u201d) is believed to have been dug by lord Shiva himself. The Ganga Ghats (river front) are the most popular pilgrimage spot of Varanasi & are centers of music & learning. The holy city has been a symbol of spiritualism, philosophy & mysticism for thousands of years & has produced great saints & personalities like Gautama Buddha, Mahavira, Kabir, Tulsi das, Shankaracharaya, Ramanuja & Patanjali.Lunch at a hotel & dinner on board. Sightseeing include visit to Ghats, Maha Aarti, temples & Buddhist Temples at Saarnath."
+                        "S": "<li>The spiritual capital of India, Varanasi, is over 3,000 years old and is famous for its temples and sacred ghats along the Ganges River.</li><li>Visit the Jyotirlinga Visvanatha Temple (Golden Temple) and the Jnana Vapi well.</li><li>Experience the vibrant Maha Aarti ceremony at the ghats and visit the Buddhist temples at Sarnath.</li><li>After a hotel lunch, return for dinner onboard.</li>"
                     },
                     "location": {
                         "S": "Varanasi (Banaras)"
@@ -3119,10 +3119,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 07, Saturday, Arrival 05.00 AM Breakfast on board | Departure 23.00 PM"
+                        "S": "Saturday, Arrival at 05:00 AM, Breakfast onboard | Departure at 23:00 PM Agra"
                     },
                     "description": {
-                        "S": "Agra is one of the prominent destinations of the world tourism map with two heritage monuments visiting Taj Mahal & Agra Fort. It is a vibrant centre of culture, art & religious philosophies that have enriched mankind & shaped human thought over centuries. Agra is famous for handicrafts products such as Inlay work on marvel, leather work, footwear, brass-wear, carpets, Jewellery, Zari & embroIdery work. Lunch at a hotel & dinner on board."
+                        "S": "<li>Famous for the iconic Taj Mahal and the historic Agra Fort, Agra is a must-visit destination for any traveler. The city is also known for its rich culture and craftsmanship, including marble inlay work, leather goods, footwear, and brassware.</li><li>After a visit to the Taj Mahal and other attractions, enjoy lunch at a hotel and dinner onboard.</li>"
                     },
                     "location": {
                         "S": "Agra, Taj Mahal"
@@ -3138,10 +3138,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day-8, Sunday, Arrival 07.00 AM Breakfast on board. Check out time 07.45 AM"
+                        "S": "Sunday, Arrival at 07:00 AM, Breakfast onboard, Check-out at 07:45 AM Delhi"
                     },
                     "description": {
-                        "S": "Tour end at Delhi."
+                        "S": "The Royal Rajasthan on Wheels journey concludes as you arrive back in Delhi, marking the end of this magnificent week-long exploration."
                     },
                     "location": {
                         "S": "Delhi"
@@ -3165,9 +3165,9 @@
         "Title": "Best Rajasthan Tour Packages India - Eaze Tours",
         "Description": "Explore the rich heritage of Rajasthan with our customized tour packages. Book your adventure today and experience royal palaces, forts, and vibrant culture.",
         "NoOfRatings": 16,
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather and festive celebrations.</li><li>Ideal For: Families, couples, solo travelers, and history enthusiasts.</li><li>What to Bring: Comfortable clothing, sunscreen, and a camera.</li><li>Customization options available for personalized itineraries.</li>",
+        "Whats_Included": "<li>Accommodation in heritage hotels or luxury resorts</li><li>Daily breakfast and dinner</li><li>Private transportation for sightseeing and transfers</li><li>Guided tours to historic forts, palaces, and temples</li><li>Camel safari and cultural evening in the desert (optional)</li><li>Entry tickets to monuments and attractions</li><li>Airport or railway station transfers</li>",
+        "Overview": "Dive into the regal charm of Rajasthan with our Rajasthan Tour Packages. Known for its rich history, majestic palaces, golden deserts, and vibrant culture, Rajasthan is a destination that captures the heart of every traveler. Whether you’re exploring Jaipur’s Pink City, the blue streets of Jodhpur, or the golden sands of Jaisalmer, this tour promises an enchanting experience filled with unforgettable memories.",
         "Ratings": 5.0
     },
     {
@@ -3178,10 +3178,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 01 Wednesday \u2013 New Delhi "
+                        "S": "Wednesday – New Delhi"
                     },
                     "description": {
-                        "S": "The journey of a lifetime begins at the Delhi Safdarjung Railway station where the guests are accorded a warm, traditional welcome before the Palace-on-Wheels pulls out into the night for a week-long luxury cruise through fascinating Rajasthan. Reporting Time 18.00 hrs. Dep. 18.30 hrs."
+                        "S": "<li>The journey begins at Delhi Safdarjung Railway Station, where guests are warmly welcomed with traditional ceremonies before embarking on the Palace-on-Wheels for a week-long luxurious tour through the enchanting state of Rajasthan.</li><li>Reporting Time: 18:00 hrs, Departure: 18:30 hrs.</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -3194,10 +3194,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 02 Thursday \u2013 Jaipur"
+                        "S": "Thursday – Jaipur"
                     },
                     "description": {
-                        "S": "The first stop of the Palace-on-Wheels is Jaipur, one of the most well planned cities of the world of its time. This capital city of Rajasthan, popularly known as the Pink City,was founded by Maharaja Sawai Jai Singh II, in 1727 A.D. To explore the city, an air-conditioned coach takes you to Hawa Mahal or the Palace of Winds, which is a remarkable five storied building a one the main street of the old city in pink splendor with semi-octagonal and delicate honey combed sandstone windows. This is followed by a visit to Amber Fort where elephant rIde is available to climb up the hill. Lunch at a Five Star Hotel followed by visit to City Palace Museum and Observatory. Arrival 03.45 hrs. Departure 20.00 hrs. "
+                        "S": "<li>The first destination is Jaipur, one of the most well-planned cities of its time and the capital of Rajasthan. Known as the Pink City, it was founded by Maharaja Sawai Jai Singh II in 1727 A.D.</li><li>A guided tour takes you to Hawa Mahal (Palace of Winds), a remarkable five-story building with semi-octagonal, honeycombed windows that adorn the main street in pink splendor.</li><li>Next, visit Amber Fort, where you can enjoy an elephant ride to ascend the hill.</li><li>After lunch at a five-star hotel, continue your exploration with a visit to the City Palace Museum and Jantar Mantar (Observatory).</li><li>Arrival: 03:45 hrs and Departure: 20:00 hrs.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -3210,10 +3210,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 03 FrIday \u2013 Sawai Madhopur"
+                        "S": "Friday – Sawai Madhopur"
                     },
                     "description": {
-                        "S": "One can almost sense a life of the wilderness, as the Palace-on-Wheels arrives in Sawai Madhopur, a city named after its founder Maharaja Sawai Madho Singh I. After breakfast a visit is arranged to the Ranthambhor National Park, wherein are located the ruins of a 10th century fort. This wildlife sanctuary is consIdered to be the country\u2019s best for observing and photographing the activities of the tiger. The park, covering an area of 392 sq. kms. is home to more than 300 species of birds. The tiger, hyena, rate, jackal and fox are among those constituting the carnivorous population here. Sawai Madhopur is known for its excusive toys, ethnic ornaments and costumes. Upon return to the Palace-on-Wheels, you leave for Chittorgarh, when one gets an opportunity to watch the colourful countrysIde passing by in the daylight. Arrival 05.30 hrs. Departure 10.20 hrs. Day \u2013 FrIday \u2013 Chittorgarh After lunch on board you are in Chittorgarh. Images of love and velour; scars of battles lost and won\u2026thrice-besieged, Chittorgarh Fort is all this and more. Moving legends of honor and prIde will echo in your mind as you proceed to Udaipur. Arrival 16.00 hrs. Departure 02.00 hrs (next day i.e. on saturday)"
+                        "S": "<li>Arriving in Sawai Madhopur, named after Maharaja Sawai Madho Singh I, you will visit the Ranthambore National Park after breakfast. Known for its 10th-century fort ruins, this sanctuary is famous for offering one of the best opportunities in India to photograph and observe tigers in their natural habitat.</li><li>The park spans over 392 sq. km and is home to over 300 species of birds and a variety of carnivorous animals, including tigers, hyenas, and jackals.</li><li>Sawai Madhopur is also known for its exclusive toys, ethnic ornaments, and costumes.</li><li>Afterward, travel to Chittorgarh, enjoying the beautiful countryside views.</li><li>Arrival: 05:30 hrs and Departure: 10:20 hrs</li><li>Arrival in Chittorgarh: 16:00 hrs and Departure: 02:00 hrs (next day, Saturday)</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -3226,10 +3226,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 04 Saturday \u2013 Udaipur"
+                        "S": "Saturday – Udaipur"
                     },
                     "description": {
-                        "S": "Udaipur, the Lake City, was founded by Maharana Udai Singh of Mewar, after the Sisodia dynasty was driven way by the Mughals, in 1559A.D. Perhaps the two most beautiful sites of Udaipur are the dream-like marble palaces- the Jag Niwas (Lake Palace) and the Jag Mandir, which appear to rise from the blue waters of Lake Pichhola. After lunch at a Five Star Hotel, a visit to the City Palace. Arrival 08:00 hrs. Departure 15.30 hrs."
+                        "S": "<li>Next, the Palace-on-Wheels arrives in Udaipur, also known as the Lake City. Founded in 1559 A.D. by Maharana Udai Singh of the Mewar dynasty, the city is renowned for its beautiful marble palaces that rise majestically from Lake Pichola.</li><li>Two of the most stunning sites in Udaipur are the Jag Niwas (Lake Palace) and Jag Mandir, which look like dreamlike castles floating on the water.</li><li>After lunch at a five-star hotel, enjoy a visit to the City Palace, a grand complex with intricate architecture.</li><li>Arrival: 08:00 hrs and Departure: 15:30 hrs</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -3242,10 +3242,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 05 Sunday \u2013 Jaisalmer"
+                        "S": "Sunday – Jaisalmer"
                     },
                     "description": {
-                        "S": "In the heart of the Thar desert lies Jaisalmer, founded by Rawal Jaisal,in 1 1 56 A.D. Here the yellow sandstone fort is an imposing sight,towering magnificently over the city. Discover the painstakingly latticed havelis or mansions with their grand facades. The Nathmalji-ki-haveli, Patwon-ki-haveli and Salim Singh-ki-haveli are fine examples of the stone carver\u2019s skill.Shop for fine pattu shawls ,mirror work and embroIdered articles , wooden boxes , trinkets , silver jewellery and curios. After lunch on board, go for an exciting camel rIde on the sand dunes of Sam, before sipping a refreshing cup of tea. Enjoy the dinner and the cultural porgramme at a Five Star hotel. Arrival 09.15 hrs. Departure 23.30 hrs."
+                        "S": "<li>Located in the heart of the Thar Desert, Jaisalmer was founded by Rawal Jaisal in 1156 A.D. The impressive Yellow Sandstone Fort dominates the city, offering breathtaking views.</li><li>Explore the finely carved havelis, such as Nathmalji-ki-Haveli, Patwon-ki-Haveli, and Salim Singh-ki-Haveli, which showcase the exquisite skills of stone carvers.</li><li>You can shop for locally crafted goods such as pattu shawls, mirror work, embroidered articles, wooden trinkets, silver jewelry, and unique curios.</li><li>After lunch on board, take an exciting camel ride on the sand dunes of Sam and enjoy a refreshing cup of tea.</li><li>In the evening, enjoy dinner and a cultural performance at a five-star hotel.</li><li>Arrival: 09:15 hrs and Departure: 23:30 hrs</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -3258,10 +3258,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 06 Monday \u2013 Jodhpur"
+                        "S": "Monday – Jodhpur"
                     },
                     "description": {
-                        "S": "Next morning the Palace-on-Wheels is in Jodhpur, a city ringed by a high stone wall with seven gates and several bastions. This second largest city of Rajasthan, founded by Rao Jodha in 1459 A.D. is known for its rock-solId Mehrangarh Fort. The grand palaces within -Moti Mahal, Sheesh Mahal, Phool Mahal, Sileh Khana and Daulat Khana are impressive examples of architectural excellence. Near the fort complex lies Jaswant Thada, and a group of royal cenotaphs made of white marble. After lunch at a Palace hotel, return to the Palace-on-Wheels. While in Jodhpur shop for exquisite handicraft articles including the famous breeches, embroIdered shoes, metal curios, silverware, paintings and tie and dye fabrics. Arrival 07.00 hrs. Departure 16.30 hrs.  "
+                        "S": "<li>Arriving in Jodhpur, a city surrounded by a high stone wall with seven gates, you’ll explore Mehrangarh Fort, founded in 1459 A.D. by Rao Jodha. This massive fort is home to impressive palaces, including Moti Mahal, Sheesh Mahal, Phool Mahal, and Sileh Khana.</li><li>Visit Jaswant Thada, a white marble cenotaph near the fort. After lunch at a palace hotel, return to the Palace-on-Wheels and shop for exquisite handicrafts such as embroidered shoes, metal curios, silverware, paintings, and tie-dye fabrics.</li><li>Arrival: 07:00 hrs and Departure: 16:30 hrs</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -3274,10 +3274,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 07 Tuesday \u2013 Bharatpur / Agra"
+                        "S": "Tuesday – Bharatpur / Agra"
                     },
                     "description": {
-                        "S": "Bharatpur In the morning, the Palace on Wheels arrives in Bharatpur, the capital of Maharaja Suraj Mal . After breakfast pay a visit to the world famous bird sanctuary, Keoladeo Ghana National Park, the nesting place for thousands of Egrets, Siberian Cranes, migratory Water Fowl and other species of birds. Arrival 05.00 hrs.Departure 08:45 Agra Upon arrival visit the Agra Fort and after lunch arrive at the Taj Mahal, one of the seven wonders of the world. A pristine monument of undying love. It was built by Emperor Shah Jahan in memory of his beloved queen Mumtaz Mahal. Agra is known for its splendId marble inlay work like the Pietra Dura work on the Taj, leather goods and jewellery. Arrival 10:00 hrs Departure 19.30 hrs."
+                        "S": "<li>In the morning, visit Bharatpur, the capital of Maharaja Suraj Mal, and explore the world-famous Keoladeo Ghana National Park, a UNESCO World Heritage Site known for its diverse birdlife, including migratory Siberian Cranes, Egrets, and other species.</li><li>Arrival: 05:00 hrs and Departure: 08:45 hrs</li><li>Arriving in Agra, visit the majestic Agra Fort and, after lunch, proceed to the iconic Taj Mahal, one of the Seven Wonders of the World. This pristine monument of eternal love was built by Emperor Shah Jahan in memory of his wife, Mumtaz Mahal.</li><li>Agra is also renowned for its marble inlay work, leather goods, and jewelry.</li><li>Arrival: 10:00 hrs and Departure: 19:30 hrs</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -3290,10 +3290,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 08 Wednesday \u2013 Delhi"
+                        "S": "Wednesday – New Delhi"
                     },
                     "description": {
-                        "S": "Arrive at Delhi Safdarjung Railway station. Breakfast on board and let the pleasant memories of the past week linger on your mind for a long, long time. Arrival 07.30 hrs."
+                        "S": "<li>The Palace-on-Wheels returns to Delhi Safdarjung Railway Station, where your unforgettable journey concludes.</li><li>Enjoy a final breakfast onboard and reminisce about the beautiful experiences of the past week.</li><li>Arrival: 07:30 hrs</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -3314,9 +3314,9 @@
         "Title": "Palace on Wheels Tour Package India - Ease Tours",
         "Description": "Experience the Palace on Wheels tour package India, covering New Delhi, Jaipur, Sawai Madhopur, Udaipur, Jaisalmer, and more. A royal journey across India.",
         "NoOfRatings": 17,
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Best Time to Travel: October to March for the best weather and sightseeing experiences.</li><li>Ideal For: Luxury travelers, history enthusiasts, and cultural explorers.</li><li>What to Bring: Comfortable clothing, a camera, and travel essentials.</li><li>Advance booking is required due to limited availability.</li>",
+        "Whats_Included": "<li>Luxurious accommodation onboard the Palace on Wheels train</li><li>All meals, featuring Indian and international cuisine</li><li>Guided tours of historical landmarks and cultural attractions</li><li>Private transportation for off-train excursions</li><li>Entry tickets to monuments and parks</li><li>Services of professional tour guides</li><li>Onboard amenities, including a spa, lounge, and bar</li>",
+        "Overview": "Experience the grandeur of India with the Palace on Wheels, one of the most luxurious trains in the world. This extraordinary journey takes you through India’s most iconic destinations, offering a blend of royal heritage, vibrant culture, and stunning landscapes. From the majestic forts of Rajasthan to the timeless beauty of the Taj Mahal, this package promises a royal experience like no other.",
         "Ratings": 4.9
     },
     {
@@ -3327,10 +3327,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 01 ARRIVE DELHI (Normal check-in time at the hotel is 1400 Hrs)"
+                        "S": "Arrive in Delhi (Normal check-in time at the hotel is 14:00 hrs)"
                     },
                     "description": {
-                        "S": "Arrival at Indira Gandhi International airport; on arrival meet and assist by representative holding a placard at arrival lounge Transfer to the hotel and check-in. Delhi \u2013 the capital of India, is a fascinating city with complexities and contradictions, beauty and dynamism, where the past co-exists with the present. Many dynasties ruled from here and the city s rich in the architecture of its monuments. Delhi is not only the present metropolis of India but also a Necropolis. Because of its location, being on the banks of the River Yamuna, many cities have risen and fallen over the last five millenniums. Overnight in Delhi"
+                        "S": "<li>Arrive at Indira Gandhi International Airport, where you will be met by our representative holding a placard in the arrival lounge.</li><li>After a warm welcome, transfer to your hotel and check-in. Delhi, the capital of India, is a city of contrasts – a vibrant metropolis where history and modernity coexist. The city has been the seat of many great dynasties, leaving behind a legacy of architectural wonders.</li><li>Located on the banks of the Yamuna River, Delhi has seen numerous cities rise and fall over the last five millennia.</li><li>Overnight in Delhi.</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -3343,10 +3343,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 02 DELHI"
+                        "S": "Delhi"
                     },
                     "description": {
-                        "S": "Morning enjoy your breakfast at hotel After breakfast you will transfer for sightseeing tour of Old & New Delhi Morning: Sightseeing tour of Old Delhi. Drive past from the historic Red Fort (Out sIde only) \u2013 Shah Jehan\u2019s elegant citadel in red sandstone, which was built as an octagon measuring 900m by 550m and surrounded by a 9 meter deep moat which was at its inception fed by the waters of the Yamuna River. Very near the Fort is the Jama MasjId (FrIday Mosque), India\u2019s largest mosque, also built by Shah Jahan? Take an interesting rickshaw rIde through the famous bazaars of Chandni Chowk which is adjacent to both the Fort and the Mosque. Time permitting; also visit Raj Ghat \u2013 the memorial to Mahatma Gandhi. In Old Delhi you will enjoy a rIde on cycle rickshaws. Now these are 3-wheel cycles with a sofa seat at the back. The Rickshawalla (Rickshaw driver) sits on a small cushion in the front and two passengers on the sofa seat behind. This is a remarkable way to explore and picture the hustle and bustle as well as the colour of the narrow winding streets bursting with people and pavement shops selling wares of all description \u2013 including a laughing set of dentures. The rIde would be accompanied by peals of laughter both from the passengers as well as the onlookers. Afternoon: Sightseeing tour of New Delhi. Visit the Qutab Minar, a Tower of Victory which was built in the 12th century by Qutbuddin Aibak. Within its spacious courtyard stands the Iron Pillar, which dates back to the 4th century AD and bears a Sanskrit inscription in the Gupta style. The pillar has puzzled scientists, as its iron has not rusted in all these centuries. The tomb of Humayun \u2013 the magnificent structure in red sandstone and white marble is one of the finest examples of the garden tomb, and a precursor to the Taj Mahal. Its proportionate spaces, double dome and refined elegance are characteristic of Mughal architecture. Also visit India Gate, the memorial of the First World War and the road that leads from there to Rashtrapathi Bhawan \u2013 the resIdence of the PresIdent of India which is flanked by the houses of Parliament and the Government Secretariat buildings. Overnight in Delhi"
+                        "S": "<li>Start your day with a hearty breakfast at the hotel.</li><li>Afterward, enjoy a full-day sightseeing tour of both Old and New Delhi.</li><strong>Morning:</strong><br>Explore Old Delhi with a drive past the Red Fort (outside only), an iconic citadel made of red sandstone built by Shah Jahan in the 17th century. Nearby, visit Jama Masjid, India’s largest mosque, also commissioned by Shah Jahan. Take a rickshaw ride through the bustling Chandni Chowk, a vibrant market area full of shops selling everything from clothes to spices. If time permits, visit Raj Ghat, the memorial of Mahatma Gandhi.<br><strong>Afternoon:</strong><br>Continue your exploration of New Delhi with a visit to the Qutub Minar, a UNESCO World Heritage site and the tallest brick minaret in the world. See the Iron Pillar, which has baffled scientists for its resistance to rust for over 1,600 years. Then, visit Humayun's Tomb, a stunning example of Mughal architecture and a precursor to the Taj Mahal. Also stop by India Gate, the national war memorial, and the Rashtrapati Bhawan, the residence of India’s President.Overnight in Delhi."
                     },
                     "Id": {
                         "N": "2"
@@ -3359,10 +3359,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 03 DELHI / AGRA (205 Kms. / 05-05 \u00bd Hrs Approx)"
+                        "S": "Delhi to Agra (Approx. 205 km / 5 to 5.5 hrs)"
                     },
                     "description": {
-                        "S": "In the morning you will enjoy your breakfast at the hotel After breakfast you will drive to Agra Arrival in Agra and transfer to your hotel. Agra is famous as the home to one of the Seven Wonders of the World \u2013 the Taj Mahal. The architectural splendour of the mausoleums, the fort and the palaces in Agra is a vivId reminder of the opulence of the legendary Mughal Empire. Agra was their capital for nearly a hundred years from 1564. A pleasant town, with a comparatively easy pace, Agra is known for its superb inlay work on marble and soapstone by artisans who are hereditary crafts persons. The city is also famous for its carpets, gold thread embroIdery and leather shoes Overnight in Agra"
+                        "S": "<li>After breakfast at your hotel, drive to Agra, home to the world-famous Taj Mahal.</li><li>Upon arrival, check in at your hotel. Agra is a city steeped in Mughal history, known for its stunning palaces, forts, and mausoleums that reflect the grandeur of the empire.</li><li>Agra was the capital of the Mughal Empire for over 100 years. It is also famous for its intricate marble inlay work, leather products, and carpets.</li><li>Overnight in Agra.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -3375,10 +3375,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 04 AGRA / VARANASI (Overnight Train)"
+                        "S": "Agra to Varanasi (Overnight Train) (Normal check-out time is 12:00 hrs)"
                     },
                     "description": {
-                        "S": "Normal check-out time at the hotel is 1200 Hrs\nIn the Morning enjoy your breakfast at the hotel\nAfter breakfast you will transfer to visit of Agra city.\n\nVisit Taj Mahal \u2013 monuments of Love, (TAJ MAHAL REMAIN CLOSED ON EVERY FRIdAY ) which was built in the mIddle of the 17th century by the Moghul emperor Shah Jehan for his wife Mumtaz Mahal. Visit the Taj Mahal surely the greatest monument to love and one of the wonders of the modern world. Completed in 1652, skilled craftsmen from Persia, Turkey, France and Italy and some 20,000 labourers worked for 17 years to build this edifice, constructed by Emperor Shah Jehan as a mausoleum for his beloved queen Mumtaz Mahal. Marble was brought from Makrana, near Jodhpur and precious stones of onyx, amethyst, malachite, lapis lazuli, turquoise, jade, crystal and mother of pearl were carried to Agra from Persia, Russia, Afghanistan, Tibet, China and the Indian Ocean.\n\nAfternoon you will visit Agra Fort & Itimad-Ud-Daulah.\nAgra Fort, which stands like a crescent on the banks of the Jamuna River enclosed by forbIdding 20-meter high walls, with a 12- meter moat between them. Three successive Mughal emperors \u2013 Akbar, Jehangir and Shah Jehan \u2013 helped create this massive structure which contains Hindu and Muslim architecture. Later visit Itimad-Ud-Daulah. Itmad-Ud-Daulaha\u2019s tomb was built by Empress Noor Jahan in memory of her father, Ghias-Ud-din Beg in 1622-25 AD. This ornate tomb is consIdered a precursor of the Taj Mahal. Also visit Itmad-Ud-Daulaha\u2019s tomb, was built by Empress Noor Jahan in memory of her father, Ghias-Ud-din Beg in 1622-25 AD. This ornate tomb is consIdered a precursor of the Taj Mahal.\n\nIn the evening you will transfer to railway station to board the train for Varanasi\n\nTrain Details: \u2013\nTrain Name / Number: \u2013\tMarudhar Express \u2013 14864\nDepart from Agra: \u2013\t2120 Hrs\nArrival in Varanasi: \u2013\t0835 Hrs* (* Next Morning )\nProposed Class: \u2013\t3 Tier Air-condition Sleeper"
+                        "S": "<li>Start your day with breakfast at the hotel, then head out for a tour of Agra’s major attractions.</li><li>Visit the Taj Mahal, the eternal symbol of love built by Emperor Shah Jahan for his wife Mumtaz Mahal. Closed on Fridays, this exquisite white marble mausoleum is one of the Seven Wonders of the World.</li><li>Then, explore Agra Fort, a UNESCO World Heritage site, and Itimad-Ud-Daulah’s Tomb, often referred to as the 'Baby Taj' due to its resemblance to the Taj Mahal.</li><li>In the evening, transfer to Agra Railway Station to board your overnight train to Varanasi.</li><li><strong>Train Details:</strong></li><li>Train Name/Number: Marudhar Express – 14864</li><li>Departure from Agra: 21:20 hrs</li><li>Arrival in Varanasi: 08:35 hrs (Next morning)</li><li>Proposed Class: 3 Tier Air-conditioned Sleeper</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -3391,10 +3391,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 05 ARRIVE VARANASI (Normal check-in time at the hotel is 1200 Hrs)"
+                        "S": "Arrive in Varanasi (Normal check-in time at the hotel is 12:00 hrs)"
                     },
                     "description": {
-                        "S": "Arrival at Mughal Sarai railway station and transfer to your hotel Enjoy your breakfast at the hotel Varanasi is one of India\u2019s most important pilgrimage sites and the holiest of holy cities for Hindus. Known also as Kashi and Benaras, Varanasi is one of the world\u2019s oldest living cities, and has been a centre of learning and culture for well over 2000 years. Afternoon visit of Varanasi city The Benaras Hindu University founded in 1916 and its famous Museum \u2011 Bharat Kala Bhavan which houses one of the finest collection of Mughal miniature paintings and brocade textiles. The Bharat Mata and Durga Temple and see the famous Vishwanath temple with its spires covered with gold, dedicated to Shiva, the presIding deity of the city. In the evening you will enjoy the aarati ceremony on Dashwamedh Ghat. Overnight in Varanasi"
+                        "S": "<li>Upon arrival at Mughal Sarai Railway Station, you will be transferred to your hotel.</li><li>Varanasi (also known as Kashi or Benaras) is one of the world’s oldest living cities and the holiest city in India for Hindus. It has been a center for culture, education, and spirituality for over 2,000 years.</li><li>In the afternoon, visit the Banaras Hindu University and the famous Bharat Kala Bhavan Museum.</li><li>Explore the Bharat Mata Temple, Durga Temple, and Vishwanath Temple, dedicated to Lord Shiva.</li><li>In the evening, witness the mesmerizing Aarti ceremony at Dashashwamedh Ghat.</li><li>Overnight in Varanasi.</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -3407,10 +3407,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 06 VARANASI"
+                        "S": "Varanasi"
                     },
                     "description": {
-                        "S": "Morning transfer for Boat rIde at dawn down India\u2019s most sacred river, The Ganges. Sun rise at the holy river is a truly tranquil and breath taking sight with pilgrims standing waist\u2011deep in water, praying to the rising Sun. Past these bathing ghats, see the \u201cburning ghats\u201d where the Hindus cremate their dead. This is done with great religious fervour which makes for a moving experience. Afternoon you will transfer to visit Sarnath Sarnath is the place where the Buddha turned the Wheel of Law and delivered His First Sermon. See the Chowkandi and Dhamek Stupas, the ruins of 9th and 10th century monasteries and temples, the temple built by the Mahabodhi Society in 1931, and the Tibetan Temple. Visit the famous Sarnath Museum (closed on FrIdays]. Overnight in Varanasi"
+                        "S": "<li>Early in the morning, enjoy a boat ride on the Ganges River at sunrise, a serene and spiritual experience as pilgrims perform their rituals.</li><li>As you float past the ghats, you’ll see people praying, bathing, and performing last rites.</li><li>Visit the burning ghats, where the deceased are cremated in the traditional manner.</li><li>In the afternoon, travel to Sarnath, where Buddha delivered his first sermon after attaining enlightenment.</li><li>Explore the Chowkandi Stupa, Dhamek Stupa, and the ruins of ancient monasteries. Don’t miss the Sarnath Museum (closed on Fridays).</li><li>Overnight in Varanasi.</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -3423,10 +3423,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 07 VARANASI / BODHGAYA (242 Kms. / 05-06 Hrs Approx)"
+                        "S": "Varanasi to Bodhgaya (Approx. 242 km / 5 to 6 hrs)"
                     },
                     "description": {
-                        "S": "Today after breakfast you will drive to Bodhgaya Arrival in Bodhgaya and check-in at the hotel Bodhgaya \u2013 10 kms from Gaya, the ancient Hindu pilgrimage centre stands Bodhgaya where the Buddha attained enlightenment here, under the Bodhi tree,. The tree from the original sapling still stands in the temple premises. The magnificent Mahabodhi temple is an architectural amalgamation of many centuries and has inscriptions describing visits of pilgrims from Sri Lanks, Myanmar and China between 7th and 10th century AD. In the afternoon you will proceed to visit Mahabodhi Temple The Mahabodhi Temple, which is located in the temple complex and is declared as a World Heritage Site by UNESCO. The present tree is saId to have been descended from the original one. It was earlier taken by Sanghamitra, King Ashoka\u2019s daughter in 3rd century BC. There is also a red sandstone slab which is under this tree and is the throne on which Buddha sat. This particular temple was actually a shrine that was built in the 3rd century B.C. and erected by Ashoka. The intricate design of this temple is simply impressive and it also houses a large gilded image of Buddha. Over night in Bodhgaya"
+                        "S": "<li>After breakfast, drive to Bodhgaya, the site where Lord Buddha attained enlightenment under the Bodhi tree.</li><li>Visit the Mahabodhi Temple, a UNESCO World Heritage site, with its stunning architecture and a large gilded statue of Buddha.</li><li>The temple complex is home to a tree descended from the original Bodhi tree.</li><li>Overnight in Bodhgaya.</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -3439,10 +3439,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 08 BODHGAYA (Excursion of Rajgir & Nalanda)"
+                        "S": "Bodhgaya (Excursion to Rajgir & Nalanda)"
                     },
                     "description": {
-                        "S": "Morning enjoy our breakfast at hotel After breakfast you will proceed for excursion on Rajgir & Nalanda Rajgir was the ancient capital city of the Magadha kings. After Buddha reached \u201cpari-nirvana\u201d his followers met at the Saptaparni cave in Rajgir, the first Buddhist council ever held. It was here that the teachings of the Buddha were recorded for the first time. The places of interest are Bimbisara ka jail, Jarasandha ka akhra, Swamabhandar cave, Viswa Shanti Stupa, the famous hot water springs and ruins of the old fort. Later transfer to visit Nalanda Nalanda \u2013 Though Buddha visited Nalanda several times during his lifetime, this famous centre of Buddhist learning shot to fame much later, during 5-12th centuries. Hiuen Tsang stayed here in 7th century and has left detailed description of the excellence of education and purity of monastic life practised here. In this first resIdential international university of the world, 2,000 teachers and 10,000 students from all over the world lived and studied here. Visit the ruins and the museum. After visit back to Bodhgaya. Overnight in Bodhgaya"
+                        "S": "<li>After breakfast, proceed for an excursion to Rajgir and Nalanda.</li><li>In Rajgir, visit the Vishwa Shanti Stupa and the Saptaparni Caves, where the first Buddhist council was held.</li><li>See the Bimbisara Jail and Jarasandha’s Akhra. Later, continue to Nalanda, an ancient university and center of Buddhist learning from the 5th to 12th centuries.</li><li>Explore the ruins of the university and visit the Nalanda Museum.</li><li>Return to Bodhgaya for the night.</li><li>Overnight in Bodhgaya.</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -3455,10 +3455,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 09 BODHGAYA / VAISHALI / KUSHINAGAR"
+                        "S": "Bodhgaya to Vaishali & Kushinagar"
                     },
                     "description": {
-                        "S": "In the morning you will enjoy your breakfast at the hotel After breakfast you will proceed to Kushinagar via Vaishali Vaishali, a very special place to Buddhists as The Lord delivered his last sermon & announced his impending \u201cNirwana\u201d. See the majesty of Ashok Pillar \u2013 Lotus tank, Chaumukhi After visit you will drive to Kushinagar Grooming the pastoral landscape, the small hamlet of Kushinagar, 53 km in west of city Gorakhpur, is revered as the site of Buddha\u2019s Mahaparinirvana. On his birth he stepped seven steps in every direction and declared it as his last birth. It was known as the place of death and cremation that marked his final liberation from the cycles of death and rebirth which will be a holy site for the followers of Lord Buddha. Overnight in Kushinagar"
+                        "S": "<li>After breakfast, drive to Vaishali, where Buddha delivered his last sermon.</li><li>Visit the Ashoka Pillar and the Lotus Tank. Then, continue to Kushinagar, the site where Buddha attained Mahaparinirvana (final liberation).</li><li>Explore the monuments and the Parinirvana Stupa, marking the place where Buddha passed away.</li><li>Overnight in Kushinagar.</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -3471,10 +3471,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 10 KUSHINAGAR / LUMBINI (173 Kms. / 4-05 Hrs Approx)"
+                        "S": "Kushinagar to Lumbini (Approx. 173 km / 4 to 5 hrs)"
                     },
                     "description": {
-                        "S": "After visit you will drive to Lumbini en-route visit of Mahakala caves Arrival in Lumbini and transfer to the hotel Lumbini is the place where the Buddha, known as the Tathagata was born. It is the place which should be visited and seen by a person of devotion and which should cause awareness and apprehension of the nature of impermanence. The birthplace of the Gautama Buddha, Overnight in Lumbini"
+                        "S": "<li>After breakfast, drive to Lumbini, the birthplace of Buddha.</li><li>En route, visit the Mahakala Caves. In Lumbini, explore the Ashoka Pillar, the Maya Devi Temple, and the Lumbini Museum, which highlights the history of Buddha's birth and early life.</li><li>Overnight in Lumbini.</li>"
                     },
                     "Id": {
                         "N": "10"
@@ -3487,10 +3487,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 11 LUMBINI / KAPILVASTU (86 Kms.)/ SHRAVASTI (147 Kms.)"
+                        "S": "Lumbini to Kapilvastu & Shravasti (Approx. 86 km to Kapilvastu & 147 km to Shravasti)"
                     },
                     "description": {
-                        "S": "Morning visit to Ashoka\u2019s pillar (249 BC) rediscovered in 1890\u2019s insIde thick sal forest, a temple of Mayadevi, the ruins of an old monastery and some new Stupas After visit you will drive to Shravasti en-route visit of Kapilavastu where you will see the extensive ruins of this ancient city & Jetavana Monastery. Arrive in Shravasti and check-in at the hotel Overnight in Shravasti "
+                        "S": "<li>Visit Ashoka’s Pillar in Lumbini before heading to Kapilvastu, the site of the ancient city where Buddha spent his early years.</li><li>Continue to Shravasti, a key place for Buddhists, where Buddha performed miracles.</li><li>Visit the ruins and the Jetavana Monastery.</li><li>Overnight in Shravasti.</li>"
                     },
                     "Id": {
                         "N": "11"
@@ -3503,10 +3503,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 12 SHRAVASTI / GORAKHPUR (51 Kms. / 01 \u00bd-2 Hrs Approx)/ DELHI (Train)"
+                        "S": "Shravasti to Gorakhpur & Delhi (Overnight Train) (Approx. 51 km to Gorakhpur)"
                     },
                     "description": {
-                        "S": "In the morning you will enjoy your breakfast at the hotel Later you will drive to Gorakhpur to board the overnight train for Delhi Train Details: Train Name / Number: Vaishali Exp: 12553 Depart from Gorakhpur: 1705 Hrs Arrival in Delhi: 0630 Hrs Proposed Class: III Tier Air-condition Sleeper"
+                        "S": "<li>After breakfast, drive to Gorakhpur and board your overnight train back to Delhi.</li><li><strong>Train Details:</strong></li><li>Train Name/Number: Vaishali Exp. – 12553</li><li>Departure from Gorakhpur: 17:05 hrs</li><li>Arrival in Delhi: 06:30 hrs (Next morning)</li><li>Proposed Class: 3 Tier Air-conditioned Sleeper</li>"
                     },
                     "Id": {
                         "N": "12"
@@ -3519,10 +3519,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 13 DELHI / DEPART"
+                        "S": "Delhi & Departure"
                     },
                     "description": {
-                        "S": "Today morning arrival at railway station Assistance on arrival at railway station and transfer to the airport to board the flight for onward journey"
+                        "S": "<li>Upon arrival in Delhi, you will be transferred to the airport for your onward journey.</li><li>End of tour.</li>"
                     },
                     "Id": {
                         "N": "13"
@@ -3543,9 +3543,9 @@
         "Title": "Buddhist Pilgrimage Tour Package India - Eaze Tours",
         "Description": "Explore India’s sacred sites with our Buddhist pilgrimage tour package. Visit Delhi, Agra, Varanasi, Bodhgaya, Vaishali, Kushinagar, Shravasti, & Gorakhpur.",
         "NoOfRatings": 19,
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather.</li><li>Ideal For: Spiritual seekers, history enthusiasts, and cultural travelers.</li><li>What to Bring: Comfortable clothing, walking shoes, and a notebook for reflections.</li><li>Customizable itineraries are available based on your preferences.</li>",
+        "Whats_Included": "<li>Comfortable accommodation at hotels and guesthouses</li><li>Daily breakfast and vegetarian meals</li><li>Private transportation for all transfers and sightseeing</li><li>Guided tours to Buddhist sites</li><li>Entry tickets to monuments and temples</li><li>Professional tour guides with expertise in Buddhist heritage</li><li>Assistance with travel permits where required</li>",
+        "Overview": "Embark on a transformative journey with our Buddhist Pilgrimage Tour Package, exploring the sacred sites that trace the life and teachings of Lord Buddha. From the enlightenment at Bodh Gaya to the first sermon at Sarnath, this package is designed for spiritual seekers and cultural enthusiasts alike. Immerse yourself in the tranquility and profound wisdom of Buddhism as you visit these revered destinations.",
         "Ratings": 5.0
     },
     {
@@ -3556,10 +3556,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 01 Delhi-Rishikesh (230 kilometers/ 06-07 hours)"
+                        "S": "Delhi-Rishikesh (230 kilometers/ 06-07 hours)"
                     },
                     "description": {
-                        "S": "Upon your arrival in Delhi, our tour representative will meet you and assist you in smooth transfer to Rishikesh via road. Upon arrival in Rishikesh, check in at the hotel. The evening is free to relax and briefing. Dinner and overnight stay at the hotel. Rishikesh : The birthplace of Yoga, Rishikesh is located 24 kilometers away from HarIdwar. It is a place where pilgrims come to meditate, do yoga and learn about other aspects of Hinduism. There are many ancient and newly built temples along the river Ganges. The whole town is consIdered to be sacred and it is saId that meditation here leads to salvation."
+                        "S": "<li>Upon your arrival in Delhi, our tour representative will meet you and assist you in smooth transfer to Rishikesh via road.</li><li>Upon arrival in Rishikesh, check in at the hotel. The evening is free to relax and briefing.</li><li>Dinner and overnight stay at the hotel.</li><br><strong>Rishikesh:</strong><br>The birthplace of Yoga, Rishikesh is located 24 kilometers away from HarIdwar. It is a place where pilgrims come to meditate, do yoga and learn about other aspects of Hinduism. There are many ancient and newly built temples along the river Ganges. The whole town is consIdered to be sacred and it is saId that meditation here leads to salvation."
                     },
                     "Id": {
                         "N": "1"
@@ -3572,10 +3572,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 02 Rishikesh \u2013 Barkot (170 kms / 07-08 hrs)"
+                        "S": "Rishikesh – Barkot (170 kms / 07-08 hrs)"
                     },
                     "description": {
-                        "S": "Post breakfast in the morning; embark on a local sightseeing tour of Rishikesh which include Ramjhula, Laxmanjhula and Swargaashram. Later, drive to Barkot via Mussoorie. On the way, visit Kempty Falls and reach Barkot by late evening. Dinner and overnight stay at the hotel."
+                        "S": "<li>After morning breakfast, embark on a local sightseeing tour of Rishikesh which includes Ram Jhula, Laxman Jhula, and Swarg Ashram.</li><li>Later, drive to Barkot via Mussoorie. On the way, visit Kempty Falls and reach Barkot by late evening.</li><li>Dinner and overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -3588,10 +3588,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 03 Barkot \u2013 Jankichatti \u2013 Yamunotri \u2013 Barkot (50 kms & 6 kms. Trek)"
+                        "S": "Barkot – Jankichatti – Yamunotri – Barkot (50 kms & 6 kms. Trek)"
                     },
                     "description": {
-                        "S": "Post an early morning breakfast; proceed to Yamunotri and later move up to Jankichatti. Later, enjoy 6 kilometers long trek to Yamunotri. Here one can cook rice by packing it in a cloth and dipping it in the hot water of the Kund. Pilgrims take this cooked rice home as \u201cPrasad\u201d. Nearby the temple, Pooja can be offered to Divya Shila, after taking bath in Jamunabai Kund and offering prayers to Yamunaji. Later, return to Barkot. Dinner and overnight stay at the hotel. Yamunotri : The source of the river Yamuna and the seat of the river goddess, Yamunotri is situated at an altitude of 3293 kilometers in the Garhwal Himalayas. It originates from the Champasar Glacier located 1 kilometer ahead of the shrine. Yamunotri was the home of an ancient sage \u2018Asit Muni\u2019. The goddess Yamuna is the daughter of the Sun and Yama is the brother of the river goddess. It is believed that if you take dip in the holy waters of Yamuna, his sister. Surya Kund :  Suraj Kund is a hot water spring containing Sulphur that has healing properties. Divya Shila : Divya Shila is a rock pillar, worshipped before entering the Yamunotri temple."
+                        "S": "<li>After morning breakfast, proceed to Yamunotri and later move up to Jankichatti.</li><li>Enjoy a 6 km trek to Yamunotri. Here, one can cook rice by packing it in a cloth and dipping it in the hot water of the Kund. Pilgrims take this cooked rice home as “Prasad”.</li><li>Nearby the temple, Pooja can be offered to Divya Shila after taking a bath in Jamunabai Kund and offering prayers to Yamunaji.</li><li>Later, return to Barkot. Dinner and overnight stay at the hotel.</li><br><strong>Yamunotri:</strong><br><li>The source of the river Yamuna and the seat of the river goddess, Yamunotri is situated at an altitude of 3,293 meters in the Garhwal Himalayas.</li><li>It originates from the Champasar Glacier, located 1 kilometer ahead of the shrine. Yamunotri was the home of an ancient sage, ‘Asit Muni’.</li><li>The goddess Yamuna is the daughter of the Sun, and Yama is the brother of the river goddess. It is believed that taking a dip in the holy waters of Yamuna provides blessings.</li><li><strong>Surya Kund:</strong> Surya Kund is a hot water spring containing sulfur, known for its healing properties.</li><li><strong>Divya Shila:</strong> Divya Shila is a rock pillar worshipped before entering the Yamunotri temple.</li><li>Travel to Gangotri, take a holy dip in the river, and visit the temple.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -3604,10 +3604,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 04 Barkot- Harsil (170 kilometers)"
+                        "S": "Barkot- Harsil (170 kilometers)"
                     },
                     "description": {
-                        "S": "Post breakfast, leave by road for Uttarkashi. Later, drive to Harsil. The evening is free for leisure and local attractions. Dinner and overnight stay at the hotel."
+                        "S": "<li>Post breakfast, leave by road for Uttarkashi. Later, drive to Harsil.</li><li>The evening is free for leisure and exploring local attractions.</li><li>Dinner and overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -3620,10 +3620,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 05 Harsil \u2013 Gangotri \u2013 Uttarkashi (20 Kms & 90 Kms)"
+                        "S": "Harsil – Gangotri – Uttarkashi (20 Kms & 90 Kms)"
                     },
                     "description": {
-                        "S": "Post breakfast in the morning; take a road trip to Gangotri. After praying at the temple, have Pooja & Darshan at Gangotri temple. Later, return back to Uttarkashi. Dinner and overnight stay at Uttarkashi. Gangotri : Located in the 18th century, Gangotri is dedicated to Hindu goddess \u2018Ganga\u2019. It is located near a sacred stone where Bhagirath worshipped Lord Shiva and asked to hold Ganga in his matted locks. The temple is a beautiful 20 feet high structure made up of white granite. This is the perfect place to reconnect with you. The Gangotri temple dedicated to the goddess remains open from May to November."
+                        "S": "<li>After breakfast, take a road trip to Gangotri. After praying at the temple, have Pooja & Darshan at Gangotri temple.</li><li>Later, return back to Uttarkashi. Dinner and overnight stay at Uttarkashi.</li><br><strong>Gangotri:</strong><br>Located in the 18th century, Gangotri is dedicated to Hindu goddess ‘Ganga’. It is located near a sacred stone where Bhagirath worshipped Lord Shiva and asked to hold Ganga in his matted locks. The temple is a beautiful 20 feet high structure made up of white granite. This is the perfect place to reconnect with you. The Gangotri temple dedicated to the goddess remains open from May to November."
                     },
                     "Id": {
                         "N": "5"
@@ -3636,10 +3636,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 06 Uttarkashi \u2013 Guptkashi (235 Kms. Drive 08 \u2013 09Hrs)"
+                        "S": "Uttarkashi – Guptkashi (235 Kms. Drive 08 – 09 Hrs)"
                     },
                     "description": {
-                        "S": "Post breakfast in the morning, leave by road for Guptkashi. En route, see the heritage city of Tehri submerged into the mighty waters of holy river Ganges. Later in the evening, you\u2019ll have to reach Guptkashi. Dinner and stay overnight at the hotel. Guptkashi : Located in the northern Himalayan belt within the Mandakini river valley, which houses lush green forests, Guptkashi is famous for the Vishwanath temple- dedicated to Lord Shiva."
+                        "S": "<li>Post breakfast, leave by road for Guptkashi. En route, see the heritage city of Tehri submerged into the mighty waters of the holy river Ganges.</li><li>Later in the evening, you’ll have to reach Guptkashi.</li><li>Dinner and stay overnight at the hotel.</li><br><strong>Guptkashi:</strong><br>Located in the northern Himalayan belt within the Mandakini river valley, which houses lush green forests, Guptkashi is famous for the Vishwanath temple- dedicated to Lord Shiva."
                     },
                     "Id": {
                         "N": "6"
@@ -3652,10 +3652,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 07 Guptkashi \u2013 Kedarnath \u2013 Rudraprayag(35 Kms /2 Hrs.)"
+                        "S": "Guptkashi – Kedarnath – Rudraprayag(35 Kms /2 Hrs.)"
                     },
                     "description": {
-                        "S": "Post breakfast in the morning; take a road trip up to Helipad as per the reporting time. Complete the boarding formalities and wait here for your time slot. Upon arrival at Kedarnath, perform early Pooja & Darshan at temple. Later, return back to Helipad and take return flight to Guptkashi, before you drive back to Rudraprayag. Dinner and overnight stay at the hotel. Kedarnath Temple : Built in the 8th century A.D. by Adi Guru Shankaracharya, the Kedarnath Temple is located adjacent to the site of an ancient temple built by Pandavas. As the name suggests, the temple is dedicated to the shrine of Kedar. Kedarnath is one of the four holy places that cover the famous Char Dham Yatra. It is believed to be one of the 12 Jyotirlingas of Lord Shiva. The temple is believed to be over 1000 years old."
+                        "S": "<li>Post breakfast, take a road trip up to Helipad as per the reporting time.</li><li>Complete the boarding formalities and wait here for your time slot.</li><li>Upon arrival at Kedarnath, perform early Pooja & Darshan at the temple. Later, return back to Helipad and take a return flight to Guptkashi, before you drive back to Rudraprayag.</li><li>Dinner and overnight stay at the hotel.</li><br><strong>Kedarnath Temple:</strong><br>Built in the 8th century A.D. by Adi Guru Shankaracharya, the Kedarnath Temple is located adjacent to the site of an ancient temple built by Pandavas. As the name suggests, the temple is dedicated to the shrine of Kedar. Kedarnath is one of the four holy places that cover the famous Char Dham Yatra. It is believed to be one of the 12 Jyotirlingas of Lord Shiva. The temple is believed to be over 1000 years old."
                     },
                     "Id": {
                         "N": "7"
@@ -3668,10 +3668,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 08 Rudraprayag \u2013 Badrinath (125 kms Drive/ 5 Hrs)"
+                        "S": "Rudraprayag – Badrinath (125 kms Drive/ 5 Hrs)"
                     },
                     "description": {
-                        "S": "Post breakfast in the morning; take a road trip to Badrinath. On the way, visit Narsingh Temple and Adi Shankracharya Samadhi at Joshimath. Later, drive to Badrinath and do Pooja & Darshan at the temple. Thereafter, visit the famous tourist sites in Badrinath such as Vyas Cave, Ganesh Cave, Bhim BrIdge and origin of River Saraswati at Mana Village, the last village before entering the Tibetan border. Later, visit the temple for holy Darshan/Pooja and attend evening Aarti. Dinner and overnight stay at the hotel. Badrinath Temple : One of the holiest temples in Uttarakhand, Badrinath is nestled between the twin mountain ranges- Nar and Narayan. Badrinath Temple is also known as Badrinarayan temple because it is dedicated to Lord Vishnu\u2019s form of Badrinarayan. The temple is supposed to have been built by the 8th century saint \u2018Adi Shankracharya\u2019, the great scholar and philosopher. The original temple was destroyed in a landslIde. The present temple is believed to have been built by the Garhwal kings in the 17th century. Narad Kund : Narad Kund is one of the most revered centers in Badrinath. It is a holy site from where Adi Sankara recovered the Idol of Lord Vishnu. Brahma Kapal : It is a flat platform located on the banks of the Alaknanda River, where Lord Brahma is believed to resIde. The devotees pay homage and rituals to the departed souls. Sheshnetra : Located on the opposite bank of the river, Sheshnetra is a place where eye of the serpent lord \u2018Shesha\u2019 on which Vishnu rests, is seen on a rock. Mana Village : Mana Village is a quaint tiny hamlet located on the Indo-Tibetan border. The village is now declared as a tourism village of India. Bhim Pul : It is an attractive rock brIdge in the Chamoli district of Uttarakhand. Just4 kilometer away from Mana Village, this natural brIdge lies over the roaring Saraswati River. Vyas Gufa (Cave) : Located at a distance of 3 kilometers away from Badrinath temple, Vyas Gufa is a rock-cave where Ved Vyas is believed to have composed the Mahabharata and the Puranic commentaries."
+                        "S": "<li>Post breakfast, take a road trip to Badrinath. On the way, visit Narsingh Temple and Adi Shankaracharya Samadhi at Joshimath.</li><li>Later, drive to Badrinath and do Pooja & Darshan at the temple.</li><li>Thereafter, visit the famous tourist sites in Badrinath such as Vyas Cave, Ganesh Cave, Bhim Bridge, and the origin of River Saraswati at Mana Village, the last village before entering the Tibetan border.</li><li>Later, visit the temple for holy Darshan/Pooja and attend evening Aarti.</li><li>Dinner and overnight stay at the hotel.</li><br><strong>Badrinath Temple:</strong><br>One of the holiest temples in Uttarakhand, Badrinath is nestled between the twin mountain ranges - Nar and Narayan. Badrinath Temple is also known as Badrinarayan temple because it is dedicated to Lord Vishnu’s form of Badrinarayan. The temple is supposed to have been built by the 8th century saint ‘Adi Shankracharya’, the great scholar and philosopher. The original temple was destroyed in a landslIde. The present temple is believed to have been built by the Garhwal kings in the 17th century.<br><strong>Narad Kund:</strong><br>Narad Kund is one of the most revered centers in Badrinath. It is a holy site from where Adi Sankara recovered the Idol of Lord Vishnu.<br><strong>Brahma Kapal:</strong><br>It is a flat platform located on the banks of the Alaknanda River, where Lord Brahma is believed to resIde. The devotees pay homage and rituals to the departed souls.<br><strong>Sheshnetra:</strong><br>Located on the opposite bank of the river, Sheshnetra is a place where the eye of the serpent lord ‘Shesha’ on which Vishnu rests, is seen on a rock.<br><strong>Mana Village:</strong><br>Mana Village is a quaint tiny hamlet located on the Indo-Tibetan border. The village is now declared as a tourism village of India.<br><strong>Bhim Pul:</strong><br>It is an attractive rock brIdge in the Chamoli district of Uttarakhand. Just 4 kms away from Mana Village, this natural brIdge lies over the roaring Saraswati River.<br><strong>Vyas Gufa (Cave):</strong><br>Located at a distance of 3 kilometers away from Badrinath temple, Vyas Gufa is a rock-cave where Ved Vyas is believed to have composed the Mahabharata and the Puranic commentaries."
                     },
                     "Id": {
                         "N": "8"
@@ -3684,10 +3684,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 09 Badrinath \u2013 Srinagar (190 kms / 07-08hrs)"
+                        "S": "Badrinath – Srinagar (190 kms / 07-08hrs)"
                     },
                     "description": {
-                        "S": "In the morning, after Mahaabhishek, go for Pooja and Darshan. Post breakfast, leave by road for Srinagar. On the way, visit Vishnuprayag, Nandprayag, Karnprayag and Rudraprayag. Later, take a road trip to Srinagar. Dinner and overnight stay at the hotel."
+                        "S": "<li>In the morning, after Mahaabhishek, go for Pooja and Darshan.</li><li>Post breakfast, leave by road for Srinagar.</li><li>On the way, visit Vishnuprayag, Nandprayag, Karnprayag, and Rudraprayag.</li><li>Later, take a road trip to Srinagar.</li><li>Dinner and overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -3700,10 +3700,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 10 Srinagar \u2013 HarIdwar (125 kms / 05 -06hrs)"
+                        "S": "Srinagar – Haridwar (125 kms / 05 -06hrs)"
                     },
                     "description": {
-                        "S": "Post breakfast, leave by road for HarIdwar. On the way, visit Devprayag, the confluence of Alaknanda and Bhagirathi River. In the afternoon, you will arrive in HarIdwar. Later, check into the hotel and get relaxed. Visit the famous places such as Mansa Devi and Chandi Devi Temples. In the evening, attend the famous Ganga Aarti at Har ki Pauri. Dinner and overnight stay at the hotel. HarIdwar : Located at the feet of Shiva\u2019s hills \u2018Shivaliks\u2019, HarIdwar is located in the HarIdwar district of Uttarakhand. It is one of the 7 holiest Hindu cities in India. Apart from being a famous tourist destination in India, HarIdwar is also famous among the people as being the location of Kumbh Mela. The lighted diyas floating on the river Ganges creates a spectacular sight. The town is dotted with innumerable temples and other religious places."
+                        "S": "<li>Post breakfast, leave by road for Haridwar.</li><li>On the way, visit Devprayag, the confluence of Alaknanda and Bhagirathi River.</li><li>In the afternoon, you will arrive in Haridwar. Later, check into the hotel and get relaxed.</li><li>Visit the famous places such as Mansa Devi and Chandi Devi Temples.</li><li>In the evening, attend the famous Ganga Aarti at Har ki Pauri. Dinner and overnight stay at the hotel.</li><br><strong>Haridwar:</strong><br>Located at the feet of Shiva’s hills ‘Shivaliks’, HarIdwar is located in the HarIdwar district of Uttarakhand. It is one of the 7 holiest Hindu cities in India. Apart from being a famous tourist destination in India, HarIdwar is also famous among the people as being the location of Kumbh Mela. The lighted diyas floating on the river Ganges creates a spectacular sight. The town is dotted with innumerable temples and other religious places."
                     },
                     "Id": {
                         "N": "10"
@@ -3716,10 +3716,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 11 : HarIdwar \u2013 Delhi (200 kms / 06- 07 hrs)"
+                        "S": "HarIdwar – Delhi (200 kms / 06- 07 hrs)"
                     },
                     "description": {
-                        "S": "Post breakfast, leave by road for Delhi. On reaching Delhi, drop at the railway station for onward journey."
+                        "S": "<li>Post breakfast, leave by road for Delhi.</li><li>On reaching Delhi, drop at the railway station for onward journey.</li>"
                     },
                     "Id": {
                         "N": "11"
@@ -3740,9 +3740,9 @@
         "Title": "Chardham Pilgrimage Tour Package India – Eaze Tours",
         "Description": "Embark on a spiritual journey with our Chardham pilgrimage tour package in India, covering Delhi, Rishikesh, Yamunotri, Gangotri, Kedarnath, Badrinath, & more.",
         "NoOfRatings": 12,
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Best Time to Visit: May to October, as the temples are open to pilgrims during this period.</li><li>Ideal For: Devotees, spiritual seekers, and families seeking blessings.</li><li>What to Bring: Comfortable clothing, warm attire (especially for Kedarnath), and essentials for travel.</li><li>Physical Fitness: Some trekking is required, especially to Kedarnath and Yamunotri.</li>",
+        "Whats_Included": "<li>Accommodation in comfortable hotels or guesthouses</li><li>Daily breakfast and meals as per the itinerary</li><li>Private transport for all transfers and sightseeing</li><li>Experienced guides for temple visits and local tours</li><li>Entry fees to temples and sanctuaries</li><li>Assistance with Darshan and poojas (if required)</li><li>All necessary permits and arrangements</li>",
+        "Overview": "Embark on a divine and spiritually enriching journey with our Chardham Pilgrimage Tour Package, taking you to the four sacred shrines of Uttarakhand: Yamunotri, Gangotri, Kedarnath, and Badrinath. These revered destinations are considered the spiritual gateways to liberation and are believed to cleanse the soul. This tour offers an unforgettable experience for devotees seeking divine blessings and peace.",
         "Ratings": 5.0
     },
     {
