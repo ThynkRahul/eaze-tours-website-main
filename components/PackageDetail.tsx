@@ -14,7 +14,7 @@ export default function PackageDetail({ packageUri }: IPackageDetailProp) {
 
     return (
         <>
-            <div className="mt-16 md:mx-16">
+            <div className="mt-16 md:mx-2">
                 <VerticalTimeline tourPackage={tourPackage}>
                 </VerticalTimeline>
             </div>
