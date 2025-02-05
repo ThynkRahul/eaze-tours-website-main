@@ -21,8 +21,7 @@ function VerticalTimelineElement({ time, title, description }: VerticalTimelineE
             <div className={timelineClass}>
                 <div className="flex gap-2"></div>
                 <time className="text-[18px] font-bold font-[urbanist] pt-[8px]">Day {time} : {title}</time>
-                <ul className="list-disc pl-6 text-[#4f5e71] mt-4 font-[urbanist] font-[500] font-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: description }}></ul>
-
+                <ul className="list-disc pl-6 text-[#4f5e71] mt-4 font-[urbanist] font-[500] flex flex-col gap-2 font-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: description }}></ul>
             </div>
 
             <hr />
