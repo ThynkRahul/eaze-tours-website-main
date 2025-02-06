@@ -1,6 +1,7 @@
 import React from "react";
 
 import { PackageImageSwiper } from "./Images";
+import Image from 'next/image';
 import PackageSummaryCard from "./PackageSummaryCard";
 import Link from "next/link";
 import VerticalTimelineElement from './VerticalTimelineElement';
@@ -55,13 +56,13 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                 <div className="overflow-auto border-0 sm:border-2 mx-8 rounded-[20px]">
                     <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
                         <h2 className="text-2xl font-semibold font-[urbanist] text-black text-left mb-4">What’s Included</h2>
-                        <ul className="list-disc pl-6 mt-0 sm:mt-4 grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-4 font-[500] text-[#4f5e71] font-[urbanist] text-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: tourPackage.Whats_Included }} />
+                        <ul className="list-disc pl-6 mt-0 sm:mt-4 grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-x-8 sm:gap-y-4 font-[500] text-[#4f5e71] font-[urbanist] text-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: tourPackage.Whats_Included }} />
                     </div>
                 </div>
                 <div className="overflow-auto border-0 sm:border-2 mx-8 rounded-[20px]">
                     <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
                         <h2 className="text-2xl font-semibold font-[urbanist] text-black text-left mb-4">Additional Information</h2>
-                        <ul className="list-disc pl-6 mt-0 sm:mt-4 grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-4 font-[500] text-[#4f5e71] font-[urbanist] text-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: tourPackage.Additional_Information }} />
+                        <ul className="list-disc pl-6 mt-0 sm:mt-4 grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-x-8 sm:gap-y-4 font-[500] text-[#4f5e71] font-[urbanist] text-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: tourPackage.Additional_Information }} />
                     </div>
                 </div>
 
@@ -88,12 +89,44 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                     </h2>
                 </div>
 
-                <div className="grid grid-cols-1 sm:grid-cols-4 mb-[80px] gap-10 mx-8">
+                <div className="grid grid-cols-1 sm:grid-cols-4 gap-10 mx-8">
                     {packages.map(tourPackage => (
                         <div key={tourPackage.Id} className="h-full">
                             <PackageSummaryCard tourPackage={tourPackage}></PackageSummaryCard>
                         </div>
                     ))}
+                </div>
+
+                <div className={`info-container flex flex-col sm:flex-row justify-center gap-12 my-[70px] max-w-screen-xl mx-8 flex-wrap sm:flex-nowrap`}>
+                    <div className="info-box p-0 rounded-lg w-[100%] flex flex-col items-center sm:w-[33%]">
+                        <Image src="/images/email.png" alt="Info Icon 1" width={77} height={77} />
+                        <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Email</h2>
+                        <a href="mailto:info@eazetours.com" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+                            info@eazetours.com
+                        </a>
+                        <a href="mailto:harshit@eazetours.com" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+                            harshit@eazetours.com
+                        </a>
+                    </div>
+
+                    <div className="info-box p-0 rounded-lg w-[100%] flex flex-col items-center sm:w-[33%]">
+                        <Image src="/images/location.png" alt="Info Icon 3" width={77} height={77} />
+                        <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Location</h2>
+                        <a href="#" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+                            Eaze House ~2nd Floor, RZP-146 Palam Colony, New Delhi, South West Delhi, 110075
+                        </a>
+                    </div>
+
+                    <div className="info-box p-0 rounded-lg w-[100%] flex flex-col items-center sm:w-[33%]">
+                        <Image src="/images/phone.png" alt="Info Icon 2" width={77} height={77} />
+                        <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Phone</h2>
+                        <a href="tel:+919873186168" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+                            +91 98731 86168
+                        </a>
+                        <a href="tel:+919911684818" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+                            +91 98731 86818
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
