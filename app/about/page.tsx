@@ -143,7 +143,7 @@ export default function About() {
         </div>
       </div>
 
-      <div className="mt-[78px] mx-8 mb-12 sm:w-[45%]">
+      <div className="mt-[78px] mx-8 mb-12 sm:w-[45%] sm:mx-auto">
         <h2 className="text-[32px] sm:text-[42px] font-semibold capitalize text-black text-left sm:text-center leading-[1.2em] mb-4">
           Creating Unforgettable Travel Experiences for You
         </h2>
@@ -152,7 +152,7 @@ export default function About() {
         </p>
       </div>
 
-      <div className="flex flex-wrap justify-between gap-4 my-12 max-w-screen-xl mb-[120px] mx-8 sm:flex-nowrap sm:w-[80%]">
+      <div className="flex flex-wrap justify-between gap-4 my-12 max-w-screen-xl mb-[120px] mx-8 sm:mx-auto sm:flex-nowrap sm:w-[80%]">
         {/* First Box */}
         <div className="w-full sm:w-1/2 relative rounded-[25px] overflow-hidden group">
           {/* Content */}
@@ -170,7 +170,7 @@ export default function About() {
           <div
             className="absolute top-0 left-0 w-full h-full bg-cover bg-center rounded-lg transition-transform duration-300 ease-in-out group-hover:scale-110"
             style={{
-              background: `#89CFF0`,
+              background: `#8cc963`,
               backgroundSize: 'cover',
               backgroundPosition: 'center',
             }}
@@ -194,7 +194,7 @@ export default function About() {
           <div
             className="absolute top-0 left-0 w-full h-full bg-cover bg-center rounded-lg transition-transform duration-300 ease-in-out group-hover:scale-110"
             style={{
-              background: `#89CFF0`,
+              background: `#8cc963`,
               backgroundSize: 'cover',
               backgroundPosition: 'center',
             }}
@@ -204,15 +204,15 @@ export default function About() {
 
       <div className="flex flex-col py-[100px] text-[#fff] bg-[#025C7A] justify-center items-center">
         <div className="mx-auto mb-12">
-          <h2 className="text-[32px] sm:text-[42px] font-semibold capitalize text-left sm:text-center leading-[1.2em] mb-4 sm:w-[45%] mx-8">
+          <h2 className="text-[32px] sm:text-[42px] font-semibold capitalize text-left sm:text-center leading-[1.2em] mb-4 sm:mx-auto sm:w-[45%] mx-8">
             Trusted Experts Delivering Exceptional Service
           </h2>
-          <p className="text-md mt-1 text-left sm:text-center font-[urbanist] font-semibold sm:w-[90%] mx-8">
+          <p className="text-md mt-1 text-left sm:text-center font-[urbanist] font-semibold sm:w-[90%] mx-8 sm:mx-auto">
             At Eaze Tours, we pride ourselves on our team of dedicated professionals who go above and beyond to provide the best travel experiences. With years of industry expertise, our team is committed to ensuring every detail of your journey is taken care of, offering personalized service to meet your unique needs. From expert planning to seamless execution, we are here to make your travels unforgettable. Trust us to turn your dream trip into a reality!
           </p>
         </div>
 
-        <div className="gallery-container mx-0 w-[85%] sm:w-[85%]">
+        <div className="gallery-container mx-0 w-[85%] sm:w-[93%]">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             {[{ id: 1, title: "Manoj Singh Rana", content: "With over 28 years of industry experience, Manoj never misses an opportunity to amaze travelers. His suggestions are backed by extensive research. Truthfulness and simplicity are key points of his success.", bg: "/images/aboutus/Manoj.jpg" },
             { id: 2, title: "Harshit Nagar", content: "Harshit has done a Master's in Tourism Management and has 18 years of experience. He has traveled and escorted groups and FITs as per requirements.", bg: "/images/aboutus/harshit.jpg" },
@@ -251,7 +251,7 @@ export default function About() {
           <Image src="/images/location.png" alt="Info Icon 3" width={77} height={77} />
           <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Location</h2>
           <a href="#" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
-            Eaze House ~2nd Floor, RZP-146 Palam Colony, New Delhi, South West Delhi, 110075
+            Eaze House ~2nd Floor, RZP-146 <br /> Palam Colony, New Delhi, South West <br /> Delhi, 110075
           </a>
         </div>
 
@@ -263,6 +263,9 @@ export default function About() {
           </a>
           <a href="tel:+919911684818" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
             +91 98731 86818
+          </a>
+          <a href="tel:+919818006830" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+            +91 98180 06830
           </a>
         </div>
       </div>
