@@ -113,7 +113,7 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                         <Image src="/images/location.png" alt="Info Icon 3" width={77} height={77} />
                         <h2 className="info-heading text-[30px] font-[urbanist] font-bold text-black text-center mt-4">Location</h2>
                         <a href="#" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
-                            Eaze House ~2nd Floor, RZP-146 Palam Colony, New Delhi, South West Delhi, 110075
+                            Eaze House ~2nd Floor, RZP-146 <br /> Palam Colony, New Delhi, South West <br /> Delhi, 110075
                         </a>
                     </div>
 
@@ -125,6 +125,9 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                         </a>
                         <a href="tel:+919911684818" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
                             +91 98731 86818
+                        </a>
+                        <a href="tel:+919818006830" className="info-content text-center text-[#4F5E71] font-[16px] leading-[1.2em] mt-1 transition-all duration-300 transform hover:text-[#3778EE] hover:font-semibold cursor-pointer">
+                            +91 98180 06830
                         </a>
                     </div>
                 </div>
