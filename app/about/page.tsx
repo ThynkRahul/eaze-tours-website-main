@@ -40,7 +40,7 @@ export default function About() {
         </p>
       </div>
 
-      <div className="relative mt-[10px] max-w-screen-xl mx-8 h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center"
+      <div className="relative mt-[10px] max-w-screen-xl mx-8 h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center hidden sm:block"
         style={{ backgroundImage: 'url("/images/gallery/8.jpg")' }}
       >
         {/* Background overlay */}
@@ -53,8 +53,8 @@ export default function About() {
         </div>
       </div>
 
-      <div className="flex flex-col gap-6 sm:flex-row py-[100px] text-[#000] justify-center items-center mx-8">
-        <div className="w-[85%] mx-4 sm:w-[45%] h-[400px]">
+      <div className="flex flex-col gap-6 sm:flex-row pt-[0px] sm:pt-[100px] pb-[60px] sm:pb-[100px] text-[#000] justify-center items-center mx-5 sm:mx-8">
+        <div className="w-[95%] mx-0 sm:mx-4 sm:w-[45%] h-[400px]">
           <Swiper
             spaceBetween={30}
             effect={"fade"}
@@ -82,8 +82,8 @@ export default function About() {
             ))}
           </Swiper>
         </div>
-        <div className="mx-4 sm:w-[45%]">
-          <h3 className="text-[28px] sm:text-[50px] font-bold mb-4 capitalize font-[urbanist] leading-[1.2em]">
+        <div className="mx-2 sm:mx-4 sm:w-[45%]">
+          <h3 className="text-[28px] sm:text-[50px] font-bold mb-4 capitalize font-[urbanist] leading-[1.2em] hidden sm:block">
             About Us
           </h3>
           <p className="mb-4 font-[urbanist] text-[#4F5E71] font-semibold">
@@ -102,14 +102,14 @@ export default function About() {
       </div>
 
       <div className="bg-[#025C7A] flex flex-col sm:flex-row py-[70px] text-[#fff] justify-center items-center">
-        <div className="w-[90%] sm:w-[50%] mx-8">
+        <div className="sm:w-[50%] mx-8">
           <h3 className="text-[32px] sm:text-[50px] font-bold mb-4 capitalize font-[urbanist] leading-[1.2em]">Your Dream Destination Awaits – We Make It Happen!</h3>
           <p className="mb-4 font-[urbanist] font-semibold">At Eaze Tours, we believe that every journey should be as unique and luxurious as you are. Our expertly curated luxury holiday packages in India offer an unforgettable experience, blending comfort, elegance, and adventure.
           </p>
         </div>
 
-        <div className="w-[90%] sm:w-[50%] mx-8">
-          <h3 className="text-[32px] sm:text-[38px] font-semibold mb-6 capitalize font-[urbanist] leading-[1.2em]">Why Choose Us?</h3>
+        <div className="sm:w-[50%] mx-8 pt-[30px] sm:pt-[0px]">
+          <h3 className="text-[32px] sm:text-[38px] font-semibold mb-6 capitalize font-[urbanist] leading-[1.2em] hidden sm:block">Why Choose Us?</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="info-box bg-[#fff] p-4 w-full h-full aspect-[4/3] sm:aspect-[1/1] rounded-lg flex flex-col items-left justify-center">
               <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none"><g id="Frame"><path id="Vector" d="M35.7687 7.76411C35.619 7.64744 35.4447 7.5664 35.259 7.52715C35.0732 7.48789 34.881 7.49145 34.6969 7.53755L25.1453 9.92505L15.5594 5.1313C15.2923 4.99808 14.9863 4.96483 14.6969 5.03755L4.69687 7.53755C4.42645 7.60515 4.18638 7.76119 4.01482 7.98088C3.84325 8.20058 3.75004 8.47131 3.75 8.75005V31.2501C3.75003 31.44 3.79334 31.6274 3.87665 31.7981C3.95996 31.9688 4.08107 32.1183 4.23079 32.2352C4.38051 32.352 4.5549 32.4333 4.7407 32.4727C4.92651 32.5121 5.11885 32.5086 5.30312 32.4626L14.8547 30.0751L24.4406 34.8688C24.6146 34.9546 24.806 34.9995 25 35.0001C25.1022 35 25.204 34.9874 25.3031 34.9626L35.3031 32.4626C35.5735 32.395 35.8136 32.2389 35.9852 32.0192C36.1567 31.7995 36.25 31.5288 36.25 31.2501V8.75005C36.25 8.55994 36.2067 8.37231 36.1233 8.20146C36.0399 8.03061 35.9187 7.88104 35.7687 7.76411ZM16.25 8.27193L23.75 12.0219V31.7282L16.25 27.9782V8.27193ZM6.25 9.72661L13.75 7.85161V27.7735L6.25 29.6485V9.72661ZM33.75 30.2735L26.25 32.1485V12.2266L33.75 10.3516V30.2735Z" fill="#FC961B"></path></g></svg>
@@ -143,16 +143,16 @@ export default function About() {
         </div>
       </div>
 
-      <div className="mt-[78px] mx-auto mb-12 w-[85%] sm:w-[45%]">
-        <h2 className="text-[32px] sm:text-[42px] font-semibold capitalize text-black text-center leading-[1.2em] mb-4">
+      <div className="mt-[78px] mx-8 mb-12 sm:w-[45%]">
+        <h2 className="text-[32px] sm:text-[42px] font-semibold capitalize text-black text-left sm:text-center leading-[1.2em] mb-4">
           Creating Unforgettable Travel Experiences for You
         </h2>
-        <p className="text-md mt-1 text-center font-[urbanist] text-[#4F5E71] font-semibold">
+        <p className="text-md mt-1 text-left sm:text-center font-[urbanist] text-[#4F5E71] font-semibold">
           We are committed to making every journey seamless, enjoyable, and memorable. Whether you're exploring new destinations or revisiting old favorites, we ensure a hassle-free travel experience tailored to your needs.
         </p>
       </div>
 
-      <div className="flex flex-wrap justify-between gap-4 my-12 max-w-screen-xl mb-[120px] mx-auto sm:flex-nowrap w-[80%]">
+      <div className="flex flex-wrap justify-between gap-4 my-12 max-w-screen-xl mb-[120px] mx-8 sm:flex-nowrap sm:w-[80%]">
         {/* First Box */}
         <div className="w-full sm:w-1/2 relative rounded-[25px] overflow-hidden group">
           {/* Content */}
@@ -204,19 +204,19 @@ export default function About() {
 
       <div className="flex flex-col py-[100px] text-[#fff] bg-[#025C7A] justify-center items-center">
         <div className="mx-auto mb-12">
-          <h2 className="text-[32px] sm:text-[42px] font-semibold capitalize text-center leading-[1.2em] mb-4 w-[90%] sm:w-[45%] mx-auto">
+          <h2 className="text-[32px] sm:text-[42px] font-semibold capitalize text-left sm:text-center leading-[1.2em] mb-4 sm:w-[45%] mx-8">
             Trusted Experts Delivering Exceptional Service
           </h2>
-          <p className="text-md mt-1 text-center font-[urbanist] font-semibold w-[90%] sm:w-[90%] mx-auto">
+          <p className="text-md mt-1 text-left sm:text-center font-[urbanist] font-semibold sm:w-[90%] mx-8">
             At Eaze Tours, we pride ourselves on our team of dedicated professionals who go above and beyond to provide the best travel experiences. With years of industry expertise, our team is committed to ensuring every detail of your journey is taken care of, offering personalized service to meet your unique needs. From expert planning to seamless execution, we are here to make your travels unforgettable. Trust us to turn your dream trip into a reality!
           </p>
         </div>
 
-        <div className="gallery-container mx-0 w-[95%]">
+        <div className="gallery-container mx-0 w-[85%] sm:w-[85%]">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-            {[{ id: 1, title: "Manoj Singh Rana", content: "With over 28 years of industry experience, Manoj never misses an opportunity to amaze travelers. His suggestions are backed by extensive research. Truthfulness and simplicity are key points of his success.", bg: "/images/aboutus/harshit.jpg" },
-            { id: 2, title: "Harshit Nagar", content: "Harshit has done a Master's in Tourism Management and has 18 years of experience. He has traveled and escorted groups and FITs as per requirements.", bg: "/images/aboutus/jagroshan.jpg" },
-            { id: 3, title: "Jagroshan Prajapati", content: "With 25 years of experience, Jagroshan is the director of both finance and administration. He has a vast experience in tour and ticketing, along with excellent management skills.", bg: "/images/aboutus/Manoj.jpg" }
+            {[{ id: 1, title: "Manoj Singh Rana", content: "With over 28 years of industry experience, Manoj never misses an opportunity to amaze travelers. His suggestions are backed by extensive research. Truthfulness and simplicity are key points of his success.", bg: "/images/aboutus/Manoj.jpg" },
+            { id: 2, title: "Harshit Nagar", content: "Harshit has done a Master's in Tourism Management and has 18 years of experience. He has traveled and escorted groups and FITs as per requirements.", bg: "/images/aboutus/harshit.jpg" },
+            { id: 3, title: "Jagroshan Prajapati", content: "With 25 years of experience, Jagroshan is the director of both finance and administration. He has a vast experience in tour and ticketing, along with excellent management skills.", bg: "/images/aboutus/jagroshan.jpg" }
             ].map((box, index) => (
               <div
                 key={index}
