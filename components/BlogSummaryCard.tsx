@@ -1,6 +1,6 @@
 import React from "react";
-import Link from 'next/link'
-import { IBlogDataType } from "../types/Common"
+import Link from 'next/link';
+import { IBlogDataType } from "../types/Common";
 
 interface IBlogProp {
     blog: IBlogDataType;
@@ -26,7 +26,7 @@ function Blog({ blog }: IBlogProp) {
                         </ul>
                     </div>
 
-                    <p className="text-[22px] text-[#04000B] font-semibold hover:text-[#6E9753]"><Link href={getPackageHref(blog.Id)} passHref>
+                    <p className="text-[22px] text-[#04000B] line-clamp-2 font-semibold hover:text-[#6E9753]"><Link href={getPackageHref(blog.Id)} passHref>
                         {blog.Title}</Link></p>
                     <div>
                         <div className="flex items-start space-x-2">
