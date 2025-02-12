@@ -7,8 +7,8 @@ interface IBlogProp {
 }
 
 function Blog({ blog }: IBlogProp) {
-    const getPackageHref = (Id: string) => {
-        return "/blog/" + Id
+    const getPackageHref = (Urlb: string) => {
+        return "/blog/" + Urlb
     }
 
     return (
@@ -26,11 +26,11 @@ function Blog({ blog }: IBlogProp) {
                         </ul>
                     </div>
 
-                    <p className="text-[22px] text-[#04000B] line-clamp-2 font-semibold hover:text-[#6E9753]"><Link href={getPackageHref(blog.Id)} passHref>
-                        {blog.Title}</Link></p>
+                    <p className="text-[22px] text-[#04000B] line-clamp-2 font-semibold hover:text-[#6E9753]"><Link href={getPackageHref(blog.Urlb)} passHref>
+                        {blog.Page_heading}</Link></p>
                     <div>
                         <div className="flex items-start space-x-2">
-                            <p className="text-md text-[#04000B]"><Link href={getPackageHref(blog.Id)} passHref>
+                            <p className="text-md text-[#04000B]"><Link href={getPackageHref(blog.Urlb)} passHref>
                                 Continue Reading
                             </Link></p>
                             <i className="fa fa-arrow-right text-lg text-[#025C7A] -mt-1" />
