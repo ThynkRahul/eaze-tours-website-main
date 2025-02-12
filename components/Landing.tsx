@@ -591,7 +591,7 @@ function Landing(props: ILandingProps) {
                     className="mt-8"
                 >
                     {filteredBlogs.map((blog) => (
-                        <SwiperSlide key={blog.Id}>
+                        <SwiperSlide key={blog.Urlb}>
                             <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col ml-1 mb-[100px] mt-[5px]">
                                 <div
                                     className="w-full h-[262px] aspect-w-3 aspect-h-2 bg-cover bg-center rounded-t-[23px] border-b border-gray-300"
@@ -606,14 +606,14 @@ function Landing(props: ILandingProps) {
                                     </div>
 
                                     <p className="text-[22px] text-[#04000B] font-semibold hover:text-[#6E9753]">
-                                        <Link href={getPackageHref(blog.Id)} passHref>
+                                        <Link href={getPackageHref(blog.Urlb)} passHref>
                                             {blog.Title}
                                         </Link>
                                     </p>
                                     <div>
                                         <div className="flex items-start space-x-2">
                                             <p className="text-md text-[#04000B]">
-                                                <Link href={getPackageHref(blog.Id)} passHref>
+                                                <Link href={getPackageHref(blog.Urlb)} passHref>
                                                     Continue Reading
                                                 </Link>
                                             </p>
