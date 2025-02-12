@@ -36,7 +36,7 @@ export default function Blogs() {
             <div className="my-12 max-w-screen-xl mx-8">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 m-1 place-items-center">
                     {blogs.map(blog => (
-                        <div key={blog.Id}>
+                        <div key={blog.Urlb}>
                             <Blog blog={blog}></Blog>
                         </div>
                     ))}
