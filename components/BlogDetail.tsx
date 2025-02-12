@@ -7,7 +7,7 @@ interface BlogDetailProps {
 
 export default function BlogDetail({ blogId }: BlogDetailProps) {
     // Ensure the blog ID is valid and fetch the correct blog
-    const blog = blogData.find((item) => item.Id === blogId);
+    const blog = blogData.find((item) => item.Urlb === blogId);
 
     if (!blog) {
         return <p>Blog not found</p>;
@@ -20,10 +20,10 @@ export default function BlogDetail({ blogId }: BlogDetailProps) {
 
 
             <div className="p-6">
-                <h1 className="text-[45px] text-left font-semibold mb-8">{blog.Title}</h1>
+                <h1 className="text-[45px] text-left font-semibold mb-8">{blog.Page_heading}</h1>
                 <div
                     className="w-full h-[600px] aspect-w-3 aspect-h-2 bg-cover rounded-[40px] bg-center shadow-[0px_0px_2px_1px_#00000040] mb-4 border border-gray-300"
-                    style={{ backgroundImage: `url(${blog.Img})`,backgroundPosition: "bottom -20px center" }}
+                    style={{ backgroundImage: `url(${blog.Img})` }}
                 ></div>
                 <div dangerouslySetInnerHTML={{ __html: blog.Content }}
                 />
