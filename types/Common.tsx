@@ -36,8 +36,10 @@ interface ITestimonialDataType {
 }
 
 interface IBlogDataType {
-    Id: string;
+    Urlb: string;
     Title: string;
+    Page_heading: string;
+    Description: string;
     Content: string;
     Img: string;
 }
