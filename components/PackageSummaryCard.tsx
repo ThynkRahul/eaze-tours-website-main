@@ -26,7 +26,7 @@ function PackageSummaryCard({ tourPackage }: IPackageSummaryCardProp) {
                         <i className="fa fa-map-marker-alt text-lg text-[#4F5E71] -mt-1" />
                         <span>{tourPackage.Name}</span>
                     </p>
-                    <h2 className="text-black-700 font-urbanist text-[16px] line-clamp-2">{tourPackage.LocationDescription}</h2>
+                    <h2 className="text-black-700 font-urbanist text-[16px] line-clamp-2 hover:text-[#6E9753]"><Link href={getPackageHref(tourPackage.Uri)} passHref>{tourPackage.LocationDescription}</Link></h2>
                     <div className="flex space-x-2">
                         <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
                         <p className="text-[16px] grow-0">{tourPackage.Ratings}</p>
