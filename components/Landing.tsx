@@ -566,7 +566,7 @@ function Landing(props: ILandingProps) {
             </div >
 
             {/* Heading Before the Testimonial Slider */}
-            <div className="my-12 max-w-screen-xl mx-8 sm:mx-auto">
+            <div className="my-12 max-w-screen-xl mx-8">
                 <h2 className="text-2xl font-semibold text-black mt-12" style={{ fontSize: '32px' }}>
                     Latest Blog & Articles
                 </h2>
