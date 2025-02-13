@@ -7,7 +7,6 @@ interface IPackageSummaryCardProp {
     tourPackage: IPackageDetailDataType
 }
 
-
 function PackageSummaryCard({ tourPackage }: IPackageSummaryCardProp) {
     const getPackageHref = (Uri: string) => {
         return "/packages/" + Uri
