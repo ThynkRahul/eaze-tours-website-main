@@ -1,58 +1,49 @@
 import React from "react";
-import Link from 'next/link'
-import { PackageImage } from "./Images";
-import { IPackageDetailDataType } from "../types/Common"
+import Link from 'next/link';
+import { IBlogDataType } from "../types/Common";
 
-interface IPackageSummaryCardProp {
-    tourPackage: IPackageDetailDataType
+interface IBlogProp {
+    blog: IBlogDataType;
 }
 
-
-function PackageSummaryCard({ tourPackage }: IPackageSummaryCardProp) {
-    const getPackageHref = (Uri: string) => {
-        return "/packages/" + Uri
+function Blog({ blog }: IBlogProp) {
+    const getPackageHref = (Urlb: string) => {
+        return "/blog/" + Urlb
     }
 
     return (
         <>
-            <div className="card bg-base-100 shadow-xl m-1 h-full shadow-[0px_0px_2px_1px_#00000040]">
-                <div className="h-[200px] rounded-tl-[23px] rounded-tr-[23px] overflow-hidden">
-                    <figure className="h-[200px] transform scale-100 transition-transform duration-300 ease-in-out hover:scale-110">
-                        <PackageImage source={tourPackage.Id}></PackageImage>
-                    </figure>
-                </div>
-                <div className="card-body flex flex-col items-start p-[16px]">
-                    <p className="text-sm text-[#4F5E71] flex grow-0 items-start space-x-2">
-                        <i className="fa fa-map-marker-alt text-lg text-[#4F5E71] -mt-1" />
-                        <span>{tourPackage.Name}</span>
-                    </p>
-                    <h2 className="text-black-700 font-urbanist text-[16px] line-clamp-2 hover:text-[#6E9753]"><Link href={getPackageHref(tourPackage.Uri)} passHref>{tourPackage.LocationDescription}</Link></h2>
-                    <div className="flex space-x-2">
-                        <i className="fa fa-star text-lg text-yellow-400 -mt-1" />
-                        <p className="text-[16px] grow-0">{tourPackage.Ratings}</p>
-                        <p className="text-[16px] text-[#4F5E71] grow-0">({tourPackage.NoOfRatings} Reviews)</p>
+            <div className="bg-white rounded-[23px] shadow-[0px_0px_2px_1px_#00000040] flex flex-col ml-1">
+                <div
+                    className="w-full h-[262px] aspect-w-3 aspect-h-2 bg-cover bg-center rounded-t-[23px] border-b border-gray-300"
+                    style={{ backgroundImage: `url(${blog.Img})` }}
+                ></div>
+                <div className="w-full px-4 py-10 flex flex-col justify-center gap-5">
+                    <div className="flex items-start space-x-2">
+                        <p className="text-[16px] text-[#666666BF]">Admin</p>
+                        <ul className="list-disc pl-5 space-y-2 text-[16px] text-[#666666BF] marker:text-[#025C7A]">
+                            <li>India</li>
+                        </ul>
                     </div>
-                    <div className="flex gap-2 pt-2 mb-3">
-                        {tourPackage.Tags.map((tag, index) => (
-                            <span
-                                key={index}
-                                className={`px-3 py-1 capitalize rounded-sm text-sm text-white ${index % 2 === 0 ? 'bg-[#025C7A]' : 'bg-[#6E9753]'
-                                    }`}
-                            >
-                                {tag}
-                            </span>))}
-                    </div>
-                    <hr className="w-full" />
-                    <div className="card-actions justify-start mt-2">
-                        <Link href={getPackageHref(tourPackage.Uri)} passHref>
-                            <button className="mt-3 w-32 py-2 border-2 border-[#025C7A] bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-white transition-all duration-300">More Details</button>
-                        </Link>
+
+                    <p className="text-[22px] text-[#04000B] line-clamp-2 font-semibold hover:text-[#6E9753]"><Link href={getPackageHref(blog.Urlb)} passHref>
+                        {blog.Page_heading}</Link></p>
+                    <div>
+                        <div className="flex items-start space-x-2">
+                            <p className="text-md text-[#04000B]"><Link href={getPackageHref(blog.Urlb)} passHref>
+                                Continue Reading
+                            </Link></p>
+                            <i className="fa fa-arrow-right text-lg text-[#025C7A] -mt-1" />
+                        </div>
                     </div>
                 </div>
             </div>
+
+
+
         </>
     )
 
 }
 
-export default PackageSummaryCard;
+export default Blog;
