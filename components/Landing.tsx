@@ -5,7 +5,11 @@ import PackageSummaryCard from './PackageSummaryCard';
 import Testimonial from "./Testimonial";
 import backgroundImage from '../public/images/background_2.jpg';
 import backgroundImage2 from '../public/images/background_4.jpeg';
-import cetificateimage from '../public/images/eazetour_certificate.png';
+import isoimage from '../public/images/iso.png';
+import latoimage from '../public/images/lato.jpg';
+import msmeimage from '../public/images/msme.jpg';
+import mtfoimage from '../public/images/mtfoi.png';
+import sepcimage from '../public/images/sepc-logo.webp';
 import backgroundImage4 from '../public/images/background_5.jpg';
 import backgroundImage3 from '../public/images/background_6.jpg';
 import packageData from '../data/packages.json'
@@ -571,16 +575,32 @@ function Landing(props: ILandingProps) {
                 <div className="my-12 max-w-screen-xl mx-8">
                     <div className="flex justify-between items-center mb-8">
                         <h2 className="text-2xl font-semibold text-black text-center sm:text-left" style={{ fontSize: '32px' }}>
-                            Certified from Various Institutes
+                            Our Accreditations & Certifications
                         </h2>
                     </div>
                 </div>
 
                 {/* Gallery Grid */}
-                <div className="max-w-screen-xl mx-8">
-                    <Image src={cetificateimage}
+                <div className="grid grid-cols-5 justify-center items-center gap-8 max-w-screen-xl mx-8">
+                    <Image src={isoimage}
                         alt="cetificate_Image"
-                        className="object-contain max-w-full max-h-screen"
+                        className="object-contain max-w-full max-h-screen w-[100%]"
+                    />
+                    <Image src={msmeimage}
+                        alt="cetificate_Image"
+                        className="object-contain max-w-full max-h-screen w-[100%]"
+                    />
+                    <Image src={latoimage}
+                        alt="cetificate_Image"
+                        className="object-contain max-w-full max-h-screen w-[100%]"
+                    />
+                    <Image src={sepcimage}
+                        alt="cetificate_Image"
+                        className="object-contain max-w-full max-h-screen w-[100%]"
+                    />
+                    <Image src={mtfoimage}
+                        alt="cetificate_Image"
+                        className="object-contain max-w-full max-h-screen w-[100%]"
                     />
                 </div>
             </div>
