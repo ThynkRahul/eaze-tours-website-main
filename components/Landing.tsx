@@ -5,6 +5,7 @@ import PackageSummaryCard from './PackageSummaryCard';
 import Testimonial from "./Testimonial";
 import backgroundImage from '../public/images/background_2.jpg';
 import backgroundImage2 from '../public/images/background_4.jpeg';
+import cetificateimage from '../public/images/eazetour_certificate.png';
 import backgroundImage4 from '../public/images/background_5.jpg';
 import backgroundImage3 from '../public/images/background_6.jpg';
 import packageData from '../data/packages.json'
@@ -12,6 +13,7 @@ import testimonialData from '../data/testimonials.json'
 import Image from 'next/image';
 import Link from 'next/link'
 import blogData from '../data/blog.json';
+import { Certificate } from "crypto";
 
 const images = [
     '/images/gallery/12.jpg',
@@ -565,6 +567,23 @@ function Landing(props: ILandingProps) {
                 </a>
             </div >
 
+            <div className="w-full bg-white">
+                <div className="my-12 max-w-screen-xl mx-8">
+                    <div className="flex justify-between items-center mb-8">
+                        <h2 className="text-2xl font-semibold text-black text-center sm:text-left" style={{ fontSize: '32px' }}>
+                            Certified from Various Institutes
+                        </h2>
+                    </div>
+                </div>
+
+                {/* Gallery Grid */}
+                <div className="max-w-screen-xl mx-8">
+                    <Image src={cetificateimage}
+                        alt="cetificate_Image"
+                        className="object-contain max-w-full max-h-screen"
+                    />
+                </div>
+            </div>
             {/* Heading Before the Testimonial Slider */}
             <div className="my-12 max-w-screen-xl mx-8">
                 <h2 className="text-2xl font-semibold text-black mt-12" style={{ fontSize: '32px' }}>
