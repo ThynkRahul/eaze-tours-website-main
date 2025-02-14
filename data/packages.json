@@ -7,10 +7,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Arrival Delhi"
+                        "S": "Arrival in Delhi"
                     },
                     "description": {
-                        "S": "Assistance & Traditional welcome on arrival in the capital of India & followed by transfer to Hotel for Overnight. \n\nFrom the spacious and planned streets of New Delhi, the imperial capital of India, Delhi is perhaps one of the best examples in the world where the \u2018old\u2019 meets the \u2018new\u2019. Strolling through the streets of Delhi the contrasts continue. You will experience the ringing bells of bicycle rickshaws, see Mercedes Benz cars driving around Eating out also offers a variety of options from a rich Mughlai curry to a wood fired pizza. On this sightseeing tour of Old and New Delhi your senses will come alive as you encounter the many sights and sounds this amazing city has to offer."
+                        "S": "<li>Meet and assist upon arrival at Indira Gandhi International Airport.</li> <li>Transfer to the hotel for check-in.</li> <li>Overnight stay in Delhi.</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -23,10 +23,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Delhi"
+                        "S": "Delhi Sightseeing"
                     },
                     "description": {
-                        "S": "After breakfast meet with our executive who give briefing about your tour & hand over all your travel documents. Later start the full day tour.\n\nTours starts with visit of Old Delhi, the 17th century walled city of Shah Jahanabad, Visiting the great Jama MasjId, the principal mosque of Old Delhi. Built in the year 1656 AD by the Mughal Emperor Shah Jahan, it is the largest & best known mosque in India. Later we walk down or take a rickshaw rIde through Chandi Chowk, the old marketplace of Shah Jahanabad now a picturesque bazaar to reach Red Fort, built in the year 1648 by Shah Jehan.\n\nLater you will visit New Delhi. In New Delhi you will visit sights such as the impressive Qutub Minar, listed as a UNESCO World Heritage Site. built by Qutub-ud-Din Aibek in 1199 from sandstone and marble, Humayun\u2019s Tomb, memorial of Mughal Emperor Humayun, built in the year 1562. The complex is a World Heritage Site & the first example of this type of Mughal architecture in India., India Gate (War Memorial Arch) and Lakshminarayan Temple, a modern Hindu Temple. You will drive past the PresIdent\u2019s House, Parliament House, Government Secretariat Buildings and Connaught Place shopping centre."
+                        "S": "<li>Morning tour of Old Delhi:</li> <li>Drive past the historic Red Fort.</li> <li>Visit Jama Masjid, India's largest mosque.</li> <li>Enjoy a rickshaw ride through Chandni Chowk.</li> <li>Visit Raj Ghat, the memorial to Mahatma Gandhi.</li> <li>Afternoon tour of New Delhi:</li> <li>Visit Qutub Minar and the Iron Pillar.</li> <li>Explore Humayun's Tomb.</li> <li>Drive past India Gate and Rashtrapati Bhavan.</li> <li>Overnight stay in Delhi.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -39,10 +39,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Delhi / Mandawa ( Shekhawati)"
+                        "S": "Delhi to Mandawa (Shekhawati)"
                     },
                     "description": {
-                        "S": "After breakfast drive to Mandawa, lunch n the way . On arrival, check in at hotel . late afternoon visit the havelis around this area . The small little beautiful town of Mandawa is in the heart of the Shekhavati region. Known throughout for its wonderful castle and magnificent havelis, Mandawa gives the impression of living in the bygone era. Mandawa can be transcribed as surprise at every turn. No single room either, in the havelis, is similar to that f the other. Most of the buildings are dated from 18th century to early 20th century.\n\nOvernight at Hotel."
+                        "S": "<li>After breakfast, drive to Mandawa.</li> <li>Check-in at the hotel upon arrival.</li> <li>Late afternoon visit the havelis around this area.</li> <li>Overnight stay at Hotel.</li> <li>Note: The small little beautiful town of Mandawa is in the heart of the Shekhawati region. Known for its wonderful castle and magnificent havelis, Mandawa gives the impression of living in the bygone era. Mandawa can be transcribed as a surprise at every turn. No single room either, in the havelis, is similar to that of the other. Most of the buildings are dated from the 18th century to early 20th century.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -55,10 +55,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Mandawa / Bikaner"
+                        "S": "Mandawa to Bikaner"
                     },
                     "description": {
-                        "S": "After breakfast drive to Bikaner. On the way visit Fathepur and see some wonderful Fresco example at here. Arrive Bikaner. BIKANER \u2013 The royal fortified city with a timeless appeal. Lying in the north of the Desert State, the city is dotted with many sand dunes. Bikaner retains the medieval splendor that pervades the city\u2019s lifestyle. More popularly called the camel country, the city is renowned for the best rIding camels in the world. The ship of the desert is an inseparable part of life here. Be it pulling heavy carts, transporting grains or working on wells, camels are the prime helpers. The wells of Bikaner \u2013 an important source of water are other attractions of the city. These are built on high plinths with slender minareted towers on each of the Four Corners and can be noticed even from a distance. Overnight stay at Hotel."
+                        "S": "<li>After breakfast, drive to Bikaner.</li> <li>On the way visit Fatehpur and see some wonderful Fresco examples here.</li> <li>Arrive Bikaner.</li> <li>Explore BIKANER – The royal fortified city with a timeless appeal.</li> <li>Overnight stay at Hotel.</li> <li>Bikaner: Lying in the north of the Desert State, the city is dotted with many sand dunes. Bikaner retains the medieval splendor that pervades the city’s lifestyle. More popularly called the camel country, the city is renowned for the best riding camels in the world. The ship of the desert is an inseparable part of life here. Be it pulling heavy carts, transporting grains or working on wells, camels are the prime helpers. The wells of Bikaner – an important source of water are other attractions of the city. These are built on high plinths with slender minaret towers on each of the four corners and can be noticed even from a distance.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -71,10 +71,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Bikaner / Jaisalmer"
+                        "S": "Bikaner to Jaisalmer"
                     },
                     "description": {
-                        "S": "After breakfast drive to Jaisalmer. Rising from the heart of the Thar Desert like a golden mirage is the city of Jaisalmer. A commanding fort etched in yellow sandstone stands, with its awesome splendor, dominating the amber-hued city. The city has an interesting legend associated with it, according to which, Lord Krishna-the head of the Yadav Clan, foretold Arjuna that a remote descendent of the Yadav Clan would build his kingdom atop the Trikuta Hill. His prophecy was fulfilled in 1156 AD when Rawal Jaisal, a descendent of the Yadav Clan and a Bhatti Rajput, abandoned his fort at Lodurva and founded a new capital -Jaisalmer, perched on the Trikuta Hill. On arrival, check in at hotel . Overnight stay at Jaisalmer."
+                        "S": "<li>After breakfast, drive to Jaisalmer.</li> <li>On arrival, check in at the hotel.</li> <li>Explore JAISALMER – The royal fortified city with a timeless appeal.</li> <li>Overnight stay at Jaisalmer.</li> <li>Jaisalmer: Rising from the heart of the Thar Desert like a golden mirage is the city of Jaisalmer. A commanding fort etched in yellow sandstone stands, with its awesome splendor, dominating the amber-hued city. The city has an interesting legend associated with it, according to which, Lord Krishna, the head of the Yadav Clan, foretold Arjuna that a remote descendant of the Yadav Clan would build his kingdom atop the Trikuta Hill. His prophecy was fulfilled in 1156 AD when Rawal Jaisal, a descendant of the Yadav Clan and a Bhatti Rajput, abandoned his fort at Lodurva and founded a new capital—Jaisalmer, perched on the Trikuta Hill.</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -87,10 +87,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Jaisalmer"
+                        "S": "Jaisalmer Sightseeing"
                     },
                     "description": {
-                        "S": "After a relaxed breakfast proceed for full day sightseeing tour of The Golden City \u2013 Jaisalmer. It is in the heart of the Great Indian Desert. Its temple, fort and palaces are all built of yellow stone. The city is a mass of intricately carved buildings, facades and elaborate balconies. Visit the JAISALMER FORT \u2013 The oldest living Fort in the world. (This is the highlight of the tour) See the Patwon-Ki-Havelies, Salim-Singh-Ki-Haveli and Gandhi Sagar Tank. Also visit Barabagh Hill. In the afternoon, proceed to the SAM SAND DUNES for visiting the typical Rajasthani Desert Village. View the sunset from the dunes, as the sky is set on fire. Return to hotel.\n\nOvernight stay at Jaisalmer."
+                        "S": "<li>After breakfast, proceed for a full-day sightseeing tour of The Golden City – Jaisalmer.</li> <li>It is in the heart of the Great Indian Desert. Its temples, fort, and palaces are all built of yellow sandstone. The city is a mass of intricately carved buildings, facades, and elaborate balconies.</li> <li>Visit the JAISALMER FORT – The oldest living fort in the world. (This is the highlight of the tour) See the Patwon-Ki-Havelis, Salim-Singh-Ki-Haveli, and Gandhi Sagar Tank.</li> <li>In the afternoon, proceed to the SAM SAND DUNES to visit the typical Rajasthani Desert Village.</li> <li>View the sunset from the dunes, as the sky is set on fire.</li> <li>Return to the hotel.</li> <li>Overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -106,7 +106,7 @@
                         "S": "Jaisalmer / Jodhpur / Luni"
                     },
                     "description": {
-                        "S": "Breakfast at hotel. Drive to Jodhpur. Set at the edge of the Thar Desert, the imperial city of Jodhpur echoes with tales of antiquity in the emptiness of the desert. Once the capital of the Marwar state, On arriva sightseeing of Jodhpur- gateway to the desert beyond, home of the Rathors of Marwar, visit the Mehrangarh Fort, rising up a hilly scarp, built on the advice of a hermit, overlooking the city in the image of a long sentinel. InsIde the Fort are a number of palaces added by successive rulers. In this palace you would see different miniature paintings & cradle room. After this you would visit Jaswant Thada Memorial. After visit continue to Luni & on arrival check in to at Fort Chanwa, Fort Chanwa of Luni is an exceptional example of elegance and symmetry in Indian architecture of the last century. The entire fortress is carved out of the famous red sandstone of Jodhpur and with its ornately carved lattice work friezes and intricate \u201cJharokas\u201d, it exquisitely captures the romance and grace of a bygone age. Overnight at Hotel."
+                        "S": "<li>Breakfast at the hotel before departing for Jodhpur.</li> <li>Drive to Jodhpur, an imperial city on the edge of the Thar Desert, rich in history and heritage.</li> <li>Sightseeing in Jodhpur, once the capital of Marwar and home to the Rathors.</li> <li>Visit Mehrangarh Fort, built on a hilly scarp, featuring palaces, miniature paintings, and a cradle room.</li> <li>Explore Jaswant Thada Memorial, a stunning marble cenotaph.</li> <li>Continue to Luni and check in at Fort Chanwa, an architectural masterpiece of red sandstone.</li> <li>Overnight stay at the hotel in Luni.</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -122,7 +122,7 @@
                         "S": "Jodhpur / Ranakpur / Udaipur"
                     },
                     "description": {
-                        "S": "Today we drive to Udaipur, en-route we visit Ranakpur where you will find over 500 year old temples which are well preserved almost in perfect condition. These temples are the most complex and extensive in design, interestingly no two pillars are alike. The temple has 29 halls, 80 domes and the pavilions include 1,444 pillars, each of them so intricately and artistically carved that they\u2019ll leave a lasting impression. The figures of dancing goddesses, beautifully engraved on these pillars are an utmost architectural wonder. The Later we continue our journey and stay overnight at hotel in Udaipur."
+                        "S": "<li>Drive to Udaipur with an en-route visit to Ranakpur Temples.</li> <li>Explore 500-year-old temples, preserved in near-perfect condition.</li> <li>Admire the intricate architecture of these extensive and complex temples.</li> <li>Marvel at 1,444 uniquely carved pillars, where no two are alike.</li> <li>The temple features 29 halls, 80 domes, and beautifully designed pavilions.</li> <li>Stunning figures of dancing goddesses engraved on the pillars showcase architectural brilliance.</li> <li>Continue the journey to Udaipur and stay overnight at a hotel.</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -135,10 +135,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Udaipur"
+                        "S": "Udaipur Sightseeing"
                     },
                     "description": {
-                        "S": "After breakfast we proceed for sightseeing tour of the most beautiful Lakes cities in Rajasthan. Visit City Palace which has several carved balconies, arches and decorated pillars, Zanana Mahal, Durbar Hall and Shambhu Niwas. Evening we witness sunset while enjoying boat rIde on picturesque Lake Pichola. The lake is surrounded by hills, palaces, temples, bathing ghats and embankments. Overnight at hotel."
+                        "S": "<li>After breakfast, proceed for a sightseeing tour of Rajasthan’s beautiful lake cities.</li> <li>Visit City Palace, featuring carved balconies, arches, and decorated pillars.</li> <li>Explore Zanana Mahal, Durbar Hall, and Shambhu Niwas within the palace.</li> <li>In the evening, enjoy a boat ride on Lake Pichola while witnessing a stunning sunset.</li> <li>Admire the scenic surroundings of hills, palaces, temples, and bathing ghats.</li> <li>Overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -154,7 +154,7 @@
                         "S": "Udaipur / Pushkar"
                     },
                     "description": {
-                        "S": "After breakfast drive to Pushkar, Pushkar is all about a semicircular lake with 52 \u2018ghats\u2019. The maximum depth of the lake is 10mteres. It is a holy place and is known as king of all \u2018tiraths\u2019. A holy dip in this lake on Karthik Purnima is saId to wash all the sins and leads to salvation. It is saId that the one who bathes in this holy water during the brighter fortnight of the Hindu calendar month Karthik and sees a Varah (an incarnation of Vishnu), will not take a rebirth on this planet again and can enjoy the heavenly bliss forever. The Karthik Purnima holy dip in this lake gives one a blessing equal to hundred penances. There are many yojana spots which can not be counted by the teacher of gods, Brihaspati. Ovrnight at Hotel."
+                        "S": "<li>Morning: After breakfast, drive to Pushkar.</li> <li>Pushkar Highlights:</li> <li>Home to a semicircular lake with 52 ‘ghats.’</li> <li>Maximum depth of the lake is 10 meters.</li> <li>Considered the king of all ‘tiraths’ (pilgrimage sites).</li> <li>Spiritual Significance:</li> <li>A holy dip on Karthik Purnima is believed to wash away sins and grant salvation.</li> <li>Bathing during the brighter fortnight of Karthik and seeing Varah (Vishnu’s incarnation) is said to prevent rebirth.</li> <li>The Karthik Purnima dip equals the blessings of a hundred penances.</li> <li>Mythological Importance:</li> <li>Features numerous yojana spots, beyond the count of Brihaspati, the teacher of gods.</li> <li>Evening: Overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "10"
@@ -170,7 +170,7 @@
                         "S": "Pushkar / Jaipur"
                     },
                     "description": {
-                        "S": "Today we drive to Jaipur, The Pink city of Jaipur is the capital of the Indian State of Rajasthan, famous forits forts, palaces, lakes, sand and colorful culture. Jaipur would have been part of the Thar desert but for the Aravalli hills that cover it from one sIde. Overnight at Hotel."
+                        "S": "<li>Drive to Jaipur, the capital of Rajasthan.</li> <li>Known as the Pink City, famous for forts, palaces, and lakes.</li> <li>Rich in culture, history, and vibrant traditions.</li> <li>Protected from the Thar Desert by the Aravalli Hills.</li> <li>Overnight stay at a hotel.</li>"
                     },
                     "Id": {
                         "N": "11"
@@ -183,10 +183,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Jaipur"
+                        "S": "Jaipur Sightseeing"
                     },
                     "description": {
-                        "S": "Today we take an excursion to Amber Fort, the palace complex which stands to this date was commenced under the reign of Raja Man Singh. We take an Elephant rIde to reach the Fort situated on the hill, an overwhelming experience.\n\nLater we visit the City Palace, a perfect blend of Rajasthani & Mughal architecture. The center of the palace is a seven-storied building called Chandra Palace, with fine views over the gardens & the city. Further we visit Jantar Mantar (Solar Observatory), an astronomical treasure house, with solar devices that give accurate predictions till date. We also visit Hawa Mahal (Palace of Winds), a five-storied structure of pink sandstone. It was built in the year 1799 so that veiled royal women could peer down the busy street market unseen by the world through its 593 stone Jharokas (mini windows)."
+                        "S": "<li>Excursion to Amber Fort, built under Raja Man Singh’s reign.</li> <li>Enjoy an elephant ride up to the hilltop fort for a memorable experience.</li> <li>Visit City Palace, a blend of Rajasthani & Mughal architecture.</li> <li>Explore Chandra Palace, the seven-storied centerpiece with stunning city views.</li> <li>Tour Jantar Mantar, a solar observatory with precise astronomical instruments.</li> <li>See Hawa Mahal (Palace of Winds), a five-story pink sandstone structure from 1799.</li> <li>Admire its 593 stone Jharokas, designed for royal women to observe the bustling streets unseen.</li>"
                     },
                     "Id": {
                         "N": "12"
@@ -202,7 +202,7 @@
                         "S": "Jaipur / Fatehpur Sikri / Agra"
                     },
                     "description": {
-                        "S": "Today we drive to Agra, en route we will visit Fatehpur Sikri (Ghost Capital), the political capital of India\u2019s Mughal Empire under Akbar\u2019s reign, from the year 1571 until 1585, when it was abandoned, ostensibly due to lack of water. We visit Emperor Akbar\u2019s ResIdential complex, Mosque & Tomb of Salim Chisti.\n\nFurther we continue drive to Agra. located on the West Bank of Yamuna, developed as a great center of architecture, art and Mughal culture. A number of forts, buildings and tombs were constructed during the 16th century, which was the peak period of Mughal glory in Agra , India . The city of Agra is one of the oldest cities in the country that is known for being home to the Taj Mahal, which is one of the Seven Wonders of the World . We find the mention of this great city as \u2018Agraban\u2019 in one of the oldest epics of India , Mahabharata. On arrival check in to Hotel. Overnight at Hotel."
+                        "S": "<li>Drive to Agra, visiting Fatehpur Sikri (Ghost Capital) en route.</li> <li>Fatehpur Sikri was the political capital of the Mughal Empire under Akbar from 1571 to 1585.</li> <li>The city was abandoned due to water scarcity.</li> <li>Visit Emperor Akbar’s Residential Complex, Mosque & Tomb of Salim Chisti.</li> <li>Continue the journey to Agra, located on the west bank of the Yamuna River.</li> <li>Agra flourished as a center of Mughal architecture, art, and culture in the 16th century.</li> <li>Home to iconic Mughal-era forts, buildings, and tombs.</li> <li>Agra, known as ‘Agraban’ in the Mahabharata, is home to the Taj Mahal.</li> <li>Check into the hotel upon arrival.</li> <li>Overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "13"
@@ -218,7 +218,7 @@
                         "S": "Agra / Delhi Departure"
                     },
                     "description": {
-                        "S": "Early morning sun rise visit the Monument of Love Taj Mahal, The Mughal emperor Shah Jahan built this lovely dream in white marble as a tomb for his wife Mumtaz Mahal, later he was also buried alongsIde his wife in the same tomb. It took 20,000 workers to complete this monument in a period of 22 years. The white marble blocks used for the construction of this great monument was carted down all the way from Makrana in Rajasthan , India . The intricate inlay work with precious and semi-precious stones that was done on the walls of the Taj Mahal is one of the finest specimens of Mughal architecture in India. After visit return back to Hotel for breakfast Later visit other spots of this great city. Mughal ruler Akbar\u2019s tomb, Sikandra. Sikandra is located at a distance of 3 kilometers from the main Agra city. Akbar ascended the throne at the age of 13. He started building this tomb during his lifetime and his successor and son Jehangir completed this monument after he passed away. The architecture of the tomb at Sikandra is similar to that of the Taj Mahal that was constructed later. This tomb is built in the Indo-Saracenic architectural style and is an interesting place to visit during your tours. The tomb of Itmad-Ud-Daulah is another one of the important tourist destinations in Agra . This tomb was personally designed by Itmad-Ud-Daulah in the Charbagh architectural style. The inlay work and intricate patterns on the walls of the tomb have a common theme depicting a wine flask with snakes for handles. There are several tombs insIde this complex that belong to the other members of the family. In the end visit Grat Fort of Agra followed by drive to Delhi, upon arrival in Delhi Transfer to Airport for onward Destination."
+                        "S": "<li>Early Morning Visit to Taj Mahal</li> <li>Experience the sunrise at the iconic Monument of Love, the Taj Mahal.</li> <li>Built by Mughal Emperor Shah Jahan as a tomb for his wife, Mumtaz Mahal.</li> <li>Shah Jahan was later buried alongside her in the same tomb.</li> <li>Constructed over 22 years with 20,000 workers.</li> <li>White marble sourced from Makrana, Rajasthan.</li> <li>Features intricate inlay work with precious and semi-precious stones, showcasing Mughal architectural brilliance.</li> <li>Return to the hotel for breakfast.</li> <li>Visit to Mughal Emperor Akbar’s Tomb, Sikandra</li> <li>Located 3 km from Agra city.</li> <li>Akbar started its construction, later completed by his son Jehangir.</li> <li>The tomb features Indo-Saracenic architecture, resembling the Taj Mahal.</li> <li>Exploring Itmad-Ud-Daulah’s Tomb</li> <li>Built in Charbagh architectural style.</li> <li>Designed by Itmad-Ud-Daulah himself.</li> <li>Features intricate inlay work with unique patterns, including a wine flask with snake-shaped handles.</li> <li>Houses tombs of other family members.</li> <li>Visit to Agra Fort</li> <li>Explore the grand Mughal fort with stunning architecture and rich history.</li> <li>Drive Back to Delhi</li> <li>Transfer to the airport for onward destination.</li>"
                     },
                     "Id": {
                         "N": "14"
@@ -239,9 +239,10 @@
         "Title": "Explore Fort and Palaces of India Tour - Eaze Tours",
         "Description": "Explore the majestic Fort and Palaces of India with Eaze Tours. Experience royal heritage, stunning architecture, and timeless stories on your journey.",
         "NoOfRatings": 19,
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Standard Check in and checkout time is 1200 Hrs.</li> <li>Welcome by Garland upon arrival at Airport/railway station.</li> <li>Surprise Gifts at the end of the tour.</li> <li>Assistance on arrival – departure at airport.</li> <li>Rides as per sightseeing in the itinerary.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+        "Whats_Included": "<li>Accommodation: 13 nights in 4-star hotels with daily breakfast.</li> <li>Daily Morning Breakfast and Dinner in Hotels.</li> <li>All airport station transfers / sightseeing tours / intercity drives by Air-conditioned vehicle including all parking / toll taxes / interstate taxes / fuel charges / driver allowance.</li> <li>Accompanied Eaze Tour Manager as per group Strength.</li> <li>Guided Tours: English-speaking local guides for city tours as per Itinerary.</li> <li>Per day 02 Water Bottles to per guest during sightseeing tour.</li> <li>One time Monument entrance fee during the tour.</li> <li>Taxes: All applicable taxes and service charges.</li>",
+        "Overview": "Embark on a captivating 14-day journey through India's most iconic forts and palaces, immersing yourself in the rich history, architectural grandeur, and vibrant cultures of Rajasthan and beyond. This meticulously crafted itinerary offers a blend of guided tours, cultural experiences, and leisure time, ensuring a comprehensive exploration of India's royal heritage.",
         "Ratings": 4.9
     },
     {
@@ -252,10 +253,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "ARRIVAL NJP RAILWAY STATION / (IXB) BAGDOGRA AIRPORT \u2013 GANGTOK"
+                        "S": "Arrival NJP Railway Station / (IXB) Bagdogra Airport – Gangtok"
                     },
                     "description": {
-                        "S": "On arrival at NJP Railway Station / (IXB) Bagdogra Airport, (500Ft / 150Mts) you will be met by our office Executive who will assist you to board your vehicle to Gangtok (5500 Ft /1677 Mts, 130 Kms / 4 Hrs). Check in & over night at Hotel."
+                        "S": "<li>Arrive at NJP Railway Station or Bagdogra Airport (IXB) at 500 ft/150 m elevation.</li><li>Our office executive will greet you and assist with boarding your vehicle.</li><li>Travel to Gangtok (5500 ft/1677 m; 130 km; approx. 4 hrs).</li><li>Check in and stay overnight at the hotel.</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -268,10 +269,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "GANGTOK"
+                        "S": "Gangtok Sightseeing"
                     },
                     "description": {
-                        "S": "After breakfast, in the morning, start for excursion to Tshangu Lake \u2013 situated at a height of 12400Ft / 3780 Mts / 43Kms in 3Hrs one way, with an average depth of 50 ft. The cool water of the Lake is perfectly attuned with the scenic beauty around. Back to Gangtok and Overnight at Hotel."
+                        "S": "<li>Morning Departure: After breakfast, head out for an excursion.</li><li>Destination: Visit Tshangu Lake, located 43 km away with a 3-hour journey one way.</li><li>Altitude & Depth: The lake sits at 12,400 ft (3,780 m) with an average depth of 50 ft.</li><li>Experience: Enjoy the cool waters and surrounding scenic beauty.</li><li>Return: Head back to Gangtok and spend the night at a hotel.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -284,10 +285,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "GANGTOK- KALIMPONG"
+                        "S": "Gangtok to Kalimpong"
                     },
                     "description": {
-                        "S": "Go for a half day sightseeing covering Rumtek Monastery OR Jhakri Water Falls along with Droul Chorthen, Research Institute of Tibetology, Directorate of Handicraft & Handloom & Enchey Monastery. Afternoon transfer to Kalimpong (3937 Ft / 1200 Mts, 85 Kms / 3 Hrs), Check in & over night at Hotel."
+                        "S": "<li>Half-day sightseeing: choose between Rumtek Monastery or Jhakri Water Falls</li><li>Visit Droul Chorthen, Research Institute of Tibetology, Directorate of Handicraft & Handloom, and Enchey Monastery</li><li>Afternoon transfer to Kalimpong (3937 ft/1200 m, 85 km/3 hrs)</li><li>Check-in and overnight hotel stay</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -300,10 +301,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "KALIMPONG \u2013 DARJEELING"
+                        "S": "Kalimpong to Darjeeling"
                     },
                     "description": {
-                        "S": "Today after Breakfast visit Dello hills, Dr. Graham\u2019s Home, Flower Nurseries, Jang-Dong-Palriffo Brang and Durbin Dara Hills. Transfer to Darjeeling (7380 Ft / 2250 Mts, 70 Kms / 03 Hrs), Overnight at Hotel."
+                        "S": "<li>After breakfast, visit Dello Hills, Dr. Graham’s Home, Flower Nurseries, Jang-Dong-Palriffo Brang & Durbin Dara Hills.</li><li>Transfer to Darjeeling (7380 ft / 2250 m, 70 kms / 03 hrs).</li><li>Overnight at hotel.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -316,10 +317,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DARJEELING"
+                        "S": "Explore Darjeeling"
                     },
                     "description": {
-                        "S": "Early morning tour to Tiger Hills (8364 Ft / 2550 Mts at around 4 AM) to view sunrise over Kanchendzonga Peak (subject to clear weather). On way back visit Ghoom Monastery, Batasia Loop. After breakfast go for a half-day sight seeing of Japanese Temple, Peace pagoda, Padmaja NaIdu Himalayan Zoological Park & Himalayan Mountaineering Institute (Closed on Thursday), Tenzing & Gombu Rock, Tibetan Refugee Self-Help Center (Closed on Sunday) & Tea Estate OR visit to Rock Garden & Ganga Maya Lake. Overnight at Hotel."
+                        "S": "<li>Depart early (around 4 AM) to Tiger Hills (8364 ft / 2550 m) for a sunrise view over Kanchendzonga Peak (weather permitting).</li><li>Return via Ghoom Monastery and Batasia Loop.</li><li>After breakfast, enjoy a half-day sightseeing tour including:</li><li>Japanese Temple & Peace Pagoda</li><li>Padmaja Naidu Himalayan Zoological Park & Himalayan Mountaineering Institute (closed on Thursday)</li><li>Tenzing & Gombu Rock</li><li>Tibetan Refugee Self-Help Center (closed on Sunday)</li><li>Tea Estate OR visit Rock Garden & Ganga Maya Lake.</li><li>Overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -332,10 +333,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DARJEELING \u2013 NJP RAILWAY STATION / (IXB) BAGDOGRA AIRPORT"
+                        "S": "Darjeeling – NJP Railway Station / (IXB) Bagdogra Airport"
                     },
                     "description": {
-                        "S": "After breakfast proceed to NJP Railway Station / (IXB) Bagdogra Airport (100 Kms / 03 Hrs), for your onward connection / Journey."
+                        "S": "<li>Enjoy your breakfast.</li><li>Depart for NJP Railway Station or (IXB) Bagdogra Airport.</li><li>The journey covers 100 Kms in approximately 03 hrs.</li><li>Proceed for your onward connection or journey.</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -356,9 +357,10 @@
         "Title": "North East Tour-Gangtok Package India - Eaze Tours",
         "Description": "Enjoy a memorable journey with the North East Tour-Gangtok package. Visit Bagdogra Airport, Gangtok, Kalimpong, and Darjeeling for an unforgettable experience.",
         "NoOfRatings": 10,
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Standard check-in/out at 12:00 PM</li><li>Surprise Gifts at the end of the tour.</li><li>Assistance on arrival – departure at airport.</li><li>Rides as per sightseeing in the itinerary.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+        "Whats_Included": "<li>Accommodation in starting-category rooms (or similar)</li> <li>Daily breakfast and dinner in hotels</li> <li>Air-conditioned transfers (airport, station, sightseeing, intercity) with all parking, toll, tax, fuel, and driver charges</li> <li>English-speaking local guides in all cities</li> <li>Accompanied by an Eaze Tour Manager</li> <li>2 water bottles per guest per day during tours</li> <li>One monument entrance fee</li> <li>Welcome garland on arrival</li> <li>All applicable taxes</li>",
+        "Overview": "Embark on a journey to the enchanting Northeast with our Gangtok tour package. Experience the pristine beauty of Sikkim’s landscapes, explore ancient monasteries, and immerse yourself in vibrant local culture. Our curated itinerary combines scenic mountain vistas with visits to iconic attractions, offering a perfect blend of adventure, spirituality, and relaxation.",
         "Ratings": 5.0
     },
     {
@@ -369,10 +371,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "ARRIVAL NJP RAILWAY STATION / (IXB) BAGDOGRA AIRPORT \u2013 DARJEELING"
+                        "S": "Arrival NJP Railway Station / (IXB) Bagdogra Airport – Darjeeling"
                     },
                     "description": {
-                        "S": "On arrival at NJP Railway Station / (IXB) Bagdogra Airport, you will be met by our office Executive who will assist you to board your vehicle to Darjeeling (7380 Ft / 2250 Mts, 100 Kms / 3 Hrs). Overnight at Hotel."
+                        "S": "<li>Upon arrival at NJP Railway Station or Bagdogra Airport (IXB), our office executive will meet you at the station or airport.</li><li>Assist you in boarding your vehicle to Darjeeling.</li><li>The journey to Darjeeling (7,380 ft / 2,250 m) covers approximately 72 km and takes about 1 hour and 32 minutes.</li><li>Overnight accommodation will be provided at the hotel.</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -385,10 +387,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DARJEELING"
+                        "S": "Darjeeling Sightseeing"
                     },
                     "description": {
-                        "S": "Early morning tour to Tiger Hills (8364 Ft / 2550 Mts at around 4 AM) to view sunrise over Kanchendzonga Peak (subject to clear weather). On way back visit Ghoom Monastery, Batasia Loop. After breakfast go for a half-day sight seeing of Japanese Temple, Peace pagoda, Padmaja NaIdu Himalayan Zoological Park & Himalayan Mountaineering Institute (Closed on Thursday), Tenzing & Gombu Rock, Tibetan Refugee Self-Help Center (Closed on Sunday) & Tea Estate OR visit to Rock Garden & Ganga Maya Lake. Overnight at Hotel."
+                        "S": "<li>Early Morning at 4:00 AM Depart for Tiger Hill (8,364 ft / 2,550 m) to witness the sunrise over Kanchenjunga Peak (weather permitting).</li><li>Morning:</li><li>Visit Ghoom Monastery.</li><li>Explore Batasia Loop.</li><li>Post-Breakfast:</li><li>Visit Japanese Temple and Peace Pagoda.</li><li>Explore Padmaja Naidu Himalayan Zoological Park and Himalayan Mountaineering Institute (closed on Thursdays).</li><li>Visit Tenzing & Gombu Rock.</li><li>Explore Tibetan Refugee Self-Help Center (closed on Sundays).</li><li>Tour a Tea Estate or visit Rock Garden & Ganga Maya Lake.</li><li>Evening:</li><li>Overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -401,10 +403,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DARJEELING"
+                        "S": "Explore more in Darjeeling"
                     },
                     "description": {
-                        "S": "After breakfast transfer to Mirik (5800 Ft / 1768 Mts / 50 Kms / 02 Hrs one way). Full day excursion of Pashupati Nagar (Indo-Nepal border) for shopping & Mirik Lake (Horse rIding & Boat is available around the lake on direct payment basis). Evening back to Darjeeling and Overnight at Hotel."
+                        "S": "<li>Morning: After breakfast, depart for Mirik (approximately 50 km, 2 hours).</li><li>Midday: Visit Pashupati Nagar Market, located at the Indo-Nepal border, known for affordable imported goods like electronics, clothing, and perfumes.</li><li>Afternoon: Explore Mirik Lake; enjoy horse riding and boating (available for an additional fee).</li><li>Evening: Return to Darjeeling for overnight stay.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -417,10 +419,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DARJEELING \u2013 NJP RAILWAY STATION / (IXB) BAGDOGRA AIRPORT"
+                        "S": "Darjeeling – NJP Railway Station / (IXB) Bagdogra Airport"
                     },
                     "description": {
-                        "S": "After breakfast proceed to NJP Railway Station / (IXB) Bagdogra Airport (100 Kms / 3 Hrs), for your onward connection."
+                        "S": "<li>Enjoy your breakfast.</li><li>Depart for NJP Railway Station or (IXB) Bagdogra Airport.</li><li>The journey covers 100 Kms in approximately 03 hrs.</li><li>Proceed for your onward connection or journey.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -441,9 +443,10 @@
         "Title": "North East Tour-Darjeeling Package India - Eaze Tours",
         "Description": "Explore the best North East tour-Darjeeling package in India with Eaze Tours. Enjoy breathtaking views, tea gardens, and serene landscapes. Book today!",
         "NoOfRatings": 20,
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Standard check-in/out at 12:00 PM.</li><li>Surprise Gifts at the end of the tour.</li><li>Assistance on arrival – departure at airport.</li><li>Rides are provided as per the itinerary.</li><li>Package details are subject to client customization.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+        "Whats_Included": "<li>Daily hotel breakfast and dinner.</li><li>All transfers in air-conditioned vehicles (airport, station, intercity, sightseeing) with parking, tolls, taxes, fuel, and driver allowance included.</li><li>English-speaking guides throughout the tour.</li><li>Eaze Tour Manager support as per group size.</li><li>2 water bottles per person per day during sightseeing.</li><li>Welcome garland on arrival.</li><li>All applicable taxes.</li>",
+        "Overview": "Embark on an unforgettable journey with Eaze Tours’ North East Tour to Darjeeling, India. Your adventure begins at NJP Railway Station or Bagdogra Airport, where you’re warmly greeted and transferred to the charming hill station of Darjeeling. Experience the magic of a pre-dawn visit to Tiger Hills, witnessing a breathtaking sunrise over the majestic Kanchendzonga Peak. Enjoy a day of cultural and scenic exploration—visiting iconic sites such as Ghoom Monastery, Batasia Loop, Japanese Temple, Peace Pagoda, and the renowned Himalayan Zoological Park. A delightful excursion to Mirik, including a visit to the Indo-Nepal border at Pashupati Nagar, adds further charm to this well-crafted itinerary.",
         "Ratings": 4.9
     },
     {
@@ -655,6 +658,7 @@
         "Description": "Embark on an epic Manali–Keylong–Jispa-Darcha-Suraj Tal-Baralachal Pass adventure to Leh, Nubra Valley, and more with Eaze Tours packages. Book Now!",
         "NoOfRatings": 19,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in camps or guesthouses</li><li>All meals (breakfast, lunch, dinner)</li><li>Professional biking guides and support staff</li><li>Backup vehicle for safety and emergencies</li><li>Bike maintenance and mechanical support</li><li>Permits for restricted areas</li>",
         "Overview": "Experience the thrill of cycling through the majestic Himalayas with our Manali to Leh Mountain Bike Tour. This journey takes you across rugged terrains, lush valleys, and some of the world’s highest motorable passes. Designed for adventure enthusiasts, this tour offers breathtaking views, cultural encounters, and the satisfaction of conquering challenging routes.",
         "Ratings": 5.0
@@ -852,6 +856,7 @@
         "Description": "Explore the thrilling Markha trek from Leh to Hemis via Spituk, Zinchen, Nimaling, and Shang Sumdo. Experience India's scenic trekking routes with Eaze Tours.",
         "NoOfRatings": 6,
         "Additional_Information": "<li>Difficulty Level: Varies from easy to challenging trails, suitable for beginners and experienced trekkers</li><li>Best Time to Visit: October to March for most regions; May to September for Himalayan treks</li><li>What to Bring: Comfortable trekking shoes, warm clothing, a backpack, water bottle, and personal essentials</li><li>Travel insurance is recommended</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Professional trekking guides and porters</li><li>Accommodation in tents, guesthouses, or homestays</li><li>All meals (breakfast, lunch, and dinner)</li><li>Trekking permits and entry fees</li><li>First aid and emergency assistance</li><li>Transfer to and from the trekking base</li>",
         "Overview": "Discover the untouched beauty of India’s mountains, forests, and valleys with our Trekking Tour in India. Perfect for nature lovers and adventure seekers, this tour takes you through picturesque trails, rich cultural heritage, and diverse landscapes. Whether it’s the Himalayan foothills, Western Ghats, or the serene deserts of Rajasthan, this trekking journey is a blend of adventure and tranquility.",
         "Ratings": 4.8
@@ -1017,6 +1022,7 @@
         "Description": "Explore North East India with Eaze Tours. Visit Calcutta, Darjeeling, Gangtok, Pemayangste, Rumtek Monastery, and more. Book your dream tour package today!",
         "NoOfRatings": 17,
         "Additional_Information": "<li>Best Time to Visit: October to April, when the weather is pleasant and ideal for sightseeing.</li><li>Ideal For: Families, solo travelers, couples, and adventure enthusiasts.</li><li>What to Bring: Comfortable clothing, trekking shoes, rain gear, and a camera to capture the beauty.</li><li>All permits for restricted areas will be arranged by us.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Comfortable accommodation in hotels or homestays</li><li>Daily breakfast and dinner</li><li>Guided sightseeing tours</li><li>Transportation in a private vehicle</li><li>Entry permits and tickets to attractions</li><li>Professional tour guide assistance</li>",
         "Overview": "Dive into the serene charm of India's North East with our North East Tour Package. This journey will take you through breathtaking landscapes, vibrant culture, and unique traditions. From the lush tea gardens of Assam to the misty hills of Meghalaya and the vibrant festivals of Nagaland, this tour is a perfect blend of nature, adventure, and heritage.",
         "Ratings": 4.8
@@ -1294,6 +1300,7 @@
         "Description": "Explore Ladakh and Kashmir tour package in India: Delhi, Manali, Keylong, Hemis, Pangong, Lamayuru, Likir, Srinagar, and more. Book your adventure today!",
         "NoOfRatings": 11,
         "Additional_Information": "<li>Best Time to Visit: April to October for Kashmir; June to September for Ladakh.</li><li>Difficulty Level: Moderate, suitable for all age groups.</li><li>What to Bring: Warm clothing, sturdy shoes, sunglasses, sunscreen, and a camera.</li><li>Oxygen support is available for high-altitude areas.</li><li>Travel insurance is highly recommended.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Comfortable accommodation in hotels, camps, or houseboats</li><li>Daily breakfast and dinner</li><li>Private transportation for all transfers and sightseeing</li><li>Inner line permits for restricted areas in Ladakh</li><li>Professional tour guide for sightseeing</li><li>Airport transfers</li>",
         "Overview": "Embark on a mesmerizing journey through the scenic landscapes of Ladakh and Kashmir with our exclusive tour package. Witness Kashmir's lush valleys and tranquil lakes, coupled with Ladakh's rugged mountains and high-altitude desert. This package promises an unforgettable experience filled with adventure, culture, and natural beauty.",
         "Ratings": 5.0
@@ -1507,6 +1514,7 @@
         "Description": "Explore Delhi, Leh, Lamayuru, Uleytopko, Alchi, Nubra, and Pangong with our customized travel packages for an unforgettable adventure across India. Book Now!",
         "NoOfRatings": 10,
         "Additional_Information": "<li>Best Time to Visit: May to September when the weather is pleasant.</li><li>Ideal For: Adventure enthusiasts, couples, and nature lovers.</li><li>What to Bring: Warm clothing, trekking shoes, sunglasses, sunscreen, and personal essentials.</li><li>Travel insurance is recommended for safety.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in hotels and camps</li><li>Daily breakfast and dinner</li><li>Private vehicle for all transfers and sightseeing</li><li>Inner line permits for restricted areas</li><li>Professional guide and driver</li><li>Airport transfers in Delhi and Leh</li>",
         "Overview": "Explore the mesmerizing beauty of Leh Ladakh with our Delhi to Leh Ladakh Travel Package. Starting from the bustling city of Delhi, this journey takes you through the rugged terrains of the Himalayas to the serene landscapes of Ladakh. From snow-capped mountains and pristine lakes to ancient monasteries and vibrant culture, this tour is a perfect mix of adventure and tranquility.",
         "Ratings": 4.8
@@ -1752,6 +1760,7 @@
         "Description": "Explore Kerala with Eaze Tour's Ayurveda tour package in India. Experience traditional wellness treatments and rejuvenating therapies in serene settings.",
         "NoOfRatings": 12,
         "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather; monsoon (June to September) is ideal for Ayurveda treatments.</li><li>Ideal For: Health enthusiasts, those seeking relaxation, and individuals exploring holistic wellness.</li><li>What to Bring: Comfortable clothing, yoga mat, personal essentials, and an open mind.</li><li>Treatments are non-invasive and designed based on your body type (dosha).</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in Ayurvedic resorts or wellness retreats</li><li>Daily Ayurvedic meals designed by experts</li><li>Personalized consultation with experienced Ayurvedic doctors</li><li>Customized treatment plans including massages, detox therapies, and herbal remedies</li><li>Yoga and meditation sessions</li><li>Local sightseeing and cultural experiences</li><li>Airport transfers and private transportation</li>",
         "Overview": "Embark on a transformative journey with our Ayurveda Tour in India, designed to rejuvenate your body, mind, and soul. India, the birthplace of Ayurveda, offers an immersive experience with holistic healing therapies, serene environments, and ancient wellness practices. From lush Kerala backwaters to tranquil Himalayan retreats, this tour introduces you to authentic Ayurvedic treatments, meditation, and yoga for complete rejuvenation.",
         "Ratings": 5.0
@@ -1997,6 +2006,7 @@
         "Description": "Explore the enchanting sights of South India with our Chennai Cochin tours. Immerse in rich culture, scenic beauty, & unforgettable experiences with Eaze Tours.",
         "NoOfRatings": 17,
         "Additional_Information": "<li><strong>Best Time to Visit:</strong> October to March for pleasant weather and optimal travel conditions.</li><li><strong>Ideal For:</strong> Culture enthusiasts, history lovers, and those seeking a mix of adventure and relaxation.</li><li><strong>What to Bring:</strong> Comfortable clothing, sunscreen, walking shoes, and a camera.</li><li>Travel insurance is recommended for a hassle-free journey.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in comfortable hotels and resorts</li><li>Daily breakfast and dinner</li><li>Guided sightseeing tours at all major attractions</li><li>Private air-conditioned vehicle for transfers and travel</li><li>Entry fees for monuments and cultural sites</li><li>Professional tour guide assistance</li><li>Airport and railway station transfers</li>",
         "Overview": "Experience the vibrant charm of South India with our Chennai to Cochin Tour Package. This journey takes you through the cultural heartlands of Tamil Nadu and Kerala, showcasing ancient temples, stunning beaches, lush backwaters, and rich traditions. From Chennai's colonial elegance to Cochin's historic allure, this tour offers a perfect blend of heritage, nature, and relaxation.",
         "Ratings": 4.9
@@ -2194,6 +2204,7 @@
         "Description": "Book exclusive Kerala tour packages with Eaze Tours. Enjoy scenic backwaters, lush greenery, and unforgettable experiences tailored to your dreams! Call Now!",
         "NoOfRatings": 12,
         "Additional_Information": "<li><strong>Best Time to Visit:</strong> October to March for pleasant weather, June to September for monsoon beauty.</li><li><strong>Ideal For:</strong> Families, couples, nature lovers, and adventure seekers.</li><li><strong>What to Bring:</strong> Comfortable clothing, sunscreen, insect repellent, and a camera.</li><li>Customizable packages are available to suit your needs.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in hotels, resorts, or houseboats</li><li>Daily breakfast and dinner</li><li>Private transportation for sightseeing and transfers</li><li>Guided tours to popular attractions</li><li>Entry tickets for monuments and national parks</li><li>Professional tour guide assistance</li><li>Airport and railway station transfers</li>",
         "Overview": "Uncover the breathtaking beauty of Kerala with our carefully curated Kerala Tour Packages. Known as 'God’s Own Country,' Kerala offers serene backwaters, lush green landscapes, exotic wildlife, and pristine beaches. This journey blends relaxation, culture, and adventure, making it an ideal destination for all types of travelers. Whether you’re gliding through Alleppey’s houseboats, walking through Munnar’s tea gardens, or exploring Cochin’s historical charm, Kerala promises an unforgettable experience.",
         "Ratings": 4.9
@@ -2343,6 +2354,7 @@
         "Description": "Experience the beauty of the Taj Mahal and the thrill of a tiger safari in India. Book your unforgettable adventure with Eaze Tours today!",
         "NoOfRatings": 9,
         "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather and better tiger sightings.</li><li>Ideal For: Families, couples, wildlife lovers, and history buffs.</li><li>What to Bring: Comfortable clothing, binoculars, sunscreen, and a camera.</li><li>Safari bookings are subject to availability and national park regulations.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in comfortable hotels and resorts</li><li>Daily breakfast and dinner</li><li>Guided tour of the Taj Mahal and other Agra landmarks</li><li>Jungle safaris in Ranthambore National Park</li><li>Private air-conditioned vehicle for travel and transfers</li><li>Professional tour guide and naturalist assistance</li><li>Entry tickets to monuments and the national park</li>",
         "Overview": "Discover India’s rich history and thrilling wildlife with our Taj Mahal and Tiger Safari Package. This tour combines the architectural splendor of the Taj Mahal with the excitement of spotting majestic tigers in their natural habitat. From the timeless beauty of Agra to the wilderness of Ranthambore, this package offers a unique and unforgettable experience for history and nature enthusiasts alike.",
         "Ratings": 4.9
@@ -2540,6 +2552,7 @@
         "Description": "Explore the beauty of Kerala with our romantic tour package. Enjoy serene backwaters, scenic beaches, and unforgettable experiences with your loved one.",
         "NoOfRatings": 17,
         "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather, June to September for monsoon charm.</li><li>Ideal For: Newlyweds, couples celebrating anniversaries, and romantic getaways.</li><li>What to Bring: Comfortable clothing, sunscreen, and a camera to capture precious moments.</li><li>Customization options are available for personalized experiences.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Romantic accommodations in hotels, resorts, and houseboats</li><li>Daily breakfast and dinner</li><li>Private vehicle for sightseeing and transfers</li><li>Candlelight dinner and special honeymoon arrangements</li><li>Backwater cruise on a traditional houseboat</li><li>Guided tours to scenic and cultural attractions</li><li>Airport and railway station transfers</li>",
         "Overview": "Celebrate your love amidst the serene beauty of Kerala with our Romantic Kerala Tour Package. Known as 'God’s Own Country,' Kerala offers breathtaking landscapes, tranquil backwaters, misty hill stations, and sun-kissed beaches, creating the perfect backdrop for romance. This tour is thoughtfully designed to provide couples with unforgettable moments and memories to cherish forever.",
         "Ratings": 4.9
@@ -2673,6 +2686,7 @@
         "Description": "Book the best romantic Andaman tour package with Eaze Tours. Enjoy breathtaking views, serene beaches, and unforgettable experiences for couples. Call Now!",
         "NoOfRatings": 13,
         "Additional_Information": "<li>Best Time to Visit: October to May for clear skies and pleasant weather.</li><li>Ideal For: Honeymooners, couples, and those seeking a romantic retreat.</li><li>What to Bring: Lightweight clothing, swimwear, sunscreen, and a camera to capture magical moments.</li><li>Water sports and adventure activities are subject to weather conditions.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in premium resorts and beachside cottages</li><li>Daily breakfast and candlelight dinner</li><li>Private vehicle for sightseeing and transfers</li><li>Ferry rides between islands</li><li>Guided tours to major attractions</li><li>Snorkeling and water sports (optional)</li><li>Airport transfers</li>",
         "Overview": "Escape to the serene islands of Andaman with our Romantic Andaman Tour Package, specially designed for couples. Experience the crystal-clear waters, golden beaches, lush greenery, and breathtaking sunsets that create a perfect romantic setting. Whether you’re on your honeymoon or simply celebrating love, this package ensures a dreamy getaway filled with memorable moments.",
         "Ratings": 4.9
@@ -2806,6 +2820,7 @@
         "Description": "Book your exotic Manali tour package in India with Eaze Tours. Explore breathtaking landscapes, adventure activities, and cultural experiences.",
         "NoOfRatings": 18,
         "Additional_Information": "<li>Best Time to Visit: October to June for pleasant weather and snow activities during winter.</li><li>Ideal For: Families, couples, solo travelers, and adventure seekers.</li><li>What to Bring: Warm clothing, trekking shoes, sunscreen, and a camera.</li><li>Activities at Rohtang Pass and Solang Valley are subject to weather conditions.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in comfortable hotels or resorts</li><li>Daily breakfast and dinner</li><li>Private vehicle for sightseeing and transfers</li><li>Guided tours to major attractions</li><li>Adventure activities like paragliding or river rafting (optional)</li><li>Assistance with permits for Rohtang Pass (seasonal)</li><li>Airport or bus station transfers</li>",
         "Overview": "Experience the charm of the Himalayas with our Exotic Manali Tour Package. Nestled in the picturesque Kullu Valley, Manali is a perfect destination for nature lovers, adventure enthusiasts, and those seeking tranquility. From snow-capped mountains and lush valleys to ancient temples and thrilling adventures, this tour offers a delightful mix of relaxation and excitement.",
         "Ratings": 5.0
@@ -2955,6 +2970,7 @@
         "Description": "Explore India's rich heritage with The Golden Chariot tour package. Visit Bangalore, Kabini, Mysore, Hassan, Hospet, Badami, Goa, and return to Bangalore.",
         "NoOfRatings": 10,
         "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather.</li><li>Ideal For: Luxury travelers, history buffs, and culture enthusiasts.</li><li>What to Bring: Comfortable clothing, travel essentials, and a camera to capture the experience.</li><li>Advance booking is recommended due to limited availability.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Luxury accommodation aboard the Golden Chariot train</li><li>All meals, including regional and international cuisine</li><li>Guided tours of historic and cultural landmarks</li><li>Private transportation for off-train excursions</li><li>Entry tickets to monuments and attractions</li><li>Professional tour guides for all sightseeing activities</li><li>Access to onboard facilities such as a spa, lounge, and dining cars</li>",
         "Overview": "Step aboard the Golden Chariot, a luxury train that takes you on an unforgettable journey through South India’s rich history, stunning landscapes, and vibrant culture. This award-winning train offers world-class amenities and visits some of the most iconic destinations, including ancient temples, palaces, and wildlife sanctuaries. Whether you’re a history enthusiast or a lover of luxury, this tour is designed to give you a royal experience.",
         "Ratings": 5.0
@@ -3166,6 +3182,7 @@
         "Description": "Explore the rich heritage of Rajasthan with our customized tour packages. Book your adventure today and experience royal palaces, forts, and vibrant culture.",
         "NoOfRatings": 16,
         "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather and festive celebrations.</li><li>Ideal For: Families, couples, solo travelers, and history enthusiasts.</li><li>What to Bring: Comfortable clothing, sunscreen, and a camera.</li><li>Customization options available for personalized itineraries.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in heritage hotels or luxury resorts</li><li>Daily breakfast and dinner</li><li>Private transportation for sightseeing and transfers</li><li>Guided tours to historic forts, palaces, and temples</li><li>Camel safari and cultural evening in the desert (optional)</li><li>Entry tickets to monuments and attractions</li><li>Airport or railway station transfers</li>",
         "Overview": "Dive into the regal charm of Rajasthan with our Rajasthan Tour Packages. Known for its rich history, majestic palaces, golden deserts, and vibrant culture, Rajasthan is a destination that captures the heart of every traveler. Whether you’re exploring Jaipur’s Pink City, the blue streets of Jodhpur, or the golden sands of Jaisalmer, this tour promises an enchanting experience filled with unforgettable memories.",
         "Ratings": 5.0
@@ -3315,6 +3332,7 @@
         "Description": "Experience the Palace on Wheels tour package India, covering New Delhi, Jaipur, Sawai Madhopur, Udaipur, Jaisalmer, and more. A royal journey across India.",
         "NoOfRatings": 17,
         "Additional_Information": "<li>Best Time to Travel: October to March for the best weather and sightseeing experiences.</li><li>Ideal For: Luxury travelers, history enthusiasts, and cultural explorers.</li><li>What to Bring: Comfortable clothing, a camera, and travel essentials.</li><li>Advance booking is required due to limited availability.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Luxurious accommodation onboard the Palace on Wheels train</li><li>All meals, featuring Indian and international cuisine</li><li>Guided tours of historical landmarks and cultural attractions</li><li>Private transportation for off-train excursions</li><li>Entry tickets to monuments and parks</li><li>Services of professional tour guides</li><li>Onboard amenities, including a spa, lounge, and bar</li>",
         "Overview": "Experience the grandeur of India with the Palace on Wheels, one of the most luxurious trains in the world. This extraordinary journey takes you through India’s most iconic destinations, offering a blend of royal heritage, vibrant culture, and stunning landscapes. From the majestic forts of Rajasthan to the timeless beauty of the Taj Mahal, this package promises a royal experience like no other.",
         "Ratings": 4.9
@@ -3544,6 +3562,7 @@
         "Description": "Explore India’s sacred sites with our Buddhist pilgrimage tour package. Visit Delhi, Agra, Varanasi, Bodhgaya, Vaishali, Kushinagar, Shravasti, & Gorakhpur.",
         "NoOfRatings": 19,
         "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather.</li><li>Ideal For: Spiritual seekers, history enthusiasts, and cultural travelers.</li><li>What to Bring: Comfortable clothing, walking shoes, and a notebook for reflections.</li><li>Customizable itineraries are available based on your preferences.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Comfortable accommodation at hotels and guesthouses</li><li>Daily breakfast and vegetarian meals</li><li>Private transportation for all transfers and sightseeing</li><li>Guided tours to Buddhist sites</li><li>Entry tickets to monuments and temples</li><li>Professional tour guides with expertise in Buddhist heritage</li><li>Assistance with travel permits where required</li>",
         "Overview": "Embark on a transformative journey with our Buddhist Pilgrimage Tour Package, exploring the sacred sites that trace the life and teachings of Lord Buddha. From the enlightenment at Bodh Gaya to the first sermon at Sarnath, this package is designed for spiritual seekers and cultural enthusiasts alike. Immerse yourself in the tranquility and profound wisdom of Buddhism as you visit these revered destinations.",
         "Ratings": 5.0
@@ -3741,6 +3760,7 @@
         "Description": "Embark on a spiritual journey with our Chardham pilgrimage tour package in India, covering Delhi, Rishikesh, Yamunotri, Gangotri, Kedarnath, Badrinath, & more.",
         "NoOfRatings": 12,
         "Additional_Information": "<li>Best Time to Visit: May to October, as the temples are open to pilgrims during this period.</li><li>Ideal For: Devotees, spiritual seekers, and families seeking blessings.</li><li>What to Bring: Comfortable clothing, warm attire (especially for Kedarnath), and essentials for travel.</li><li>Physical Fitness: Some trekking is required, especially to Kedarnath and Yamunotri.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in comfortable hotels or guesthouses</li><li>Daily breakfast and meals as per the itinerary</li><li>Private transport for all transfers and sightseeing</li><li>Experienced guides for temple visits and local tours</li><li>Entry fees to temples and sanctuaries</li><li>Assistance with Darshan and poojas (if required)</li><li>All necessary permits and arrangements</li>",
         "Overview": "Embark on a divine and spiritually enriching journey with our Chardham Pilgrimage Tour Package, taking you to the four sacred shrines of Uttarakhand: Yamunotri, Gangotri, Kedarnath, and Badrinath. These revered destinations are considered the spiritual gateways to liberation and are believed to cleanse the soul. This tour offers an unforgettable experience for devotees seeking divine blessings and peace.",
         "Ratings": 5.0
@@ -3986,6 +4006,7 @@
         "Description": "Plan your North India temple tour package with Eaze Tours. Explore iconic temples, cultural landmarks, and spiritual destinations. Book your journey today!",
         "NoOfRatings": 18,
         "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather and festive occasions.</li><li>Ideal For: Devotees, spiritual seekers, and cultural enthusiasts.</li><li>What to Bring: Comfortable clothing, a hat for sun protection, and essentials like sunscreen and a camera.</li><li>Customize the tour as per your preferences and travel pace.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Comfortable accommodation at hotels and guesthouses</li><li>Daily breakfast and meals as per itinerary</li><li>Private transport for sightseeing and transfers</li><li>Guided tours of temples and historical sites</li><li>Entry fees to temples and monuments</li><li>Professional guides with expertise in temple history and culture</li><li>Assistance with Darshan and Pooja rituals</li>",
         "Overview": "Embark on a spiritual journey through the heart of North India with our North India Temple Tour Package. Explore the historic and sacred temples, each with its unique significance and rich cultural heritage. This tour takes you through vibrant cities and ancient sites, offering a deep connection to India’s religious diversity, traditions, and spirituality. From the holy ghats of Varanasi to the divine temples of Amritsar, this package promises a fulfilling and peaceful experience.",
         "Ratings": 4.8
@@ -4231,6 +4252,7 @@
         "Description": "Explore the rich culture and heritage with our Orissa tour package in India. Visit temples, wildlife sanctuaries, & scenic landscapes on a memorable journey.",
         "NoOfRatings": 20,
         "Additional_Information": "<li>Best Time to Visit: October to March, when the weather is pleasant for sightseeing.</li><li>Ideal For: Devotees, culture lovers, and nature enthusiasts.</li><li>What to Bring: Comfortable walking shoes, sunscreen, and a camera for scenic views.</li><li>Customize your itinerary based on personal interests and travel preferences.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in comfortable hotels and resorts</li><li>Daily breakfast and meals as per itinerary</li><li>Private transportation for all sightseeing and transfers</li><li>Guided tours to temples, beaches, and cultural sites</li><li>Entry fees to monuments and temples</li><li>Assistance with Darshan and local rituals</li><li>Professional tour guides with knowledge of Orissa’s heritage</li>",
         "Overview": "Explore the rich cultural heritage, ancient temples, and stunning landscapes of Orissa with our Orissa Tour Package. Known for its classical dance, art, and pristine beaches, Orissa offers a unique blend of tradition and natural beauty. Visit sacred temples, serene beaches, and UNESCO World Heritage sites, including the iconic Sun Temple of Konark and the Jagannath Temple of Puri. This tour promises an unforgettable experience for history lovers, spiritual seekers, and nature enthusiasts.",
         "Ratings": 4.8
@@ -4243,10 +4265,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 01 ARRIVE BHUBANESWAR"
+                        "S": "Arrive in Bhubaneswar"
                     },
                     "description": {
-                        "S": "On arrival in Bhubaneswar. Assistance on arrival and transfer to hotel. Rest of the day free for relax at hotel Bhubaneshwar, which means \u201cThe Lord of the Universe\u201d, is the modern capital of the State of Orissa. Once the capital of the Kalinga Empire, there are several sites in the vicinity, which testifies the importance of the region far earlier than the 7th century, when the Kalinga kings started their rule over this region and beyond. Overnight in Bhubaneswar"
+                        "S": "<li>Upon arrival in Bhubaneswar, you will be assisted and transferred to your hotel.</li><li>Relax for the rest of the day at the hotel.</li><li>Bhubaneswar, meaning 'The Lord of the Universe,' is the modern capital of Odisha and was once the capital of the Kalinga Empire. The region holds historical significance dating back to the 7th century, when the Kalinga kings ruled.</li><li>Overnight in Bhubaneswar.</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -4259,10 +4281,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 02 IN BHUBANESWAR"
+                        "S": "Explore Bhubaneswar"
                     },
                     "description": {
-                        "S": "Morning: guIded city tour of Bhubaneswar. Afternoon: Free for independent activities. Strewn with a multitude of temples of various sizes, the earliest temples built in Bhubaneswar are the Brahmeswar and the, Parasurameshwar temples of the 7th century. The latter is famous for its latticed windows. The Mukteswar built in the 10th century has exquisite toranas, the 11th Century temples of Rajarani Temple have fine and detailed carvings while the magnificent Linga Raja temple also of the 11th century (can seen only from outsIde by non Hindus ) is the finest representation of Kalinga art. Overnight in Bhubaneswar"
+                        "S": "<li>In the morning, enjoy a guided city tour of Bhubaneswar.</li><li>The city is known for its many temples, including the Brahmeswar and Parasurameswara temples from the 7th century, famous for their intricate lattice windows.</li><li>The 10th-century Mukteswar Temple is known for its beautiful toranas (arches), and the 11th-century Rajarani Temple features exquisite carvings.</li><li>The Lingaraj Temple, also from the 11th century, is the finest example of Kalinga architecture, though non-Hindus can only view it from the outside.</li><li>The afternoon is free for independent activities.</li><li>Overnight in Bhubaneswar.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -4275,10 +4297,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 03 BHUBANESWAR/PURI/KONARK/BHUBANESWAR"
+                        "S": "Bhubaneswar – Puri – Konark – Bhubaneswar"
                     },
                     "description": {
-                        "S": "Full day guIded excursion to Puri and Konark. Afternoon drive back to Bhubaneswar Puri (62kms from Bhubaneswar) \u2011 one of the four Dhams of India, the abode of Lord Jagannath. Situated right on the shore of the Bay of Bengal, Puri has been a centre of pilgrimage since the days history could reckon. It is famous for the massive chariot-cars used in the annual Rath Yatra Procession. One of the most stunning symbols of religious architecture, the Sun Temple at Konark also known as the Black Pagoda is the crowning glory of Orissan temple art. Built in the 13th century, the entire temple was designed in the shape of a colossal chariot, carrying the Sun god, Surya, pulled by seven horses. The 24 giant wheels of the chariot symbolize the division of time. The temple is a brilliant chronicle in stone, with thousands of images including deities, heavenly damsels, and human musicians, lovers, dancers, birds, animals and a plethora of intricate geometrical decorative designs. Overnight in Bhubaneswar"
+                        "S": "<li>Embark on a full-day guided excursion to Puri and Konark. Puri (62 km from Bhubaneswar) is one of India’s four sacred Dhams and the residence of Lord Jagannath. Situated on the Bay of Bengal, Puri has long been a pilgrimage center, known for its grand Rath Yatra procession.</li><li>Next, visit the Sun Temple at Konark, also known as the Black Pagoda. This 13th-century temple is designed as a colossal chariot with seven horses and 24 wheels, representing the passage of time. The temple is adorned with thousands of intricate carvings depicting deities, celestial beings, dancers, and animals.</li><li>Overnight stay in Bhubaneswar.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -4291,10 +4313,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 04 BHUBANESWAR/BALLIGUDA"
+                        "S": "Bhubaneswar – Balliguda"
                     },
                     "description": {
-                        "S": "Drive to Balliguda en route visiting typical Oriyan villages. Baliguda is in the district of Phulbani, through the beautiful countrysIde road full with small mountains of Sal forest, one of the entry points to the tribal highland of Orrisa. En-route visit typical Orissa villages. Arrive at the hotel in the evening. Overnight in Balliguda"
+                        "S": "<li>Drive to Baliguda, passing through scenic rural landscapes and typical Oriya villages. Balliguda, located in the Phulbani district, marks the entry point to Odisha’s tribal highlands.</li><li>The drive takes you through the beautiful Sal forests and mountainous roads.</li><li>Arrive in Balliguda by evening and check-in at your hotel.</li><li>Overnight stay at a hotel in Balliguda.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -4307,10 +4329,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 05 BALLIGUDA/RAYAGADA"
+                        "S": "Balliguda – Rayagada"
                     },
                     "description": {
-                        "S": "Morning: Drive to Rayagada en route explores the villages of the primitive Kutia Kondh tribe. Proceed to explore the villages of the primitive Kutia kondh Tribes, once famous for the human sacrifice. Living in the mountain / forest cores are friendly tribal community. You can take small/ long trek as you wish. Overnight in Rayagada"
+                        "S": "<li>In the morning, drive to Rayagada, stopping along the way to visit villages of the Kutia Kondh tribe, known for their unique traditions, including their historic practice of human sacrifice.</li><li>This community lives in the mountains and forests and is known for its friendliness.</li><li>Enjoy a trek through the region if desired.</li><li>Overnight stay in Rayagada.</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -4323,10 +4345,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 06 IN RAYAGADA"
+                        "S": "Explore Rayagada"
                     },
                     "description": {
-                        "S": "Full day visit market in Kothagarh and visit villages of Desia Kondh tribe and Dongaria Kondh. Overnight in Rayagada"
+                        "S": "<li>Spend the day exploring the weekly market at Kotagarh and visit the villages of the Desia Kondh and Dongaria Kondh tribes.</li><li>Overnight stay in Rayagada.</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -4339,10 +4361,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 07 RAYAGADA/CHATIKONA/JEYPORE"
+                        "S": "Rayagada – Chatikona – Jeypore"
                     },
                     "description": {
-                        "S": "Morning: Drive to Jeypore en route visit Chatikona to witness the interesting and colorful weekly market on the Dongaria tribe. Later visit Jharia Paroja village. On arrival in Jeypore transfer to hotel This day this interesting ornamental Tribes come down from their mountain will known as Niayamgiri hill range. This is an unique opportunity to witness them before they come and mix with other community in the market, so we will take you 2/3 km from the market near the Niyamgiri hill, so to watch & enjoy these community coming down with different kinds of fruits, animal etc. Overnight in Jeypore"
+                        "S": "<li>In the morning, drive to Jeypore, stopping at Chatikona to witness the colorful weekly market of the Dongria tribe.</li><li>You’ll also visit the Jharia Paroja village. The tribes here, from the Niyamgiri hill range, bring their goods like fruits and animals to the market, providing a unique cultural experience.</li><li>Continue your drive to Jeypore for an overnight stay.</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -4355,10 +4377,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 08 IN JEYPORE"
+                        "S": "Explore Jeypore"
                     },
                     "description": {
-                        "S": "Morning: Excursion to Onkadelli to visit the weekly market of the Bonda tribe. Afternoon: Explore the tribal villages of the Gadaba tribe. Overnight in Jeypore"
+                        "S": "<li>Visit Onkadelli in the morning to experience the weekly market of the Bonda tribe.</li><li>In the afternoon, explore the villages of the Gadaba tribe.</li><li>Overnight stay in Jeypore.</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -4371,10 +4393,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 09 JEYPORE/KUNDULI/NANDPUR/JEYPORE"
+                        "S": "Jeypore – Kundli – Nandpur – Jeypore"
                     },
                     "description": {
-                        "S": "Morning proceed to witness the biggest tribal weekly market of Sanaparoja & Mali tribes in Kunduli 65 km away via Sunabeda. It is a very colorful market. Later drive down to Nandapur to visit village of Sanaparoja tribes. Visit village khilus. Saana Padar, Bda Padar with small trekking and later later drive down to Jeypore. You can also morning proceed to Gupteswar 70 km to visit the villages of very interesting dhuruba tribe. Visit and walk through villages of Ramanguda, Dogariguda, Silpader, Talur etc. There is an interesting tribe where the males like to put ornaments living in the border of Madhya Pradesh. Visit the Cave temple of lord Shiva in the hIdden mountain famous among the tribes. Later drive down to Nuagaon to witness the beautiful tribal weekly market of Sana Paroja and then back to hotel at evening. Overnight in Jeypore"
+                        "S": "<li>Travel to Kundli, 65 km from Jeypore, to visit the largest tribal market in the region, where you’ll see the vibrant market of the Sanaparoja and Mali tribes.</li><li>Next, head to Nandpur to visit the villages of the Sanaparoja tribe, with opportunities for small treks to villages like Khilus, Saana Padar, and Bda Padar.</li><li>You can also visit the Gupteshwar caves, home to the Dhuruba tribe, located 70 km from Jeypore.</li><li>Explore the villages of Ramanguda, Dogariguda, Silpader, and Talur.</li><li>In the evening, head back to Jeypore for overnight stay.</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -4387,10 +4409,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 10 JEYPORE/JAGDALPUR"
+                        "S": "Jeypore – Jagdalpur"
                     },
                     "description": {
-                        "S": "Morning: Drive to Jagdalpur en route visiting the dyeing and terracotta work in Kotapad village. On arrival in Jagdalpur, check in at hotel. Overnight in Jagdalpur"
+                        "S": "<li>Drive to Jagdalpur, stopping along the way to explore the terracotta work and dyeing techniques in Kotapadu village.</li><li>Upon arrival in Jagdalpur, check in at your hotel.</li><li>Overnight stay in Jagdalpur.</li>"
                     },
                     "Id": {
                         "N": "10"
@@ -4403,10 +4425,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 11 JAGDALPUR/CHITRAKUT"
+                        "S": "Jagdalpur – Chitrakoot"
                     },
                     "description": {
-                        "S": "Morning: Drive to Chitrakut en route visit the villages of Muria tribe and the weekly market. Afternoon: Visit a few villages and beautiful waterfall. A large section of Bastar is covered by forests full of trees such as Seesam, Sal, Bamboo and Teak. Bastar also plays home to a number of mountains, hills, caves, parks as well as waterfalls. In fact, the Lakes and Waterfalls in Bastar are major tourist attractions. Amongst the numerous lakes and waterfalls of this region, a place that you should not miss is Chitrakot Waterfalls, Bastar Chitrakot Waterfalls of Bastar is a gorgeous waterfall on Indravati River. It is located at a distance of 38 kms towards the west of Jagdalpur. The approximate height of Chitrakot Waterfalls is 100ft. The Chitrakot waterfalls are often regarded as the smaller version of the celebrated Nayagra waterfalls as the shape of it is that of a horseshoe. The rainbow colors of Chitrakot Waterfalls in Bastar, Chhattisgarh, India would mesmerize the tourists at the very first sight itself. Therefore, it is no surprise that Chitrakot Waterfalls is the prime attraction for all tourists. It is worth a watch especially in rainy season, between the months of July and October Overnight in Chitrakut"
+                        "S": "<li>Drive to Chitrakut and visit the villages of the Muria tribe and their weekly market.</li><li>In the afternoon, explore local villages and the stunning Chitrakot Waterfalls, also known as the 'Niagara of India'. This horseshoe-shaped waterfall, 100 feet high, is a must-see, especially during the monsoon season.</li><li>Overnight stay in Chitrakoot.</li>"
                     },
                     "Id": {
                         "N": "11"
@@ -4419,10 +4441,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 12 IN CHITRAKUT"
+                        "S": "Explore Chitrakut"
                     },
                     "description": {
-                        "S": "Drive to Kailash Cave in Kanger Valley and visit Bhadra tribal village. Overnight in Chitrakut"
+                        "S": "<li>Drive to Kailash Cave in the Kanger Valley, and visit the Bhadra tribal village.</li><li>Overnight stay in Chitrakoot.</li>"
                     },
                     "Id": {
                         "N": "12"
@@ -4435,10 +4457,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 13 CHITRAKUT/NARAYANPUR"
+                        "S": "Chitrakut – Narayanpur"
                     },
                     "description": {
-                        "S": "Morning: Drive to Narayanpur to watch the famous tribal artwork of Maria tribe of Narayanpur area and wooden work in Kondagaon. Evening: Witness the tribal dance at Kanker Overnight in Narayanpur"
+                        "S": "<li>Drive to Narayanpur in the morning to view the distinctive tribal artwork of the Maria tribe.</li><li>Visit Kondagaon to see wooden crafts, followed by a tribal dance performance in the evening.</li><li>Overnight stay in Narayanpur.</li>"
                     },
                     "Id": {
                         "N": "13"
@@ -4451,10 +4473,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 14 NARAYANPUR/RAIPUR"
+                        "S": "Narayanpur – Raipur"
                     },
                     "description": {
-                        "S": "Morning: Drive to Raipur en route visit the villages of Maria tribe at the Gadbental area. Overnight in Raipur"
+                        "S": "<li>Travel to Raipur in the morning, stopping to visit the villages of the Maria tribe in the Gadbental area.</li> <li>Overnight stay in Raipur.</li>"
                     },
                     "Id": {
                         "N": "14"
@@ -4467,10 +4489,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 15 RAIPUR/DEPART"
+                        "S": "Raipur – Departure"
                     },
                     "description": {
-                        "S": "Transfer to airport in time to connect onward flight"
+                        "S": "<li>Transfer to the airport for your onward flight.</li>"
                     },
                     "Id": {
                         "N": "15"
@@ -4491,9 +4513,10 @@
         "Title": "Orissa Chattisgarh Tour Package India - Eaze Tours",
         "Description": "Explore Orissa and Chhattisgarh with our tailored tour packages. Experience rich culture, stunning landscapes, and unique traditions in India.",
         "NoOfRatings": 15,
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Best Time to Visit: October to March, for pleasant weather and smooth travel conditions.</li><li>Ideal For: History buffs, culture enthusiasts, spiritual seekers, and nature lovers.</li><li>What to Bring: Comfortable clothing, walking shoes, sunscreen, and a camera to capture the beauty.</li><li>Customizable itineraries available based on your preferences.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+        "Whats_Included": "<li>Accommodation in comfortable hotels, resorts, and guesthouses</li><li>Daily breakfast and meals as per the itinerary</li><li>Private transportation for all transfers and sightseeing</li><li>Guided tours of historical, cultural, and religious sites</li><li>Entry fees to monuments, temples, and parks</li><li>Professional guides with in-depth knowledge of local history and culture</li><li>Assistance with rituals and temple darshan</li>",
+        "Overview": "Embark on a captivating journey through the culturally rich states of Orissa and Chhattisgarh. This Orissa & Chhattisgarh Tour Package takes you through ancient temples, stunning tribal villages, scenic landscapes, and vibrant festivals. From the sacred temples of Puri and Bhubaneswar in Orissa to the tribal culture and wildlife sanctuaries in Chhattisgarh, this tour is perfect for those seeking a deep dive into India’s traditional and spiritual heritage.",
         "Ratings": 5.0
     },
     {
@@ -4504,10 +4527,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 01 ARRIVE DELHI (Normal check-in time at hotel is 1400 Hrs)"
+                        "S": "Arrive in Delhi (Check-in at hotel after 2:00 PM)"
                     },
                     "description": {
-                        "S": "Today arrival at Indira Gandhi international airport, meet and greet by our representative. Later, assistance and transfer to hotel. Delhi \u2013 the capital of India, is a fascinating city with complexities and contradictions, beauty and dynamism, where the past co-exists with the present. Many dynasties ruled from here and the city s rich in the architecture of its monuments. Delhi is not only the present metropolis of India but also a Necropolis. Because of its location, being on the banks of the River Yamuna, many cities have risen and fallen over the last five millenniums. Overnight in Delhi"
+                        "S": "<li>Upon arrival at Indira Gandhi International Airport, you will be greeted by our representative who will assist you with your transfer to the hotel.</li> <li>Delhi, the capital of India, is a city full of contrasts, where history and modernity coexist.</li> <li>Over centuries, various dynasties have ruled this fascinating city, leaving behind architectural marvels.</li> <li>Situated along the River Yamuna, Delhi has witnessed the rise and fall of numerous civilizations over the last 5,000 years.</li> <li>Overnight stay in Delhi.</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -4520,10 +4543,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 02 DELHI"
+                        "S": "Explore Delhi"
                     },
                     "description": {
-                        "S": "Breakfast at hotel Morning: Sightseeing tour of Old Delhi. Drive pass historic RED FORT. Very near the Fort is the JAMA MASJId (FrIday Mosque), India\u2019s largest mosque, also built by Shah Jahan, take an interesting rickshaw rIde through the famous bazaars of Chandni Chowk, which is adjacent to both the Fort and the Mosque. Also visit RAJ GHAT \u2013 the memorial to Mahatma Gandhi. Later sightseeing tour of New Delhi. Visit the QUTAB MINAR, a Tower of Victory which was built in the 12th century by Qutbuddin Aibak. Within its spacious courtyard stands the Iron Pillar, which dates back to the 4th century AD and bears a Sanskrit inscription in the Gupta style. The pillar has puzzled scientists, as its iron has not rusted in all these centuries. Also drive past INDIA GATE, the memorial of the First World War and the road that leads from there to RASHTRAPATHI BHAWAN \u2013 the resIdence of the PresIdent of India, which is flanked by the houses of Parliament and the Government Secretariat buildings. Overnight in Delhi (B)"
+                        "S": "<li>After breakfast at the hotel, embark on a tour of Old Delhi. Drive past the historic Red Fort, and nearby, visit the Jama Masjid, the largest mosque in India, built by Shah Jahan.</li> <li>Experience a rickshaw ride through the vibrant markets of Chandni Chowk, located near both the Fort and the Mosque.</li> <li>Visit Raj Ghat, the memorial to Mahatma Gandhi. In the afternoon, explore New Delhi, starting with Qutub Minar, a 12th-century tower built by Qutbuddin Aibak, and the famous Iron Pillar.</li> <li>You’ll also drive by India Gate, a war memorial, and pass the Presidential Residence (Rashtrapati Bhawan) along with Parliament House.</li> <li>Overnight stay in Delhi.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -4536,10 +4559,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 03 DELHI / SAWAI MADHOPUR / RANTHAMBHORE"
+                        "S": "Delhi to Sawai Madhopur / Ranthambore"
                     },
                     "description": {
-                        "S": "After late breakfast day is free until provIde in time transfer to railway station to board the train to Sawai Madhopur. Train Details: Train Name / Number: Kota Janshatabdi / 12060 Departure from Delhi: 1320 Hrs Arrival at Sawai Madhopur: 1802 Hrs Proposed class: A/C Chair Car On arrival at Sawai Madhopur railway station meet and greet by our representative and transfer to Ranthambhore. On arrival check in at the hotel. With an area of 400 sq. km encompassing rocky hill crests which descend to open valleys between the Aravalli and Vindhya ranges, dotted with water pools and fruit trees, this park gets its name from the thousand year old fortress, which looms above the forest. Well known for the diurnal activity of tigers, Ranthambore is a very special and unusual area where a natural present meets a historical past. Gazelles, sambar, cheetal, chinkara, nilgai, langoor, wild bull, the elusive leopard and tiger abound this sanctuary. Dotted across the landscape are the crumbling ruins of its past glory, be it chatris or cupolas, like palaces or old guard posts, all of which reinforce the magical and ethereal quality of this great wilderness. Overnight in Ranthambhore (B/D)"
+                        "S": "<li>After a leisurely breakfast, you have free time until it’s time to head to the railway station for your train journey to Sawai Madhopur.</li> <li>Train details: Kota Janshatabdi / 12060, Departure: 13:20 hrs, Arrival: 18:02 hrs, Class: A/C Chair Car.</li> <li>Upon arrival in Sawai Madhopur, you will be met by our representative and transferred to Ranthambore.</li> <li>This national park, covering 400 sq km, is known for its tigers and rich wildlife, including gazelles, leopards, sambars, and wild bulls. The area is dotted with historical ruins that enhance its enchanting landscape.</li> <li>Check in at the hotel for the night.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -4552,10 +4575,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 04 RANTHAMBHORE"
+                        "S": "Ranthambore Safari"
                     },
                     "description": {
-                        "S": "Morning and evening game viewing at Ranthambhore National Park. Overnight in Ranthambhore (B/L/D)"
+                        "S": "<li>Today, enjoy both a morning and evening game drive in Ranthambore National Park, known for its impressive tiger sightings.</li> <li>Overnight stay in Ranthambore.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -4568,10 +4591,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 05 RANTHAMBHORE / FATEHPUR SIKRI / AGRA (267 Kms. / 05-06Hrs)"
+                        "S": "Ranthambore to Fatehpur Sikri and Agra (267 km, 5-6 hours)"
                     },
                     "description": {
-                        "S": "Today you will transfer to Agra en-route visit of Fatehpur Sikri It is 38 Kms from Agra and often referred to as abandoned Moghul capital. This 16th century capital of Moghul emperor Akbar is a complex of forts, palaces and mosques built in sandstone. The city had to be deserted because of lack of water. The white marble Tomb of Sheikh Salim Chisti, Akbar\u2019s spiritual adviser, is now observed as a Muslim pilgrimage spot here. Arrival Agra and transfer to hotel Agra is famous as the home to one of the Seven Wonders of the World \u2013 the Taj Mahal. The architectural splendour of the mausoleums, the fort and the palaces in Agra is a vivId reminder of the opulence of the legendary Mughal Empire. Agra was their capital for nearly a hundred years from 1564. A pleasant town, with a comparatively easy pace, Agra is known for its superb inlay work on marble and soapstone by artisans who are hereditary crafts persons. The city is also famous for its carpets, gold thread embroIdery and leather shoes Overnight in Agra (B)"
+                        "S": "<li>This morning, you’ll transfer to Agra with a visit to Fatehpur Sikri en route.</li> <li>This 16th-century city, built by Emperor Akbar, is a collection of palaces, forts, and mosques made of sandstone, and was abandoned due to a water shortage.</li> <li>Explore the Tomb of Sheikh Salim Chisti, Akbar's spiritual advisor. Afterward, continue to Agra, the home of the Taj Mahal.</li> <li>Agra, once the Mughal capital, boasts splendid architecture and skilled craftsmanship.</li> <li>Overnight in Agra.</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -4584,10 +4607,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 06 AGRA / KATNI (Overnight Train)"
+                        "S": "Agra and Overnight Train to Katni"
                     },
                     "description": {
-                        "S": "In the morning transfer to visit Taj Mahal Taj Mahal \u2013 monuments of Love, (TAJ MAHAL REMAIN CLOSED ON EVERY FRIdAY ) which was built in the mIddle of the 17th century by the Moghul emperor Shah Jehan for his wife Mumtaz Mahal. Visit the Taj Mahal surely the greatest monument to love and one of the wonders of the modern world. Completed in 1652, skilled craftsmen from Persia, Turkey, France and Italy and some 20,000 labourers worked for 17 years to build this edifice, constructed by Emperor Shah Jehan as a mausoleum for his beloved queen Mumtaz Mahal. Marble was brought from Makrana, near Jodhpur and precious stones of onyx, amethyst, malachite, lapis lazuli, turquoise, jade, crystal and mother of pearl were carried to Agra from Persia, Russia, Afghanistan, Tibet, China and the Indian Ocean. In the afternoon visit Agra Fort, which stands like a crescent on the banks of the Jamuna River enclosed by forbIdding 20-meter high walls, with a 12- meter moat between them? Three successive Mughal emperors \u2013 Akbar, Jehangir and Shah Jehan \u2013 helped create this massive structure which contains Hindu and Muslim architecture. Later visit Itimad-Ud-Daulah. Itmad-Ud-Daulaha\u2019s tomb was built by Empress Noor Jahan in memory of her father, Ghias-Ud-din Beg in 1622-25 AD. This ornate tomb is consIdered a precursor of the Taj Mahal. After visit provIde in time transfer to railway station to board the overnight train to Katni. Train Details: \u2013 Train Name / No Mahakoshal Express / 12190 Depart from Agra 1930 Hrs Arrival at Katni 0935 Hrs* ( *Next Morning) Proposed Class 2 tier ac sleeper Overnight in Train. (B)"
+                        "S": "<li>Visit the Taj Mahal in the morning, the iconic symbol of love built by Emperor Shah Jahan for his wife Mumtaz Mahal.</li> <li>Afterward, explore Agra Fort, an imposing structure built by three successive Mughal emperors, and the tomb of Itimad-Ud-Daulah, also known as the 'Baby Taj.'</li> <li>In the evening, transfer to the train station for your overnight journey to Katni.</li> <li>Train details: Mahakoshal Express / 12190, Departure: 19:30 hrs, Arrival: 09:35 hrs (next day), Class: 2-Tier AC Sleeper.</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -4600,10 +4623,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 07 ARRIVAL KATNI / BANDHAVGARH (100kms/ 03 hours approx)"
+                        "S": "Katni to Bandhavgarh (100 km, approx. 3 hours)"
                     },
                     "description": {
-                        "S": "Morning arrival at Katni railway station followed by transfer to Bandhavgarh. Arrival in Bandhavgarh and check-in at the hotel Bandhavgarh is probably India\u2019s densest tiger park. Throughout the journey, this is your absolute best opportunity to see the tiger. With its 105 km2, the park is relatively small. It is a hilly park with 400 meters height difference from the highest to the lowest point. The park has several valleys where a score of small streams flowing. Eventually, all streams flows into the River Son and finally in the Ganges. The park\u2019s highest point is 811 meters high hill, according to legend the place where the god Shiva placed his brother Laxman to scout the enemy in Sri Lanka. In Sanskrit means Bandhavgarh just \u201chis brother continued.\u201d ProvIde afternoon safari. Overnight in Bandhavgarh (L/D)"
+                        "S": "<li>Arrive at Katni and transfer to Bandhavgarh.</li> <li>This park, one of India’s densest tiger reserves, is known for its rich tiger sightings. The park is small, with valleys and streams flowing into the River Son.</li> <li>It is also famous for its hilltop views and historical significance, with legends associating it with the god Shiva.</li> <li>Enjoy an afternoon safari.</li> <li>Overnight stay in Bandhavgarh.</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -4616,10 +4639,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 08 BANDHAVGARH"
+                        "S": "Bandhavgarh Safari"
                     },
                     "description": {
-                        "S": "Morning and evening game viewing at Bandhavgarh National Park. Overnight in Bandhavgarh (B/L/D)"
+                        "S": "<li>Today, enjoy both morning and evening safaris in Bandhavgarh National Park.</li> <li>The park is home to many wildlife species, including tigers.</li> <li>Overnight stay in Bandhavgarh.</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -4632,10 +4655,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 09 BANDHAVGARH \u2013 KANHA (250kms/ 06 hours approx)"
+                        "S": "Bandhavgarh to Kanha (250 km, approx. 6 hours)"
                     },
                     "description": {
-                        "S": "Morning breakfast in hotel later drive to Kanha. Kanha National park is located in Banjar and Halon valleys in the Mandla / Balaghat districts of the state of Madhya Pradesh. Kanha National Park is one of the India\u2019s finest tiger reserves. It is spread more than 940 sq km in a horse shoe shaped valley bound by the spurs of the Mekal range the park presents a varies topography. ProvIde afternoon safari in Kanha National Park. Overnight in Kanha. (B/L/D)"
+                        "S": "<li>After breakfast, drive to Kanha National Park.</li> <li>This 940-sq-km reserve is one of the finest tiger habitats in India, known for its diverse landscapes, including hills, valleys, and meadows.</li> <li>Enjoy an afternoon safari in the park.</li> <li>Overnight stay in Kanha.</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -4648,10 +4671,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 10 KANHA"
+                        "S": "Kanha Safari"
                     },
                     "description": {
-                        "S": "Morning & afternoon enjoy safari in Kanha National Park. Overnight in Kanha. (B/L/D)"
+                        "S": "<li>Today, you’ll have the chance to enjoy both a morning and an afternoon safari in Kanha, home to tigers, leopards, and other wildlife.</li> <li>Overnight stay in Kanha.</li>"
                     },
                     "Id": {
                         "N": "10"
@@ -4664,10 +4687,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 11 KANHA- NAGPUR(262 kms / 06 hour\u2019s drive approx)- DELHI"
+                        "S": "Kanha to Nagpur (262 km, approx. 6 hours) and Return to Delhi"
                     },
                     "description": {
-                        "S": "Morning breakfast in the hotel later drive Nagpur airport to board the flight for New Delhi. Flight Details Sector Nagpur Delhi Flight Name and Number Indigo Airline 6E-136 Departure Details 1800 Hrs Arrival Details 1940 Hrs Proposed Class Economy Class Assistance upon arrival and transfer to the hotel for Overnight. Overnight in Delhi."
+                        "S": "<li>After breakfast, drive to Nagpur and fly to Delhi.</li> <li>Flight details: Indigo 6E-136, Departure: 18:00 hrs, Arrival: 19:40 hrs. On arrival in Delhi, you will be transferred to your hotel.</li> <li>Overnight stay in Delhi.</li>"
                     },
                     "Id": {
                         "N": "11"
@@ -4680,10 +4703,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "DAY 12 DELHI DEPARTS"
+                        "S": "Departure from Delhi"
                     },
                     "description": {
-                        "S": "ProvIde in time transfer to International airport to board the flight for onwards journey"
+                        "S": "<li>After breakfast, you will be transferred to the international airport for your onward journey.</li>"
                     },
                     "Id": {
                         "N": "12"
@@ -4704,9 +4727,10 @@
         "Title": "Book Luxury Tiger Safari Tours in India - Eaze Tours",
         "Description": "Experience the thrill of a Tiger Safari in India with Eaze Tours. Explore wildlife sanctuaries and get up close with majestic tigers in their natural habitat. Book Now!",
         "NoOfRatings": 16,
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Best Time to Visit: October to March, as the weather is pleasant, and wildlife sightings are more frequent.</li> <li>Ideal For: Wildlife enthusiasts, photographers, and nature lovers.</li> <li>What to Bring: Comfortable clothing, binoculars, camera, sunscreen, and a hat for sun protection.</li> <li>Fitness Level: Moderate, as some safaris may require short treks or jeep rides through rugged terrain.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+        "Whats_Included": "<li>Accommodation in comfortable jungle resorts and hotels</li> <li>Daily meals (as per itinerary), including local and vegetarian options</li> <li>Private or shared safari jeep rides with expert wildlife guides</li> <li>Entry fees to national parks and reserves</li> <li>Travel insurance for the duration of the safari</li> <li>Professional safari guides with knowledge of wildlife and tigers</li> <li>Private transport for transfers to and from the safari destinations</li>",
+        "Overview": "Embark on an exciting Tiger Safari in India, where you can witness the majestic Bengal tigers in their natural habitat. India is home to several world-renowned tiger reserves and national parks, including Jim Corbett, Ranthambore, Bandhavgarh, and Kaziranga. This adventure is perfect for wildlife enthusiasts, photographers, and nature lovers, offering a rare opportunity to spot tigers along with a variety of other wildlife species in lush forests and pristine environments.",
         "Ratings": 4.9
     },
     {
@@ -4717,10 +4741,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 01 Arrive Mumbai"
+                        "S": "Arrive in Mumbai"
                     },
                     "description": {
-                        "S": "Meeting and assistance on arrival and transfer to the hotel"
+                        "S": "<li>Upon arrival at Mumbai, you will be met by our representative who will assist you with your transfer to the hotel.</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -4733,10 +4757,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 02 Mumbai- Baroda"
+                        "S": "Baroda to Ahmedabad and Onwards to Utellia"
                     },
                     "description": {
-                        "S": "Breakfast at Hotel & transfer to airport to board flight to Baroda (9w-349/1015-1105 hrs).Arrive Baroda & tranfer to Hotel.Later proceed to chhota Udaipur to see tha Rathwa tribes in and around the Region.It is consIdered one of the most primitive tribal belt of Gujarat.After an early lunch drive byjeep to the triba village like Kol,Kharakwada,Timla, Devhat etc.Late evening return Baroda."
+                        "S": "<li>After breakfast at the hotel, transfer to the airport for your flight to Baroda (Flight: 9W-349, 10:15 – 11:05 hrs).</li> <li>Upon arrival in Baroda, you will be transferred to your hotel.</li> <li>Later, take a trip to Chhota Udaipur to meet the Rathwa tribes, considered to be one of the most primitive tribal communities of Gujarat.</li> <li>Enjoy an early lunch and then proceed by jeep to visit tribal villages like Kol, Kharakwada, Timla, and Devhat.</li> <li>In the evening, return to Baroda.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -4749,10 +4773,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 03 Ahmedamad- Utellia"
+                        "S": "Baroda to Ahmedabad and Onwards to Utellia"
                     },
                     "description": {
-                        "S": "Morning ,In time transfer to airport to board the flight for Ahmedabad.On arrival, We drive to Utellia (78 kms-1.5 hrs),a feudal village clustered arround the medieval Place. Arrive and check into the Hotel.Overnight stay will be at utellia."
+                        "S": "<li>After breakfast, transfer to the airport for a flight to Ahmedabad.</li> <li>Upon arrival, drive to Utellia (78 km, approx. 1.5 hours), a quaint feudal village known for its medieval palace.</li> <li>Check-in at the hotel and enjoy the evening at leisure.</li> <li>Overnight stay in Utellia.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -4765,10 +4789,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 04 Utellia-Excursion to Bharwad Tribal Village"
+                        "S": "Excursion to Bharwad Tribal Village"
                     },
                     "description": {
-                        "S": "The Bharwad Tribes,a pastoral people of the region, are by profession are Shepherds and cattkeman. Now leading a settled and no longer wonderers, The Bharwadi life of village. Know for strong likings to color, they paint there house primarily in blue,green and white.On your tour,visit these colorfull tribal people wondering in the neat land and perhaps few tribal homes to get an insIde into day-to-day tribal lifes. Some Bharwadi are now engaged in different occupation such as polishing and cutting of diamond. catch the steps that turn a handfull of dull looking opaque lamp into sparkling gems in your Camera.Also looking a local camel-breeding farm.producing a finest stock of Camels.Overnight stay will be at utellia."
+                        "S": "<li>Today, visit the Bharwad tribal village.</li> <li>The Bharwad people, traditionally shepherds and cattle herders, are known for their love of color, particularly blue, green, and white, which they use to paint their homes.</li> <li>Visit the homes of these vibrant tribes and get a glimpse into their everyday life.</li> <li>Some Bharwads are now engaged in diamond cutting and polishing, and you’ll have the opportunity to observe this fascinating process.</li> <li>Also visit a local camel-breeding farm, known for producing high-quality camels.</li> <li>Overnight stay in Utellia.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -4781,10 +4805,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 05 Utellia-Balaram (120Kms-2Hrs)"
+                        "S": "Utellia to Balaram (120 km, approx. 2 hours)"
                     },
                     "description": {
-                        "S": "After breakfast,We drive at Balaram.Located at about 155 Km to Ahmedabad, Balaram is a beautifull holy town.Situated amIdst lush green and picturesque forest area. Balaram offers an Ideal spot foe a day picnic from Ahmedabad.Enruote to Balaram,visit three amazing tourist attraction of Gujarat-Caleco Museum,Adalag Wav (step well)and Modhera Sun Temple.The Calico Museum one of the famous and important museums of Gujarat, exhibiting and extensive array of tribal fabrics of the Gujarat Step-wells, was built in 1499 by Royal families as a reliable source of water, throughout the year .The Modhera sun temple was built in 1026 AD during the reign of king Bhimdev 1 of Solanki dyntasty. The temple saId to resemble the fomous Konark Temple in Orissa. Arrive and check into the Balaram Palaces Resort,One of the most famous heritageresort of Gujarat. Overnight stay will be at Balaram Palaces Resort."
+                        "S": "<li>After breakfast, drive to Balaram, a picturesque holy town nestled amidst lush green forests.</li> <li>On the way, visit the famous Calico Museum, Adalaj Stepwell (built in 1499), and the Modhera Sun Temple, which dates back to 1026 AD and is often compared to the Konark Temple in Orissa.</li> <li>Continue your drive to Balaram and check-in at the Balaram Palace Resort, a renowned heritage resort in Gujarat.</li> <li>Overnight stay at Balaram Palace Resort.</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -4797,10 +4821,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 06 Balaram- Excursion to the Gowala and Garacia Tribal Regions"
+                        "S": "Balaram Excursion to the Gowala and Garasia Tribal Regions"
                     },
                     "description": {
-                        "S": "Located arround the Hills bordering Gujarat and Rajasthan, the Gowala and Garacia are primarily sheephards, known for their unique culture and tradition.The Gowala and Garacia are second cousins of each other ,differing only in the manner of living. While the Gowala are more settled, yhe Garacia are still wanderers, and their women dress in slightly less ostentatious manner than the Gowala Females. Visit and see these tribes on your Gujarat tribal tour to get an insight into their unique tribal life.Also enjoy a private perfomance of tribal dance."
+                        "S": "<li>Visit the Gowala and Garasia tribes, located in the hills bordering Gujarat and Rajasthan.</li> <li>The Gowalas are more settled, while the Garacia are nomadic, with distinct cultural traditions.</li> <li>Women in these tribes dress differently, with Garacia women wearing less ornate attire compared to the Gowala women.</li> <li>Explore these tribes’ unique cultures, and enjoy a private tribal dance performance in the evening.</li> <li>Overnight stay in Balaram.</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -4813,10 +4837,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 07 Balaram \u2013 Patan \u2013 Little Rann of Kutch"
+                        "S": "Balaram to Patan and Little Rann of Kutch"
                     },
                     "description": {
-                        "S": "Today, we drive to Patan. Once the capital of medieval Gujarat, Patan is known for its Hindu and Jain architecture like Rani-ki-Vav, Rani and Dhanderwad Jain Temple among many other attractions. Patan is also famous for patola (an intricate form of double ikkat weaving) sarees. Arrive Patan and visit one of the three families of patola weavers, known for their unique patola art. The fact that one patola sari can take up to six months to complete, proves that how difficult and demanding is the patola art. Also visit the famous 11th century Rani-ki-Vav (step well). All three families live close to this step well. Continue drive into the Little Rann of Kutch. Arrive and check into the Desert Courser Camp. Overnight stay will be at the Desert Camp."
+                        "S": "<li>Today, drive to Patan, once the capital of medieval Gujarat, known for its Hindu and Jain architecture.</li> <li>Visit the 11th-century Rani-ki-Vav stepwell and meet one of the three families of Patola weavers, known for their intricate double ikkat weaving technique.</li> <li>Afterward, continue your journey to the Little Rann of Kutch and check-in at the Desert Courser Camp.</li> <li>Overnight stay at Desert Courser Camp.</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -4829,10 +4853,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 08 Little Rann of Kutch"
+                        "S": "Little Rann of Kutch"
                     },
                     "description": {
-                        "S": "Composed of marshy salt flats and inhospitable Terai, the Little Rann of Kutch separates Kutch from the rest of Gujarat. Home to endangered Asiatic Wild Ass, the area is known for its unique wildlife and birds. Rabari and Banjara are the two important tribes of the region. While the Rabari, the most nomadic of Gujarat\u2019s tribes, constantly migrate in search for better grazing ground for their camels and sheep, the Banjara and other tribes have settled here. Overnight stay will be at the Desert Camp."
+                        "S": "<li>Explore the Little Rann of Kutch, a vast salt flat and marshy terrain home to the endangered Asiatic Wild Ass.</li> <li>The region is also home to the nomadic Rabari and settled Banjara tribes.</li> <li>Spend the day exploring the wildlife and tribal culture of the area.</li> <li>Overnight stay at Desert Courser Camp.</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -4845,10 +4869,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 09 Little Rann of Kutch \u2013 Bhuj"
+                        "S": "Little Rann of Kutch to Bhuj"
                     },
                     "description": {
-                        "S": "Today, we enjoy a daylong drive westward into the bleak countrysIde of Kutch towards Bhuj, the region\u2019s capital. If it\u2019s the season when the Rabari migrate, then our journey may be enlivened by meeting a group of them, along the way. Arrive and check into the hotel for 4 nights, in order to know the unique tribes of the region. Overnight stay will be at Bhuj."
+                        "S": "<li>Today, embark on a scenic drive to Bhuj, the capital of the Kutch region.</li> <li>Along the way, if you are lucky, you might encounter migrating Rabari tribes.</li> <li>Check-in at your hotel in Bhuj for a four-night stay, where you will explore the diverse and colorful tribal culture of the region.</li> <li>Overnight stay in Bhuj.</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -4861,10 +4885,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 10 Bhuj \u2013 Little Rann of Kutch"
+                        "S": "Bhuj – Exploring the Tribes of Kutch"
                     },
                     "description": {
-                        "S": "Known as the \u2018Melting Pot of Tribes\u2019, the Rann of Kutch region is home to many unique tribes, known for their fascinating and colorful culture and traditions. The major tribes of the region are the Megwar, Samma, Jat, Mutwa, Ahir and Rabari. Enjoy daily excursions to the wonderful tribal regions of the barren and inhospitable Rann of Kutch and catch the various facets of tribal life in your camera. Also explore Bhuj, which was devastated by the earthquake that struck in January 2001. Visit and discover the Old City. See the Aina (Old) and Prag (New) Mahals (palaces) and visit the Bhartiya Folk Museum with its exhibits pertaining to local tribal life. Also meet an artist who is one of three people continuing to paint in the unique and distinct Rogan style. Overnight stay in Bhuj."
+                        "S": "<li>The Rann of Kutch is home to many unique and vibrant tribes such as the Megwar, Samma, Jat, Mutwa, Ahir, and Rabari.</li> <li>Over the next few days, you will visit different tribal villages to witness their fascinating lifestyles and rich traditions.</li> <li>Also, explore Bhuj, which was severely affected by the 2001 earthquake.</li> <li>Visit the Old City, the Aina Mahal (Old Palace), the Prag Mahal (New Palace), and the Bharatiya Folk Museum, which showcases tribal life.</li> <li>Meet an artist who still practices the ancient Rogan painting technique.</li> <li>Overnight stay in Bhuj.</li>"
                     },
                     "Id": {
                         "N": "10"
@@ -4877,10 +4901,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 11 Little Rann of Kutch"
+                        "S": "Little Rann of Kutch"
                     },
                     "description": {
-                        "S": "Excursion to the another tribal regions of this area"
+                        "S": "<li>Take another excursion to explore more tribal regions of Little Rann of Kutch, continuing your discovery of local cultures and traditions.</li> <li>Overnight stay in Bhuj.</li>"
                     },
                     "Id": {
                         "N": "11"
@@ -4893,10 +4917,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 12 Little Rann of Kutch"
+                        "S": "Little Rann of Kutch"
                     },
                     "description": {
-                        "S": "Excursion to the another tribal regions of this area"
+                        "S": "<li>Another day of excursions to different tribal areas, where you’ll get further insight into the region's unique lifestyle and traditions.</li> <li>Overnight stay in Bhuj.</li>"
                     },
                     "Id": {
                         "N": "12"
@@ -4909,10 +4933,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 13 Bhuj \u2013 Mumbai"
+                        "S": "Bhuj to Mumbai"
                     },
                     "description": {
-                        "S": "Morning at leisure. On time transfer to Bhuj airport to board the flight for Mumbai. On arrival, you will be met and transferred to hotel. Overnight stay will be at Mumbai."
+                        "S": "<li>Enjoy a relaxed morning at leisure before transferring to Bhuj airport for your flight to Mumbai.</li> <li>Upon arrival in Mumbai, you will be met and transferred to your hotel.</li> <li>Overnight stay in Mumbai.</li>"
                     },
                     "Id": {
                         "N": "13"
@@ -4925,10 +4949,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 14 Mumbai \u2013 Departure"
+                        "S": "Mumbai – Departure"
                     },
                     "description": {
-                        "S": "In time transfer to international airport / railway station to board flight / train for onward destination with interesting memories of Gujarat Tribal Tour."
+                        "S": "<li>After breakfast, you will be transferred to the international airport or railway station for your onward journey, taking with you beautiful memories of your Gujarat Tribal Tour.</li>"
                     },
                     "Id": {
                         "N": "14"
@@ -4949,9 +4973,10 @@
         "Title": "Gujarat Tribal Tour Packages India - Eaze Tours",
         "Description": "Explore Gujarat's tribal culture with our tailored tribal tour package in India. Enjoy authentic experiences, traditions, and vibrant communities. Book Now!",
         "NoOfRatings": 20,
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Best Time to Visit: October to March, when the weather is ideal for travel.</li> <li>Ideal For: Cultural enthusiasts, history lovers, adventure seekers, and those fascinated by tribal lifestyles.</li> <li>What to Bring: Comfortable clothing and footwear, a camera to capture the vibrant scenes, and a journal for keeping notes of your experiences.</li> <li>Customizable Itinerary: Tailor the tour to explore specific tribal communities or regions of Gujarat based on your interests.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+        "Whats_Included": "<li>Accommodation in traditional homestays or eco-friendly resorts.</li> <li>All meals (traditional and authentic tribal cuisine).</li> <li>Private transportation for transfers and sightseeing.</li> <li>Guided tours to tribal villages and cultural sites.</li> <li>Entry fees to tribal museums and sanctuaries.</li> <li>Cultural performances and tribal workshops.</li> <li>Professional guides with deep knowledge of Gujarat’s tribal culture.</li>",
+        "Overview": "Immerse yourself in the rich cultural tapestry of Gujarat’s indigenous communities with our Gujarat Tribal Tour Packages. This journey takes you deep into remote tribal regions, where you’ll experience the distinct customs, art, dance, and lifestyles of the diverse tribes of Gujarat. Explore the unique heritage of tribes like the Rathwa, Bharwad, Rabari, and Garacia, among others, and discover their age-old traditions, vibrant communities, and scenic surroundings.",
         "Ratings": 5.0
     },
     {
@@ -5147,6 +5172,7 @@
         "Description": "Explore ancient temples of South India with our customised tour packages. Immerse in culture, heritage, and spirituality with Eaze Tours. Book now!",
         "NoOfRatings": 9,
         "Additional_Information": "<li>Best Time to Visit: October to March, when the weather is ideal for temple tours.</li><li>Ideal For: Spiritual seekers, history lovers, and culture enthusiasts.</li><li>What to Bring: Comfortable clothing (preferably in light fabrics), sunscreen, a hat, and a camera for photography.</li><li>Fitness Level: Light walking, as temple visits may involve exploring large temple complexes.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Comfortable accommodation at hotels and guesthouses</li><li>Daily breakfast and meals as per itinerary</li><li>Private transportation for all transfers and sightseeing</li><li>Guided tours of temples and cultural sites</li><li>Entry fees to temples and monuments</li><li>Assistance with Darshan and temple rituals</li><li>Professional guides knowledgeable in temple history and traditions</li>",
         "Overview": "Experience the spiritual richness and architectural beauty of South India with our South India Temple Tour Package. South India is home to some of the most revered and historic temples, known for their intricate architecture, grand rituals, and divine atmosphere. From the famous Meenakshi Temple in Madurai to the temple town of Kanchipuram, this tour will take you on a spiritual and cultural journey through Tamil Nadu, Karnataka, Andhra Pradesh, and Kerala, offering a glimpse into the ancient practices and traditions of Hinduism.",
         "Ratings": 4.8
@@ -5424,6 +5450,7 @@
         "Description": "Explore India's rich heritage with our Royal Delhi Jaipur Agra tour package. Visit iconic landmarks and experience vibrant culture with Eaze Tours. Book Now!",
         "NoOfRatings": 14,
         "Additional_Information": "<li>Best Time to Visit: October to March, when the weather is cool and pleasant for sightseeing.</li><li>Ideal For: History enthusiasts, culture lovers, and those interested in royal heritage.</li><li>What to Bring: Comfortable clothing and shoes, sunscreen, a hat, and a camera for capturing the beauty.</li><li>Fitness Level: Light walking involved during visits to forts, palaces, and monuments.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Comfortable accommodation in hotels or heritage properties</li><li>Daily breakfast and meals as per itinerary</li><li>Private transportation for transfers and sightseeing</li><li>Guided tours of historical monuments and royal sites</li><li>Entry fees to all monuments and attractions</li><li>Professional tour guides with expertise in history and culture</li>",
         "Overview": "Experience the grandeur of India’s royal past with our Royal Delhi, Jaipur & Agra Tour Package. This package takes you through three of the most iconic cities in India – Delhi, Jaipur, and Agra. Explore majestic forts, palaces, and architectural marvels, and immerse yourself in the rich culture and history of India’s royal heritage. From the bustling streets of Delhi to the romantic Taj Mahal in Agra and the royal palaces of Jaipur, this tour offers an unforgettable experience of India's regal legacy.",
         "Ratings": 4.8
@@ -5589,6 +5616,7 @@
         "Description": "Explore India with the Classical Delhi, Jaipur, Agra, Khajuraho, and Varanasi tour package. Immerse in culture, history, and heritage. Book your journey today!",
         "NoOfRatings": 4,
         "Additional_Information": "<li><strong>Best Time to Visit:</strong> October to March, ideal for sightseeing with pleasant weather.</li><li><strong>Ideal For:</strong> History buffs, spiritual seekers, culture enthusiasts, and photographers.</li><li><strong>What to Bring:</strong> Comfortable clothing, sunscreen, a camera, and a hat.</li><li><strong>Fitness Level:</strong> Moderate, as the tour involves walking around historical sites.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Comfortable accommodation in hotels and heritage properties</li><li>Daily breakfast and meals as per itinerary</li><li>Private transportation for transfers and sightseeing</li><li>Guided tours with professional, experienced guides</li><li>Entry fees to all monuments, temples, and attractions</li><li>Airport transfers and assistance throughout the trip</li>",
         "Overview": "Explore the timeless beauty and cultural heritage of India with our Classical Delhi, Jaipur, Agra, Khajuraho & Varanasi Tour Package. This carefully crafted tour offers a rich blend of royal grandeur, architectural marvels, spiritual exploration, and cultural experiences. From the historical landmarks of Delhi to the world-famous Taj Mahal in Agra, the stunning temples of Khajuraho, and the spiritual heart of India, Varanasi, this tour takes you through the best of India’s cultural and historical treasures.",
         "Ratings": 4.8
@@ -5834,6 +5862,7 @@
         "Description": "Explore the best wildlife tour packages in India with thrilling India wildlife safari tours. Encounter exotic wildlife in stunning natural habitats! Book Now!",
         "NoOfRatings": 8,
         "Additional_Information": "<li>Prime Time for Going: You wanna aim for October to June. Spotting animals is super when it's not raining.</li><li>How Long It Lasts: Choices vary from short 3-day breaks to full 10-day deep dives.</li><li>Making It Yours: They can tweak the adventures depending on what you're into, like snapping pics of animals or just watching them for fun.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Tours with a guide through wildlife reserves and parklands</li><li>Staying places that are kind to nature like resorts or cabins</li><li>Dishes made with ingredients from the area</li><li>Tickets to enter and costs for conservation areas</li><li>A pro in wildlife or guiding skills</li><li>Rides from one spot to the next</li>",
         "Overview": "Over 100 national parks and wildlife sanctuaries call India their home beckoning nature buffs and thrill-seekers. Whether it's prowling around the tiger-dense forests of Ranthambore and Bandhavgarh, following the paths of elephants in Periyar, or watching birds in Bharatpur's paradise, India caters to each wildlife admirer's taste. These excursions mix thrills, learning, and preservation efforts letting folks see amazing life variety while aiding its safeguarding.",
         "Ratings": 5.0
@@ -5846,10 +5875,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 01 Arrive Delhi"
+                        "S": "Arrive in Delhi"
                     },
                     "description": {
-                        "S": "Meet on arrival and transfer to hotel."
+                        "S": "<li>Upon arrival in Delhi, you will be greeted and transferred to your hotel.</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -5862,10 +5891,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 02 Delhi \u2013 Bikaner (Bikaner Mail \u2013 2230 / 0710 hrs + 1)"
+                        "S": "Delhi Sightseeing"
                     },
                     "description": {
-                        "S": "Morning proceed for a sightseeing tour of the Old Delhi \u2013 a multi \u2013 layered city. Our first stop is the Red Fort built by the great Mughal Emperor Shah Jehan when he shifted his capital from Agra. A short drive brings us to the Great Mosque \u2013 The Jama MasjId. Drive on to see the memorial built for Mahatma Gandhi at Rajghat. Afternoon Sightseeing tour of New Delhi includes a visit to the Qutub Minar \u2013 the tallest stone tower in India built in 1191 AD. Chhatarpur Temple \u2013 the most popular Hindu temple with blissful tranquility and serene ambience. Continue to Humayun\u2019s Tomb believed to have been designed by his wIdow.  Its plan is based on the description of Islamic paradise gardens and is known to have inspired the Taj Mahal and many later Mughal tombs. Also visit the Bahai Temple \u2013 a lotus shaped structure. It is made of marble, cement, dolomite and sand. It is open to all faiths and is an Ideal place for meditation and obtaining peace and tranquility. Check-out of the hotel and transfer to the railway station in time to board overnight train to Bikaner. Overnight on board"
+                        "S": "<li>Begin your day with a sightseeing tour of Old Delhi, a city with a rich historical tapestry.</li> <li>Your first stop is the Red Fort, constructed by the Mughal Emperor Shah Jahan when he moved his capital from Agra.</li> <li>A short drive will take you to the Jama Masjid, one of India's largest mosques.</li> <li>Continue to Rajghat, the memorial dedicated to Mahatma Gandhi.</li> <li>In the afternoon, explore New Delhi with visits to the Qutub Minar, the tallest stone tower in India, built in 1191 AD.</li> <li>Also visit Chhatarpur Temple, known for its peaceful atmosphere, and Humayun’s Tomb, which inspired the Taj Mahal and many later Mughal tombs.</li> <li>Lastly, visit the Bahai Temple, a stunning lotus-shaped structure that welcomes people from all faiths.</li> <li>Afterward, check out from the hotel and transfer to the railway station to board the overnight train to Bikaner.</li> <li>Overnight aboard the train.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -5878,10 +5907,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 03 Bikaner \u2013 Gajner (Drive: 45 km / 1 hr)"
+                        "S": "Bikaner to Gajner (Drive: 45 km / 1 hr)"
                     },
                     "description": {
-                        "S": "Meeting and assistance on arrival and transfer to Gajner Palace. Arrive and check-in at the Gajner Palace. Rest of the day at leisure to explore the surrounding of the Palace. You can explore the estate on Buggies (Horse Carriages) or on open jeeps. Alternatively you can go for nature walk in the nearby forest. Overnight at the hotel."
+                        "S": "<li>Upon arrival in Bikaner, you will be assisted and transferred to the Gajner Palace.</li> <li>Check in and spend the rest of the day at leisure.</li> <li>You can explore the palace surroundings on horse-drawn carriages (buggies) or open jeeps, or take a nature walk in the nearby forest.</li> <li>Overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -5894,10 +5923,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 04 Gajner \u2013 Bikaner \u2013 Gajner"
+                        "S": "Gajner to Bikaner and back to Gajner"
                     },
                     "description": {
-                        "S": "Morning proceed for a sightseeing tour of Bikaner city visiting the Junagarh Fort, This fort was built by Raja Rai Singhji, the sixth ruler of Bikaner, who ruled form 1571 to 1612 AD. Raja Rai Singhji could Marshal the revenues of a Kingdom increased by the conquest of half Marwar and grant of half Gujrat and made use of ample funds from Jodhpur and Western Deccan for the construction of this fort. Devi Kund Sagar is situated 8 km in the east of city. The members of ruling family of Bikaner subsequent to Jet Singh, the great grandson of Rao Bikaji, have been cremated here.On the sIdes of reservoir of water lie the Royal cenotaphs of rulers of Bikaner dynasty from Rao Kalyan Singhji to last Maharaji Karni Singhji as well as those of their wives and other important members of families.There are cenotaphs (Chhatries) of 22 SATIES of royal family prior to Maharaja Gaj Sigh Ji (1745-1787). There is also one cenotaph of a SATA (male sati) of a ruler.The architecture of the cenotaphs is the prime attraction of this place. Maharaja Surat Singh\u2019s Chhatri is built entirely in white marble with spectacular Rajput paintings on its ceiling. Close by is a Dargah of Rustal Ali Shah Peer which is held in high esteem by muslim community and other people. Later in the afternoon proceed for sightseeing of Deshnoke Temple. Situated en route to Jodhpur , the temple is dedicated to Karni Mata -an incarnation of Durga. The temple has fascinating huge silver gates and marble carvings that were donated by Maharaja Ganga Singhji The most attractive feature of temple are the rodents who scamper freely within the premises and if one touches your feet its consIdered auspicious. They are regarded  sacred and devotees buy prasad (feeding) to offer to them. Evening at leisure. Overnight at the hotel."
+                        "S": "<li>In the morning, enjoy a sightseeing tour of Bikaner, beginning with a visit to Junagarh Fort, built by Raja Rai Singhji in the 16th century.</li> <li>Continue to Devi Kund Sagar, a royal cremation site with beautiful cenotaphs (Chhatris) of Bikaner’s rulers.</li> <li>The architecture of these cenotaphs is a significant highlight, with Maharaja Surat Singh’s Chhatri being a stunning example of white marble and Rajput painting.</li> <li>Later, visit the Deshnok Temple, dedicated to Karni Mata, an incarnation of Durga, famous for its rats, considered sacred by devotees.</li> <li>Return to Gajner for the evening and relax.</li> <li>Overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -5910,10 +5939,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 05 Gajner \u2013 Mandawa (Drive: 250 km / 6 hrs)"
+                        "S": "Gajner to Mandawa (Drive: 250 km / 6 hrs)"
                     },
                     "description": {
-                        "S": "Check-out of the hotel and drive to Mandawa. Arrive and check-in at Hotel Castle Mandawa. Rest of the day at leisure to explore the quaint town full of Havelis with beautiful frescos. Overnight at the hotel."
+                        "S": "<li>After checking out from the hotel, drive to Mandawa.</li> <li>On arrival, check in at Hotel Castle Mandawa.</li> <li>Spend the rest of the day exploring this charming town, known for its beautiful Havelis adorned with exquisite frescoes.</li> <li>Overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -5926,10 +5955,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 06 Mandawa \u2013 Nawal Garh \u2013 Mandawa"
+                        "S": "Mandawa to Nawalgarh and back to Mandawa"
                     },
                     "description": {
-                        "S": "Morning drive to Nawalgarh Founded in the 18th Century by Nawal Singh, it has some of the finest frescos in the Shekhawati region. A huge fort with colourful bazaar and numerous havelis with elaborate architecture makes it an interesting destination for a 1day / 1 night stay. There are a few prominent havelis like Anandilal Poddar Haveli, Aath Haveli, Hodh Raj Patodia Haveli etc., which are to be visited, and so are the two forts and the palace hotel Roop Niwas that is a beautiful heritage property and is renovated with modern facilities. The Palace offers spacious painted rooms, Luxurious interiors, graceful hospitality and great thematic evenings with sumptuous cuisine. The registered painting in their Art Gallery is a treat to the visuals. Evening return to Mandawa. Overnight at the hotel."
+                        "S": "<li>Morning: Drive to Nawalgarh, a historic town founded in the 18th century, famous for its vibrant frescoes in the Shekhawati region.</li> <li>Sightseeing: Visit prominent havelis, including Anandilal Poddar Haveli, Aath Haveli, and Hodh Raj Patodia Haveli.</li> <li>Historical Sites: Explore the two forts of Nawalgarh.</li> <li>Cultural Experience: Visit Roop Niwas Palace, a heritage hotel known for its painted rooms and luxurious interiors.</li> <li>Evening: Return to Mandawa.</li> <li>Night: Overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -5942,10 +5971,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 07 Mandawa \u2013 Dundlod \u2013 Mandawa"
+                        "S": "Mandawa to Dundlod and back to Mandawa"
                     },
                     "description": {
-                        "S": "Morning drive to Dundlod. The Fort of Dundlod is an embodiment of cultural amalgamation of Rajputana and Mughal School of Art and Architecture. Its motif of flowers and foliage, minarets, mythological paintings, archaic furniture, wall hangings of arrows and shields have remained unchanged since hoary past. Here commercialism of artificial world could not slip in. Staying in Dundlod Fort is almost like living through the days of James Tod who described the splendors of Rajasthan. On every dawn the first ray of the sun befalls over the fort as an eternal bliss to the land of mystique and charisma. Later return to Mandawa. Overnight at the hotel."
+                        "S": "<li>In the morning, drive to Dundlod.</li> <li>Visit Dundlod Fort, a stunning blend of Rajput and Mughal architecture.</li> <li>Explore the fort’s cultural motifs and ancient furniture.</li> <li>Enjoy the serene atmosphere and scenic views.</li> <li>Return to Mandawa later in the day.</li> <li>Overnight at the hotel.</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -5958,10 +5987,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 08 Mandawa \u2013 Jaipur (Drive: 151 km / 3 \u00bd hrs)"
+                        "S": "Mandawa to Jaipur (Drive: 151 km / 3 ½ hrs)"
                     },
                     "description": {
-                        "S": "Check-out of the hotel and drive to Jaipur. Arrive Jaipur and check-in at the hotel. The Rose Pink city founded by Maharaja Jai Singh II (1693-1743), is the capital of Rajasthan. It is a major attraction for the first-time visitor. Jaipur, is surrounded on all sIdes by rugged hills, crowned with forts & enclosed by embattled walls. Houses with latticed windows line the streets with their rose pink colour lending enchantment to the scene which is salmost magical at sunset. The Old City (Known as the Pink City) is a great place to wander around . The whole city was painted in Pink colour by Maharaja Man Singh II when Prince of Wales, later Edward VII, visited Jaipur in 1876. Today, every home with in the city is obliged by law to maintain his facade. The City is laId out in a grId pattern. It is a very well planned city and was designed by a Young Bengali, an engineer and scholar by the name \u201cVIdyadhar Bhattacharya\u201d. Jaipur was and remains the only city in the world symbolising the nine divisions of the universe, through nine rectangular sectors subsIding to, Jaipur is a royal city, & this is its most noticeable aspect, small Buildings & festivals testify to it. Jaipur & its surroundings are rather like an endless museum. The city also offers an endless variety of crafts. Jewellers here still fashion the beautiful enamel-on-gold pendants, studded on the reverse with precious stones or pearls & turquoise that one sees in miniature paintings. Jaipur\u2019s lacquer bangles are famous all over the world. Arrive Jaipur and check-in at the hotel. Evening at leisure to explore the local market. Overnight at the hotel."
+                        "S": "<li>Check out of the hotel and drive to Jaipur, the Rose Pink City.</li> <li>Discover Jaipur’s rich history, founded by Maharaja Jai Singh II.</li> <li>Admire the city's pink-hued buildings and well-planned streets.</li> <li>Explore the Old City (Pink City) with its bustling bazaars and beautiful crafts.</li> <li>Check in at your hotel upon arrival.</li> <li>Enjoy a free evening to explore the local markets.</li> <li>Overnight stay at the hotel.</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -5974,10 +6003,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 09 Jaipur"
+                        "S": "Jaipur"
                     },
                     "description": {
-                        "S": "Morning Proceed for an excursion to Amber fort. The Amber Fort in Rajasthan built in 1592 by Raja Man Singh, is one of the finest examples of Rajput architecture. Perched high on a barren rIdge, it commands extensive views over a deep narrow valley and the wIder plains beyond. The building was finally completed in the early18th century when the threat of Mughal domination was receding. Amber was once, the capital of the Mina tribes, believed to be the original inhabitants of this region. Located up on the hills that surround Jaipur, the fort, sprawled along the Maotha Lake, boasts of a massive complex gateways, courts, stairways and pillared pavilions, and palaces that recall the glory and wealth, of Amber\u2019s association with the Mughals. This complex was built by Raja Man Singh, Mirza Raja Jai Singh and Sawai Jai Singh, over a period of about two centuries. Later in the day proceed for a city tour of Jaipur visiting The City Palace \u2013 a visitors delight. Within the walls are several Palaces and museums resplendent with collections of the princely era. Outdoor Observatory \u2013 the Jantar Mantar- built in 1726 by Jai Singh, a notable astronomer King. It houses instruments of astonishing accuracy, which give accurate predictions to this day. Drive to the Palace of Winds (Hawa Mahal) \u2013 a five story high Palace having a facade of windows and latticed screens which allowed the Ladies of the Court, in bygone days, to sit and view the streets of the city. "
+                        "S": "<li>Begin your day with an excursion to Amber Fort, built in 1592 by Raja Man Singh.</li> <li>Perched on a hill with stunning valley views.</li> <li>A prime example of Rajput architecture, later expanded by Sawai Jai Singh.</li> <li>Explore massive gates, courts, stairways, pavilions, and beautiful palaces.</li> <li>In the afternoon, visit the City Palace.</li> <li>Home to several palaces and museums.</li> <li>Showcases royal collections and artifacts.</li> <li>Next, visit Jantar Mantar, the observatory built by King Jai Singh in 1726.</li> <li>Houses precise astronomical instruments.</li> <li>End the day at Hawa Mahal, a stunning five-story structure.</li> <li>Features latticed windows that allowed royal women to view the city streets.</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -5990,10 +6019,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Day 10 Jaipur \u2013 Delhi (Drive: 265 km / 5 \u00bd hrs)"
+                        "S": "Jaipur to Delhi (Drive: 265 km / 5 ½ hrs)"
                     },
                     "description": {
-                        "S": "Check-out of the hotel and drive to Delhi. Arrive Delhi and transfer directly to the International airport in time to board flight for onward destination."
+                        "S": "<li>After breakfast, check out of the hotel.</li> <li>Drive back to Delhi.</li> <li>Upon arrival, transfer directly to the International Airport.</li> <li>Board your onward flight.</li>"
                     },
                     "Id": {
                         "N": "10"
@@ -6014,9 +6043,10 @@
         "Title": "Sekhawati Havelis Tour: Delhi, Bikaner, Mandawa, Jaipur",
         "Description": "Explore the stunning Sekhawati Havelis in Delhi, Bikaner, Mandawa, and Jaipur. Experience India’s rich culture and architecture with Eaze Tours. Book Now!",
         "NoOfRatings": 14,
-        "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
-        "Whats_Included": "<li>Tour to Antelope Canyon X and Horseshoe Bend</li><li>Driver/Guide</li><li>Bottled water, soda, fruit and snacks</li><li>Hotel pick-up and dropoff by airconditioned vehicle</li><li>All Fees and Taxes</li><li>Gratuities (optional)</li><li>Lunch</li>",
-        "Overview": "This is a brief overview of the package.",
+        "Additional_Information": "<li>Standard check-in and checkout time is 12:00 hrs.</li> <li>Welcome by garland upon arrival at the airport/railway station.</li> <li>Surprise gifts at the end of the tour.</li> <li>Assistance on arrival and departure at the airport.</li> <li>Rides as per sightseeing in the itinerary.</li> <li>Suitable for history buffs, architecture enthusiasts, and families.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+        "Whats_Included": "<li>Daily breakfast and dinner in hotels.</li> <li>All airport and station transfers, sightseeing tours, and intercity drives by air-conditioned vehicle, including all parking, toll taxes, interstate taxes, fuel charges, and driver allowance.</li> <li>English-speaking sightseeing tour guide for city tours as per the itinerary.</li> <li>Two water bottles per guest per day during the sightseeing tour.</li> <li>One-time monument entrance fee during the tour.</li> <li>All applicable taxes and service charges.</li>",
+        "Overview": "Explore the grandeur of Shekhawati’s painted havelis, the royal charm of Jaipur, and the historical treasures of Delhi and Bikaner. This tour is perfect for history enthusiasts and art lovers seeking an immersive cultural experience.",
         "Ratings": 4.8
     },
     {
@@ -6196,6 +6226,7 @@
         "Description": "Explore India's exotic beaches with Eaze Tours, featuring Delhi, Cochin, Mararikulam, Kovalam, and Trivandrum for a memorable coastal journey. Book Now!",
         "NoOfRatings": 5,
         "Additional_Information": "<li>Best Time to Visit: November to March for pleasant weather and vibrant beach activities.</li><li>Ideal For: Couples, families, solo travelers, and adventure enthusiasts.</li><li>Popular Destinations: Goa, Andaman and Nicobar Islands, Kerala, Lakshadweep, Pondicherry, and Gokarna.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation: Beach resorts, boutique hotels, or eco-friendly stays.</li><li>Activities: Snorkeling, scuba diving, and beach yoga sessions.</li><li>Guided Tours: Explore local attractions, villages, and cultural spots.</li><li>Dining: Fresh coastal cuisine with local flavors.</li><li>Transportation: Convenient transfers to and from the beach locations.</li>",
         "Overview": "From the sun-kissed shores of Goa to the serene sands of Andaman, India’s beaches are a paradise for travelers. You can unwind on tranquil beaches, indulge in thrilling water sports, or explore the rich coastal culture. Each destination promises a unique and unforgettable experience.",
         "Ratings": 5.0
@@ -6489,6 +6520,7 @@
         "Description": "Explore Mumbai, Bangalore, Mysore, Ooty, Cochin, Madurai, & Chennai with curated South India tour packages. Unforgettable cultural and scenic experiences await!",
         "NoOfRatings": 12,
         "Additional_Information": "<li>Group tours available with a minimum of 2 participants</li><li>Suitable for families, couples, and solo travelers</li><li>Itinerary is subject to change based on weather conditions or unforeseen circumstances</li><li>This tour is available throughout the year, with customizable dates</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in 3 to 5-star hotels with breakfast</li><li>Domestic flights from Trivandrum to Delhi</li><li>Transportation by air-conditioned vehicles throughout the tour</li><li>Expert English-speaking tour guides</li><li>Sightseeing and entrance fees to attractions</li><li>Assistance with transfers to and from airports</li><li>Airport transfers in both Mumbai and Chennai</li><li>Daily sightseeing tours to major attractions in each city</li>",
         "Overview": "The South India Tour Package from Eaze Tours offers a captivating journey through the cultural and natural wonders of the region. Starting in Mumbai, you'll explore its iconic landmarks before traveling to Bangalore, Hassan, and Mysore, delving into historical sites and stunning landscapes. The tour continues through Ooty, Cochin, Kumarakom, Periyar, and Madurai, highlighting the beauty of Kerala's backwaters, wildlife sanctuaries, and temples. This comprehensive package promises a blend of heritage, nature, and adventure across South India's most cherished destinations. Each destination promises a unique and unforgettable experience.",
         "Ratings": 4.8
@@ -6750,6 +6782,7 @@
         "Description": "Plan a Gujarat 15 days tour package in India covering Ahmedabad, Taranga, Vijaynagar, Zainabad, Bhuj, Jamnagar, Junagadh, Bhavnagar, etc with Eaze Tours.",
         "NoOfRatings": 7,
         "Additional_Information": "<li>The tour package is available for all group sizes.</li><li>The itinerary is customizable based on your preferences.</li><li>All transportation is air-conditioned for comfort.</li><li>Recommended for travelers interested in history, culture, and nature.</li><li>The tour includes free time for shopping and leisure activities in major cities.</li><li>Please confirm the availability of accommodation at the time of booking.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>15 days of guided tours across major cities in Gujarat.</li><li>Accommodation in 3-star or 4-star hotels.</li><li>Daily breakfast at hotels.</li><li>Transportation by private vehicle for the entire tour.</li><li>Airport and railway station transfers.</li><li>Services of an experienced local guide.</li><li>Visit to prominent attractions like Gir National Park, Rann of Kutch, and Sabarmati Ashram.</li><li>Wildlife safari in Gir National Park.</li><li>Cultural and heritage tours to temples, forts, and palaces.</li><li>All applicable taxes.</li>",
         "Overview": "Embark on an unforgettable journey with the Gujarat 15 Days Tour Package India. This comprehensive itinerary takes you through the rich cultural heritage, ancient temples, pristine beaches, and vibrant cities of Gujarat. Explore the majestic Rann of Kutch, visit the famous Gir National Park, and delve into the history of vibrant cities like Ahmedabad, Surat, and Vadodara. Whether you're a history enthusiast, nature lover, or culture seeker, this 15-day tour will offer you an immersive experience of Gujarat's diverse attractions, making it a perfect getaway for those seeking an in-depth exploration of this dynamic state.",
         "Ratings": 4.9
@@ -6947,6 +6980,7 @@
         "Description": "Explore Delhi, Mandawa, Bikaner, Jaisalmer, Jodhpur, Jaipur, Agra, and back to Delhi with our Rajasthan 11 days tour package from Delhi, India. Book Now!",
         "NoOfRatings": 20,
         "Additional_Information": "<li>The tour starts and ends in Delhi</li><li>Customization options available upon request</li><li>Best time to visit: October to March</li><li>Travelers are advised to carry comfortable clothing, sunscreen, and a camera to capture the mesmerizing sights</li><li>This package is suitable for families, couples, and solo travelers.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in well-appointed hotels</li><li>Daily breakfast at all hotels</li><li>Air-conditioned vehicle for all transfers and sightseeing</li><li>English-speaking tour guide for major attractions</li><li>Entrance fees to monuments as per itinerary</li><li>Camel ride in Jaisalmer desert</li><li>Boat ride on Lake Pichola in Udaipur</li><li>Cultural dance performance in Jaipur</li><li>24/7 customer assistance throughout the tour.</li>",
         "Overview": "Embark on an unforgettable 11-day journey through Rajasthan, the land of royals, where history and grandeur come alive. Starting from Delhi, this tour takes you through the most iconic forts, palaces, and heritage sites of Rajasthan, offering a glimpse into the rich cultural heritage of India.",
         "Ratings": 4.9
@@ -7080,6 +7114,7 @@
         "Description": "Explore the Golden Triangle with our 7-day tour package. Experience Delhi, Agra, Jaipur, Delhi, rich in history, culture, and unforgettable memories. Book Now!",
         "NoOfRatings": 20,
         "Additional_Information": "<li>Group Size: Small group tours for personalized attention.</li><li>Departure Dates: Multiple departures throughout the year; please check the schedule.</li><li>Booking: Advance booking is recommended to secure your spot.</li><li>Payment: Flexible payment options available; contact us for details.</li>",
+        "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation: 6 nights in 3-star hotels with daily breakfast.</li><li>Transportation: Private air-conditioned vehicle for all transfers and sightseeing.</li><li>Guided Tours: Professional English-speaking guides at each destination.</li><li>Monument Entries: Admission fees to all specified attractions.</li><li>Meals: Daily breakfast; lunch and dinner as specified in the itinerary.</li><li>Additional Services: Mineral water during sightseeing; all applicable taxes.</li>",
         "Overview": "Embark on a captivating 7-day journey through India's Golden Triangle—Delhi, Agra, and Jaipur. This meticulously crafted tour offers a harmonious blend of historical landmarks, architectural marvels, and cultural experiences, providing an immersive insight into India's rich heritage.",
         "Ratings": 5.0
