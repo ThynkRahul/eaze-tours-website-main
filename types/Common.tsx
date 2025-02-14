@@ -24,6 +24,7 @@ interface IPackageDetailDataType {
     Ratings: number;
     Additional_Information: string;
     Whats_Included: string;
+    Whats_excluded: string;
     Overview: string;
 }
 
