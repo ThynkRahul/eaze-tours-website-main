@@ -49,26 +49,32 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
 
                 <div className="overflow-auto border-0 sm:border-2 mx-8 rounded-[20px]">
                     <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
-                        <h2 className="text-2xl font-[urbanist] font-semibold text-black text-left mb-4">Overview</h2>
+                        <h2 className="text-2xl font-[urbanist] font-bold text-black text-left mb-4">Overview</h2>
                         <div className="text-[#4f5e71] font-[urbanist] font-[500] font-[16px] leading-[1.5em]">{tourPackage.Overview}</div>
                     </div>
                 </div>
                 <div className="overflow-auto border-0 sm:border-2 mx-8 rounded-[20px]">
                     <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
-                        <h2 className="text-2xl font-semibold font-[urbanist] text-black text-left mb-4">What’s Included</h2>
+                        <h2 className="text-2xl font-bold font-[urbanist] text-black text-left mb-4">What’s Included</h2>
                         <ul className="list-disc pl-6 mt-0 sm:mt-4 grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-x-8 sm:gap-y-4 font-[500] text-[#4f5e71] font-[urbanist] text-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: tourPackage.Whats_Included }} />
                     </div>
                 </div>
                 <div className="overflow-auto border-0 sm:border-2 mx-8 rounded-[20px]">
                     <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
-                        <h2 className="text-2xl font-semibold font-[urbanist] text-black text-left mb-4">Additional Information</h2>
+                        <h2 className="text-2xl font-bold font-[urbanist] text-black text-left mb-4">What’s Excluded</h2>
+                        <ul className="list-disc pl-6 mt-0 sm:mt-4 grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-x-8 sm:gap-y-4 font-[500] text-[#4f5e71] font-[urbanist] text-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: tourPackage.Whats_excluded }} />
+                    </div>
+                </div>
+                <div className="overflow-auto border-0 sm:border-2 mx-8 rounded-[20px]">
+                    <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
+                        <h2 className="text-2xl font-bold font-[urbanist] text-black text-left mb-4">Additional Information</h2>
                         <ul className="list-disc pl-6 mt-0 sm:mt-4 grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-x-8 sm:gap-y-4 font-[500] text-[#4f5e71] font-[urbanist] text-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: tourPackage.Additional_Information }} />
                     </div>
                 </div>
 
                 <div className="overflow-auto border-0 sm:border-2 mx-8 rounded-[20px]">
                     <ul className="timeline timeline-snap-icon timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
-                        <h2 className="text-2xl font-semibold font-[urbanist] text-black text-left mb-4">What to Expect</h2>
+                        <h2 className="text-2xl font-bold font-[urbanist] text-black text-left mb-4">What to Expect</h2>
                         {tourPackage.Itinerary.map(itinerary => (
                             <li key={itinerary.M.Id.N}>
                                 <VerticalTimelineElement
