@@ -41,6 +41,7 @@ const NavBar: React.FC = () => {
         { href: "/testimonials", label: "Testimonials" },
         { href: "/packages", label: "Packages" },
         { href: "/gallery", label: "Gallery" },
+        { href: "/blog", label: "Blog" },
     ];
 
     const handleLinkClick = (href: string) => {
