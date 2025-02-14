@@ -25,11 +25,11 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                 <p className="text-[14px] text-gray-700 mt-4">
                     <span className="text-[#ccc] hover:text-[#035C7A]">
                         <Link href="/" passHref>Home </Link>
-                    </span><span>/ {tourPackage.Name}</span>
+                    </span><span>/ {tourPackage.Title}</span>
                 </p>
-                <h2 className="text-[42px] font-semibold text-black text-left leading-[1.2em] sm:leading-[1.5em]">
-                    <span>{tourPackage.Name}</span>
-                </h2>
+                <h1 className="text-[42px] font-semibold text-black text-left leading-[1.2em] sm:leading-[1.5em]">
+                    <span>{tourPackage.Title}</span>
+                </h1>
                 <div className="flex gap-2 pt-2 mb-3">
                     {tourPackage.Tags.map((tag, index) => (
                         <span
