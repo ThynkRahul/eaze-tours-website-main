@@ -9,7 +9,7 @@ function Footer() {
       <div className="container mx-auto flex flex-col md:flex-row gap-0 justify-between p-6 md:p-10">
         {/* First Column - Logo, Content, and Social Icons */}
 
-        <div className="w-full md:w-[25%] mb-8 text-left pl-1 md:pl-8">
+        <div className="w-full md:w-[20%] mb-8 text-left pl-1 md:pl-8">
           <Link href="/" passHref><Image className="z-0 mb-4 md:mx-0" src={signature} width={200} height={87} alt="Logo"></Image></Link>
 
           <p className="text-sm mt-2 mb-4">Established in 2015, Eaze Tours is driven by three travel professionals, with decades of combined varied experience in the tour industry.</p>
@@ -32,7 +32,7 @@ function Footer() {
         {/* Second Column - Useful Links */}
         <div className="w-full md:w-[38%] mb-8 pl-1 md:pl-10 md:pt-10">
           <div className="text-lg font-semibold mb-4">India Best Tour Packages</div>
-          <ul className="grid grid-cols-2 gap-x-4 gap-y-2">
+          <ul className="grid sm:grid-cols-2 gap-x-4 gap-y-2">
             <li><Link href="/packages" className="hover:text-blue-600 transition-colors">Best Tours to India from USA</Link></li>
             <li><Link href="/forts-and-palaces-india" className="hover:text-blue-600 transition-colors">Fort and Palaces of India</Link></li>
             <li><Link href="/kerala-cochin-trivandrum-tour-india" className="hover:text-blue-600 transition-colors">Kerala Tour Package</Link></li>
@@ -49,7 +49,7 @@ function Footer() {
         </div>
 
         {/* Third Column - Top Destinations */}
-        <div className="w-full md:w-[17%] mb-8 pl-1 md:pl-12 md:pt-10">
+        <div className="w-full md:w-[14%] mb-8 pl-1 md:pl-6 md:pt-10">
           <div className="text-lg font-semibold mb-4">Top Destinations</div>
           <ul className="space-y-2">
             <li><Link href="/packages/classical-delhi-jaipur-agra-khajurao-varanasi-tour-india" className="hover:text-blue-600 transition-colors">Delhi</Link></li>
@@ -60,8 +60,21 @@ function Footer() {
           </ul>
         </div>
 
-        {/* Fourth Column - Contact Info */}
-        <div className="w-full md:w-[20%] mb-8 pl-1 md:pl-8 md:pt-10">
+        {/* Fouth Column - Top Destinations */}
+        <div className="w-full md:w-[13%] mb-8 pl-1 md:pl-6 md:pt-10">
+          <div className="text-lg font-semibold mb-4">Useful Links</div>
+          <ul className="space-y-2">
+            <li><Link href="/about" className="hover:text-blue-600 transition-colors">About Us</Link></li>
+            <li><Link href="/contact" className="hover:text-blue-600 transition-colors">Contact Us</Link></li>
+            <li><Link href="/packages" className="hover:text-blue-600 transition-colors">Packages</Link></li>
+            <li><Link href="/gallery" className="hover:text-blue-600 transition-colors">Gallery</Link></li>
+            <li><Link href="/testimonials" className="hover:text-blue-600 transition-colors">Testimonials</Link></li>
+            <li><Link href="/blog" className="hover:text-blue-600 transition-colors">Blog</Link></li>
+          </ul>
+        </div>
+
+        {/* Fifth Column - Contact Info */}
+        <div className="w-full md:w-[20%] mb-8 pl-1 md:pl-4 md:pt-10">
           <div className="text-lg font-semibold mb-4">Contact Us</div>
           <div className="space-y-4">
             <div className="flex items-start space-x-2">
