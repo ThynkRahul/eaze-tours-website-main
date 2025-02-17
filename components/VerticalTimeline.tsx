@@ -88,8 +88,14 @@ function VerticalTimeline({ tourPackage }: VerticalTimelineProp) {
                                 </VerticalTimelineElement>
                             </li>
                         ))}
-
                     </ul>
+                </div>
+
+                <div className="overflow-auto border-0 sm:border-2 mx-8 rounded-[20px]">
+                    <div className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical p-[5px] sm:p-[30px]">
+                        <h2 className="text-2xl font-bold font-[urbanist] text-black text-left mb-4">Summary</h2>
+                        <ul className="text-[#4f5e71] font-[urbanist] font-[500] font-[16px] leading-[1.5em]" dangerouslySetInnerHTML={{ __html: tourPackage.Summary }} />
+                    </div>
                 </div>
 
                 <div className="my-12 max-w-screen-xl mx-8">
