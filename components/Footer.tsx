@@ -93,7 +93,7 @@ function Footer() {
             </div>
             <div className="flex items-start space-x-2">
               <i className="fa fa-map-marker-alt text-lg text-white-400 -mt-1" />
-              <p className="text-sm">Eaze House ~2nd Floor, RZP-146 Palam Colony, New Delhi, South West Delhi, 110075</p>
+              <p className="text-sm"><a href="https://maps.app.goo.gl/H7RTSzRAnT3WYnjr9" className="hover:text-blue-600">Eaze House ~2nd Floor, RZP-146 Palam Colony, New Delhi, South West Delhi, 110075</a></p>
             </div>
           </div>
         </div>
