@@ -473,10 +473,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Manali to Rohtang Pass (51 km)"
+                        "S": "Manali to Rohtang Pass (61 km)"
                     },
                     "description": {
-                        "S": "<li>After breakfast full day biking tour in around Manali includes Manikaran, Hadimba Temple and Kullu Valley.</li><li> Overnight stay at hotel (B).</li>"
+                        "S": "<li>After breakfast, full-day biking tour around Manali includes Manikaran, Hadimba Temple, and Kullu Valley.</li> <li>Travel distance is around 61 kms and takes approximately 2 hours.</li> <li>Overnight stay at hotel (B).</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -489,10 +489,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Rohtang Pass to Jispa (75 km)"
+                        "S": "Rohtang Pass to Jispa (86 km)"
                     },
                     "description": {
-                        "S": "<li>After breakfast commence biking tour to Leh via Rohatang Pass (3990M).</li><li> Enjoy the biking via Gulaba,Marchi, Rani Nala, Rohatang Jyot, Koksar, Gondal, Tandi (Confluence of Chandra and Bhaga River), Keylong finally reach at Jispa.</li><li> Arrival check in hotel or fix tent (B/D).</li>"
+                        "S": "<li>After breakfast, commence biking tour to Leh via Rohtang Pass (3990M).</li> <li>Enjoy the ride through Gulaba, Marhi, Rani Nala, Rohtang Jyot, Koksar, Gondla, Tandi (Confluence of Chandra and Bhaga River), and Keylong, finally reaching Jispa.</li> <li>Travel distance is around 86 kms and takes approximately 2 hrs 30 min.</li> <li>On arrival, check-in at hotel or fixed tent (B/D).</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -660,7 +660,7 @@
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li> <li>Best Time to Visit: June to September</li> <li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li> <li>Travel insurance is highly recommended for this tour</li> <li>Surprise Gifts at the end of the tour.</li> <li>Assistance on arrival – departure at airport.</li> <li>Rides are provided as per the itinerary</li> <li>Package details are subject to client customization</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Whats_Included": "<li>Accommodation in camps or guesthouses.</li><li>Check-in and checkout set at 12:00 PM.</li><li>Daily breakfast and dinner provided.</li><li>Professional biking guides and support staff.</li><li>English-speaking local guides in all cities as per itinerary.</li><li>An Eaze Tour Manager accompanies the group.</li><li>2 water bottles per guest per day during sightseeing tours.</li><li>Garland welcome upon arrival.</li>",
-        "Overview": "Experience the thrill of cycling through the majestic Himalayas with our Manali to Leh Mountain Bike Tour. This journey takes you across rugged terrains, lush valleys, and some of the world’s highest motorable passes. Designed for adventure enthusiasts, this tour offers breathtaking views, cultural encounters, and the satisfaction of conquering challenging routes.",
+        "Overview": "Experience the thrill of cycling through the majestic Himalayas with our Manali to Leh Mountain bike tour package. This journey takes you across rugged terrains, lush valleys, and some of the world’s highest motorable passes. Designed for adventure enthusiasts, this tour offers breathtaking views, cultural encounters, and the satisfaction of conquering challenging routes.",
         "Ratings": 5.0
     },
     {
@@ -857,8 +857,8 @@
         "NoOfRatings": 6,
         "Additional_Information": "<li>Difficulty Level: Varies from easy to challenging trails, suitable for beginners and experienced trekkers.</li><li>Best Time to Visit: October to March for most regions; May to September for Himalayan treks.</li><li>What to Bring: Comfortable trekking shoes, warm clothing, a backpack, water bottle, and personal essentials.</li><li>Travel insurance is recommended.</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
-        "Whats_Included": "<li>Professional trekking guides and porters.</li><li>Accommodation in tents, guesthouses, or homestays.</li><li>All meals (breakfast, lunch, and dinner).</li><li>Trekking permits and entry fees.</li><li>First aid and emergency assistance.</li><li>Transfer to and from the trekking base.</li>",
-        "Overview": "Discover the untouched beauty of India’s mountains, forests, and valleys with our Trekking Tour in India. Perfect for nature lovers and adventure seekers, this tour takes you through picturesque trails, rich cultural heritage, and diverse landscapes. Whether it’s the Himalayan foothills, Western Ghats, or the serene deserts of Rajasthan, this trekking journey is a blend of adventure and tranquility.",
+        "Whats_Included": "<li>Daily hotel breakfast and dinner.</li> <li>English-speaking guides throughout the tour.</li> <li>Eaze Tour Manager support as per group size.</li> <li>2 water bottles per person per day during sightseeing.</li> <li>Welcome garland on arrival.</li> <li>All applicable taxes.</li>",
+        "Overview": "Discover the untouched beauty of India’s mountains, forests, and valleys with our Markha valley trekking tour package in India. Perfect for nature lovers and adventure seekers, this tour takes you through picturesque trails, rich cultural heritage, and diverse landscapes. Whether it’s the Himalayan foothills, Western Ghats, or the serene deserts of Rajasthan, this trekking journey is a blend of adventure and tranquility.",
         "Ratings": 4.8
     },
     {
