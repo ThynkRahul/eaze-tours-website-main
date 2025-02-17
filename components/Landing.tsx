@@ -582,28 +582,18 @@ function Landing(props: ILandingProps) {
 
                 {/* Gallery Grid */}
                 <div className="grid grid-cols-5 justify-center items-center gap-8 max-w-screen-xl mx-8">
-                    <Image src={isoimage}
-                        alt="cetificate_Image"
-                        className="object-contain max-w-full max-h-screen w-[100%]"
-                    />
-                    <Image src={msmeimage}
-                        alt="cetificate_Image"
-                        className="object-contain max-w-full max-h-screen w-[100%]"
-                    />
-                    <Image src={latoimage}
-                        alt="cetificate_Image"
-                        className="object-contain max-w-full max-h-screen w-[100%]"
-                    />
-                    <Image src={sepcimage}
-                        alt="cetificate_Image"
-                        className="object-contain max-w-full max-h-screen w-[100%]"
-                    />
-                    <Image src={mtfoimage}
-                        alt="cetificate_Image"
-                        className="object-contain max-w-full max-h-screen w-[100%]"
-                    />
+                    {[isoimage, msmeimage, latoimage, sepcimage, mtfoimage].map((imgSrc, index) => (
+                        <div key={index} className="w-full aspect-square flex justify-center items-center">
+                            <Image
+                                src={imgSrc}
+                                alt="certificate_Image"
+                                className="object-contain w-full h-full"
+                            />
+                        </div>
+                    ))}
                 </div>
             </div>
+
             {/* Heading Before the Testimonial Slider */}
             <div className="my-12 max-w-screen-xl mx-8">
                 <h2 className="text-2xl font-semibold text-black mt-12" style={{ fontSize: '32px' }}>
