@@ -5,7 +5,7 @@ import PackageSummaryCard from './PackageSummaryCard';
 import Testimonial from "./Testimonial";
 import backgroundImage from '../public/images/background_2.jpg';
 import backgroundImage2 from '../public/images/background_4.jpeg';
-import isoimage from '../public/images/iso.png';
+import isoimage from '../public/images/iso_cerficate.jpg';
 import latoimage from '../public/images/lato.jpg';
 import msmeimage from '../public/images/msme.jpg';
 import mtfoimage from '../public/images/mtfoi.png';
