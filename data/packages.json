@@ -659,7 +659,7 @@
         "NoOfRatings": 19,
         "Additional_Information": "<li>Difficulty Level: Moderate to High – Suitable for experienced cyclists</li><li>Best Time to Visit: June to September</li><li>What to Bring: Comfortable biking gear, warm clothing, sunscreen, and personal essentials</li><li>Travel insurance is highly recommended for this tour</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
-        "Whats_Included": "<li>Accommodation in camps or guesthouses</li><li>All meals (breakfast, lunch, dinner)</li><li>Professional biking guides and support staff</li><li>Backup vehicle for safety and emergencies</li><li>Bike maintenance and mechanical support</li><li>Permits for restricted areas</li>",
+        "Whats_Included": "<li>Accommodation in camps or guesthouses</li><li>Check-in and checkout set at 12:00 PM</li><li>Daily breakfast and dinner provided</li><li>Professional biking guides and support staff</li><li>English-speaking local guides in all cities as per itinerary</li><li>An Eaze Tour Manager accompanies the group</li><li>2 water bottles per guest per day during sightseeing tours</li><li>Garland welcome upon arrival</li>",
         "Overview": "Experience the thrill of cycling through the majestic Himalayas with our Manali to Leh Mountain Bike Tour. This journey takes you across rugged terrains, lush valleys, and some of the world’s highest motorable passes. Designed for adventure enthusiasts, this tour offers breathtaking views, cultural encounters, and the satisfaction of conquering challenging routes.",
         "Ratings": 5.0
     },
@@ -869,7 +869,7 @@
             {
                 "M": {
                     "name": {
-                        "S": " Arrival in Calcutta"
+                        "S": " Arrival in Kolkata"
                     },
                     "description": {
                         "S": "<li>Arrive breakfast tour briefing by Local Staff, followed by half day visit of the “City of Joy ” also the Mother Teresa’s city.</li><li> Palaces to visit are the Jain Temple , Zoological Gardens, Victoria Memorial & drive past Howrah BrIdge , Dalhousie Square , Fort Williams , Secretariat Building and Old Court House Street.</li><li> Overnight at Hotel.</li>"
@@ -885,10 +885,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Calcutta / Bagdogra / Darjeeling"
+                        "S": "Kolkata / Bagdogra / Darjeeling"
                     },
                     "description": {
-                        "S": "<li>After breakfast, provide in-time departure & transfer to airport to connect the flight for Bagdogra.</li><li> On arrival at Bagdogra airport followed by drive to Darjeeling.</li><li> Darjeeling is one of the most beautiful Hill Stations in Eastern India and has the highest Race Course in the World.</li><li> Place worth visiting are the Lablong village, the Mountaineering Institute and Tenzing Norgay House – The first Everest Hero.</li><li> On arrival Check into the Hotel.</li><li> Overnight at Hotel.</li>"
+                        "S": "<li>After breakfast, provide in-time departure & transfer to airport to connect the flight for Bagdogra.</li><li>On arrival at Bagdogra airport followed by drive to Darjeeling (68 kms by Road takes around 3 hrs).</li><li> Darjeeling is one of the most beautiful Hill Stations in Eastern India and has the highest Race Course in the World.</li><li> Place worth visiting are the Lablong village, the Mountaineering Institute and Tenzing Norgay House – The first Everest Hero.</li><li> On arrival Check into the Hotel.</li><li> Overnight at Hotel.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -1030,7 +1030,7 @@
     {
         "Id": 7,
         "Days": 17,
-        "DurationDisplay": "16 NIGHTS - 17 DAYS",
+        "DurationDisplay": "15 NIGHTS - 16 DAYS",
         "Itinerary": [
             {
                 "M": {
@@ -1243,48 +1243,16 @@
             {
                 "M": {
                     "name": {
-                        "S": "Srinagar to Jammu"
+                        "S": "Srinagar to Delhi"
                     },
                     "description": {
-                        "S": "<li>On the way from Srinagar to Jammu, the route passes through the hill resorts of Batote, Panitop, and Kud. Before reaching the Jammu region, tourists will pass through the about 3 km long Jawahar Tunnel.</li><li>On the way, tourists can visit the famous shrine of Vaishno Devi and halt overnight in Jammu city.</li>"
+                        "S": "<li>Enjoy a leisurely morning in Srinagar</li><li>Transfer to Srinagar Airport for a flight to Delhi</li><li>Arrive in Delhi and proceed with your onward journey</li>"
                     },
                     "Id": {
                         "N": "15"
                     },
                     "day": {
                         "N": "15"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Return from Jammu to Delhi"
-                    },
-                    "description": {
-                        "S": "<li>Final day of the discovery trip and the farewell will be given at Karnal.</li>"
-                    },
-                    "Id": {
-                        "N": "16"
-                    },
-                    "day": {
-                        "N": "16"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Depart at Home"
-                    },
-                    "description": {
-                        "S": ""
-                    },
-                    "Id": {
-                        "N": "17"
-                    },
-                    "day": {
-                        "N": "17"
                     }
                 }
             }
@@ -1301,7 +1269,7 @@
         "NoOfRatings": 11,
         "Additional_Information": "<li>Best Time to Visit: April to October for Kashmir; June to September for Ladakh.</li><li>Difficulty Level: Moderate, suitable for all age groups.</li><li>What to Bring: Warm clothing, sturdy shoes, sunglasses, sunscreen, and a camera.</li><li>Oxygen support is available for high-altitude areas.</li><li>Travel insurance is highly recommended.</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
-        "Whats_Included": "<li>Comfortable accommodation in hotels, camps, or houseboats</li><li>Daily breakfast and dinner</li><li>Private transportation for all transfers and sightseeing</li><li>Inner line permits for restricted areas in Ladakh</li><li>Professional tour guide for sightseeing</li><li>Airport transfers</li>",
+        "Whats_Included": "<li>Comfortable accommodation in hotels, camps, or houseboats</li><li>Daily breakfast and dinner</li><li>Private transportation for all transfers and sightseeing</li><li>Inner line permits for restricted areas in Ladakh</li><li>Professional tour guide for sightseeing</li><li>Airport transfers</li><li>English-speaking local guides available in all cities</li><li>An Eaze Tour Manager to assist the group</li><li>2 water bottles per guest per day during tours</li><li>Welcome garland upon arrival at the station/airport</li>",
         "Overview": "Embark on a mesmerizing journey through the scenic landscapes of Ladakh and Kashmir with our exclusive tour package. Witness Kashmir's lush valleys and tranquil lakes, coupled with Ladakh's rugged mountains and high-altitude desert. This package promises an unforgettable experience filled with adventure, culture, and natural beauty.",
         "Ratings": 5.0
     },
@@ -3333,7 +3301,7 @@
         "NoOfRatings": 17,
         "Additional_Information": "<li>Best Time to Travel: October to March for the best weather and sightseeing experiences.</li><li>Ideal For: Luxury travelers, history enthusiasts, and cultural explorers.</li><li>What to Bring: Comfortable clothing, a camera, and travel essentials.</li><li>Advance booking is required due to limited availability.</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
-        "Whats_Included": "<li>Luxurious accommodation onboard the Palace on Wheels train</li><li>All meals, featuring Indian and international cuisine</li><li>Guided tours of historical landmarks and cultural attractions</li><li>Private transportation for off-train excursions</li><li>Entry tickets to monuments and parks</li><li>Services of professional tour guides</li><li>Onboard amenities, including a spa, lounge, and bar</li>",
+        "Whats_Included": "<li>Welcome garland upon arrival at the station/airport</li><li>All meals, featuring Indian and international cuisine</li><li>Guided tours of historical landmarks and cultural attractions</li><li>Private transportation for off-train excursions</li><li>English-speaking local guides available in all cities</li><li>An Eaze Tour Manager to assist the group</li><li>2 water bottles per guest per day during tours</li><li>One monument entrance fee covered</li>",
         "Overview": "Experience the grandeur of India with the Palace on Wheels, one of the most luxurious trains in the world. This extraordinary journey takes you through India’s most iconic destinations, offering a blend of royal heritage, vibrant culture, and stunning landscapes. From the majestic forts of Rajasthan to the timeless beauty of the Taj Mahal, this package promises a royal experience like no other.",
         "Ratings": 4.9
     },
