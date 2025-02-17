@@ -26,6 +26,7 @@ interface IPackageDetailDataType {
     Whats_Included: string;
     Whats_excluded: string;
     Overview: string;
+    Summary: string;
 }
 
 interface ITestimonialDataType {
