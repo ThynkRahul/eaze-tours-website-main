@@ -3334,7 +3334,7 @@
                         "S": "Arrive in Delhi (Normal check-in time at the hotel is 14:00 hrs)"
                     },
                     "description": {
-                        "S": "<li>Arrive at Indira Gandhi International Airport, where you will be met by our representative holding a placard in the arrival lounge.</li><li>After a warm welcome, transfer to your hotel and check-in. Delhi, the capital of India, is a city of contrasts – a vibrant metropolis where history and modernity coexist. The city has been the seat of many great dynasties, leaving behind a legacy of architectural wonders.</li><li>Located on the banks of the Yamuna River, Delhi has seen numerous cities rise and fall over the last five millennia.</li><li>Overnight in Delhi.</li>"
+                        "S": "<li>Arrive at Indira Gandhi International Airport.</li> <li>Meet and assist by our representative at the arrival lounge (holding a placard).</li> <li>Transfer to the hotel and check-in.</li> <li>Explore Delhi, a city where history and modernity coexist.</li> <li>Discover the architectural heritage shaped by various dynasties.</li> <li>Learn about Delhi’s significance as a metropolis and necropolis over 5,000 years.</li> <li>Overnight stay in Delhi.</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -3347,10 +3347,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Delhi"
+                        "S": "Delhi – Gorakhpur (Flight) – Kushinagar (60 Kms / 2 Hrs Approx)"
                     },
                     "description": {
-                        "S": "<li>Start your day with a hearty breakfast at the hotel.</li><li>Afterward, enjoy a full-day sightseeing tour of both Old and New Delhi.</li><strong>Morning:</strong><br>Explore Old Delhi with a drive past the Red Fort (outside only), an iconic citadel made of red sandstone built by Shah Jahan in the 17th century. Nearby, visit Jama Masjid, India’s largest mosque, also commissioned by Shah Jahan. Take a rickshaw ride through the bustling Chandni Chowk, a vibrant market area full of shops selling everything from clothes to spices. If time permits, visit Raj Ghat, the memorial of Mahatma Gandhi.<br><strong>Afternoon:</strong><br>Continue your exploration of New Delhi with a visit to the Qutub Minar, a UNESCO World Heritage site and the tallest brick minaret in the world. See the Iron Pillar, which has baffled scientists for its resistance to rust for over 1,600 years. Then, visit Humayun's Tomb, a stunning example of Mughal architecture and a precursor to the Taj Mahal. Also stop by India Gate, the national war memorial, and the Rashtrapati Bhawan, the residence of India’s President.Overnight in Delhi."
+                        "S": "<li>Morning Transfer – Head to the airport for a flight to Gorakhpur.</li> <li>Flight Details: Airline: Indigo (6E-2334) Departure from Delhi: 10:20 AM Arrival in Gorakhpur: 11:45 AM Class: Economy</li> <li>Arrival in Gorakhpur & Transfer to Kushinagar (Approx. 2-hour drive).</li> <li>Hotel Check-in at Kushinagar.</li> <li>Explore Kushinagar, one of the four holiest Buddhist sites where Lord Buddha delivered his last sermon.</li> <li>Overnight stay in Kushinagar.</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -3363,10 +3363,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Delhi to Agra (Approx. 205 km / 5 to 5.5 hrs)"
+                        "S": "Kushinagar – Vaishali – Patna (350 km / 6 hrs Approx.)"
                     },
                     "description": {
-                        "S": "<li>After breakfast at your hotel, drive to Agra, home to the world-famous Taj Mahal.</li><li>Upon arrival, check in at your hotel. Agra is a city steeped in Mughal history, known for its stunning palaces, forts, and mausoleums that reflect the grandeur of the empire.</li><li>Agra was the capital of the Mughal Empire for over 100 years. It is also famous for its intricate marble inlay work, leather products, and carpets.</li><li>Overnight in Agra.</li>"
+                        "S": "<li>Breakfast at the hotel in Kushinagar.</li> <li>Drive to Vaishali, a significant Buddhist site visited by Siddhartha multiple times.</li> <li>Explore Mahavana Forest, a serene retreat for Buddhist monks and ascetics.</li> <li>Visit Gosingalasāla, another forested area ideal for meditation and spiritual practice.</li> <li>Continue the journey to Patna.</li> <li>Check-in at the hotel upon arrival.</li> <li>Overnight stay in Patna.</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -3379,10 +3379,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Agra to Varanasi (Overnight Train) (Normal check-out time is 12:00 hrs)"
+                        "S": "Patna – Nalanda – Rajgir – Bodhgaya"
                     },
                     "description": {
-                        "S": "<li>Start your day with breakfast at the hotel, then head out for a tour of Agra’s major attractions.</li><li>Visit the Taj Mahal, the eternal symbol of love built by Emperor Shah Jahan for his wife Mumtaz Mahal. Closed on Fridays, this exquisite white marble mausoleum is one of the Seven Wonders of the World.</li><li>Then, explore Agra Fort, a UNESCO World Heritage site, and Itimad-Ud-Daulah’s Tomb, often referred to as the 'Baby Taj' due to its resemblance to the Taj Mahal.</li><li>In the evening, transfer to Agra Railway Station to board your overnight train to Varanasi.</li><li><strong>Train Details:</strong>.</li><li>Train Name/Number: Marudhar Express – 14864.</li><li>Departure from Agra: 21:20 hrs.</li><li>Arrival in Varanasi: 08:35 hrs (Next morning).</li><li>Proposed Class: 3 Tier Air-conditioned Sleeper.</li>"
+                        "S": "<li>Early morning drive from Patna to Bodhgaya (via Nalanda & Rajgir).</li> <li>Visit Nalanda, the ancient center of Buddhist learning, home to the renowned Nalanda University.</li> <li>Explore Vulture’s Peak, where Lord Buddha delivered the Prajnaparamita (Heart Sutra) teachings.</li> <li>Continue to Rajgir, a significant Buddhist site where Buddha spent many years meditating and preaching.</li> <li>Experience the ropeway ride to Shanti Stupa & Monasteries.</li> <li>Arrive in Bodhgaya, check-in at the hotel.</li> <li>Overnight stay in Bodhgaya.</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -3395,10 +3395,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Arrive in Varanasi (Normal check-in time at the hotel is 12:00 hrs)"
+                        "S": "Explore Bodhgaya – The Land of Enlightenment"
                     },
                     "description": {
-                        "S": "<li>Upon arrival at Mughal Sarai Railway Station, you will be transferred to your hotel.</li><li>Varanasi (also known as Kashi or Benaras) is one of the world’s oldest living cities and the holiest city in India for Hindus. It has been a center for culture, education, and spirituality for over 2,000 years.</li><li>In the afternoon, visit the Banaras Hindu University and the famous Bharat Kala Bhavan Museum.</li><li>Explore the Bharat Mata Temple, Durga Temple, and Vishwanath Temple, dedicated to Lord Shiva.</li><li>In the evening, witness the mesmerizing Aarti ceremony at Dashashwamedh Ghat.</li><li>Overnight in Varanasi.</li>"
+                        "S": "<li>Visit Bodhi Tree, where Siddhartha attained enlightenment after three days of deep meditation.</li> <li>Explore the sacred Falgu River banks, where Buddha meditated before his awakening.</li> <li>Discover the seven sacred spots where Buddha spent seven weeks contemplating his enlightenment.</li> <li>Visit various Buddhist temples and monasteries, representing different Buddhist traditions worldwide.</li> <li>Experience the spiritual ambiance of Bodhgaya, a key pilgrimage site for Buddhists.</li> <li>Overnight stay at Bodhgaya.</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -3411,10 +3411,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Varanasi"
+                        "S": "Bodhgaya to Varanasi (300 km / 6 hrs)"
                     },
                     "description": {
-                        "S": "<li>Early in the morning, enjoy a boat ride on the Ganges River at sunrise, a serene and spiritual experience as pilgrims perform their rituals.</li><li>As you float past the ghats, you’ll see people praying, bathing, and performing last rites.</li><li>Visit the burning ghats, where the deceased are cremated in the traditional manner.</li><li>In the afternoon, travel to Sarnath, where Buddha delivered his first sermon after attaining enlightenment.</li><li>Explore the Chowkandi Stupa, Dhamek Stupa, and the ruins of ancient monasteries. Don’t miss the Sarnath Museum (closed on Fridays).</li><li>Overnight in Varanasi.</li>"
+                        "S": "<li>Early morning drive from Bodhgaya to Varanasi.</li> <li>Arrival in Varanasi and hotel check-in.</li> <li>Afternoon excursion to Sarnath, where Buddha delivered his first sermon.</li> <li>Visit Chaukhandi and Dhamek Stupas.</li> <li>Explore ruins of 9th and 10th-century monasteries and temples.</li> <li>See the Mahabodhi Society Temple (built in 1931) and Tibetan Temple.</li> <li>Visit Sarnath Museum (closed on Fridays).</li> <li>Evening visit to Dashashwamedh Ghat.</li> <li>Witness the Ganga Aarti, a grand prayer ceremony.</li> <li>Experience the spiritual ambiance with incense, flowers, and earthen lamps.</li> <li>Observe and interact with sadhus (holy men).</li> <li>Capture stunning photographs of temples and bustling courtyards.</li> <li>Overnight stay in Varanasi.</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -3427,10 +3427,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Varanasi to Bodhgaya (Approx. 242 km / 5 to 6 hrs)"
+                        "S": "Explore Varanasi"
                     },
                     "description": {
-                        "S": "<li>After breakfast, drive to Bodhgaya, the site where Lord Buddha attained enlightenment under the Bodhi tree.</li><li>Visit the Mahabodhi Temple, a UNESCO World Heritage site, with its stunning architecture and a large gilded statue of Buddha.</li><li>The temple complex is home to a tree descended from the original Bodhi tree.</li><li>Overnight in Bodhgaya.</li>"
+                        "S": "<li>Morning transfer for a boat ride at dawn on the Ganges River, India’s most sacred river.</li> <li>Experience the serene and breathtaking sunrise with pilgrims praying waist-deep in the water.</li> <li>Pass the bathing ghats and visit the 'burning ghats,' where Hindus cremate their deceased with deep religious reverence.</li> <li>Visit the Benaras Hindu University, founded in 1916, and explore the Bharat Kala Bhavan Museum, renowned for its Mughal miniature paintings and brocade textiles.</li> <li>Visit the Bharat Mata Temple and Durga Temple.</li> <li>Explore the famous Vishwanath Temple, dedicated to Lord Shiva, with its golden spires.</li> <li>Overnight stay in Varanasi.</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -3443,96 +3443,16 @@
             {
                 "M": {
                     "name": {
-                        "S": "Bodhgaya (Excursion to Rajgir & Nalanda)"
+                        "S": "Varanasi – Delhi – Departure"
                     },
                     "description": {
-                        "S": "<li>After breakfast, proceed for an excursion to Rajgir and Nalanda.</li><li>In Rajgir, visit the Vishwa Shanti Stupa and the Saptaparni Caves, where the first Buddhist council was held.</li><li>See the Bimbisara Jail and Jarasandha’s Akhra. Later, continue to Nalanda, an ancient university and center of Buddhist learning from the 5th to 12th centuries.</li><li>Explore the ruins of the university and visit the Nalanda Museum.</li><li>Return to Bodhgaya for the night.</li><li>Overnight in Bodhgaya.</li>"
+                        "S": "<li>Morning: Enjoy breakfast at the hotel.</li> <li>Drive to Varanasi airport for the flight to Delhi.</li> <li>Upon arrival in Delhi, connect to your international flight for your onward journey.</li><br><h2 class='text-2xl font-semibold text-black text-center sm:text-left mx-2 pb-2'>PRICE AS UNDER (FOR APRIL 2023)</h2><table class='table-auto w-full border-collapse border border-gray-300'><thead><tr><th class='px-4 py-2 border-b text-left font-semibold text-gray-700'>Minimum Paying Person</th><th class='px-4 py-2 border-b text-left font-semibold text-gray-700'>Per Person Price in US $ on Twin Sharing Basis</th></tr></thead><tbody><tr class='bg-gray-50'><td class='px-4 py-2 border-b text-gray-600'>10-12 Pax + 01 Tour Leader 100% Complimentary</td><td class='px-4 py-2 border-b text-gray-600'>US $ 697</td></tr><tr><td class='px-4 py-2 border-b text-gray-600'>Single Room Supplement</td><td class='px-4 py-2 border-b text-gray-600'>US $ 289</td></tr></tbody></table><li>Supplement of Airfare</li><table class='table-auto w-full border-collapse border border-gray-300'><thead><tr><th class='px-4 py-2 border-b text-left font-semibold text-gray-700'>Sector</th><th class='px-4 py-2 border-b text-left font-semibold text-gray-700'>Per Person Price in US $ on Twin Sharing Basis</th></tr></thead><tbody><tr class='bg-gray-50'><td class='px-4 py-2 border-b text-gray-600'>Delhi - Gorakhpur</td><td class='px-4 py-2 border-b text-gray-600'>US $ 75 per person</td></tr><tr><td class='px-4 py-2 border-b text-gray-600'>Varanasi – Delhi</td><td class='px-4 py-2 border-b text-gray-600'>US $ 65 per person</td></tr></tbody></table><li>Hotels mentioned below or similar</li><table class='table-auto w-full border-collapse border border-gray-300'><thead><tr><th class='px-4 py-2 border-b text-left font-semibold text-gray-700'>City</th><th class='px-4 py-2 border-b text-left font-semibold text-gray-700'>Hotels</th><th class='px-4 py-2 border-b text-left font-semibold text-gray-700'>Nights</th></tr></thead><tbody><tr class='bg-gray-50'><td class='px-4 py-2 border-b text-gray-600'>Delhi</td><td class='px-4 py-2 border-b text-gray-600'>Regent Grand</td><td class='px-4 py-2 border-b text-gray-600'>01</td></tr><tr><td class='px-4 py-2 border-b text-gray-600'>Kushinagar</td><td class='px-4 py-2 border-b text-gray-600'>Royal Residency</td><td class='px-4 py-2 border-b text-gray-600'>01</td></tr><tr class='bg-gray-50'><td class='px-4 py-2 border-b text-gray-600'>Patna</td><td class='px-4 py-2 border-b text-gray-600'>Gargee Grand</td><td class='px-4 py-2 border-b text-gray-600'>01</td></tr><tr><td class='px-4 py-2 border-b text-gray-600'>Bodhgaya</td><td class='px-4 py-2 border-b text-gray-600'>Royal Residency</td><td class='px-4 py-2 border-b text-gray-600'>02</td></tr><tr class='bg-gray-50'><td class='px-4 py-2 border-b text-gray-600'>Varanasi</td><td class='px-4 py-2 border-b text-gray-600'>Surabhi International</td><td class='px-4 py-2 border-b text-gray-600'>02</td></tr></tbody></table><br><h2 class='text-2xl font-semibold text-black text-center sm:text-left mx-2 pb-2'>The above Price Includes</h2><li>Assistance upon arrival and Departure</li><li>Welcome by Garland</li><li>01 Bottle of water per person per day provided in the bus</li><li>Accommodation on above mentioned hotels or similar in Twin sharing Room on Bed and Breakfast basis</li><li>Lunch and Dinner also included during the tour (Hotel/Restaurant)</li><li>15 Seated Deluxe Tempo Traveler during the tour</li><li>Morning Boat ride in Varanasi</li><li>English Speaking guide throughout the tour as per itinerary</li><li>All Government taxes</li><br><h2 class='text-2xl font-semibold text-black text-center sm:text-left mx-2 pb-2'>Price Excludes: </h2><li>Any expenses of personal nature such as telephone calls, tips, use of payable items in room mini bar, any kind of alcoholic non-alcoholic beverages (unless specified), Any other meals apart from daily breakfast at hotel</li><li>Entrance fees during sightseeing tours</li><li>Any Air Fare, any visa fees, Cost incurred in case of hospitalization or evacuation</li><li>Tips gratuities given to drivers/ guides, restaurant waiters etc.</li><li>Any expenses other than mentioned above inclusions</li>"
                     },
                     "Id": {
                         "N": "8"
                     },
                     "day": {
                         "N": "8"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Bodhgaya to Vaishali & Kushinagar"
-                    },
-                    "description": {
-                        "S": "<li>After breakfast, drive to Vaishali, where Buddha delivered his last sermon.</li><li>Visit the Ashoka Pillar and the Lotus Tank. Then, continue to Kushinagar, the site where Buddha attained Mahaparinirvana (final liberation).</li><li>Explore the monuments and the Parinirvana Stupa, marking the place where Buddha passed away.</li><li>Overnight in Kushinagar.</li>"
-                    },
-                    "Id": {
-                        "N": "9"
-                    },
-                    "day": {
-                        "N": "9"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Kushinagar to Lumbini (Approx. 173 km / 4 to 5 hrs)"
-                    },
-                    "description": {
-                        "S": "<li>After breakfast, drive to Lumbini, the birthplace of Buddha.</li><li>En route, visit the Mahakala Caves. In Lumbini, explore the Ashoka Pillar, the Maya Devi Temple, and the Lumbini Museum, which highlights the history of Buddha's birth and early life.</li><li>Overnight in Lumbini.</li>"
-                    },
-                    "Id": {
-                        "N": "10"
-                    },
-                    "day": {
-                        "N": "10"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Lumbini to Kapilvastu & Shravasti (Approx. 86 km to Kapilvastu & 147 km to Shravasti)"
-                    },
-                    "description": {
-                        "S": "<li>Visit Ashoka’s Pillar in Lumbini before heading to Kapilvastu, the site of the ancient city where Buddha spent his early years.</li><li>Continue to Shravasti, a key place for Buddhists, where Buddha performed miracles.</li><li>Visit the ruins and the Jetavana Monastery.</li><li>Overnight in Shravasti.</li>"
-                    },
-                    "Id": {
-                        "N": "11"
-                    },
-                    "day": {
-                        "N": "11"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Shravasti to Gorakhpur & Delhi (Overnight Train) (Approx. 51 km to Gorakhpur)"
-                    },
-                    "description": {
-                        "S": "<li>After breakfast, drive to Gorakhpur and board your overnight train back to Delhi.</li><li><strong>Train Details:</strong>.</li><li>Train Name/Number: Vaishali Exp. – 12553.</li><li>Departure from Gorakhpur: 17:05 hrs.</li><li>Arrival in Delhi: 06:30 hrs (Next morning).</li><li>Proposed Class: 3 Tier Air-conditioned Sleeper.</li>"
-                    },
-                    "Id": {
-                        "N": "12"
-                    },
-                    "day": {
-                        "N": "12"
-                    }
-                }
-            },
-            {
-                "M": {
-                    "name": {
-                        "S": "Delhi & Departure"
-                    },
-                    "description": {
-                        "S": "<li>Upon arrival in Delhi, you will be transferred to the airport for your onward journey.</li><li>End of tour.</li>"
-                    },
-                    "Id": {
-                        "N": "13"
-                    },
-                    "day": {
-                        "N": "13"
                     }
                 }
             }
@@ -3550,8 +3470,8 @@
         "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather.</li><li>Ideal For: Spiritual seekers, history enthusiasts, and cultural travelers.</li><li>What to Bring: Comfortable clothing, walking shoes, and a notebook for reflections.</li><li>Customizable itineraries are available based on your preferences.</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
         "Summary": "Embark on a transformative journey with our Buddhist Pilgrimage Tour Package. Discover the serene paths of Lord Buddha and immerse yourself in a rich cultural experience.",
-        "Whats_Included": "<li>Comfortable accommodation at hotels and guesthouses.</li><li>Daily breakfast and vegetarian meals.</li><li>Private transportation for all transfers and sightseeing.</li><li>Guided tours to Buddhist sites.</li><li>Entry tickets to monuments and temples.</li><li>Professional tour guides with expertise in Buddhist heritage.</li><li>Assistance with travel permits where required.</li>",
-        "Overview": "Embark on a transformative journey with our Buddhist Pilgrimage Tour Package, exploring the sacred sites that trace the life and teachings of Lord Buddha. From the enlightenment at Bodh Gaya to the first sermon at Sarnath, this package is designed for spiritual seekers and cultural enthusiasts alike. Immerse yourself in the tranquility and profound wisdom of Buddhism as you visit these revered destinations.",
+        "Whats_Included": "<li>Comfortable accommodation at hotels and guesthouses.</li> <li>Check-in/out at 12:00 noon.</li> <li>Daily breakfast and vegetarian meals.</li> <li>All transfers in air-conditioned vehicles (airport, station, intercity, sightseeing) with parking, tolls, taxes, fuel, and driver allowance included.</li> <li>English-speaking guides throughout the tour.</li> <li>Eaze Tour Manager support as per group size.</li> <li>2 water bottles per person per day during sightseeing.</li> <li>One monument entrance fee.</li> <li>Warm garland welcome on arrival.</li> <li>Assistance with travel permits where required.</li>",
+        "Overview": "Embark on a transformative journey with our Buddhist Pilgrimage Tour Package, exploring the sacred sites that trace the life and teachings of Lord Buddha. Visit the most revered Buddhist sites across India, including Bodhgaya, Sarnath, Kushinagar, and more. This package is designed for spiritual seekers and cultural enthusiasts alike. Immerse yourself in the tranquility and profound wisdom of Buddhism as you visit these revered destinations.",
         "Ratings": 5.0
     },
     {
