@@ -650,7 +650,7 @@
                 }
             }
         ],
-        "Name": "Mountain Bike Tour",
+        "Name": "Mountain Bike Tour Package: Manali to Leh",
         "Tags": [
             "adventure",
             " culture"
@@ -849,7 +849,7 @@
                 }
             }
         ],
-        "Name": "Markha Trek",
+        "Name": "Markha Valley Trekking Tour in India",
         "Tags": [
             "adventure",
             " culture"
@@ -1016,7 +1016,7 @@
                 }
             }
         ],
-        "Name": "High on Sky \u2013 North East",
+        "Name": "North East Tour Package",
         "Tags": [
             "adventure",
             " culture"
@@ -1249,10 +1249,26 @@
             {
                 "M": {
                     "name": {
-                        "S": "Srinagar to Delhi"
+                        "S": "Srinagar to Jammu"
                     },
                     "description": {
-                        "S": "<li>Enjoy a leisurely morning in Srinagar.</li><li>Transfer to Srinagar Airport for a flight to Delhi.</li><li>Arrive in Delhi and proceed with your onward journey.</li>"
+                        "S": "<li>Travel from Srinagar to Jammu, passing through the scenic hill resorts of Batote, Panitop, and Kud</li><li>Continue towards Jammu and pass through the 3 km long Jawahar Tunnel</li><li>Overnight stay in Jammu city</li>"
+                    },
+                    "Id": {
+                        "N": "15"
+                    },
+                    "day": {
+                        "N": "15"
+                    }
+                }
+            },
+            {
+                "M": {
+                    "name": {
+                        "S": "Jammu to Delhi"
+                    },
+                    "description": {
+                        "S": "<li>Final day of the discovery trip and the farewell will be given at Karnal</li><li>Arrive in Delhi and proceed with your onward journey</li>"
                     },
                     "Id": {
                         "N": "15"
@@ -1263,7 +1279,7 @@
                 }
             }
         ],
-        "Name": "Best of Ladakh & Kashmir",
+        "Name": "Ladakh and Kashmir Tour Package",
         "Tags": [
             "adventure",
             " culture"
@@ -1478,7 +1494,7 @@
                 }
             }
         ],
-        "Name": "Best of Ladakh",
+        "Name": "Delhi to Leh Ladakh Travel Package",
         "Tags": [
             "adventure",
             " culture"
@@ -1725,7 +1741,7 @@
                 }
             }
         ],
-        "Name": "Ayurveda",
+        "Name": "Ayurveda Tour in India: Rejuvenate Your Body and Mind",
         "Tags": [
             "ayurveda",
             "wellness"
@@ -1972,7 +1988,7 @@
                 }
             }
         ],
-        "Name": "Magical South India",
+        "Name": "South India Chennai to Cochin Tour Package",
         "Tags": [
             "cultural",
             "traditional "
@@ -3306,7 +3322,7 @@
                 }
             }
         ],
-        "Name": "Palace on Wheels",
+        "Name": "Palace on Wheels Tour Package",
         "Tags": [
             "luxury",
             "royal"
@@ -3457,7 +3473,7 @@
                 }
             }
         ],
-        "Name": "Buddhist Pilgrimage Tour",
+        "Name": "Buddhist Pilgrimage Tour – A Spiritual Journey Through India",
         "Tags": [
             "pilgrim",
             "spirituality"
