@@ -366,7 +366,7 @@ function Landing(props: ILandingProps) {
                         <h3 className="text-[32px] font-semibold mb-2 sm:w-[60%] w-[80%] font-urbanist">India (Delhi, Varanasi, Agra)</h3>
                         <div>
                             <p className="mb-4 sm:w-[60%] w-[80%] font-urbanist">Embark on a royal journey through India, exploring Delhi's majestic monuments, Varanasi's spiritual ghats, and Agra's iconic Taj Mahal treasures.</p>
-                            <a href="/packages/17"><button className="px-4 py-4 font-normal bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
+                            <a href="/packages/royal-rajasthan-tour-package-india"><button className="px-4 py-4 font-normal bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
                                 See All Activities
                             </button></a>
                         </div>
@@ -389,7 +389,7 @@ function Landing(props: ILandingProps) {
                         <h3 className="text-[32px] font-semibold mb-2 sm:w-[60%] w-[80%] font-urbanist">Explore the Rich Heritage of Amritsar</h3>
                         <div>
                             <p className="mb-4 sm:w-[60%] w-[80%] font-urbanist">Explore Amritsar beyond the Golden Temple with curated tour packages that uncover hidden gems, vibrant culture, and historical treasures of this iconic city.</p>
-                            <a href="/packages/21"><button className="px-4 py-4 font-normal bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
+                            <a href="/packages/north-india-temple-tour-package-india"><button className="px-4 py-4 font-normal bg-white text-[#025C7A] rounded-full hover:bg-[#025C7A] hover:text-[#fff] transition-all duration-300 w-[160px]">
                                 See All Activities
                             </button></a>
                         </div>
