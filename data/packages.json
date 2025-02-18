@@ -1506,7 +1506,7 @@
                         "S": "Ayurveda – A Balance of Body, Mind, and Soul"
                     },
                     "description": {
-                        "S": "Kerala is the only state in India that practices Ayurveda with true dedication. Ayurveda focuses not just on treating the affected area, but on healing the individual as a whole. This holistic approach is the perfect way to rejuvenate yourself, eliminate toxins, and restore balance and health to your body."
+                        "S": "<li>Arrival in Kerala, the heart of authentic Ayurvedic healing</li><li>Begin your journey with a holistic Ayurvedic treatment that rejuvenates your body, mind, and soul</li>"
                     },
                     "Id": {
                         "N": "1"
@@ -1522,7 +1522,7 @@
                         "S": "The Blessings of Nature"
                     },
                     "description": {
-                        "S": "Kerala's unique climate, lush forests, and the cool monsoon season create an ideal environment for Ayurvedic healing. With temperatures consistently between 24-28°C, Kerala enjoys a mild climate, especially during continuous rains. The high humidity levels enhance the effectiveness of natural medicines, allowing them to work at their peak potency. We have partnered with several Ayurvedic hospitals and resorts in Kerala to offer traditional treatment packages for rejuvenation and stress management, ranging from 3 to 21 days."
+                        "S": "<li>Experience Kerala’s unique climate, lush forests, and cool monsoon season, ideal for Ayurvedic healing</li><li>Learn how the high humidity levels enhance the effectiveness of natural medicines</li>"
                     },
                     "Id": {
                         "N": "2"
@@ -1538,7 +1538,7 @@
                         "S": "Dental Vacations"
                     },
                     "description": {
-                        "S": "Kerala offers world-class dental care with highly skilled dentists and advanced treatment technologies, all at a fraction of the cost due to the region’s lower cost of living. Dental clinics in Kerala provide a wide range of services such as root canal therapy, dentures, crowns, dental implants, porcelain crowns, dental surgery, teeth whitening, cosmetic dentistry, and braces at affordable rates. We offer exceptional dental treatment packages combined with a relaxing vacation in Kerala."
+                        "S": "<li>Explore world-class dental care in Kerala at affordable rates</li><li>Receive dental treatments like root canal therapy, crowns, implants, and more, all combined with a relaxing vacation</li>"
                     },
                     "Id": {
                         "N": "3"
@@ -1554,7 +1554,7 @@
                         "S": "Ayurveda for Rejuvenation"
                     },
                     "description": {
-                        "S": "Ayurveda will revitalize your body, mind, and soul. We've partnered with Ayurvedic hospitals and resorts in Kerala that specialize in traditional Ayurvedic treatments. Special therapy packages are available for rejuvenation and stress management, with options ranging from 3 to 21 days, including daily yoga and meditation. Packages include all meals and accommodation in deluxe cottages."
+                        "S": "<li>Embark on a rejuvenating Ayurvedic treatment package in Kerala’s renowned hospitals and resorts</li><li>Enjoy daily yoga, meditation, and treatments for stress management, including all meals and accommodation</li>"
                     },
                     "Id": {
                         "N": "4"
@@ -1567,10 +1567,10 @@
             {
                 "M": {
                     "name": {
-                        "S": "Abhyangam"
+                        "S": "Abhyangam (Oil Massage)"
                     },
                     "description": {
-                        "S": "Abhyangam, or oil massage, involves the application of medicated oils all over the body. This specialized massage is tailored to address specific conditions and is performed for 45 minutes daily. It is particularly beneficial for rheumatism, diabetic gangrene (poor blood circulation in the extremities), and similar conditions."
+                        "S": "<li>Experience Abhyangam, a specialized oil massage aimed at treating specific conditions</li><li>This daily 45-minute massage addresses rheumatism, poor blood circulation, and more</li>"
                     },
                     "Id": {
                         "N": "5"
@@ -1586,7 +1586,7 @@
                         "S": "Ilakkizhi (Patrasweda)"
                     },
                     "description": {
-                        "S": "Ilakkizhi (also called Patrasweda) is a medication that uses bundles of herbal leaves mixed with grated coconut and mustard. The bundles are used to massage and apply heat to the body after oil application. This treatment provides relief from rheumatic pains and swelling in the joints."
+                        "S": "<li>Enjoy the healing effects of Ilakkizhi, where bundles of herbal leaves and grated coconut are used for a soothing massage</li><li>This treatment helps with rheumatic pains and joint swelling</li>"
                     },
                     "Id": {
                         "N": "6"
@@ -1602,7 +1602,7 @@
                         "S": "Podikkizhi (Choornasweda)"
                     },
                     "description": {
-                        "S": "Podikkizhi is a therapeutic sweating method where linen bags filled with powdered herbal drugs are used to massage and foment the body. It is highly effective for conditions caused by imbalances in the Vata and Kapha doshas."
+                        "S": "<li>Try Podikkizhi, a therapeutic sweating treatment using herbal-filled linen bags</li><li>This method balances the Vata and Kapha doshas, offering relief from body discomfort</li>"
                     },
                     "Id": {
                         "N": "7"
@@ -1618,7 +1618,7 @@
                         "S": "Panchakarma"
                     },
                     "description": {
-                        "S": "Panchakarma is an Ayurvedic detoxification therapy designed to eliminate accumulated toxins and restore vitality. This process involves five treatments: Vamana (emesis), Virechana (purging), Snehavasti (medicated oil enema), Kashayavasti (medicated decoction enema), and Nasya (medication through the nostrils). After Panchakarma, adopting a healthy lifestyle helps maintain optimal well-being."
+                        "S": "<li>Detoxify your body with Panchakarma, an Ayurvedic purification process</li><li>Five treatments (Vamana, Virechana, Snehavasti, Kashayavasti, Nasya) cleanse and restore vitality</li>"
                     },
                     "Id": {
                         "N": "8"
@@ -1634,7 +1634,7 @@
                         "S": "Abhyangam with Special Face Massage"
                     },
                     "description": {
-                        "S": "This combined treatment includes the traditional Abhyangam massage along with a special Ayurvedic facial massage. The facial massage revitalizes the skin, making it healthy and glowing, while helping you relax and release daily tensions. Using herbal extracts and essential oils, this treatment applies pressure to specific points, as well as rhythmic strokes for contouring."
+                        "S": "<li>Indulge in a combined treatment of traditional Abhyangam and a rejuvenating facial massage</li><li>Herbal extracts and essential oils are used to promote glowing skin and relaxation</li>"
                     },
                     "Id": {
                         "N": "9"
@@ -1650,7 +1650,7 @@
                         "S": "Udvarthanam (Herbal Powder Massage)"
                     },
                     "description": {
-                        "S": "Udvarthanam is a unique Ayurvedic treatment where a special herbal powder is massaged into the body in an upward motion. This treatment is part of our slimming program and is particularly effective for reducing excess fat and addressing obesity."
+                        "S": "<li>Experience Udvarthanam, a unique upward massage with herbal powder to aid in slimming and weight reduction</li><li>This treatment helps reduce excess fat and fight obesity</li>"
                     },
                     "Id": {
                         "N": "10"
@@ -1666,7 +1666,7 @@
                         "S": "Navarakkizhi"
                     },
                     "description": {
-                        "S": "Navarakkizhi involves massaging the body with small linen bags filled with Navara rice, after the application of medicated oils. This treatment benefits those with muscle atrophy, arthritis, muscle weakness, tremors, and fibromyalgia. It has anti-aging properties and helps rejuvenate the body."
+                        "S": "<li>Treat your body to Navarakkizhi, a massage using linen bags filled with Navara rice</li><li>Beneficial for conditions like arthritis, muscle weakness, and fibromyalgia, this treatment promotes anti-aging and rejuvenation</li>"
                     },
                     "Id": {
                         "N": "11"
@@ -1682,7 +1682,7 @@
                         "S": "Ksheeradhara"
                     },
                     "description": {
-                        "S": "Ksheeradhara involves the gentle pouring of medicated milk, usually mixed with herbal decoctions, over the body. When applied to the head, it is called Shirodhara. For the entire body, it is known as Sarvangadhara. This treatment is beneficial for disorders caused by imbalances in the Pitta dosha."
+                        "S": "<li>Ksheeradhara involves pouring medicated milk over the body to calm the Pitta dosha</li><li>Enjoy the relaxing effects of this therapy, particularly beneficial for stress and skin disorders</li>"
                     },
                     "Id": {
                         "N": "12"
@@ -1698,7 +1698,7 @@
                         "S": "Thakradhara"
                     },
                     "description": {
-                        "S": "Thakradhara is a highly relaxing therapy for the mind and body. It is commonly used to treat conditions like Alzheimer's disease, insomnia, stress, hypertension, and skin disorders such as psoriasis. This treatment involves pouring buttermilk, which has cooling properties, over the forehead. It relaxes the mind, reduces stress, and improves memory."
+                        "S": "<li>Experience Thakradhara, a deeply relaxing therapy involving the pouring of buttermilk over the forehead</li><li>It alleviates stress, improves memory, and helps with conditions like insomnia and hypertension</li>"
                     },
                     "Id": {
                         "N": "13"
@@ -1714,7 +1714,7 @@
                         "S": "Pizhichil"
                     },
                     "description": {
-                        "S": "Pizhichil is a therapy where lukewarm medicated oil is poured over the body while the patient lies on a special platform. The oil-soaked clothes are squeezed and rubbed over the body. Pizhichil is recommended for conditions related to the Vata dosha, such as hemiplegia (paralysis), muscle spasms, and other degenerative diseases affecting the muscles."
+                        "S": "<li>Conclude your Ayurvedic journey with Pizhichil, where lukewarm medicated oil is poured over the body for healing</li><li>Effective for conditions like paralysis and muscle spasms, this treatment balances the Vata dosha</li>"
                     },
                     "Id": {
                         "N": "14"
@@ -1737,8 +1737,8 @@
         "NoOfRatings": 12,
         "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather; monsoon (June to September) is ideal for Ayurveda treatments.</li><li>Ideal For: Health enthusiasts, those seeking relaxation, and individuals exploring holistic wellness.</li><li>What to Bring: Comfortable clothing, yoga mat, personal essentials, and an open mind.</li><li>Treatments are non-invasive and designed based on your body type (dosha).</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
-        "Summary": "Discover the essence of ancient healing with our Ayurveda tour in India. Book now and embrace a healthier, balanced life.",
-        "Whats_Included": "<li>Accommodation in Ayurvedic resorts or wellness retreats.</li><li>Daily Ayurvedic meals designed by experts.</li><li>Personalized consultation with experienced Ayurvedic doctors.</li><li>Customized treatment plans including massages, detox therapies, and herbal remedies.</li><li>Yoga and meditation sessions.</li><li>Local sightseeing and cultural experiences.</li><li>Airport transfers and private transportation.</li>",
+        "Summary": "Embark on a transformative journey with our <a href='https://www.eazetours.com/packages/ayurveda-tour-package-kerala-india' class='text-[#025C7A] font-semibold'>Ayurveda Tour Package in India</a>, where you can experience the ancient healing traditions of Ayurveda in its true essence. Whether you're from the USA, UK, or any other European country, our packages are designed to provide you with the perfect blend of relaxation and rejuvenation. Ready to explore more of India’s cultural and natural beauty? Explore South India with our <a href='https://www.eazetours.com/packages/south-india-chennai-cochin-tour-india' class='text-[#025C7A] font-semibold'>Chennai to Cochin Tour Package</a> or explore the serene landscapes with our <a href='https://www.eazetours.com/packages/kerala-cochin-trivandrum-tour-india' class='text-[#025C7A] font-semibold'>Kerala Tour Packages</a>. Book your Ayurvedic getaway today and immerse yourself in a wellness experience like no other!",
+        "Whats_Included": "<li>Accommodation in Ayurvedic resorts or wellness retreats.</li><li>Daily Ayurvedic meals designed by experts.</li><li>Personalized consultation with experienced Ayurvedic doctors.</li><li>Customized treatment plans including massages, detox therapies, and herbal remedies.</li><li>Yoga and meditation sessions.</li><li>Local sightseeing and cultural experiences.</li><li>Airport transfers and private transportation.</li><li>English-speaking guides throughout the tour</li><li>Eaze Tour Manager support as per group size</li><li>2 water bottles per person per day during sightseeing</li>",
         "Overview": "Embark on a transformative journey with our Ayurveda Tour in India, designed to rejuvenate your body, mind, and soul. India, the birthplace of Ayurveda, offers an immersive experience with holistic healing therapies, serene environments, and ancient wellness practices. From lush Kerala backwaters to tranquil Himalayan retreats, this tour introduces you to authentic Ayurvedic treatments, meditation, and yoga for complete rejuvenation.",
         "Ratings": 5.0
     },
@@ -1984,8 +1984,8 @@
         "NoOfRatings": 17,
         "Additional_Information": "<li><strong>Best Time to Visit:</strong> October to March for pleasant weather and optimal travel conditions.</li><li><strong>Ideal For:</strong> Culture enthusiasts, history lovers, and those seeking a mix of adventure and relaxation.</li><li><strong>What to Bring:</strong> Comfortable clothing, sunscreen, walking shoes, and a camera.</li><li>Travel insurance is recommended for a hassle-free journey.</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
-        "Summary": "Explore the unparalleled splendor and cultural diversity of South India. Schedule your tour from Chennai to Cochin right now.",
-        "Whats_Included": "<li>Accommodation in comfortable hotels and resorts.</li><li>Daily breakfast and dinner.</li><li>Guided sightseeing tours at all major attractions.</li><li>Private air-conditioned vehicle for transfers and travel.</li><li>Entry fees for monuments and cultural sites.</li><li>Professional tour guide assistance.</li><li>Airport and railway station transfers.</li>",
+        "Summary": "Embark on a scenic and cultural adventure with our <a href='https://www.eazetours.com/packages/south-india-chennai-cochin-tour-india' class='text-[#025C7A] font-semibold'>South India Chennai to Cochin Tour Package</a>, where you’ll explore the vibrant beauty and rich heritage of Southern India. Perfect for travelers from the USA, UK, and Europe, this tour offers a blend of history, nature, and tradition. Ready for more unforgettable experiences? Explore our <a href='https://www.eazetours.com/packages/kerala-cochin-trivandrum-tour-india' class='text-[#025C7A] font-semibold'>Kerala Tour Packages</a> or indulge in a romantic getaway with our <a href='https://www.eazetours.com/packages/romantic-kerala-tour-package-india' class='text-[#025C7A] font-semibold'>Romantic Kerala Tour Package in India</a>. Book your journey today and immerse yourself in the magic of South India!",
+        "Whats_Included": "<li>Accommodation in comfortable hotels and resorts.</li><li>Daily breakfast and dinner.</li><li>Guided sightseeing tours at all major attractions.</li><li>Private air-conditioned vehicle for transfers and travel.</li><li>Entry fees for monuments and cultural sites.</li><li>Professional tour guide assistance.</li><li>Airport and railway station transfers.</li><li>English-speaking guides throughout the tour</li><li>Eaze Tour Manager support as per group size</li><li>2 water bottles per person per day during sightseeing</li><li>Warm garland welcome at arrival</li>",
         "Overview": "Experience the vibrant charm of South India with our Chennai to Cochin Tour Package. This journey takes you through the cultural heartlands of Tamil Nadu and Kerala, showcasing ancient temples, stunning beaches, lush backwaters, and rich traditions. From Chennai's colonial elegance to Cochin's historic allure, this tour offers a perfect blend of heritage, nature, and relaxation.",
         "Ratings": 4.9
     },
@@ -2171,7 +2171,7 @@
                 }
             }
         ],
-        "Name": "Kerala \u2013 God\u2019s Own Country",
+        "Name": "Book Kerala Holiday Tour Packages Online",
         "Tags": [
             "cultural",
             "traditional "
@@ -2183,8 +2183,8 @@
         "NoOfRatings": 12,
         "Additional_Information": "<li><strong>Best Time to Visit:</strong> October to March for pleasant weather, June to September for monsoon beauty.</li><li><strong>Ideal For:</strong> Families, couples, nature lovers, and adventure seekers.</li><li><strong>What to Bring:</strong> Comfortable clothing, sunscreen, insect repellent, and a camera.</li><li>Customizable packages are available to suit your needs.</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
-        "Summary": "Come with us as we explore Kerala&#39;s captivating beauty. Reserve your Kerala tour package today.",
-        "Whats_Included": "<li>Accommodation in hotels, resorts, or houseboats.</li><li>Daily breakfast and dinner.</li><li>Private transportation for sightseeing and transfers.</li><li>Guided tours to popular attractions.</li><li>Entry tickets for monuments and national parks.</li><li>Professional tour guide assistance.</li><li>Airport and railway station transfers.</li>",
+        "Summary": "Unwind and immerse yourself in the tranquil beauty of Kerala with our <a href='https://www.eazetours.com/packages/kerala-cochin-trivandrum-tour-india' class='text-[#025C7A] font-semibold'>Kerala Holiday Tour Packages</a>. Whether you’re from the USA, UK, or other European countries, our carefully crafted itineraries offer the perfect escape into Kerala’s lush landscapes, rich culture, and serene backwaters. Ready for a romantic getaway? Check out our <a href='https://www.eazetours.com/packages/romantic-kerala-tour-package-india' class='text-[#025C7A] font-semibold'>Romantic Kerala Tour Package in India</a> or explore the stunning <a href='https://www.eazetours.com/packages/romantic-andaman-tour-package-india' class='text-[#025C7A] font-semibold'>Romantic Andaman Tour Package for Couples</a>. Book your dream vacation today with Eaze Tours!",
+        "Whats_Included": "<li>Accommodation in hotels, resorts, or houseboats.</li><li>Daily breakfast and dinner.</li><li>Private transportation for sightseeing and transfers.</li><li>Guided tours to popular attractions.</li><li>Entry tickets for monuments and national parks.</li><li>Professional tour guide assistance.</li><li>Airport and railway station transfers.</li><li>English-speaking guides throughout the tour</li><li>Eaze Tour Manager support as per group size</li><li>2 water bottles per person per day during sightseeing</li><li>Warm garland welcome at arrival</li>",
         "Overview": "Uncover the breathtaking beauty of Kerala with our carefully curated Kerala Tour Packages. Known as 'God’s Own Country,' Kerala offers serene backwaters, lush green landscapes, exotic wildlife, and pristine beaches. This journey blends relaxation, culture, and adventure, making it an ideal destination for all types of travelers. Whether you’re gliding through Alleppey’s houseboats, walking through Munnar’s tea gardens, or exploring Cochin’s historical charm, Kerala promises an unforgettable experience.",
         "Ratings": 4.9
     },
@@ -2521,7 +2521,7 @@
                 }
             }
         ],
-        "Name": "Romantic Kerala",
+        "Name": "Romantic Kerala Honeymoon Tour Package",
         "Tags": [
             "honeymoon",
             "relaxation"
@@ -2533,8 +2533,8 @@
         "NoOfRatings": 17,
         "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather, June to September for monsoon charm.</li><li>Ideal For: Newlyweds, couples celebrating anniversaries, and romantic getaways.</li><li>What to Bring: Comfortable clothing, sunscreen, and a camera to capture precious moments.</li><li>Customization options are available for personalized experiences.</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
-        "Summary": "With our romantic Kerala tour package, you may create a love story that will never be forgotten. Make your reservation now for a wonderful stay at Honeymooner&#39;s Paradise.",
-        "Whats_Included": "<li>Romantic accommodations in hotels, resorts, and houseboats.</li><li>Daily breakfast and dinner.</li><li>Private vehicle for sightseeing and transfers.</li><li>Candlelight dinner and special honeymoon arrangements.</li><li>Backwater cruise on a traditional houseboat.</li><li>Guided tours to scenic and cultural attractions.</li><li>Airport and railway station transfers.</li>",
+        "Summary": "Unveil the magic of Kerala with our Romantic Kerala Tour Package in India, designed to create unforgettable moments with your loved one amidst serene backwaters, lush landscapes, and tranquil beaches. Whether you're from the USA, UK, or other European countries, Kerala offers the perfect blend of romance and adventure. Ready for more romantic getaways? Explore our <a href='https://www.eazetours.com/packages/romantic-andaman-tour-package-india' class='text-[#025C7A] font-semibold'>Romantic Andaman Tour Package for Couples</a> or indulge in the beauty of sun-kissed shores with our <a href='https://www.eazetours.com/packages/beaches-delhi-cochin-kovalam-trivendrum-delhi-tour-india' class='text-[#025C7A] font-semibold'>Exotic Beaches in India package</a>. Book your dream vacation today and let love take you on a journey like no other!",
+        "Whats_Included": "<li>Romantic accommodations in hotels, resorts, and houseboats.</li><li>Daily breakfast and dinner.</li><li>Private vehicle for sightseeing and transfers.</li><li>Candlelight dinner and special honeymoon arrangements.</li><li>Backwater cruise on a traditional houseboat.</li><li>Guided tours to scenic and cultural attractions.</li><li>Airport and railway station transfers.</li><li>English-speaking local guides in every city</li><li>An Eaze Tour Manager accompanies the group</li><li>2 water bottles per guest per day during sightseeing tours</li><li>One monument entrance fee included</li><li>Garland welcome upon arrival</li>",
         "Overview": "Celebrate your love amidst the serene beauty of Kerala with our Romantic Kerala Tour Package. Known as 'God’s Own Country,' Kerala offers breathtaking landscapes, tranquil backwaters, misty hill stations, and sun-kissed beaches, creating the perfect backdrop for romance. This tour is thoughtfully designed to provide couples with unforgettable moments and memories to cherish forever.",
         "Ratings": 4.9
     },
@@ -2656,7 +2656,7 @@
                 }
             }
         ],
-        "Name": "Romantic Andman",
+        "Name": "Romantic Andaman Honeymoon Tour Package",
         "Tags": [
             "honeymoon",
             "relaxation"
@@ -2666,10 +2666,10 @@
         "Title": "Romantic Andaman Tour Package for Couples - Eaze Tours",
         "Description": "Book the best romantic Andaman tour package with Eaze Tours. Enjoy breathtaking views, serene beaches, and unforgettable experiences for couples. Call Now!",
         "NoOfRatings": 13,
-        "Additional_Information": "<li>Best Time to Visit: October to May for clear skies and pleasant weather.</li><li>Ideal For: Honeymooners, couples, and those seeking a romantic retreat.</li><li>What to Bring: Lightweight clothing, swimwear, sunscreen, and a camera to capture magical moments.</li><li>Water sports and adventure activities are subject to weather conditions.</li>",
+        "Additional_Information": "<li>Best Time to Visit: October to May for clear skies and pleasant weather.</li><li>Ideal For: Honeymooners, couples, and those seeking a romantic retreat.</li><li>What to Bring: Lightweight clothing, swimwear, sunscreen, and a camera to capture magical moments.</li><li>Water sports and adventure activities are subject to weather conditions.</li><li>Surprise gifts at the end of the tour</li><li>Assistance on arrival/departure at the airport</li><li>All applicable taxes included</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
-        "Summary": "Make treasured memories with our romantic Andaman tour package. Reserve your spot now for the best tropical experience.",
-        "Whats_Included": "<li>Accommodation in premium resorts and beachside cottages.</li><li>Daily breakfast and candlelight dinner.</li><li>Private vehicle for sightseeing and transfers.</li><li>Ferry rides between islands.</li><li>Guided tours to major attractions.</li><li>Snorkeling and water sports (optional).</li><li>Airport transfers.</li>",
+        "Summary": "Make your honeymoon unforgettable with our <a href='https://www.eazetours.com/packages/romantic-andaman-tour-package-india' class='text-[#025C7A] font-semibold'>romantic Andaman honeymoon tour package India</a>, offering the perfect blend of luxury, romance, and natural beauty. Whether you're from the USA, UK, or other European countries, our tailored packages promise a dreamy escape to one of India’s most beautiful destinations. Ready to explore more? Check out our <a href='https://www.eazetours.com/packages/exotic-manali-tour-package-india' class='text-[#025C7A] font-semibold'>Exotic Manali Tour Package</a> for a serene mountain retreat or dive into the stunning <a href='https://www.eazetours.com/packages/beaches-delhi-cochin-kovalam-trivendrum-delhi-tour-india' class='text-[#025C7A] font-semibold'>Exotic Beaches in India</a> for a beach lover’s paradise. Book your dream honeymoon today and create memories that last forever!",
+        "Whats_Included": "<li>Accommodation in premium resorts and beachside cottages.</li><li>Daily breakfast and candlelight dinner.</li><li>Private vehicle for sightseeing and transfers.</li><li>Ferry rides between islands.</li><li>Guided tours to major attractions.</li><li>Snorkeling and water sports (optional).</li><li>Airport transfers.</li><li>English-speaking local guides available in all cities</li><li>An Eaze Tour Manager to assist the group</li><li>2 water bottles per guest per day during tours</li><li>One monument entrance fee covered</li><li>Welcome garland upon arrival at the station/airport</li>",
         "Overview": "Escape to the serene islands of Andaman with our Romantic Andaman Tour Package, specially designed for couples. Experience the crystal-clear waters, golden beaches, lush greenery, and breathtaking sunsets that create a perfect romantic setting. Whether you’re on your honeymoon or simply celebrating love, this package ensures a dreamy getaway filled with memorable moments.",
         "Ratings": 4.9
     },
@@ -3469,7 +3469,7 @@
         "NoOfRatings": 19,
         "Additional_Information": "<li>Best Time to Visit: October to March for pleasant weather.</li><li>Ideal For: Spiritual seekers, history enthusiasts, and cultural travelers.</li><li>What to Bring: Comfortable clothing, walking shoes, and a notebook for reflections.</li><li>Customizable itineraries are available based on your preferences.</li>",
         "Whats_excluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
-        "Summary": "Embark on a transformative journey with our Buddhist Pilgrimage Tour Package. Discover the serene paths of Lord Buddha and immerse yourself in a rich cultural experience.",
+        "Summary": "Embark on a transformative journey with our <a href='https://www.eazetours.com/packages/buddhist-pilgrimage-tour-package-india' class='text-[#025C7A] font-semibold'>Buddhist Pilgrimage Tour Package</a> and explore the sacred sites that have shaped Buddhist history. Whether you're from the USA, UK, or any other European country, we offer tailored experiences that combine spirituality, culture, and adventure. Ready to deepen your connection with India's rich heritage? <a href='https://eaze-tours-website-main.vercel.app/contact' class='text-[#025C7A] font-semibold'>Book your Buddhist Pilgrimage Tour today</a> and take the first step towards an unforgettable journey. Looking for more spiritual journeys? Explore our <a href='https://www.eazetours.com/packages/chardham-pilgrimage-tour-package-india' class='text-[#025C7A] font-semibold'>Chardham Pilgrimage Tour Package India</a> for another soul-enriching experience across India's holy destinations. Your adventure awaits!",
         "Whats_Included": "<li>Comfortable accommodation at hotels and guesthouses.</li> <li>Check-in/out at 12:00 noon.</li> <li>Daily breakfast and vegetarian meals.</li> <li>All transfers in air-conditioned vehicles (airport, station, intercity, sightseeing) with parking, tolls, taxes, fuel, and driver allowance included.</li> <li>English-speaking guides throughout the tour.</li> <li>Eaze Tour Manager support as per group size.</li> <li>2 water bottles per person per day during sightseeing.</li> <li>One monument entrance fee.</li> <li>Warm garland welcome on arrival.</li> <li>Assistance with travel permits where required.</li>",
         "Overview": "Embark on a transformative journey with our Buddhist Pilgrimage Tour Package, exploring the sacred sites that trace the life and teachings of Lord Buddha. Visit the most revered Buddhist sites across India, including Bodhgaya, Sarnath, Kushinagar, and more. This package is designed for spiritual seekers and cultural enthusiasts alike. Immerse yourself in the tranquility and profound wisdom of Buddhism as you visit these revered destinations.",
         "Ratings": 5.0
